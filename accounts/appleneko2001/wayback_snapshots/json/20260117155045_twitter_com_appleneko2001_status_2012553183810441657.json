@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      }
+    ],
+    "conversation_id": "2012185215700259155",
+    "created_at": "2026-01-17T15:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012553183810441657"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 100,
+          "normalized_text": "AI",
+          "probability": 0.7078,
+          "start": 99,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1125391108723187713",
+          "start": 0,
+          "username": "yuitukitefu"
+        },
+        {
+          "end": 21,
+          "id": "794921943342272512",
+          "start": 13,
+          "username": "hyouenn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012553183810441657",
+    "in_reply_to_user_id": "1125391108723187713",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012415741354717215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuitukitefu @hyouenn thats the reality \npeople want to get out the continuous work loop, invested AI, and then a lot of bad people who abusing the power make them looks superior \nthey are ugly"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          }
+        ],
+        "conversation_id": "2012185215700259155",
+        "created_at": "2026-01-17T15:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012553183810441657"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 100,
+              "normalized_text": "AI",
+              "probability": 0.7078,
+              "start": 99,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1125391108723187713",
+              "start": 0,
+              "username": "yuitukitefu"
+            },
+            {
+              "end": 21,
+              "id": "794921943342272512",
+              "start": 13,
+              "username": "hyouenn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012553183810441657",
+        "in_reply_to_user_id": "1125391108723187713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012415741354717215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuitukitefu @hyouenn thats the reality \npeople want to get out the continuous work loop, invested AI, and then a lot of bad people who abusing the power make them looks superior \nthey are ugly"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125391108723187713",
+        "conversation_id": "2012185215700259155",
+        "created_at": "2026-01-17T06:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012415741354717215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "794921943342272512",
+              "start": 0,
+              "username": "hyouenn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012415741354717215",
+        "in_reply_to_user_id": "794921943342272512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1047,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012185215700259155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyouenn 酷いですね、人間性チェッカーだ\n適切に運用すればAIも良きパートナーになるのに、酷い使い方をする人間が多すぎる……やはり滅ぼすべきでは？（魔女因子活性化）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 302,
+          "like_count": 80055,
+          "listed_count": 2,
+          "media_count": 1408,
+          "tweet_count": 13630
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T13:25:23.000Z",
+        "description": "雨に濡れて深くなる緑が好き\n\n成人済み\nお砂糖💍：@konokon_VRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "konokon_VRC"
+              }
+            ]
+          }
+        },
+        "id": "1125391108723187713",
+        "location": "住所:Twitter (Xを含まない)",
+        "name": "月ノ海月",
+        "pinned_tweet_id": "1960302540693680595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944374187730321408/Ij__Siid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 1398,
+          "like_count": 133362,
+          "listed_count": 10,
+          "media_count": 631,
+          "tweet_count": 47674
+        },
+        "username": "yuitukitefu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-05T15:18:55.000Z",
+        "description": "zzz💤\n\nまのさば（ネタバレ注意）/maimai/ボカロ\n\nサブ垢：@hyouenn_z\n\n❌❌AI❌❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "hyouenn_z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ogm0i6lg8112ul…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ogm0i6lg8112ulf?t=O1Cez7&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/oDUvzlvgKt"
+              }
+            ]
+          }
+        },
+        "id": "794921943342272512",
+        "location": "转载/AI学习/商用🚫禁止！ 🚫请不要转到任何平台！🚫",
+        "name": "冰焰⭐ひょうえん_💤💤",
+        "pinned_tweet_id": "1996504084439077027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972369540152733696/PuoB2E0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4953,
+          "following_count": 289,
+          "like_count": 8505,
+          "listed_count": 29,
+          "media_count": 611,
+          "tweet_count": 4561
+        },
+        "url": "https://t.co/oDUvzlvgKt",
+        "username": "hyouenn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2003736136628470095",
+    "created_at": "2026-01-06T15:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008558224069570748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008558224069570748",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008557191633268815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot 確實…不過我在那平台的經歷太多 我也是時候轉向linux工作流了 雖說三年前就這麼做了 只是那時候對桌面linux體驗還沒有什麼概念… 中間有一年不算是因為服役…沒有機會用電腦…連家都回不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2003736136628470095",
+        "created_at": "2026-01-06T15:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008558224069570748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008558224069570748",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008557191633268815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 確實…不過我在那平台的經歷太多 我也是時候轉向linux工作流了 雖說三年前就這麼做了 只是那時候對桌面linux體驗還沒有什麼概念… 中間有一年不算是因為服役…沒有機會用電腦…連家都回不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2003736136628470095",
+        "created_at": "2026-01-06T15:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008557191633268815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008557191633268815",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008555614742737160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 那就是更大的大变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 280,
+          "like_count": 72389,
+          "listed_count": 2,
+          "media_count": 1361,
+          "tweet_count": 12970
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "ᗜ_ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你2.3KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 567,
+          "like_count": 63370,
+          "listed_count": 5,
+          "media_count": 2112,
+          "tweet_count": 9750
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

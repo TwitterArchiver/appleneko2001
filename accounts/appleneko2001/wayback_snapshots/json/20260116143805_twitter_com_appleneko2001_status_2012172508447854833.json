@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012122313832173568",
+        "3_2012122352759504896",
+        "3_2012122393431650305",
+        "3_2012122419750924288"
+      ],
+      "media_source_tweet_id": [
+        "2012123418062434355",
+        "2012123418062434355",
+        "2012123418062434355",
+        "2012123418062434355"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012172508447854833",
+    "created_at": "2026-01-16T14:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T15:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012172508447854833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "81337517",
+          "start": 3,
+          "username": "panno_mimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ffz9YE7rpx",
+          "end": 55,
+          "expanded_url": "https://x.com/panno_mimi/status/2012123418062434355/photo/1",
+          "media_key": "3_2012122313832173568",
+          "start": 32,
+          "url": "https://t.co/Ffz9YE7rpx"
+        },
+        {
+          "display_url": "pic.x.com/Ffz9YE7rpx",
+          "end": 55,
+          "expanded_url": "https://x.com/panno_mimi/status/2012123418062434355/photo/1",
+          "media_key": "3_2012122352759504896",
+          "start": 32,
+          "url": "https://t.co/Ffz9YE7rpx"
+        },
+        {
+          "display_url": "pic.x.com/Ffz9YE7rpx",
+          "end": 55,
+          "expanded_url": "https://x.com/panno_mimi/status/2012123418062434355/photo/1",
+          "media_key": "3_2012122393431650305",
+          "start": 32,
+          "url": "https://t.co/Ffz9YE7rpx"
+        },
+        {
+          "display_url": "pic.x.com/Ffz9YE7rpx",
+          "end": 55,
+          "expanded_url": "https://x.com/panno_mimi/status/2012123418062434355/photo/1",
+          "media_key": "3_2012122419750924288",
+          "start": 32,
+          "url": "https://t.co/Ffz9YE7rpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012172508447854833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012123418062434355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @panno_mimi: タップで縦になる…！！？🐈‍⬛ https://t.co/Ffz9YE7rpx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012172508447854833].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012172508447854833",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012172508447854833"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 563,
+        "media_key": "3_2012122313832173568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x-lXCakAAcicT.jpg",
+        "width": 1000
+      },
+      {
+        "height": 563,
+        "media_key": "3_2012122352759504896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x-noDagAADJOU.jpg",
+        "width": 1000
+      },
+      {
+        "height": 563,
+        "media_key": "3_2012122393431650305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x-p_kaMAEgIlC.jpg",
+        "width": 1000
+      },
+      {
+        "height": 563,
+        "media_key": "3_2012122419750924288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x-rhnacAAqK4F.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012122313832173568",
+            "3_2012122352759504896",
+            "3_2012122393431650305",
+            "3_2012122419750924288"
+          ]
+        },
+        "author_id": "81337517",
+        "conversation_id": "2012123418062434355",
+        "created_at": "2026-01-16T11:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T12:21:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012123095440736399",
+          "2012123418062434355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ffz9YE7rpx",
+              "end": 39,
+              "expanded_url": "https://x.com/panno_mimi/status/2012123418062434355/photo/1",
+              "media_key": "3_2012122313832173568",
+              "start": 16,
+              "url": "https://t.co/Ffz9YE7rpx"
+            },
+            {
+              "display_url": "pic.x.com/Ffz9YE7rpx",
+              "end": 39,
+              "expanded_url": "https://x.com/panno_mimi/status/2012123418062434355/photo/1",
+              "media_key": "3_2012122352759504896",
+              "start": 16,
+              "url": "https://t.co/Ffz9YE7rpx"
+            },
+            {
+              "display_url": "pic.x.com/Ffz9YE7rpx",
+              "end": 39,
+              "expanded_url": "https://x.com/panno_mimi/status/2012123418062434355/photo/1",
+              "media_key": "3_2012122393431650305",
+              "start": 16,
+              "url": "https://t.co/Ffz9YE7rpx"
+            },
+            {
+              "display_url": "pic.x.com/Ffz9YE7rpx",
+              "end": 39,
+              "expanded_url": "https://x.com/panno_mimi/status/2012123418062434355/photo/1",
+              "media_key": "3_2012122419750924288",
+              "start": 16,
+              "url": "https://t.co/Ffz9YE7rpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012123418062434355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "タップで縦になる…！！？🐈‍⬛"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 16657,
+          "like_count": 397,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "タップで縦になる…！！？🐈‍⬛ https://t.co/Ffz9YE7rpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 298,
+          "like_count": 79360,
+          "listed_count": 2,
+          "media_count": 1402,
+          "tweet_count": 13548
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-10T11:44:01.000Z",
+        "description": "どちらかというとご飯が好きな絵描き(⑅•ᴗ•⑅)\nサークル「ぱんのみみ」♡ 「#おにコン」【FANBOX】https://t.co/pbeUkLG9fl【YouTube】https://t.co/VG4YugOGA6 【discordサーバー】https://t.co/mCnmeFXph2　#ぱんのみみ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "おにコン"
+              },
+              {
+                "end": 152,
+                "start": 146,
+                "tag": "ぱんのみみ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pannomimi.fanbox.cc",
+                "end": 76,
+                "expanded_url": "http://pannomimi.fanbox.cc",
+                "start": 53,
+                "url": "https://t.co/pbeUkLG9fl"
+              },
+              {
+                "display_url": "link.pannomimi.net/yt",
+                "end": 108,
+                "expanded_url": "https://link.pannomimi.net/yt",
+                "start": 85,
+                "url": "https://t.co/VG4YugOGA6"
+              },
+              {
+                "display_url": "x.gd/Tunma",
+                "end": 145,
+                "expanded_url": "https://x.gd/Tunma",
+                "start": 122,
+                "url": "https://t.co/mCnmeFXph2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pannomimi.net",
+                "end": 23,
+                "expanded_url": "http://pannomimi.net/",
+                "start": 0,
+                "url": "https://t.co/zopUXsoxjd"
+              }
+            ]
+          }
+        },
+        "id": "81337517",
+        "location": "トースター",
+        "name": "ぱん🍞冬コミ新作通販✧フィギュア予約ちゅう",
+        "pinned_tweet_id": "2007422013401628916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644950875893567488/solHETaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248899,
+          "following_count": 1029,
+          "like_count": 21172,
+          "listed_count": 2697,
+          "media_count": 1696,
+          "tweet_count": 12861
+        },
+        "url": "https://t.co/zopUXsoxjd",
+        "username": "panno_mimi",
+        "verified": true
+      }
+    ]
+  }
+}

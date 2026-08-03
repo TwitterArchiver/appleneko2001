@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2002811781115466171",
+    "created_at": "2025-12-21T18:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T19:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002811781115466171"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 61,
+          "normalized_text": "Phantom Camera",
+          "probability": 0.8761,
+          "start": 48,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "terrytal",
+          "probability": 0.5968,
+          "start": 131,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 129,
+          "start": 121,
+          "tag": "gamedev"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "93002422",
+          "start": 3,
+          "username": "ansimuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002811781115466171",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 334
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002519614170017997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ansimuz: Tried the camera trap feature from Phantom Camera and it instantly improved camera control and visibility.  #gamedev #terrytal…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11033,
+        "height": 1408,
+        "media_key": "13_2002519121313849344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002519121313849344/img/SkK22glL5re3JGYY.jpg",
+        "public_metrics": {
+          "view_count": 283479
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002519121313849344/vid/avc1/394x270/efqrRFv7wfG4cvOP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002519121313849344/vid/avc1/526x360/27AkZ5k2bsJLBwy9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002519121313849344/vid/avc1/1054x720/j31MPDTjJbBNVj-o.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002519121313849344/pl/cJ54UqpvSRyUg3u4.m3u8?tag=14"
+          }
+        ],
+        "width": 2062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2002811781115466171",
+        "created_at": "2025-12-21T18:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T19:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002811781115466171"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "Phantom Camera",
+              "probability": 0.8761,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "terrytal",
+              "probability": 0.5968,
+              "start": 131,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 121,
+              "tag": "gamedev"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "93002422",
+              "start": 3,
+              "username": "ansimuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002811781115466171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002519614170017997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ansimuz: Tried the camera trap feature from Phantom Camera and it instantly improved camera control and visibility.  #gamedev #terrytal…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002519121313849344"
+          ]
+        },
+        "author_id": "93002422",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2002519614170017997",
+        "created_at": "2025-12-20T23:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T00:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002519614170017997"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 108,
+              "tag": "gamedev"
+            },
+            {
+              "end": 128,
+              "start": 117,
+              "tag": "terrytales"
+            },
+            {
+              "end": 141,
+              "start": 129,
+              "tag": "godotengine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SEJpYHGdSi",
+              "end": 165,
+              "expanded_url": "https://x.com/ansimuz/status/2002519614170017997/video/1",
+              "media_key": "13_2002519121313849344",
+              "start": 142,
+              "url": "https://t.co/SEJpYHGdSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002519614170017997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1967,
+          "impression_count": 515831,
+          "like_count": 5814,
+          "quote_count": 7,
+          "reply_count": 30,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "Tried the camera trap feature from Phantom Camera and it instantly improved camera control and visibility.  #gamedev #terrytales #godotengine https://t.co/SEJpYHGdSi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 66362,
+          "listed_count": 2,
+          "media_count": 1316,
+          "tweet_count": 12439
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-27T16:43:58.000Z",
+        "description": "Building Terry Tales and keeping the 16-bit spirit alive—pixel by pixel",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ansimuz",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ansimuz",
+                "start": 0,
+                "url": "https://t.co/BUwMHGxJM7"
+              }
+            ]
+          }
+        },
+        "id": "93002422",
+        "location": "Nowhere",
+        "name": "ansimuz",
+        "pinned_tweet_id": "2002153870668235181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1272969808007626762/XhUQYtqO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20320,
+          "following_count": 9,
+          "like_count": 606,
+          "listed_count": 320,
+          "media_count": 2213,
+          "tweet_count": 8300
+        },
+        "url": "https://t.co/BUwMHGxJM7",
+        "username": "ansimuz",
+        "verified": false
+      }
+    ]
+  }
+}

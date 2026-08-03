@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2011085645201240194",
+    "created_at": "2026-01-13T16:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T17:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011115672697442632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726251305768017920",
+          "start": 0,
+          "username": "xi_ovo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011115672697442632",
+    "in_reply_to_user_id": "1726251305768017920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011085645201240194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_ovo_ 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2011085645201240194",
+        "created_at": "2026-01-13T16:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011115672697442632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726251305768017920",
+              "start": 0,
+              "username": "xi_ovo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011115672697442632",
+        "in_reply_to_user_id": "1726251305768017920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011085645201240194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_ovo_ 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726251305768017920",
+        "conversation_id": "2011085645201240194",
+        "created_at": "2026-01-13T14:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T15:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011085645201240194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011085645201240194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8856,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人理我我都想注销了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 287,
+          "like_count": 76606,
+          "listed_count": 2,
+          "media_count": 1386,
+          "tweet_count": 13270
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T14:49:28.000Z",
+        "description": "(･∞･ﾐэ )Э",
+        "id": "1726251305768017920",
+        "name": "akn",
+        "pinned_tweet_id": "1973305681873944642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008203233164959744/e-8BRy3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 140,
+          "like_count": 1595,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 623
+        },
+        "username": "xi_ovo_",
+        "verified": false
+      }
+    ]
+  }
+}

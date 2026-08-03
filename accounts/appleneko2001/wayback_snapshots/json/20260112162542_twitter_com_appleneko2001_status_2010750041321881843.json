@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2010697035129786431",
+    "created_at": "2026-01-12T16:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010750041321881843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1457925329939361797",
+          "start": 0,
+          "username": "sutanghentian"
+        },
+        {
+          "end": 27,
+          "id": "1754494415152766976",
+          "start": 15,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010750041321881843",
+    "in_reply_to_user_id": "1457925329939361797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010732566551433369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sutanghentian @NagiExpress 我也不理解…這人做過什麼事情嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2010697035129786431",
+        "created_at": "2026-01-12T16:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010750041321881843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1457925329939361797",
+              "start": 0,
+              "username": "sutanghentian"
+            },
+            {
+              "end": 27,
+              "id": "1754494415152766976",
+              "start": 15,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010750041321881843",
+        "in_reply_to_user_id": "1457925329939361797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010732566551433369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sutanghentian @NagiExpress 我也不理解…這人做過什麼事情嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457925329939361797",
+        "conversation_id": "2010697035129786431",
+        "created_at": "2026-01-12T15:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010732566551433369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010732566551433369",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010721165736890654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 不是你为啥叫它老葛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 282,
+          "like_count": 75392,
+          "listed_count": 2,
+          "media_count": 1376,
+          "tweet_count": 13167
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T04:17:53.000Z",
+        "description": "07年的女孩子，家暴党，超级负能（hrt：2023.6.24）老公❤️@kokokawayi_awa，姐姐@Fancy_Starry，闺蜜@eureka222323，@plantie_awa，@linyin1129，@stellachan0W0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "kokokawayi_awa"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Fancy_Starry"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "eureka222323"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "plantie_awa"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "linyin1129"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "stellachan0W0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sutangtiantian",
+                "end": 23,
+                "expanded_url": "https://t.me/sutangtiantian",
+                "start": 0,
+                "url": "https://t.co/kPZmaynX8c"
+              }
+            ]
+          }
+        },
+        "id": "1457925329939361797",
+        "location": "垃圾桶",
+        "name": "酥糖～🏳️‍⚧️🍥🍬",
+        "pinned_tweet_id": "1823031404789481494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968680424223473664/LlAovzlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 1826,
+          "like_count": 31842,
+          "listed_count": 6,
+          "media_count": 605,
+          "tweet_count": 18784
+        },
+        "url": "https://t.co/kPZmaynX8c",
+        "username": "sutanghentian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "重庆身上有一种很明确的信号：\n“老子条件不行，但我偏要做出点样子”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2010357082399367298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980213866878455808/WzDevz15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 2075,
+          "like_count": 20404,
+          "listed_count": 6,
+          "media_count": 1779,
+          "tweet_count": 17654
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

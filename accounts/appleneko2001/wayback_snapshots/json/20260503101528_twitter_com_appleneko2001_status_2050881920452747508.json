@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050881602008522752"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2050881920452747508",
+    "created_at": "2026-05-03T10:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050881920452747508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/90cY950p8p",
+          "end": 51,
+          "expanded_url": "https://x.com/appleneko2001/status/2050881920452747508/photo/1",
+          "media_key": "3_2050881602008522752",
+          "start": 28,
+          "url": "https://t.co/90cY950p8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050881920452747508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笨蛋不知道怎么写fanotify调用 随意拼凑了一下（ https://t.co/90cY950p8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "trying to write fanotify but I cant read the doc lol\nim too stupid and even AI cant help me about that the hell (?\n",
+        "height": 1558,
+        "media_key": "3_2050881602008522752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYx83QaIAAyBSc.jpg",
+        "width": 2716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050881602008522752"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2050881920452747508",
+        "created_at": "2026-05-03T10:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050881920452747508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90cY950p8p",
+              "end": 51,
+              "expanded_url": "https://x.com/appleneko2001/status/2050881920452747508/photo/1",
+              "media_key": "3_2050881602008522752",
+              "start": 28,
+              "url": "https://t.co/90cY950p8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050881920452747508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笨蛋不知道怎么写fanotify调用 随意拼凑了一下（ https://t.co/90cY950p8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 356,
+          "like_count": 103309,
+          "listed_count": 3,
+          "media_count": 1624,
+          "tweet_count": 16659
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

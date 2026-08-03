@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2080122835633352779",
+    "created_at": "2026-07-23T02:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080122835633352779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vxunderground/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/vxunderground/status/2080040250265481372",
+          "start": 25,
+          "url": "https://t.co/jsPtC3vXDt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080122835633352779",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080040250265481372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Another microslop moment https://t.co/jsPtC3vXDt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_2080039856462311424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3JOpsXMAAhNCv.png",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2080122835633352779",
+        "created_at": "2026-07-23T02:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080122835633352779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vxunderground/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/vxunderground/status/2080040250265481372",
+              "start": 25,
+              "url": "https://t.co/jsPtC3vXDt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080122835633352779",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080040250265481372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Another microslop moment https://t.co/jsPtC3vXDt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080039856462311424"
+          ]
+        },
+        "author_id": "1158139840866791424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2080040250265481372",
+        "created_at": "2026-07-22T21:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080040250265481372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8gIm0mQPP",
+              "end": 292,
+              "expanded_url": "https://x.com/vxunderground/status/2080040250265481372/photo/1",
+              "media_key": "3_2080039856462311424",
+              "start": 269,
+              "url": "https://t.co/z8gIm0mQPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080040250265481372",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 15291,
+          "like_count": 563,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "I'm a big fan of Windows 11.\n\nOne of my favorite features, which really boosts productivity, is the UI crashes (explorer), and whatever UI element was highlighted is now forever stuck in-memory.\n\n\"Copy\" is stuck in the middle of my screen. I won't go away.\n\nI love it. https://t.co/z8gIm0mQPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥 @androidInu2001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "androidInu2001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/dKxqwJUidE"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋夜星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 291,
+          "like_count": 116581,
+          "listed_count": 2,
+          "media_count": 1744,
+          "tweet_count": 18312
+        },
+        "url": "https://t.co/dKxqwJUidE",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-04T22:17:10.000Z",
+        "description": "The largest collection of malware source code, samples, and papers on the internet.\n\nPassword: infected",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vx-underground.org",
+                "end": 23,
+                "expanded_url": "https://vx-underground.org",
+                "start": 0,
+                "url": "https://t.co/Yn4orDEAhs"
+              }
+            ]
+          }
+        },
+        "id": "1158139840866791424",
+        "location": "International",
+        "name": "vx-underground",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903282052297891840/sMABW3W-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442292,
+          "following_count": 366,
+          "like_count": 20137,
+          "listed_count": 2554,
+          "media_count": 7546,
+          "tweet_count": 24333
+        },
+        "url": "https://t.co/Yn4orDEAhs",
+        "username": "vxunderground",
+        "verified": true
+      }
+    ]
+  }
+}

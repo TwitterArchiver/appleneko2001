@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2027704988232012198",
+    "created_at": "2026-02-28T15:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027774326687383940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1627137174239072257",
+          "start": 0,
+          "username": "pnzxun8"
+        },
+        {
+          "end": 14,
+          "id": "1720665183188922368",
+          "start": 9,
+          "username": "grok"
+        },
+        {
+          "end": 30,
+          "id": "1810873766119100416",
+          "start": 15,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 96,
+          "id": "1973792014455152640",
+          "start": 87,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027774326687383940",
+    "in_reply_to_user_id": "1627137174239072257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027769869878649277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pnzxun8 @grok @RainEngine2024 错了啦grok引用错误的资料了啦不是这个人 是一个推特用户的说 那个教别人非正规途径切除生殖器的人 那个诈骗过 @TTypezhi 的家伙的说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2027704988232012198",
+        "created_at": "2026-02-28T15:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027774326687383940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1627137174239072257",
+              "start": 0,
+              "username": "pnzxun8"
+            },
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            },
+            {
+              "end": 30,
+              "id": "1810873766119100416",
+              "start": 15,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 96,
+              "id": "1973792014455152640",
+              "start": 87,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027774326687383940",
+        "in_reply_to_user_id": "1627137174239072257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027769869878649277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pnzxun8 @grok @RainEngine2024 错了啦grok引用错误的资料了啦不是这个人 是一个推特用户的说 那个教别人非正规途径切除生殖器的人 那个诈骗过 @TTypezhi 的家伙的说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627137174239072257",
+        "conversation_id": "2027704988232012198",
+        "created_at": "2026-02-28T15:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027769869878649277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 21,
+              "id": "1810873766119100416",
+              "start": 6,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027769869878649277",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027769289181122636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @RainEngine2024 我記得以前有個百色助學網也涉及兒童色情，看來百色這個地方有點說法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 343,
+          "like_count": 94053,
+          "listed_count": 3,
+          "media_count": 1527,
+          "tweet_count": 15292
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T02:45:41.000Z",
+        "description": "Aerospace and chemistry enthusiast | Passionate about exploring wild rocket fuels",
+        "id": "1627137174239072257",
+        "name": "TNTNB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950895984273420289/Ha_S9CM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 10,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 50
+        },
+        "username": "pnzxun8",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8137840,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6235,
+          "media_count": 8501448,
+          "tweet_count": 109859925
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "Xiaomi Partner/RainEngine UX Design/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "夏日晴海",
+        "pinned_tweet_id": "2025756639283044716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6984,
+          "following_count": 809,
+          "like_count": 55169,
+          "listed_count": 5,
+          "media_count": 1200,
+          "tweet_count": 8276
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在16喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxnAZQ"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 968,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/SDCzGxnAZQ",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

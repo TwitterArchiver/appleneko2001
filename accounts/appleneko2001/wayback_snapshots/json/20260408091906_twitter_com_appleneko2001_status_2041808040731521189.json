@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041445143501496320"
+      ],
+      "media_source_tweet_id": [
+        "2041486144299295084"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1309059220717756416",
+          "name": "魔女の旅々"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431299952718712833",
+          "name": "The Journey of Elaina"
+        }
+      }
+    ],
+    "conversation_id": "2041808040731521189",
+    "created_at": "2026-04-08T09:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041808040731521189"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 24,
+          "tag": "魔女の旅々はいいぞ"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "イレイナ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968072218879070209",
+          "start": 3,
+          "username": "As_ink_art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xmlKQGUNpa",
+          "end": 64,
+          "expanded_url": "https://x.com/As_ink_art/status/2041486144299295084/photo/1",
+          "media_key": "3_2041445143501496320",
+          "start": 41,
+          "url": "https://t.co/xmlKQGUNpa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041808040731521189",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041486144299295084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @As_ink_art: あの頃の魔法\n\n＃魔女の旅々はいいぞ　＃イレイナ https://t.co/xmlKQGUNpa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3250,
+        "media_key": "3_2041445143501496320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSrir7aYAAc51d.jpg",
+        "width": 2113
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041445143501496320"
+          ],
+          "media_source_tweet_id": [
+            "2041486144299295084"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1309059220717756416",
+              "name": "魔女の旅々"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431299952718712833",
+              "name": "The Journey of Elaina"
+            }
+          }
+        ],
+        "conversation_id": "2041808040731521189",
+        "created_at": "2026-04-08T09:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041808040731521189"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 24,
+              "tag": "魔女の旅々はいいぞ"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "イレイナ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968072218879070209",
+              "start": 3,
+              "username": "As_ink_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmlKQGUNpa",
+              "end": 64,
+              "expanded_url": "https://x.com/As_ink_art/status/2041486144299295084/photo/1",
+              "media_key": "3_2041445143501496320",
+              "start": 41,
+              "url": "https://t.co/xmlKQGUNpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041808040731521189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041486144299295084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @As_ink_art: あの頃の魔法\n\n＃魔女の旅々はいいぞ　＃イレイナ https://t.co/xmlKQGUNpa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041445143501496320"
+          ]
+        },
+        "author_id": "1968072218879070209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1309059220717756416",
+              "name": "魔女の旅々"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431299952718712833",
+              "name": "The Journey of Elaina"
+            }
+          }
+        ],
+        "conversation_id": "2041486144299295084",
+        "created_at": "2026-04-07T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041486144299295084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "魔女の旅々はいいぞ"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "イレイナ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmlKQGUNpa",
+              "end": 48,
+              "expanded_url": "https://x.com/As_ink_art/status/2041486144299295084/photo/1",
+              "media_key": "3_2041445143501496320",
+              "start": 25,
+              "url": "https://t.co/xmlKQGUNpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041486144299295084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 13655,
+          "like_count": 1825,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "あの頃の魔法\n\n＃魔女の旅々はいいぞ　＃イレイナ https://t.co/xmlKQGUNpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 359,
+          "like_count": 100952,
+          "listed_count": 3,
+          "media_count": 1594,
+          "tweet_count": 16246
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T21:59:33.000Z",
+        "description": "As(あす) 🌙 |ちょっと一息できるようなイラスト描いてます✨ \n✉️お仕事: DMまで (Commission Open) \n🎨リクエスト(Skeb受付停止中): https://t.co/fIgHoSJ62S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@As_ink_art",
+                "end": 107,
+                "expanded_url": "https://skeb.jp/@As_ink_art",
+                "start": 84,
+                "url": "https://t.co/fIgHoSJ62S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/as-ink-art",
+                "end": 23,
+                "expanded_url": "https://potofu.me/as-ink-art",
+                "start": 0,
+                "url": "https://t.co/ISysPlYqRQ"
+              }
+            ]
+          }
+        },
+        "id": "1968072218879070209",
+        "location": "AI学習禁止",
+        "name": "As.ink",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968248675215515648/YhcG6O-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 73,
+          "like_count": 2801,
+          "listed_count": 5,
+          "media_count": 81,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/ISysPlYqRQ",
+        "username": "As_ink_art",
+        "verified": false
+      }
+    ]
+  }
+}

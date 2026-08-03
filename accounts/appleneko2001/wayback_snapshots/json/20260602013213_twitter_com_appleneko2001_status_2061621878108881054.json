@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061471348845891584"
+      ],
+      "media_source_tweet_id": [
+        "2061471359063191728"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2061621878108881054",
+    "created_at": "2026-06-02T01:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061621878108881054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "80618356",
+          "start": 3,
+          "username": "muriitame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UgmfQF8ZK6",
+          "end": 56,
+          "expanded_url": "https://x.com/muriitame/status/2061471359063191728/photo/1",
+          "media_key": "3_2061471348845891584",
+          "start": 33,
+          "url": "https://t.co/UgmfQF8ZK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061621878108881054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 651
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061471359063191728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @muriitame: せめてひと作品は完走したい二次創作 https://t.co/UgmfQF8ZK6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061621878108881054].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061621878108881054",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061621878108881054"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2061471348845891584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvRRQaa0AAiT4E.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061471348845891584"
+          ]
+        },
+        "author_id": "80618356",
+        "conversation_id": "2061471359063191728",
+        "created_at": "2026-06-01T15:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061471359063191728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgmfQF8ZK6",
+              "end": 41,
+              "expanded_url": "https://x.com/muriitame/status/2061471359063191728/photo/1",
+              "media_key": "3_2061471348845891584",
+              "start": 18,
+              "url": "https://t.co/UgmfQF8ZK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061471359063191728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 37454,
+          "like_count": 2249,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 651
+        },
+        "reply_settings": "everyone",
+        "text": "せめてひと作品は完走したい二次創作 https://t.co/UgmfQF8ZK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "真的冷静下来了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "大笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 247,
+          "like_count": 106937,
+          "listed_count": 2,
+          "media_count": 1641,
+          "tweet_count": 17158
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-07T16:40:37.000Z",
+        "description": "ゆずソフト所属。お絵描きとかします。",
+        "id": "80618356",
+        "name": "むりりん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646715719974010881/5Ch8mKf__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85526,
+          "following_count": 359,
+          "like_count": 15,
+          "listed_count": 1725,
+          "media_count": 311,
+          "tweet_count": 39474
+        },
+        "username": "muriitame",
+        "verified": false
+      }
+    ]
+  }
+}

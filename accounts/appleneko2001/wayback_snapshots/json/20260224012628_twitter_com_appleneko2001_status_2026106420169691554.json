@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2026081721947689350",
+    "created_at": "2026-02-24T01:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T02:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026106420169691554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845607538512797696",
+          "start": 0,
+          "username": "Justice53_07_27"
+        },
+        {
+          "end": 26,
+          "id": "1828632343680294916",
+          "start": 17,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026106420169691554",
+    "in_reply_to_user_id": "1845607538512797696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026103382063366208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Justice53_07_27 @jianlvya 普通ipad确实是（\n但高端怎么说（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2026081721947689350",
+        "created_at": "2026-02-24T01:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026106420169691554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845607538512797696",
+              "start": 0,
+              "username": "Justice53_07_27"
+            },
+            {
+              "end": 26,
+              "id": "1828632343680294916",
+              "start": 17,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026106420169691554",
+        "in_reply_to_user_id": "1845607538512797696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026103382063366208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Justice53_07_27 @jianlvya 普通ipad确实是（\n但高端怎么说（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845607538512797696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2026081721947689350",
+        "created_at": "2026-02-24T01:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026103382063366208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 24,
+              "id": "1828632343680294916",
+              "start": 15,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026103382063366208",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026084382096953432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @jianlvya 什么叫打不过苹果呢\n我这里有一个用了两年多的国产安卓机和去年公司白嫖的17 air，后者玩游戏更烫也没有前者流畅，充电15%到90%用了50分钟，前者从5%充满只要半小时，续航也比不过安卓，关键是人家比你还更便宜，还不会天天叫我买icloud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 328,
+          "like_count": 92275,
+          "listed_count": 2,
+          "media_count": 1502,
+          "tweet_count": 14958
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T23:28:34.000Z",
+        "description": "一个略有正义感的理科男，只用事实说话，搬运的资料保真，业余汉服模特，爱玩原神，蓝V互关",
+        "id": "1845607538512797696",
+        "location": "SoCal",
+        "name": "谣言终结者",
+        "pinned_tweet_id": "2020573689893572785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004119484920107008/NxCkUoPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 64,
+          "like_count": 1066,
+          "listed_count": 6,
+          "media_count": 1039,
+          "tweet_count": 2604
+        },
+        "username": "Justice53_07_27",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律（私信互fo）",
+        "pinned_tweet_id": "2025710643622645786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 765,
+          "like_count": 7881,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 620
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

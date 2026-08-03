@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2014038166609576026",
+    "created_at": "2026-01-21T22:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T23:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014104122685833510"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "twitter",
+          "probability": 0.9638,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "7334062",
+          "start": 0,
+          "username": "ExistentialEnso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014104122685833510",
+    "in_reply_to_user_id": "7334062",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014038166609576026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ExistentialEnso nothing changes to call twitter 🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2014038166609576026",
+        "created_at": "2026-01-21T22:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T23:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014104122685833510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "twitter",
+              "probability": 0.9638,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "7334062",
+              "start": 0,
+              "username": "ExistentialEnso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014104122685833510",
+        "in_reply_to_user_id": "7334062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014038166609576026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ExistentialEnso nothing changes to call twitter 🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7334062",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2014038166609576026",
+        "created_at": "2026-01-21T18:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014038166609576026"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Elon",
+              "probability": 0.6761,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Vivian",
+              "probability": 0.7696,
+              "start": 53,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/enough_yt/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/enough_yt/status/2013216619061719273",
+              "start": 60,
+              "url": "https://t.co/D8UlfAOgda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014038166609576026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13485,
+          "like_count": 1131,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013216619061719273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I’ll call it X when Elon starts calling his daughter Vivian https://t.co/D8UlfAOgda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 314,
+          "like_count": 81447,
+          "listed_count": 2,
+          "media_count": 1424,
+          "tweet_count": 13831
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2007-07-08T21:26:56.000Z",
+        "description": "👩🏻‍💻 writer & engineer \n💚 @kamigotchiworld \n📚 https://t.co/DM4MNeNLvl \n🦋 zen existentialist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "kamigotchiworld"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xorientation.com",
+                "end": 69,
+                "expanded_url": "http://xorientation.com",
+                "start": 46,
+                "url": "https://t.co/DM4MNeNLvl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ens0.me",
+                "end": 23,
+                "expanded_url": "http://ens0.me",
+                "start": 0,
+                "url": "https://t.co/lJlwr8P8iM"
+              }
+            ]
+          }
+        },
+        "id": "7334062",
+        "location": "ATL",
+        "name": "Thorne 🌸",
+        "pinned_tweet_id": "2014038166609576026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772117929036853248/Bk96rUOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10935,
+          "following_count": 2786,
+          "like_count": 292198,
+          "listed_count": 166,
+          "media_count": 14248,
+          "tweet_count": 234703
+        },
+        "url": "https://t.co/lJlwr8P8iM",
+        "username": "ExistentialEnso",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018175945488633857"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2018175963868074372",
+    "created_at": "2026-02-02T04:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T05:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018175963868074372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ibguTlqfI1",
+          "end": 44,
+          "expanded_url": "https://x.com/appleneko2001/status/2018175963868074372/photo/1",
+          "media_key": "3_2018175945488633857",
+          "start": 21,
+          "url": "https://t.co/ibguTlqfI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018175963868074372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "選擇把自己排除掉…好像也不會隱藏通知呢… https://t.co/ibguTlqfI1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018175963868074372].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018175963868074372",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018175963868074372"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Got replies for promoting political activities \nBut unfortunately I'm not the person you looking for, I choose to leave the conversation but doesn't hide the notification... So frustrating and annoying...\nLeave us alone (",
+        "height": 2160,
+        "media_key": "3_2018175945488633857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIAVGUWkAE1ay1.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 322,
+          "like_count": 86714,
+          "listed_count": 2,
+          "media_count": 1465,
+          "tweet_count": 14253
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

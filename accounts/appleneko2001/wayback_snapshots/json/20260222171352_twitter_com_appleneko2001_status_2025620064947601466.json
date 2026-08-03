@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2025432848501797189",
+    "created_at": "2026-02-22T17:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T18:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025620064947601466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025620064947601466",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025432848501797189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua 咱家情况有点类似……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2025432848501797189",
+        "created_at": "2026-02-22T17:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025620064947601466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025620064947601466",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025432848501797189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 咱家情况有点类似……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2025432848501797189",
+        "created_at": "2026-02-22T04:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025432848501797189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami_mua/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/nanami_mua/status/2024991812759490661",
+              "start": 47,
+              "url": "https://t.co/kBvuo3BCxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025432848501797189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 20084,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024991812759490661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上我直到出柜才知道这件事，她就这样彰显自己有我这个男孩是多么不容易，让我珍惜她的劳动成果 https://t.co/kBvuo3BCxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 327,
+          "like_count": 91679,
+          "listed_count": 2,
+          "media_count": 1501,
+          "tweet_count": 14897
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/可爱狐狐～@SnowFoxSama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "SnowFoxSama"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 488,
+          "like_count": 76578,
+          "listed_count": 2,
+          "media_count": 671,
+          "tweet_count": 6949
+        },
+        "username": "nanami_mua",
+        "verified": true
+      }
+    ]
+  }
+}

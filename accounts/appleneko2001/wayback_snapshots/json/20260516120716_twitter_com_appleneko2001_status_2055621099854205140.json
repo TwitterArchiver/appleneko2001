@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055621095299162112"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2055621099854205140",
+    "created_at": "2026-05-16T12:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055621099854205140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NpvXA3CNnG",
+          "end": 78,
+          "expanded_url": "https://x.com/appleneko2001/status/2055621099854205140/photo/1",
+          "media_key": "3_2055621095299162112",
+          "start": 55,
+          "url": "https://t.co/NpvXA3CNnG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055621099854205140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上一次还能看到这么小的占用是什么时候来着……？\n不知道还能精简哪些东西 目前还只是debug二进制可执行变种 https://t.co/NpvXA3CNnG"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "My simple program runs on my computer within low RAM usages (26.0MiB)",
+        "height": 1080,
+        "media_key": "3_2055621095299162112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcIfrobIAAF8eL.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055621095299162112"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2055621099854205140",
+        "created_at": "2026-05-16T12:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055621099854205140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpvXA3CNnG",
+              "end": 78,
+              "expanded_url": "https://x.com/appleneko2001/status/2055621099854205140/photo/1",
+              "media_key": "3_2055621095299162112",
+              "start": 55,
+              "url": "https://t.co/NpvXA3CNnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055621099854205140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上一次还能看到这么小的占用是什么时候来着……？\n不知道还能精简哪些东西 目前还只是debug二进制可执行变种 https://t.co/NpvXA3CNnG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 351,
+          "like_count": 104742,
+          "listed_count": 3,
+          "media_count": 1636,
+          "tweet_count": 16847
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

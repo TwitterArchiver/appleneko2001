@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1922374186531492347",
+    "created_at": "2025-06-24T07:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T08:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937419846490227066"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "FAB",
+          "probability": 0.5889,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 78,
+          "normalized_text": "M3E",
+          "probability": 0.696,
+          "start": 76,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2427421832",
+          "start": 0,
+          "username": "GoogleDesign"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937419846490227066",
+    "in_reply_to_user_id": "2427421832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922374186531492347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoogleDesign M2: FAB are used for important and constructive action\nM3 and M3E: whatever"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38016,
+        "height": 1440,
+        "media_key": "13_1922374086488961024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922374086488961024/img/MUCqBiOrBTSvnxjA.jpg",
+        "public_metrics": {
+          "view_count": 64859
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922374086488961024/vid/avc1/480x270/3iMM-W3UYeDcwq4h.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922374086488961024/vid/avc1/640x360/FLI9YT-hPkg65G0X.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922374086488961024/vid/avc1/1280x720/se2C7eu1tolNleP0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922374086488961024/pl/KBWoR6DpMqs-QREG.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1922374186531492347",
+        "created_at": "2025-06-24T07:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T08:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937419846490227066"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "FAB",
+              "probability": 0.5889,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "M3E",
+              "probability": 0.696,
+              "start": 76,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2427421832",
+              "start": 0,
+              "username": "GoogleDesign"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937419846490227066",
+        "in_reply_to_user_id": "2427421832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922374186531492347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoogleDesign M2: FAB are used for important and constructive action\nM3 and M3E: whatever"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922374086488961024"
+          ]
+        },
+        "author_id": "2427421832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1922374186531492347",
+        "created_at": "2025-05-13T19:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T20:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922374186531492347"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "M3",
+              "probability": 0.5644,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 178,
+              "start": 163,
+              "tag": "TheAndroidShow"
+            },
+            {
+              "end": 194,
+              "start": 179,
+              "tag": "MaterialDesign"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Discover Material Design's latest update: M3 Expressive for more engaging and user-friendly products.",
+              "display_url": "goo.gle/42VU2qP",
+              "end": 161,
+              "expanded_url": "https://goo.gle/42VU2qP",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/1932210580061904896/I-oh4159?format=png&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1932210580061904896/I-oh4159?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "title": "M3 Expressive: Engaging UX Design",
+              "unwound_url": "https://m3.material.io/blog/building-with-m3-expressive?utm_source=x-message&utm_medium=social&utm_campaign=IO25",
+              "url": "https://t.co/802u9Zb2cD"
+            },
+            {
+              "display_url": "pic.x.com/lPtIMJaXCQ",
+              "end": 218,
+              "expanded_url": "https://x.com/GoogleDesign/status/1922374186531492347/video/1",
+              "media_key": "13_1922374086488961024",
+              "start": 195,
+              "url": "https://t.co/lPtIMJaXCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922374186531492347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 685,
+          "impression_count": 258559,
+          "like_count": 3578,
+          "quote_count": 129,
+          "reply_count": 72,
+          "retweet_count": 430
+        },
+        "reply_settings": "everyone",
+        "text": "Material Design just leveled up! 🚀 M3 Expressive is here to help you build more engaging, easy-to-use products. ✨ Dive into the details → https://t.co/802u9Zb2cD\n\n#TheAndroidShow #MaterialDesign https://t.co/lPtIMJaXCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 258,
+          "like_count": 65227,
+          "listed_count": 2,
+          "media_count": 1294,
+          "tweet_count": 12285
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-04T15:04:57.000Z",
+        "description": "Design resources and inspiration from Google — including the Material Design system, Google Fonts, and emerging concepts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "design.google",
+                "end": 23,
+                "expanded_url": "http://design.google",
+                "start": 0,
+                "url": "https://t.co/aikA9FtNEm"
+              }
+            ]
+          }
+        },
+        "id": "2427421832",
+        "name": "Google Design",
+        "pinned_tweet_id": "1922374186531492347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856407846629359616/bW8F25x6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207601,
+          "following_count": 439,
+          "like_count": 3008,
+          "listed_count": 3527,
+          "media_count": 1230,
+          "tweet_count": 2454
+        },
+        "url": "https://t.co/aikA9FtNEm",
+        "username": "GoogleDesign",
+        "verified": true
+      }
+    ]
+  }
+}

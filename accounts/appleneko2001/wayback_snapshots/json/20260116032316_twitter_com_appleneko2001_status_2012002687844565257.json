@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2011878143959974061",
+    "created_at": "2026-01-16T03:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T04:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012002687844565257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772077254878851072",
+          "start": 0,
+          "username": "hhy1553595"
+        },
+        {
+          "end": 18,
+          "id": "2655231547",
+          "start": 12,
+          "username": "biupa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012002687844565257",
+    "in_reply_to_user_id": "1772077254878851072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011994473153360149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhy1553595 @biupa 稍微有點ethical的事情不行嗎 非要做什麼刷粉…沒別的業務嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2011878143959974061",
+        "created_at": "2026-01-16T03:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T04:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012002687844565257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772077254878851072",
+              "start": 0,
+              "username": "hhy1553595"
+            },
+            {
+              "end": 18,
+              "id": "2655231547",
+              "start": 12,
+              "username": "biupa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012002687844565257",
+        "in_reply_to_user_id": "1772077254878851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011994473153360149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhy1553595 @biupa 稍微有點ethical的事情不行嗎 非要做什麼刷粉…沒別的業務嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772077254878851072",
+        "conversation_id": "2011878143959974061",
+        "created_at": "2026-01-16T02:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T03:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011994473153360149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2655231547",
+              "start": 0,
+              "username": "biupa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011994473153360149",
+        "in_reply_to_user_id": "2655231547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011878143959974061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biupa 他刷的是数据粉丝，所以会出现大批量的掉落，现在X官方对数据风控很严。真人账户关注不会被官方刷掉，我们现在平台提供真人账户关注，几乎无掉落，除非账户主本人取关你，官方根本没权限，风控真人在运营的账户。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 295,
+          "like_count": 79071,
+          "listed_count": 2,
+          "media_count": 1399,
+          "tweet_count": 13506
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T01:45:32.000Z",
+        "description": "Fansgurus提供社媒平台涨粉、刷赞、评论及转发服务。全网最稳真人数据，助您快速打造高权重账号，极速破圈。\n\nPremier social growth platform. Buy high-quality followers, likes, comments, and views. Fast, stable",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansgurus.com/ref/si0n1",
+                "end": 23,
+                "expanded_url": "https://fansgurus.com/ref/si0n1",
+                "start": 0,
+                "url": "https://t.co/3456IrkgCW"
+              }
+            ]
+          }
+        },
+        "id": "1772077254878851072",
+        "location": "Singapore",
+        "name": "Fansgurus｜刷粉涨粉平台",
+        "pinned_tweet_id": "2006256978918797619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902295088983879680/5dSDWvgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 227,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/3456IrkgCW",
+        "username": "hhy1553595",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-17T23:51:44.000Z",
+        "description": "DAT stuff\ntweets are personal trading record, non-corporate. \n— \n进群注册 https://t.co/BBq8xz5l15 \n🎰顶级游戏体验尽在 @bcgame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 105,
+                "username": "bcgame"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "partner.bybit.com/b/BIUPA",
+                "end": 93,
+                "expanded_url": "https://partner.bybit.com/b/BIUPA",
+                "start": 70,
+                "url": "https://t.co/BBq8xz5l15"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/heyuekuangtu",
+                "end": 23,
+                "expanded_url": "https://t.me/heyuekuangtu",
+                "start": 0,
+                "url": "https://t.co/uOvfUkZxOo"
+              }
+            ]
+          }
+        },
+        "id": "2655231547",
+        "location": "TG: biupa0068",
+        "name": "Biupa",
+        "pinned_tweet_id": "1992135002348482828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884643390387875840/MyeoGHmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24398,
+          "following_count": 1402,
+          "like_count": 80608,
+          "listed_count": 428,
+          "media_count": 1275,
+          "tweet_count": 14872
+        },
+        "url": "https://t.co/uOvfUkZxOo",
+        "username": "biupa",
+        "verified": true
+      }
+    ]
+  }
+}

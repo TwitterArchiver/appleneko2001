@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012108827555168256"
+      ],
+      "media_source_tweet_id": [
+        "2012108834836553910"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012511215780524248",
+    "created_at": "2026-01-17T13:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T14:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012511215780524248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "866291760326098944",
+          "start": 3,
+          "username": "richaball"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oRyMyfrSLx",
+          "end": 50,
+          "expanded_url": "https://x.com/richaball/status/2012108834836553910/photo/1",
+          "media_key": "3_2012108827555168256",
+          "start": 27,
+          "url": "https://t.co/oRyMyfrSLx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012511215780524248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2612
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012108834836553910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @richaball: どれもかわいいという話 https://t.co/oRyMyfrSLx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2214,
+        "media_key": "3_2012108827555168256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-xyUWvagAA3O-8.jpg",
+        "width": 2093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012108827555168256"
+          ],
+          "media_source_tweet_id": [
+            "2012108834836553910"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2012511215780524248",
+        "created_at": "2026-01-17T13:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012511215780524248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "866291760326098944",
+              "start": 3,
+              "username": "richaball"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRyMyfrSLx",
+              "end": 50,
+              "expanded_url": "https://x.com/richaball/status/2012108834836553910/photo/1",
+              "media_key": "3_2012108827555168256",
+              "start": 27,
+              "url": "https://t.co/oRyMyfrSLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012511215780524248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2612
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012108834836553910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @richaball: どれもかわいいという話 https://t.co/oRyMyfrSLx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012108827555168256"
+          ]
+        },
+        "author_id": "866291760326098944",
+        "conversation_id": "2012108834836553910",
+        "created_at": "2026-01-16T10:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012108834836553910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRyMyfrSLx",
+              "end": 35,
+              "expanded_url": "https://x.com/richaball/status/2012108834836553910/photo/1",
+              "media_key": "3_2012108827555168256",
+              "start": 12,
+              "url": "https://t.co/oRyMyfrSLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012108834836553910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4506,
+          "impression_count": 427835,
+          "like_count": 28010,
+          "quote_count": 94,
+          "reply_count": 43,
+          "retweet_count": 2612
+        },
+        "reply_settings": "everyone",
+        "text": "どれもかわいいという話 https://t.co/oRyMyfrSLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 301,
+          "like_count": 79946,
+          "listed_count": 2,
+          "media_count": 1408,
+          "tweet_count": 13614
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-21T13:57:05.000Z",
+        "description": "イラストレーター✎*。ご依頼受付中です！\nSkeb→https://t.co/UJ0xWlkNXz\nFANBOX→https://t.co/w1DmSVmlUc\nリンク集→https://t.co/bgIbC7dbGp\nご連絡はDMまたはrichard.chaccha@gmail.comまで✉️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@richaball",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@richaball",
+                "start": 26,
+                "url": "https://t.co/UJ0xWlkNXz"
+              },
+              {
+                "display_url": "richaball.fanbox.cc",
+                "end": 80,
+                "expanded_url": "https://richaball.fanbox.cc/",
+                "start": 57,
+                "url": "https://t.co/w1DmSVmlUc"
+              },
+              {
+                "display_url": "lit.link/richaball",
+                "end": 109,
+                "expanded_url": "https://lit.link/richaball",
+                "start": 86,
+                "url": "https://t.co/bgIbC7dbGp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=24643674",
+                "start": 0,
+                "url": "https://t.co/C8917IqZbs"
+              }
+            ]
+          }
+        },
+        "id": "866291760326098944",
+        "location": "餅という概念がもう好き",
+        "name": "リチャード🍡",
+        "pinned_tweet_id": "2009622905936916953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780800420815966208/Vqund4Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77886,
+          "following_count": 914,
+          "like_count": 105395,
+          "listed_count": 461,
+          "media_count": 1403,
+          "tweet_count": 34726
+        },
+        "url": "https://t.co/C8917IqZbs",
+        "username": "richaball",
+        "verified": false
+      }
+    ]
+  }
+}

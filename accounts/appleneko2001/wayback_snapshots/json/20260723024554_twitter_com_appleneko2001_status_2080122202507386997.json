@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2080122202507386997",
+    "created_at": "2026-07-23T02:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080122202507386997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2005261732751802368",
+          "start": 3,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080122202507386997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047075505908879546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HappyHejsDay: 我想转学了。\n这傻逼北师港浸大就是他妈的巨型庞氏骗局\n）我已急哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2080122202507386997",
+        "created_at": "2026-07-23T02:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080122202507386997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2005261732751802368",
+              "start": 3,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080122202507386997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047075505908879546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HappyHejsDay: 我想转学了。\n这傻逼北师港浸大就是他妈的巨型庞氏骗局\n）我已急哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005261732751802368",
+        "conversation_id": "2047075505908879546",
+        "created_at": "2026-04-22T22:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T23:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047075505908879546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047075505908879546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 90076,
+          "like_count": 293,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我想转学了。\n这傻逼北师港浸大就是他妈的巨型庞氏骗局\n）我已急哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥 @androidInu2001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "androidInu2001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/dKxqwJUidE"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋夜星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 291,
+          "like_count": 116576,
+          "listed_count": 2,
+          "media_count": 1744,
+          "tweet_count": 18311
+        },
+        "url": "https://t.co/dKxqwJUidE",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗醜釹｜疑似鍵政｜痛苦大學生｜Baptist U｜健全逼｜失敗合約交易員｜🇹🇼🇭🇰｜歡迎聊天｜同類互fo｜前世@franciswwwww｜寵物@Fe_ions ｜小玩具@wwwAlce4｜竹葉青 @qiouyuebai520｜寶寶窩@PaulDrizzyvlni @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "wwwAlce4"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "qiouyuebai520"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 146,
+                "start": 138,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 156,
+                "start": 147,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/franciswwwww1",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/franciswwwww1",
+                "start": 0,
+                "url": "https://t.co/Tx5FLFXmTv"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "秦城监狱",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2064008531217686815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 2036,
+          "like_count": 11048,
+          "listed_count": 5,
+          "media_count": 550,
+          "tweet_count": 6744
+        },
+        "url": "https://t.co/Tx5FLFXmTv",
+        "username": "HappyHejsDay",
+        "verified": true
+      }
+    ]
+  }
+}

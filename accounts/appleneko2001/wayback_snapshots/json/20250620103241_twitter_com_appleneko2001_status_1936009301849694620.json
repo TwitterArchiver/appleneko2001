@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936008490171891712",
+        "3_1936008685957885953"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1935774583560298775",
+    "created_at": "2025-06-20T10:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936009301849694620"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 227,
+          "normalized_text": "WTH",
+          "probability": 0.4573,
+          "start": 225,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807064118366490624",
+          "start": 0,
+          "username": "SLKVinyl"
+        },
+        {
+          "end": 23,
+          "id": "2427421832",
+          "start": 10,
+          "username": "GoogleDesign"
+        },
+        {
+          "end": 224,
+          "id": "816364272452128768",
+          "start": 209,
+          "username": "materialdesign"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K86dulztYn",
+          "end": 324,
+          "expanded_url": "https://x.com/appleneko2001/status/1936009301849694620/photo/1",
+          "media_key": "3_1936008490171891712",
+          "start": 301,
+          "url": "https://t.co/K86dulztYn"
+        },
+        {
+          "display_url": "pic.x.com/K86dulztYn",
+          "end": 324,
+          "expanded_url": "https://x.com/appleneko2001/status/1936009301849694620/photo/1",
+          "media_key": "3_1936008685957885953",
+          "start": 301,
+          "url": "https://t.co/K86dulztYn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936009301849694620",
+    "in_reply_to_user_id": "1807064118366490624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935927400187240732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLKVinyl @GoogleDesign Almost same vibe, but in GBoard:\n\nPS: material design V2 guideline of FABs are clearly says should used for positive action (like add, new, etc.) but not negative (delete, remove smth)\n@materialdesign WTH was that new layout sucks and I have to disable play store and rollback https://t.co/K86dulztYn"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Old GBoard emoji selector layout ",
+        "height": 1080,
+        "media_key": "3_1936008490171891712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4VduLWAAAb5Rm.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "And this is new layout, which used backspace in floating action button.",
+        "height": 1080,
+        "media_key": "3_1936008685957885953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4VpHiXMAEZgei.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1190,
+        "media_key": "3_1935927395204448258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3LtX4bwAIBv5K.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936008490171891712",
+            "3_1936008685957885953"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1935774583560298775",
+        "created_at": "2025-06-20T10:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936009301849694620"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 227,
+              "normalized_text": "WTH",
+              "probability": 0.4573,
+              "start": 225,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807064118366490624",
+              "start": 0,
+              "username": "SLKVinyl"
+            },
+            {
+              "end": 23,
+              "id": "2427421832",
+              "start": 10,
+              "username": "GoogleDesign"
+            },
+            {
+              "end": 224,
+              "id": "816364272452128768",
+              "start": 209,
+              "username": "materialdesign"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K86dulztYn",
+              "end": 324,
+              "expanded_url": "https://x.com/appleneko2001/status/1936009301849694620/photo/1",
+              "media_key": "3_1936008490171891712",
+              "start": 301,
+              "url": "https://t.co/K86dulztYn"
+            },
+            {
+              "display_url": "pic.x.com/K86dulztYn",
+              "end": 324,
+              "expanded_url": "https://x.com/appleneko2001/status/1936009301849694620/photo/1",
+              "media_key": "3_1936008685957885953",
+              "start": 301,
+              "url": "https://t.co/K86dulztYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936009301849694620",
+        "in_reply_to_user_id": "1807064118366490624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935927400187240732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLKVinyl @GoogleDesign Almost same vibe, but in GBoard:\n\nPS: material design V2 guideline of FABs are clearly says should used for positive action (like add, new, etc.) but not negative (delete, remove smth)\n@materialdesign WTH was that new layout sucks and I have to disable play store and rollback https://t.co/K86dulztYn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935927395204448258"
+          ]
+        },
+        "author_id": "1807064118366490624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1935774583560298775",
+        "created_at": "2025-06-20T05:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T06:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935927400187240732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2427421832",
+              "start": 0,
+              "username": "GoogleDesign"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/POTmui6jZm",
+              "end": 58,
+              "expanded_url": "https://x.com/SLKVinyl/status/1935927400187240732/photo/1",
+              "media_key": "3_1935927395204448258",
+              "start": 35,
+              "url": "https://t.co/POTmui6jZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935927400187240732",
+        "in_reply_to_user_id": "2427421832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935774583560298775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoogleDesign Who approved this? 💔 https://t.co/POTmui6jZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 258,
+          "like_count": 65063,
+          "listed_count": 2,
+          "media_count": 1294,
+          "tweet_count": 12267
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:50:49.000Z",
+        "description": "photographer + concept creator/designer 🔰+ digital artist 🔰+ random thingss | I argue about tech and posts concepts as a side lmao",
+        "id": "1807064118366490624",
+        "location": "Lumon",
+        "name": "SLK15",
+        "pinned_tweet_id": "1930878860394139733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874851443267739648/yOHkuEyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 302,
+          "like_count": 13713,
+          "listed_count": 2,
+          "media_count": 1129,
+          "tweet_count": 6356
+        },
+        "username": "SLKVinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-04T15:04:57.000Z",
+        "description": "Design resources and inspiration from Google — including the Material Design system, Google Fonts, and emerging concepts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "design.google",
+                "end": 23,
+                "expanded_url": "http://design.google",
+                "start": 0,
+                "url": "https://t.co/aikA9FtNEm"
+              }
+            ]
+          }
+        },
+        "id": "2427421832",
+        "name": "Google Design",
+        "pinned_tweet_id": "1922374186531492347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856407846629359616/bW8F25x6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207427,
+          "following_count": 439,
+          "like_count": 3009,
+          "listed_count": 3527,
+          "media_count": 1230,
+          "tweet_count": 2454
+        },
+        "url": "https://t.co/aikA9FtNEm",
+        "username": "GoogleDesign",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-03T19:23:04.000Z",
+        "description": "We’ve moved! Find future Material Design updates, news, and inspiration on @GoogleDesign.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "GoogleDesign"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goo.gle/m3-material-io",
+                "end": 23,
+                "expanded_url": "http://goo.gle/m3-material-io",
+                "start": 0,
+                "url": "https://t.co/jzj5oWCl7n"
+              }
+            ]
+          }
+        },
+        "id": "816364272452128768",
+        "location": "Google, Mountain View, CA",
+        "name": "Material Design",
+        "pinned_tweet_id": "1840803942701375849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610651370851287044/e1-booMn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85182,
+          "following_count": 33,
+          "like_count": 1209,
+          "listed_count": 1497,
+          "media_count": 871,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/jzj5oWCl7n",
+        "username": "materialdesign",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448422092655845378",
+          "name": "Tsukihime"
+        }
+      }
+    ],
+    "conversation_id": "2027591661740822583",
+    "created_at": "2026-02-28T03:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T04:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027591661740822583"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Tsukhime Trial Edition",
+          "probability": 0.7612,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 126,
+          "normalized_text": "US",
+          "probability": 0.4359,
+          "start": 125,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "576384376",
+          "start": 3,
+          "username": "TehKeripo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027591661740822583",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027171532825571678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TehKeripo: My Tsukhime Trial Edition (月姫 体験版) finally arrived, one of only 50 copies in the world. Only to discover that US Customs had…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027170787829190656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCH1F1ObkAAi-x0.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 111466,
+        "height": 1024,
+        "media_key": "13_2027170887301279744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027170887301279744/img/vzsjVBLNCD1_PK-8.jpg",
+        "public_metrics": {
+          "view_count": 3661690
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027170887301279744/vid/avc1/320x568/T1wl3ziJIcFTcRfO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027170887301279744/vid/avc1/480x852/x_mdiIAcKTU1WTnD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027170887301279744/vid/avc1/576x1024/aS4bcAEXsRiLUrdg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027170887301279744/pl/il9zdSgo33pIIEeN.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          }
+        ],
+        "conversation_id": "2027591661740822583",
+        "created_at": "2026-02-28T03:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027591661740822583"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Tsukhime Trial Edition",
+              "probability": 0.7612,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": "US",
+              "probability": 0.4359,
+              "start": 125,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "576384376",
+              "start": 3,
+              "username": "TehKeripo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027591661740822583",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027171532825571678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TehKeripo: My Tsukhime Trial Edition (月姫 体験版) finally arrived, one of only 50 copies in the world. Only to discover that US Customs had…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027170787829190656",
+            "13_2027170887301279744"
+          ]
+        },
+        "author_id": "576384376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448422092655845378",
+              "name": "Tsukihime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          }
+        ],
+        "conversation_id": "2027171532825571678",
+        "created_at": "2026-02-26T23:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027171532825571678"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Tsukhime Trial Edition",
+              "probability": 0.8867,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 119,
+              "normalized_text": "US Customs",
+              "probability": 0.3989,
+              "start": 110,
+              "type": "Other"
+            },
+            {
+              "end": 254,
+              "normalized_text": "TYPEMOON",
+              "probability": 0.5227,
+              "start": 247,
+              "type": "Other"
+            },
+            {
+              "end": 265,
+              "normalized_text": "Tsukihime",
+              "probability": 0.538,
+              "start": 257,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 255,
+              "start": 246,
+              "tag": "TYPEMOON"
+            },
+            {
+              "end": 266,
+              "start": 256,
+              "tag": "Tsukihime"
+            },
+            {
+              "end": 270,
+              "start": 267,
+              "tag": "月姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8Mup326Zs",
+              "end": 294,
+              "expanded_url": "https://x.com/TehKeripo/status/2027171532825571678/video/1",
+              "media_key": "3_2027170787829190656",
+              "start": 271,
+              "url": "https://t.co/i8Mup326Zs"
+            },
+            {
+              "display_url": "pic.x.com/i8Mup326Zs",
+              "end": 294,
+              "expanded_url": "https://x.com/TehKeripo/status/2027171532825571678/video/1",
+              "media_key": "13_2027170887301279744",
+              "start": 271,
+              "url": "https://t.co/i8Mup326Zs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027171532825571678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11274,
+          "impression_count": 14588967,
+          "like_count": 84799,
+          "quote_count": 3624,
+          "reply_count": 1440,
+          "retweet_count": 16114
+        },
+        "reply_settings": "everyone",
+        "text": "My Tsukhime Trial Edition (月姫 体験版) finally arrived, one of only 50 copies in the world. Only to discover that US Customs had removed all the bubble wrap and physically destroyed the floppy disk. Will file a report but literally crying right now😭\n#TYPEMOON #Tsukihime #月姫 https://t.co/i8Mup326Zs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 338,
+          "like_count": 93326,
+          "listed_count": 3,
+          "media_count": 1522,
+          "tweet_count": 15196
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-10T16:41:44.000Z",
+        "description": "Developer, gamer, cosplayer, otaku. Occasionally shares TYPE-MOON or gaming stuff here.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "keripo.com",
+                "end": 23,
+                "expanded_url": "https://keripo.com/",
+                "start": 0,
+                "url": "https://t.co/R4zYu1SgJl"
+              }
+            ]
+          }
+        },
+        "id": "576384376",
+        "name": "Keripo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000428233777/28840c15046674eb21b34e7ab0ef4340_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 7,
+          "media_count": 1884,
+          "tweet_count": 6536
+        },
+        "url": "https://t.co/R4zYu1SgJl",
+        "username": "TehKeripo",
+        "verified": false
+      }
+    ]
+  }
+}

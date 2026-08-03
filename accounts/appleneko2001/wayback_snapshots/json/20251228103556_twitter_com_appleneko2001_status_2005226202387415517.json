@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004900330379640832"
+      ],
+      "media_source_tweet_id": [
+        "2004900333076594706"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2005226202387415517",
+    "created_at": "2025-12-28T10:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T11:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005226202387415517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1492677599390322689",
+          "start": 3,
+          "username": "nocontextmemes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qhNzrL1oMv",
+          "end": 43,
+          "expanded_url": "https://x.com/nocontextmemes/status/2004900333076594706/photo/1",
+          "media_key": "3_2004900330379640832",
+          "start": 20,
+          "url": "https://t.co/qhNzrL1oMv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005226202387415517",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 298
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004900333076594706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nocontextmemes: https://t.co/qhNzrL1oMv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2004900330379640832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9LWOmJXgAAI8Ru.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004900330379640832"
+          ],
+          "media_source_tweet_id": [
+            "2004900333076594706"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2005226202387415517",
+        "created_at": "2025-12-28T10:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005226202387415517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1492677599390322689",
+              "start": 3,
+              "username": "nocontextmemes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhNzrL1oMv",
+              "end": 43,
+              "expanded_url": "https://x.com/nocontextmemes/status/2004900333076594706/photo/1",
+              "media_key": "3_2004900330379640832",
+              "start": 20,
+              "url": "https://t.co/qhNzrL1oMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005226202387415517",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 298
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004900333076594706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nocontextmemes: https://t.co/qhNzrL1oMv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004900330379640832"
+          ]
+        },
+        "author_id": "1492677599390322689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2004900333076594706",
+        "created_at": "2025-12-27T13:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004900333076594706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhNzrL1oMv",
+              "end": 23,
+              "expanded_url": "https://x.com/nocontextmemes/status/2004900333076594706/photo/1",
+              "media_key": "3_2004900330379640832",
+              "start": 0,
+              "url": "https://t.co/qhNzrL1oMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004900333076594706",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 64078,
+          "like_count": 4514,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 298
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qhNzrL1oMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 272,
+          "like_count": 68014,
+          "listed_count": 2,
+          "media_count": 1323,
+          "tweet_count": 12593
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T01:50:55.000Z",
+        "description": "making memes at @memelordtech | dm for promo | create your own memes easily here 👇 try for free",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "memelordtech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signup.memelord.com/weirddalle",
+                "end": 23,
+                "expanded_url": "http://signup.memelord.com/weirddalle",
+                "start": 0,
+                "url": "https://t.co/pVXiY2uBJp"
+              }
+            ]
+          }
+        },
+        "id": "1492677599390322689",
+        "name": "no context memes",
+        "pinned_tweet_id": "1997627788590010569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694331764091564032/My5iC3pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230856,
+          "following_count": 608,
+          "like_count": 43567,
+          "listed_count": 3824,
+          "media_count": 31424,
+          "tweet_count": 33939
+        },
+        "url": "https://t.co/pVXiY2uBJp",
+        "username": "nocontextmemes",
+        "verified": true
+      }
+    ]
+  }
+}

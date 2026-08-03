@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2035716813116620821",
+    "created_at": "2026-03-22T13:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T14:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035716813116620821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "147786784",
+          "start": 3,
+          "username": "yetone"
+        },
+        {
+          "end": 53,
+          "id": "974517717200875529",
+          "start": 38,
+          "username": "localhost_4173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035716813116620821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978389976124469453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yetone: 殊不知 Twitter 一直隐藏着杀人如麻的恶魔： @localhost_4173 ，因为他对 Tauri 的推广，多少开发者正在被 Tauri 无脑的 bug 浪费着自己的人生、屠杀着自己的生命，如果把这些时间换算成一个人的生命长度，在二战期间 @lo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2035716813116620821",
+        "created_at": "2026-03-22T13:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035716813116620821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "147786784",
+              "start": 3,
+              "username": "yetone"
+            },
+            {
+              "end": 53,
+              "id": "974517717200875529",
+              "start": 38,
+              "username": "localhost_4173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035716813116620821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978389976124469453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yetone: 殊不知 Twitter 一直隐藏着杀人如麻的恶魔： @localhost_4173 ，因为他对 Tauri 的推广，多少开发者正在被 Tauri 无脑的 bug 浪费着自己的人生、屠杀着自己的生命，如果把这些时间换算成一个人的生命长度，在二战期间 @lo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "147786784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1978389976124469453",
+        "created_at": "2025-10-15T09:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T10:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978389976124469453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "974517717200875529",
+              "start": 26,
+              "username": "localhost_4173"
+            },
+            {
+              "end": 139,
+              "id": "974517717200875529",
+              "start": 124,
+              "username": "localhost_4173"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/localhost_4173…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/localhost_4173/status/1978382866183504284",
+              "start": 150,
+              "url": "https://t.co/PQc8qrL03s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978389976124469453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 90145,
+          "like_count": 270,
+          "quote_count": 6,
+          "reply_count": 29,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978382866183504284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "殊不知 Twitter 一直隐藏着杀人如麻的恶魔： @localhost_4173 ，因为他对 Tauri 的推广，多少开发者正在被 Tauri 无脑的 bug 浪费着自己的人生、屠杀着自己的生命，如果把这些时间换算成一个人的生命长度，在二战期间 @localhost_4173 也能算个头号战犯了 https://t.co/PQc8qrL03s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 361,
+          "like_count": 99598,
+          "listed_count": 3,
+          "media_count": 1575,
+          "tweet_count": 16088
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "isoformai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "alma.now",
+                "end": 96,
+                "expanded_url": "https://alma.now",
+                "start": 73,
+                "url": "https://t.co/pfq9srNgsd"
+              },
+              {
+                "display_url": "confirmo.love",
+                "end": 131,
+                "expanded_url": "https://confirmo.love",
+                "start": 108,
+                "url": "https://t.co/fpGnPR5t9C"
+              },
+              {
+                "display_url": "swordgame.ai",
+                "end": 166,
+                "expanded_url": "https://swordgame.ai",
+                "start": 143,
+                "url": "https://t.co/cBN1yzJPIG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1996646348964413572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80432,
+          "following_count": 4493,
+          "like_count": 18956,
+          "listed_count": 935,
+          "media_count": 2155,
+          "tweet_count": 18850
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-16T05:28:24.000Z",
+        "description": "",
+        "id": "974517717200875529",
+        "location": "Mom's basement",
+        "name": "低空飞行",
+        "pinned_tweet_id": "1907962321751691563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966745622394138624/5Z9goIiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13045,
+          "following_count": 544,
+          "like_count": 25553,
+          "listed_count": 164,
+          "media_count": 2551,
+          "tweet_count": 8058
+        },
+        "username": "localhost_4173",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2007502072145662400",
+    "created_at": "2026-01-04T05:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T06:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007686071400964386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007686071400964386",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007589931645059408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 隱藏倉庫的問題 如果是我的話可能使用本地git託管…例如gitea或是由codeberg提供的forgejo（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2007502072145662400",
+        "created_at": "2026-01-04T05:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007686071400964386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007686071400964386",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007589931645059408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 隱藏倉庫的問題 如果是我的話可能使用本地git託管…例如gitea或是由codeberg提供的forgejo（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2007502072145662400",
+        "created_at": "2026-01-03T23:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T00:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007589931645059408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007589931645059408",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007502072145662400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww 我大部分长文都是在手机上写的（Obsidian），然后通过 git repo 同步，利用 webhook 自动触发更新（没用 ci 是因为这是私密 repo，接不了 vercel 🥲）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 274,
+          "like_count": 71373,
+          "listed_count": 2,
+          "media_count": 1349,
+          "tweet_count": 12870
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "可能是个开发者 | 性别男 | 无意义发癫警告 ⚠ | 内网更常用名: Roitium | 赛博精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98S2km"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884576882760486912/fau5N8x2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 438,
+          "like_count": 4736,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 3488
+        },
+        "url": "https://t.co/z8BZ98S2km",
+        "username": "yoshino_2333",
+        "verified": false
+      }
+    ]
+  }
+}

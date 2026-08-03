@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066102532783693824"
+      ],
+      "media_source_tweet_id": [
+        "2066102619047878791"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2069135310387097636",
+    "created_at": "2026-06-22T19:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069135310387097636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790320325198323712",
+          "start": 3,
+          "username": "kenzenmistelsub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bi35CZuHEs",
+          "end": 50,
+          "expanded_url": "https://x.com/kenzenmistelsub/status/2066102619047878791/photo/1",
+          "media_key": "3_2066102532783693824",
+          "start": 27,
+          "url": "https://t.co/bi35CZuHEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069135310387097636",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2450
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066102619047878791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kenzenmistelsub: 強風1秒前 https://t.co/bi35CZuHEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3464,
+        "media_key": "3_2066102532783693824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxFTpAbYAAE3n_.jpg",
+        "width": 2474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066102532783693824"
+          ],
+          "media_source_tweet_id": [
+            "2066102619047878791"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2069135310387097636",
+        "created_at": "2026-06-22T19:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069135310387097636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1790320325198323712",
+              "start": 3,
+              "username": "kenzenmistelsub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bi35CZuHEs",
+              "end": 50,
+              "expanded_url": "https://x.com/kenzenmistelsub/status/2066102619047878791/photo/1",
+              "media_key": "3_2066102532783693824",
+              "start": 27,
+              "url": "https://t.co/bi35CZuHEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069135310387097636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2450
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066102619047878791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kenzenmistelsub: 強風1秒前 https://t.co/bi35CZuHEs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066102532783693824"
+          ]
+        },
+        "author_id": "1790320325198323712",
+        "conversation_id": "2066102619047878791",
+        "created_at": "2026-06-14T10:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066102619047878791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bi35CZuHEs",
+              "end": 29,
+              "expanded_url": "https://x.com/kenzenmistelsub/status/2066102619047878791/photo/1",
+              "media_key": "3_2066102532783693824",
+              "start": 6,
+              "url": "https://t.co/bi35CZuHEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066102619047878791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2807,
+          "impression_count": 170810,
+          "like_count": 22487,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 2450
+        },
+        "reply_settings": "everyone",
+        "text": "強風1秒前 https://t.co/bi35CZuHEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 269,
+          "like_count": 111185,
+          "listed_count": 2,
+          "media_count": 1677,
+          "tweet_count": 17624
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:56:54.000Z",
+        "description": "mistelです。\n毎日ホシノを描きます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sukebemistel.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://sukebemistel.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/eXZ4COqhYO"
+              }
+            ]
+          }
+        },
+        "id": "1790320325198323712",
+        "name": "みすてる@C108(土)東１-ア26ab",
+        "pinned_tweet_id": "2062809295214055804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793130927692083201/T5k2Lj44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107301,
+          "following_count": 82,
+          "like_count": 1251,
+          "listed_count": 493,
+          "media_count": 443,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/eXZ4COqhYO",
+        "username": "kenzenmistelsub",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1955392570730958904",
+    "created_at": "2026-03-22T13:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T14:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035717883708494249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "758295043337617408",
+          "start": 0,
+          "username": "lazy_static"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035717883708494249",
+    "in_reply_to_user_id": "758295043337617408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955392570730958904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lazy_static 难绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25476,
+        "height": 720,
+        "media_key": "7_1955392506025349121",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1955392506025349121/pu/img/ovgtVOYlUCxKYLSt.jpg",
+        "public_metrics": {
+          "view_count": 1009
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955392506025349121/pu/vid/avc1/480x270/sBpU6q-9DCj4fGPp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955392506025349121/pu/vid/avc1/640x360/SGOJiqfcY9Q5Sks2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955392506025349121/pu/vid/avc1/1280x720/wofFK1LZK7uTIbPx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1955392506025349121/pu/pl/ATvjOHBoAcw4bKWD.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1955392570730958904",
+        "created_at": "2026-03-22T13:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035717883708494249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "758295043337617408",
+              "start": 0,
+              "username": "lazy_static"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035717883708494249",
+        "in_reply_to_user_id": "758295043337617408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955392570730958904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lazy_static 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1955392506025349121"
+          ]
+        },
+        "author_id": "758295043337617408",
+        "conversation_id": "1955392570730958904",
+        "created_at": "2025-08-12T22:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T23:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955392570730958904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qUrDrHvQe",
+              "end": 30,
+              "expanded_url": "https://x.com/lazy_static/status/1955392570730958904/video/1",
+              "media_key": "7_1955392506025349121",
+              "start": 7,
+              "url": "https://t.co/8qUrDrHvQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955392570730958904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2406,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这个作贼心虚 https://t.co/8qUrDrHvQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 361,
+          "like_count": 99611,
+          "listed_count": 3,
+          "media_count": 1575,
+          "tweet_count": 16090
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:36:41.000Z",
+        "description": "喵喵！/ ᠪᡳ ᠣᠴᡳ ᡝᠮᡠ ᡴᡝᠰᡳᡴᡝ᠈ ᡨᡝᡩᡝ ᡤᡝᠪᡠ ᠠᡴᡡ᠉\n\noverflowcat at https://t.co/h7O3I4XlCs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mastodon.social",
+                "end": 78,
+                "expanded_url": "http://mastodon.social",
+                "start": 55,
+                "url": "https://t.co/h7O3I4XlCs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.xinshijiededa.men",
+                "end": 23,
+                "expanded_url": "http://blog.xinshijiededa.men",
+                "start": 0,
+                "url": "https://t.co/6fBYGR8mNr"
+              }
+            ]
+          }
+        },
+        "id": "758295043337617408",
+        "location": "404号室",
+        "name": "ᠨᡝᡴᠣ",
+        "pinned_tweet_id": "1718672213585301620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775211265394098177/mvOWjr6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 1812,
+          "like_count": 271046,
+          "listed_count": 17,
+          "media_count": 2683,
+          "tweet_count": 14544
+        },
+        "url": "https://t.co/6fBYGR8mNr",
+        "username": "lazy_static",
+        "verified": false
+      }
+    ]
+  }
+}

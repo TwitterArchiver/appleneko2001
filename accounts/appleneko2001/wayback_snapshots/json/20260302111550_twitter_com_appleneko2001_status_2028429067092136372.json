@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028092564180729856"
+      ],
+      "media_source_tweet_id": [
+        "2028093189589229729"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2028429067092136372",
+    "created_at": "2026-03-02T11:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T12:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028429067092136372"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Chrome",
+          "probability": 0.4764,
+          "start": 15,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1446085940435320834",
+          "start": 3,
+          "username": "gruppeos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wNs4CZqWII",
+          "end": 52,
+          "expanded_url": "https://x.com/gruppeos/status/2028093189589229729/photo/1",
+          "media_key": "3_2028092564180729856",
+          "start": 29,
+          "url": "https://t.co/wNs4CZqWII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028429067092136372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 603
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028093189589229729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gruppeos: →Chromeをダウンロード https://t.co/wNs4CZqWII"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2028092564180729856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU7cRuagAAEJOP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028092564180729856"
+          ],
+          "media_source_tweet_id": [
+            "2028093189589229729"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2028429067092136372",
+        "created_at": "2026-03-02T11:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028429067092136372"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Chrome",
+              "probability": 0.4764,
+              "start": 15,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1446085940435320834",
+              "start": 3,
+              "username": "gruppeos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNs4CZqWII",
+              "end": 52,
+              "expanded_url": "https://x.com/gruppeos/status/2028093189589229729/photo/1",
+              "media_key": "3_2028092564180729856",
+              "start": 29,
+              "url": "https://t.co/wNs4CZqWII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028429067092136372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 603
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028093189589229729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gruppeos: →Chromeをダウンロード https://t.co/wNs4CZqWII"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028092564180729856"
+          ]
+        },
+        "author_id": "1446085940435320834",
+        "conversation_id": "2028093189589229729",
+        "created_at": "2026-03-01T13:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028093189589229729"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Chrome",
+              "probability": 0.5734,
+              "start": 1,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNs4CZqWII",
+              "end": 38,
+              "expanded_url": "https://x.com/gruppeos/status/2028093189589229729/photo/1",
+              "media_key": "3_2028092564180729856",
+              "start": 15,
+              "url": "https://t.co/wNs4CZqWII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028093189589229729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1138,
+          "impression_count": 121835,
+          "like_count": 6359,
+          "quote_count": 27,
+          "reply_count": 31,
+          "retweet_count": 603
+        },
+        "reply_settings": "everyone",
+        "text": "→Chromeをダウンロード https://t.co/wNs4CZqWII"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 345,
+          "like_count": 95111,
+          "listed_count": 3,
+          "media_count": 1544,
+          "tweet_count": 15477
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T12:12:24.000Z",
+        "description": "女の子を描きたい￤▒ BSKY : https://t.co/jKkOWnyxOC ￤▒ PIXIV : https://t.co/daR2Z3JFkL￤▒ SKEB : https://t.co/gAPAjBpTNC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/gruppe…",
+                "end": 41,
+                "expanded_url": "https://bsky.app/profile/gruppeos.bsky.social",
+                "start": 18,
+                "url": "https://t.co/jKkOWnyxOC"
+              },
+              {
+                "display_url": "pixiv.net/users/78513929",
+                "end": 76,
+                "expanded_url": "http://pixiv.net/users/78513929",
+                "start": 53,
+                "url": "https://t.co/daR2Z3JFkL"
+              },
+              {
+                "display_url": "skeb.jp/@gruppeos",
+                "end": 109,
+                "expanded_url": "http://skeb.jp/@gruppeos",
+                "start": 86,
+                "url": "https://t.co/gAPAjBpTNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gruppeos?utm_m…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/gruppeos?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Lc9xOf4njI"
+              }
+            ]
+          }
+        },
+        "id": "1446085940435320834",
+        "location": "Meridiano",
+        "name": "Gruppe",
+        "pinned_tweet_id": "1905199701592621112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998444026081751040/0TTZb0PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7186,
+          "following_count": 385,
+          "like_count": 39152,
+          "listed_count": 53,
+          "media_count": 563,
+          "tweet_count": 14001
+        },
+        "url": "https://t.co/Lc9xOf4njI",
+        "username": "gruppeos",
+        "verified": false
+      }
+    ]
+  }
+}

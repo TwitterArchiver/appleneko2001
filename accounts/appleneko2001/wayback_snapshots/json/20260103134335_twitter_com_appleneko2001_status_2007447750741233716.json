@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007447681958846464"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2007433247479730580",
+    "created_at": "2026-01-03T13:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T14:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007447750741233716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1297181001521590273",
+          "start": 0,
+          "username": "julystratus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1EuXYsCYyU",
+          "end": 64,
+          "expanded_url": "https://x.com/appleneko2001/status/2007447750741233716/photo/1",
+          "media_key": "3_2007447681958846464",
+          "start": 41,
+          "url": "https://t.co/1EuXYsCYyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007447750741233716",
+    "in_reply_to_user_id": "1297181001521590273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007440036585673010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@julystratus 沒 我一開始用的是正常版HMCL\n現在在下載Prism https://t.co/1EuXYsCYyU"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007440036585673010].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007440036585673010",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007440036585673010"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "installing prismlauncher with flatpak",
+        "height": 833,
+        "media_key": "3_2007447681958846464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vjB-RWoAAXTAE.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007447681958846464"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2007433247479730580",
+        "created_at": "2026-01-03T13:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T14:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007447750741233716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1297181001521590273",
+              "start": 0,
+              "username": "julystratus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1EuXYsCYyU",
+              "end": 64,
+              "expanded_url": "https://x.com/appleneko2001/status/2007447750741233716/photo/1",
+              "media_key": "3_2007447681958846464",
+              "start": 41,
+              "url": "https://t.co/1EuXYsCYyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007447750741233716",
+        "in_reply_to_user_id": "1297181001521590273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007440036585673010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@julystratus 沒 我一開始用的是正常版HMCL\n現在在下載Prism https://t.co/1EuXYsCYyU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 274,
+          "like_count": 71174,
+          "listed_count": 2,
+          "media_count": 1345,
+          "tweet_count": 12852
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-22T14:37:23.000Z",
+        "description": "😼",
+        "id": "1297181001521590273",
+        "name": "🍋贅沢は無能の結果だ。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806680265840050176/U5eQVTdm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 324,
+          "like_count": 81272,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 3092
+        },
+        "username": "julystratus",
+        "verified": false
+      }
+    ]
+  }
+}

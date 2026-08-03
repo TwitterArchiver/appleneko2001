@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2004561224827388405",
+    "created_at": "2025-12-27T05:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004786224591241365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "296593919",
+          "start": 0,
+          "username": "vikingmute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004786224591241365",
+    "in_reply_to_user_id": "296593919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004561224827388405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vikingmute 很好奇這個瀏覽器用起來怎麽樣\n我本身就是用ungoogled用很久了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1942,
+        "media_key": "3_2004560862703673344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Ghe-gaYAAfzrC.jpg",
+        "width": 2702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2004561224827388405",
+        "created_at": "2025-12-27T05:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004786224591241365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "296593919",
+              "start": 0,
+              "username": "vikingmute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004786224591241365",
+        "in_reply_to_user_id": "296593919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004561224827388405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vikingmute 很好奇這個瀏覽器用起來怎麽樣\n我本身就是用ungoogled用很久了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004560862703673344"
+          ]
+        },
+        "author_id": "296593919",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google - AI",
+              "id": "10050907858",
+              "name": "Google - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2004561224827388405",
+        "created_at": "2025-12-26T14:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004561224827388405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise. Fully open source.",
+              "display_url": "helium.computer",
+              "end": 47,
+              "expanded_url": "https://helium.computer/",
+              "images": [
+                {
+                  "height": 945,
+                  "url": "https://pbs.twimg.com/news_img/2002458210347999232/YcFrtZFD?format=png&name=orig",
+                  "width": 1800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2002458210347999232/YcFrtZFD?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Helium Browser",
+              "unwound_url": "https://helium.computer/",
+              "url": "https://t.co/KYth1UaMmM"
+            },
+            {
+              "display_url": "pic.x.com/TYvgzqFRrO",
+              "end": 191,
+              "expanded_url": "https://x.com/vikingmute/status/2004561224827388405/photo/1",
+              "media_key": "3_2004560862703673344",
+              "start": 168,
+              "url": "https://t.co/TYvgzqFRrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004561224827388405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "helium.computer",
+                "end": 47,
+                "expanded_url": "https://helium.computer/",
+                "start": 24,
+                "url": "https://t.co/P4zfO840Ol"
+              }
+            ]
+          },
+          "text": "最近一个月尝试把 Helium 作为主力浏览器，https://t.co/P4zfO840Ol\n\n我现在越来越喜欢极简的解决方案了，简洁，无冗余，安全，注重隐私，去除了各种 google 跟踪的东西，关键是没有 AI。资源占用低，不必忍受 Chrome 的内存占用，基于 ungoogled-chromium ，支持所有 Chrome 扩展，也支持导入书签。支持 split view\n\n每次打开一个非常干净的界面就很舒服，我已经能做到大约一大半时间都在使用它了。\n\n极力推荐各位极简爱好者使用一下。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 33126,
+          "like_count": 215,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "最近一个月尝试把 Helium 作为主力浏览器，https://t.co/KYth1UaMmM\n\n我现在越来越喜欢极简的解决方案了，简洁，无冗余，安全，注重隐私，去除了各种 google 跟踪的东西，关键是没有 AI。资源占用低，不必忍受 Chrome 的内存占用，基于 ungoogled-chromium ，支持所有 Chrome https://t.co/TYvgzqFRrO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67745,
+          "listed_count": 2,
+          "media_count": 1321,
+          "tweet_count": 12558
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "easycv.cn",
+                "end": 44,
+                "expanded_url": "http://easycv.cn",
+                "start": 21,
+                "url": "https://t.co/xMu5JFIGnr"
+              },
+              {
+                "display_url": "imooc.com/t/6012904",
+                "end": 96,
+                "expanded_url": "http://www.imooc.com/t/6012904",
+                "start": 73,
+                "url": "https://t.co/NTyFFrvHwL"
+              },
+              {
+                "display_url": "vikingz.me/1000-days",
+                "end": 136,
+                "expanded_url": "http://vikingz.me/1000-days",
+                "start": 113,
+                "url": "https://t.co/bonuLQCCsY"
+              },
+              {
+                "display_url": "youtube.com/@vikingzhang",
+                "end": 166,
+                "expanded_url": "http://www.youtube.com/@vikingzhang",
+                "start": 143,
+                "url": "https://t.co/aQYLgujIyC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "location": "Shanghai",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61279,
+          "following_count": 280,
+          "like_count": 884,
+          "listed_count": 627,
+          "media_count": 1374,
+          "tweet_count": 2795
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true
+      }
+    ]
+  }
+}

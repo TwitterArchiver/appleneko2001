@@ -1,0 +1,617 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003228897400573952",
+        "3_2003228931223371776",
+        "3_2003229012483866624",
+        "3_2003229051969052672"
+      ],
+      "media_source_tweet_id": [
+        "2003229150719664318",
+        "2003229150719664318",
+        "2003229150719664318",
+        "2003229150719664318"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2003519031987544498",
+    "created_at": "2025-12-23T17:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T18:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003519031987544498"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 71,
+          "normalized_text": "Tokyo",
+          "probability": 0.4845,
+          "start": 67,
+          "type": "Place"
+        },
+        {
+          "end": 78,
+          "normalized_text": "Japan",
+          "probability": 0.9128,
+          "start": 74,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "283244090",
+          "start": 3,
+          "username": "noealz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kBu30XnBuy",
+          "end": 103,
+          "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+          "media_key": "3_2003228897400573952",
+          "start": 80,
+          "url": "https://t.co/kBu30XnBuy"
+        },
+        {
+          "display_url": "pic.x.com/kBu30XnBuy",
+          "end": 103,
+          "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+          "media_key": "3_2003228931223371776",
+          "start": 80,
+          "url": "https://t.co/kBu30XnBuy"
+        },
+        {
+          "display_url": "pic.x.com/kBu30XnBuy",
+          "end": 103,
+          "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+          "media_key": "3_2003229012483866624",
+          "start": 80,
+          "url": "https://t.co/kBu30XnBuy"
+        },
+        {
+          "display_url": "pic.x.com/kBu30XnBuy",
+          "end": 103,
+          "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+          "media_key": "3_2003229051969052672",
+          "start": 80,
+          "url": "https://t.co/kBu30XnBuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003519031987544498",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003229150719664318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noealz: Living in an anime world - see below for  references~\n\nTokyo, Japan https://t.co/kBu30XnBuy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2003228897400573952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8zmEZFb0AAHwEk.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2003228931223371776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8zmGXFawAAGywt.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2003229012483866624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8zmLFzbgAA-JZK.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2003229051969052672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8zmNY5boAA_BtH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003228897400573952",
+            "3_2003228931223371776",
+            "3_2003229012483866624",
+            "3_2003229051969052672"
+          ],
+          "media_source_tweet_id": [
+            "2003229150719664318",
+            "2003229150719664318",
+            "2003229150719664318",
+            "2003229150719664318"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2003519031987544498",
+        "created_at": "2025-12-23T17:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T18:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003519031987544498"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "Tokyo",
+              "probability": 0.4845,
+              "start": 67,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Japan",
+              "probability": 0.9128,
+              "start": 74,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "283244090",
+              "start": 3,
+              "username": "noealz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBu30XnBuy",
+              "end": 103,
+              "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+              "media_key": "3_2003228897400573952",
+              "start": 80,
+              "url": "https://t.co/kBu30XnBuy"
+            },
+            {
+              "display_url": "pic.x.com/kBu30XnBuy",
+              "end": 103,
+              "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+              "media_key": "3_2003228931223371776",
+              "start": 80,
+              "url": "https://t.co/kBu30XnBuy"
+            },
+            {
+              "display_url": "pic.x.com/kBu30XnBuy",
+              "end": 103,
+              "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+              "media_key": "3_2003229012483866624",
+              "start": 80,
+              "url": "https://t.co/kBu30XnBuy"
+            },
+            {
+              "display_url": "pic.x.com/kBu30XnBuy",
+              "end": 103,
+              "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+              "media_key": "3_2003229051969052672",
+              "start": 80,
+              "url": "https://t.co/kBu30XnBuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003519031987544498",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003229150719664318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noealz: Living in an anime world - see below for  references~\n\nTokyo, Japan https://t.co/kBu30XnBuy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003228897400573952",
+            "3_2003228931223371776",
+            "3_2003229012483866624",
+            "3_2003229051969052672"
+          ]
+        },
+        "author_id": "283244090",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2003229150719664318",
+        "created_at": "2025-12-22T22:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T23:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003229150719664318"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "Japan",
+              "probability": 0.9,
+              "start": 62,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBu30XnBuy",
+              "end": 91,
+              "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+              "media_key": "3_2003228897400573952",
+              "start": 68,
+              "url": "https://t.co/kBu30XnBuy"
+            },
+            {
+              "display_url": "pic.x.com/kBu30XnBuy",
+              "end": 91,
+              "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+              "media_key": "3_2003228931223371776",
+              "start": 68,
+              "url": "https://t.co/kBu30XnBuy"
+            },
+            {
+              "display_url": "pic.x.com/kBu30XnBuy",
+              "end": 91,
+              "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+              "media_key": "3_2003229012483866624",
+              "start": 68,
+              "url": "https://t.co/kBu30XnBuy"
+            },
+            {
+              "display_url": "pic.x.com/kBu30XnBuy",
+              "end": 91,
+              "expanded_url": "https://x.com/noealz/status/2003229150719664318/photo/1",
+              "media_key": "3_2003229051969052672",
+              "start": 68,
+              "url": "https://t.co/kBu30XnBuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003229150719664318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 667,
+          "impression_count": 63633,
+          "like_count": 2928,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "Living in an anime world - see below for  references~\n\nTokyo, Japan https://t.co/kBu30XnBuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67154,
+          "listed_count": 2,
+          "media_count": 1318,
+          "tweet_count": 12474
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-16T22:12:38.000Z",
+        "description": "Capturing rainy nights differently 📷 | Join https://t.co/ZsyTKpHr7a | NFTs https://t.co/CEKekaDXD3 | Prints https://t.co/0Fn3vPLnaO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/3SebxjEWKu",
+                "end": 67,
+                "expanded_url": "http://discord.gg/3SebxjEWKu",
+                "start": 44,
+                "url": "https://t.co/ZsyTKpHr7a"
+              },
+              {
+                "display_url": "lynkfire.com/Noealz",
+                "end": 98,
+                "expanded_url": "http://lynkfire.com/Noealz",
+                "start": 75,
+                "url": "https://t.co/CEKekaDXD3"
+              },
+              {
+                "display_url": "linktr.ee/noealzii",
+                "end": 131,
+                "expanded_url": "http://linktr.ee/noealzii",
+                "start": 108,
+                "url": "https://t.co/0Fn3vPLnaO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noealz.com",
+                "end": 23,
+                "expanded_url": "http://www.noealz.com",
+                "start": 0,
+                "url": "https://t.co/20qb8Hd4TZ"
+              }
+            ]
+          }
+        },
+        "id": "283244090",
+        "location": "Seoul, South Korea",
+        "name": "Noealz",
+        "pinned_tweet_id": "1740312059827642445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563912506527055873/hZov-qeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42521,
+          "following_count": 4244,
+          "like_count": 64583,
+          "listed_count": 583,
+          "media_count": 4968,
+          "tweet_count": 26149
+        },
+        "url": "https://t.co/20qb8Hd4TZ",
+        "username": "noealz",
+        "verified": true
+      }
+    ]
+  }
+}

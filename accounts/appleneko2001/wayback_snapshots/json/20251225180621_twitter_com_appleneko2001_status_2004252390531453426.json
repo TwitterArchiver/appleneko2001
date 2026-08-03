@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2004252390531453426",
+    "created_at": "2025-12-25T18:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T19:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004252390531453426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "254851308",
+          "start": 3,
+          "username": "petit_flare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/EsC",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/EsC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004252390531453426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004190024523559119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @petit_flare: pixivリクエスト4件目納品しました！\n依頼者様から好みの髪型や雰囲気をご指定いただき創作制服の女の子を描かせていただきました✨\n青色基調で爽やかなイメージになったと思います☺\nご依頼ありがとうございました！ https://t.co/EsC…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2004190018357907456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BQM_qbUAA-76c.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2004252390531453426",
+        "created_at": "2025-12-25T18:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004252390531453426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "254851308",
+              "start": 3,
+              "username": "petit_flare"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/EsC",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/EsC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004252390531453426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004190024523559119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @petit_flare: pixivリクエスト4件目納品しました！\n依頼者様から好みの髪型や雰囲気をご指定いただき創作制服の女の子を描かせていただきました✨\n青色基調で爽やかなイメージになったと思います☺\nご依頼ありがとうございました！ https://t.co/EsC…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004190018357907456"
+          ]
+        },
+        "author_id": "254851308",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2004190024523559119",
+        "created_at": "2025-12-25T13:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004190024523559119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EsCu3Bdl1S",
+              "end": 129,
+              "expanded_url": "https://x.com/petit_flare/status/2004190024523559119/photo/1",
+              "media_key": "3_2004190018357907456",
+              "start": 106,
+              "url": "https://t.co/EsCu3Bdl1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004190024523559119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 5975,
+          "like_count": 461,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "pixivリクエスト4件目納品しました！\n依頼者様から好みの髪型や雰囲気をご指定いただき創作制服の女の子を描かせていただきました✨\n青色基調で爽やかなイメージになったと思います☺\nご依頼ありがとうございました！ https://t.co/EsCu3Bdl1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67340,
+          "listed_count": 2,
+          "media_count": 1319,
+          "tweet_count": 12510
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-20T04:11:16.000Z",
+        "description": "主に制服の女の子の絵を描くイラストレーターです。Xを主軸にゆるく活動してます。名古屋襟のセーラー服が好き。著書『愛知県JK制服目録』→ https://t.co/OYXtTt6ofj 同人誌通販(新刊以外はPDF版)→ https://t.co/o50mBAlKyd ご連絡はメールかDMへお気軽に！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.asia/d/4IUOVYX",
+                "end": 91,
+                "expanded_url": "https://amzn.asia/d/4IUOVYX",
+                "start": 68,
+                "url": "https://t.co/OYXtTt6ofj"
+              },
+              {
+                "display_url": "petit-flare.booth.pm",
+                "end": 133,
+                "expanded_url": "https://petit-flare.booth.pm/",
+                "start": 110,
+                "url": "https://t.co/o50mBAlKyd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/petit-flare",
+                "end": 23,
+                "expanded_url": "https://potofu.me/petit-flare",
+                "start": 0,
+                "url": "https://t.co/NqS8qi16Ou"
+              }
+            ]
+          }
+        },
+        "id": "254851308",
+        "location": "初恋プチフレア",
+        "name": "さといも屋",
+        "pinned_tweet_id": "1854159907551121702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/898841660787904512/fdDoZiRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27620,
+          "following_count": 227,
+          "like_count": 2455,
+          "listed_count": 470,
+          "media_count": 368,
+          "tweet_count": 16094
+        },
+        "url": "https://t.co/NqS8qi16Ou",
+        "username": "petit_flare",
+        "verified": false
+      }
+    ]
+  }
+}

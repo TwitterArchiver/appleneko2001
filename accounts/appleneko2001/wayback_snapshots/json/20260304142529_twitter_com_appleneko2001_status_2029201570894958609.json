@@ -1,0 +1,720 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028832452979142656"
+      ],
+      "media_source_tweet_id": [
+        "2028832712023535830"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes all conversations about travel and vacation.",
+          "id": "839161975712067584",
+          "name": "Travel Actions"
+        }
+      }
+    ],
+    "conversation_id": "2029201570894958609",
+    "created_at": "2026-03-04T14:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T15:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029201570894958609"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "Maki",
+          "probability": 0.3478,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1088424471118065664",
+          "start": 3,
+          "username": "Plu5339"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9NGqCPWelD",
+          "end": 57,
+          "expanded_url": "https://x.com/Plu5339/status/2028832712023535830/photo/1",
+          "media_key": "3_2028832452979142656",
+          "start": 34,
+          "url": "https://t.co/9NGqCPWelD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029201570894958609",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028832712023535830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Plu5339: Maki Camping🏕️\n#ブルアカ https://t.co/9NGqCPWelD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2028832452979142656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfcXeSbMAAfGZv.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028832452979142656"
+          ],
+          "media_source_tweet_id": [
+            "2028832712023535830"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "2029201570894958609",
+        "created_at": "2026-03-04T14:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029201570894958609"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Maki",
+              "probability": 0.3478,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1088424471118065664",
+              "start": 3,
+              "username": "Plu5339"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NGqCPWelD",
+              "end": 57,
+              "expanded_url": "https://x.com/Plu5339/status/2028832712023535830/photo/1",
+              "media_key": "3_2028832452979142656",
+              "start": 34,
+              "url": "https://t.co/9NGqCPWelD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029201570894958609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028832712023535830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Plu5339: Maki Camping🏕️\n#ブルアカ https://t.co/9NGqCPWelD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028832452979142656"
+          ]
+        },
+        "author_id": "1088424471118065664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "2028832712023535830",
+        "created_at": "2026-03-03T13:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028832712023535830"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Maki",
+              "probability": 0.4384,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 19,
+              "normalized_text": "ブルアカ",
+              "probability": 0.5285,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NGqCPWelD",
+              "end": 44,
+              "expanded_url": "https://x.com/Plu5339/status/2028832712023535830/photo/1",
+              "media_key": "3_2028832452979142656",
+              "start": 21,
+              "url": "https://t.co/9NGqCPWelD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028832712023535830",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 8670,
+          "like_count": 930,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "Maki Camping🏕️\n#ブルアカ https://t.co/9NGqCPWelD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 349,
+          "like_count": 96454,
+          "listed_count": 3,
+          "media_count": 1558,
+          "tweet_count": 15666
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-24T13:13:10.000Z",
+        "description": "🎨귀엽고 야하게 그림\nMain : ブルアカ(BlueArchieve)\n\n후원 : https://t.co/T0ZMdeRCTo\n픽시브 레퀘스트 : https://t.co/5AbAKFSenF\n\n커미션 및 기타문의 → DM or pixiv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shasa2456.fanbox.cc",
+                "end": 67,
+                "expanded_url": "https://shasa2456.fanbox.cc",
+                "start": 44,
+                "url": "https://t.co/T0ZMdeRCTo"
+              },
+              {
+                "display_url": "pixiv.net/request/plans/…",
+                "end": 102,
+                "expanded_url": "https://www.pixiv.net/request/plans/1753",
+                "start": 79,
+                "url": "https://t.co/5AbAKFSenF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42611281",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/42611281",
+                "start": 0,
+                "url": "https://t.co/vYsaZtvu5o"
+              }
+            ]
+          }
+        },
+        "id": "1088424471118065664",
+        "location": "japan",
+        "name": "플루쟝",
+        "pinned_tweet_id": "2012859260888318031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640744245786206208/e8ifBe8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11849,
+          "following_count": 223,
+          "like_count": 8533,
+          "listed_count": 28,
+          "media_count": 643,
+          "tweet_count": 6246
+        },
+        "url": "https://t.co/vYsaZtvu5o",
+        "username": "Plu5339",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2006088478581252516",
+    "created_at": "2025-12-30T19:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T20:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006088478581252516"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "Linux",
+          "probability": 0.9077,
+          "start": 5,
+          "type": "Other"
+        },
+        {
+          "end": 44,
+          "normalized_text": "gabecube",
+          "probability": 0.5328,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/itsfoss2/statu…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/itsfoss2/status/2005936349120270511",
+          "start": 64,
+          "url": "https://t.co/xK6GlbX87V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006088478581252516",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005936349120270511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Wish Linux being better \nAlso I like gabecube dont ask why hehe https://t.co/xK6GlbX87V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2006088478581252516",
+        "created_at": "2025-12-30T19:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T20:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006088478581252516"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Linux",
+              "probability": 0.9077,
+              "start": 5,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "gabecube",
+              "probability": 0.5328,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/itsfoss2/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/itsfoss2/status/2005936349120270511",
+              "start": 64,
+              "url": "https://t.co/xK6GlbX87V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006088478581252516",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005936349120270511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Wish Linux being better \nAlso I like gabecube dont ask why hehe https://t.co/xK6GlbX87V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850079111657779205",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2005936349120270511",
+        "created_at": "2025-12-30T09:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005936349120270511"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Linux",
+              "probability": 0.9454,
+              "start": 39,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005936349120270511",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "In case no one told you this: choosing Linux takes courage.\n\nI’m proud of you for stepping out of your comfort zone. \n\nYour confusion is understandable but look back where you were at the beginning of 2025 and where you are when the year is ending.\n\nEvery small improvement counts.\n\nIf it ever feels overwhelming, remember that It's FOSS community is rooting for you.\n\nWe need more determined people like you 💪"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8174,
+          "like_count": 240,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "In case no one told you this: choosing Linux takes courage.\n\nI’m proud of you for stepping out of your comfort zone. \n\nYour confusion is understandable but look back where you were at the beginning of 2025 and where you are when the year is ending.\n\nEvery small improvement"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 275,
+          "like_count": 69847,
+          "listed_count": 2,
+          "media_count": 1337,
+          "tweet_count": 12770
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-06T20:13:48.000Z",
+        "description": "Linux and Open Source Web Portal 🐧\n\nFollow us to\n- Get the latest Linux and Open Source news 📰\n- Learn Linux tips and tutorials 💡\n- Enjoy Linux memes 🤣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "itsfoss.com",
+                "end": 23,
+                "expanded_url": "https://itsfoss.com/",
+                "start": 0,
+                "url": "https://t.co/ruOsDaNFFH"
+              }
+            ]
+          }
+        },
+        "id": "850079111657779205",
+        "name": "It's FOSS",
+        "pinned_tweet_id": "1839579934668243211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875078837100589057/2fNZ7_g6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154733,
+          "following_count": 148,
+          "like_count": 23328,
+          "listed_count": 1282,
+          "media_count": 2312,
+          "tweet_count": 23811
+        },
+        "url": "https://t.co/ruOsDaNFFH",
+        "username": "itsfoss2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2011277882199589328",
+    "created_at": "2026-01-14T03:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T04:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011277882199589328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "885086674828578816",
+          "start": 3,
+          "username": "PandaTalk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011277882199589328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011175301708145115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PandaTalk8: 现在，有人愿意踏实的学点东西， 有人愿意踏实教人点东西，都是稀缺的。   \n\nAI 让我们错误的以为一切基知识都不需要学习了， 这可能才是最大的知识泡沫。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2011277882199589328",
+        "created_at": "2026-01-14T03:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T04:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011277882199589328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "885086674828578816",
+              "start": 3,
+              "username": "PandaTalk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011277882199589328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011175301708145115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PandaTalk8: 现在，有人愿意踏实的学点东西， 有人愿意踏实教人点东西，都是稀缺的。   \n\nAI 让我们错误的以为一切基知识都不需要学习了， 这可能才是最大的知识泡沫。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885086674828578816",
+        "conversation_id": "2011175301708145115",
+        "created_at": "2026-01-13T20:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T21:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011175301708145115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011175301708145115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4067,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "现在，有人愿意踏实的学点东西， 有人愿意踏实教人点东西，都是稀缺的。   \n\nAI 让我们错误的以为一切基知识都不需要学习了， 这可能才是最大的知识泡沫。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 292,
+          "like_count": 77246,
+          "listed_count": 2,
+          "media_count": 1388,
+          "tweet_count": 13318
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-12T10:41:22.000Z",
+        "description": "程序员 ｜公众号：PandaTalk8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xgrowth.xlearnity.ai",
+                "end": 23,
+                "expanded_url": "https://xgrowth.xlearnity.ai/",
+                "start": 0,
+                "url": "https://t.co/vQDmSt0qdS"
+              }
+            ]
+          }
+        },
+        "id": "885086674828578816",
+        "name": "Mr Panda",
+        "pinned_tweet_id": "2010896544585957578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738715996737933312/QHUuRDK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64302,
+          "following_count": 7137,
+          "like_count": 63338,
+          "listed_count": 411,
+          "media_count": 1353,
+          "tweet_count": 22250
+        },
+        "url": "https://t.co/vQDmSt0qdS",
+        "username": "PandaTalk8",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2076699742059577563",
+    "created_at": "2026-07-17T04:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077981307674706115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Sarooneov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077981307674706115",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076916694111662219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sarooneov 抱…\n很不容易了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2076699742059577563",
+        "created_at": "2026-07-17T04:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077981307674706115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Sarooneov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077981307674706115",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076916694111662219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sarooneov 抱…\n很不容易了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2076699742059577563",
+        "created_at": "2026-07-14T06:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076916694111662219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076916694111662219",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076699742059577563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 啊是的我的SN7100被btrfs无缘无故多了那么多读写\n哈哈哈哈哈哈哈，操！我用ext4现在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/9bx2JDcXSU"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 288,
+          "like_count": 116033,
+          "listed_count": 2,
+          "media_count": 1735,
+          "tweet_count": 18216
+        },
+        "url": "https://t.co/9bx2JDcXSU",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Produccion:2010/10/10\nHablidades:Go,astro,pnpm,前端全家桶,Linux,互联网\n性格特点：男娘，直球，说话不过脑子梦到什么说什么\n欢迎找我聊天和互关 你还可以操我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/arrjeon",
+                "end": 23,
+                "expanded_url": "https://telegram.me/arrjeon",
+                "start": 0,
+                "url": "https://t.co/MfQKiCQiDE"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "location": "En liñea todos los tempos.",
+        "name": "Las cosas🇪🇸🇲🇽🇨🇴🇦🇷🇨🇱",
+        "pinned_tweet_id": "2076293736003510356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073259657762848768/-8GxQ6y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 150,
+          "like_count": 4412,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/MfQKiCQiDE",
+        "username": "Sarooneov",
+        "verified": false
+      }
+    ]
+  }
+}

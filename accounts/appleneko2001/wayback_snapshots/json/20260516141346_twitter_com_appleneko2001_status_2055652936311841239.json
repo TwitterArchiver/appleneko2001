@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055624543142866944"
+      ],
+      "media_source_tweet_id": [
+        "2055624547702030744"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2055652936311841239",
+    "created_at": "2026-05-16T14:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055652936311841239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "138124281",
+          "start": 3,
+          "username": "yutuki_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UBmKf8R52l",
+          "end": 42,
+          "expanded_url": "https://x.com/yutuki_/status/2055624547702030744/photo/1",
+          "media_key": "3_2055624543142866944",
+          "start": 19,
+          "url": "https://t.co/UBmKf8R52l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055652936311841239",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055624547702030744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yutuki_: るん🍥🐈🩵 https://t.co/UBmKf8R52l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2055624543142866944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcLoX2a8AARgoK.jpg",
+        "width": 1119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055624543142866944"
+          ],
+          "media_source_tweet_id": [
+            "2055624547702030744"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2055652936311841239",
+        "created_at": "2026-05-16T14:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055652936311841239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "138124281",
+              "start": 3,
+              "username": "yutuki_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBmKf8R52l",
+              "end": 42,
+              "expanded_url": "https://x.com/yutuki_/status/2055624547702030744/photo/1",
+              "media_key": "3_2055624543142866944",
+              "start": 19,
+              "url": "https://t.co/UBmKf8R52l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055652936311841239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055624547702030744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yutuki_: るん🍥🐈🩵 https://t.co/UBmKf8R52l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055624543142866944"
+          ]
+        },
+        "author_id": "138124281",
+        "conversation_id": "2055624547702030744",
+        "created_at": "2026-05-16T12:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055624547702030744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBmKf8R52l",
+              "end": 29,
+              "expanded_url": "https://x.com/yutuki_/status/2055624547702030744/photo/1",
+              "media_key": "3_2055624543142866944",
+              "start": 6,
+              "url": "https://t.co/UBmKf8R52l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055624547702030744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3134,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "るん🍥🐈🩵 https://t.co/UBmKf8R52l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 351,
+          "like_count": 104737,
+          "listed_count": 3,
+          "media_count": 1636,
+          "tweet_count": 16849
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-28T17:52:13.000Z",
+        "description": "Illustrator🍒キャラデザ.衣装デザイン(リアル衣装もOK).MV絵&MV制作.ミニキャラ.live2D絵.コラボ.アートディレクション等｜ご依頼の方法や実績はリンクより🌷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yutuki0",
+                "end": 23,
+                "expanded_url": "https://lit.link/yutuki0",
+                "start": 0,
+                "url": "https://t.co/omssu1ntUy"
+              }
+            ]
+          }
+        },
+        "id": "138124281",
+        "location": "【AI学習.画像編集.転載.使用】全て禁止🚫",
+        "name": "YUtuKI🤍ｺﾐﾃｨｱ156あ14b",
+        "pinned_tweet_id": "2032747777210626195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746577168065507328/Ua2w0LS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25083,
+          "following_count": 759,
+          "like_count": 31883,
+          "listed_count": 307,
+          "media_count": 5088,
+          "tweet_count": 57557
+        },
+        "url": "https://t.co/omssu1ntUy",
+        "username": "yutuki_",
+        "verified": true
+      }
+    ]
+  }
+}

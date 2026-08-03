@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2010396169474838754",
+    "created_at": "2026-01-12T01:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T02:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010523012588548261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "14429525",
+          "start": 0,
+          "username": "prescott"
+        },
+        {
+          "end": 25,
+          "id": "1315639147248246785",
+          "start": 10,
+          "username": "GithubProjects"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010523012588548261",
+    "in_reply_to_user_id": "14429525",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010488395722621160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@prescott @GithubProjects Not worth it \nAlso most ppl uses windows was reasonable (like online gaming, for specific proprietary software)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2010396169474838754",
+        "created_at": "2026-01-12T01:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010523012588548261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "14429525",
+              "start": 0,
+              "username": "prescott"
+            },
+            {
+              "end": 25,
+              "id": "1315639147248246785",
+              "start": 10,
+              "username": "GithubProjects"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010523012588548261",
+        "in_reply_to_user_id": "14429525",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010488395722621160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@prescott @GithubProjects Not worth it \nAlso most ppl uses windows was reasonable (like online gaming, for specific proprietary software)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14429525",
+        "conversation_id": "2010396169474838754",
+        "created_at": "2026-01-11T23:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T00:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010488395722621160"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Ubuntu",
+              "probability": 0.9869,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315639147248246785",
+              "start": 0,
+              "username": "GithubProjects"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010488395722621160",
+        "in_reply_to_user_id": "1315639147248246785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8195,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010396169474838754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GithubProjects It's called Ubuntu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 282,
+          "like_count": 74931,
+          "listed_count": 2,
+          "media_count": 1373,
+          "tweet_count": 13118
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-18T03:59:44.000Z",
+        "description": "I help people find facts faster. Dept of War Acquisition Program Manager. Scalable® Business Advisor. Prior Pentagon Advisor. ₿itcoin. Marine. Ideas mine ≠ DoW.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "govsays.com",
+                "end": 23,
+                "expanded_url": "https://www.govsays.com/",
+                "start": 0,
+                "url": "https://t.co/t3RSXhsjJn"
+              }
+            ]
+          }
+        },
+        "id": "14429525",
+        "location": "Washington, DC",
+        "name": "Prescott Paulin",
+        "pinned_tweet_id": "1998924063482282486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725935314571542528/gx78Jrkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5110,
+          "following_count": 6336,
+          "like_count": 62888,
+          "listed_count": 133,
+          "media_count": 321,
+          "tweet_count": 8649
+        },
+        "url": "https://t.co/t3RSXhsjJn",
+        "username": "prescott",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-12T13:03:35.000Z",
+        "description": "We're sharing/showcasing best of @github projects/repos. Follow to stay in loop. Promoting Open-Source Contributions. UNOFFICIAL, but followed by github",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 33,
+                "username": "github"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/githubprojects",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/githubprojects",
+                "start": 0,
+                "url": "https://t.co/ikBlJ8M5oY"
+              }
+            ]
+          }
+        },
+        "id": "1315639147248246785",
+        "location": "San Francisco, CA",
+        "name": "GitHub Projects Community",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679831765744259073/hoVtsOZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270070,
+          "following_count": 62,
+          "like_count": 21329,
+          "listed_count": 1132,
+          "media_count": 3152,
+          "tweet_count": 9527
+        },
+        "url": "https://t.co/ikBlJ8M5oY",
+        "username": "GithubProjects",
+        "verified": true
+      }
+    ]
+  }
+}

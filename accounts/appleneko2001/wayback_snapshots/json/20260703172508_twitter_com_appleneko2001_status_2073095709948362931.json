@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2073095709948362931",
+    "created_at": "2026-07-03T17:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073095709948362931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "96313434",
+          "start": 3,
+          "username": "NOS_PROJECT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/K",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073095709948362931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 969
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072606208880726517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NOS_PROJECT: 【pick up】猫耳メンズパーカー\n\nボスクラスの甘くないビターな黒猫。なのに抱き付きたくなる、キグルミのような優しいフォルム🐈‍⬛折り紙的な要素がミックスされたパターンと縫製テクニックがシルエットのヒミツです。 https://t.co/K…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2072289240155865088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJAFZ9awAArOM9.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2072289251732131840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJAGFFakAAwYDf.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2073095709948362931",
+        "created_at": "2026-07-03T17:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073095709948362931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "96313434",
+              "start": 3,
+              "username": "NOS_PROJECT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/K",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073095709948362931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 969
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072606208880726517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NOS_PROJECT: 【pick up】猫耳メンズパーカー\n\nボスクラスの甘くないビターな黒猫。なのに抱き付きたくなる、キグルミのような優しいフォルム🐈‍⬛折り紙的な要素がミックスされたパターンと縫製テクニックがシルエットのヒミツです。 https://t.co/K…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072289240155865088",
+            "3_2072289251732131840"
+          ]
+        },
+        "author_id": "96313434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2072606208880726517",
+        "created_at": "2026-07-02T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072606208880726517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kmq5xWUm3u",
+              "end": 131,
+              "expanded_url": "https://x.com/NOS_PROJECT/status/2072606208880726517/photo/1",
+              "media_key": "3_2072289240155865088",
+              "start": 108,
+              "url": "https://t.co/Kmq5xWUm3u"
+            },
+            {
+              "display_url": "pic.x.com/Kmq5xWUm3u",
+              "end": 131,
+              "expanded_url": "https://x.com/NOS_PROJECT/status/2072606208880726517/photo/1",
+              "media_key": "3_2072289251732131840",
+              "start": 108,
+              "url": "https://t.co/Kmq5xWUm3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072606208880726517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4016,
+          "impression_count": 751709,
+          "like_count": 9113,
+          "quote_count": 660,
+          "reply_count": 35,
+          "retweet_count": 969
+        },
+        "reply_settings": "everyone",
+        "text": "【pick up】猫耳メンズパーカー\n\nボスクラスの甘くないビターな黒猫。なのに抱き付きたくなる、キグルミのような優しいフォルム🐈‍⬛折り紙的な要素がミックスされたパターンと縫製テクニックがシルエットのヒミツです。 https://t.co/Kmq5xWUm3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 285,
+          "like_count": 113725,
+          "listed_count": 2,
+          "media_count": 1698,
+          "tweet_count": 17875
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-12T09:47:16.000Z",
+        "description": "大人の遊び心を追求した新しい形のリアルクローズを提案。小さい頃に憧れた世界を、大人になった今のあなたに。\nスタッフ巡回してます▷#NOS_PHOTO #ノスプロフォト\nファンアート▷#NOS画廊　\n※これまでの商品をご紹介させていただくこともございます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 64,
+                "tag": "NOS_PHOTO"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "tag": "ノスプロフォト"
+              },
+              {
+                "end": 97,
+                "start": 91,
+                "tag": "NOS画廊"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nos-project.jp",
+                "end": 23,
+                "expanded_url": "https://nos-project.jp/",
+                "start": 0,
+                "url": "https://t.co/P5WSKeCqKw"
+              }
+            ]
+          }
+        },
+        "id": "96313434",
+        "location": "日本",
+        "name": "NO.S PROJECT",
+        "pinned_tweet_id": "2069654453561721244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774634956360454144/zKc3uihI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86580,
+          "following_count": 8,
+          "like_count": 3236,
+          "listed_count": 1726,
+          "media_count": 11649,
+          "tweet_count": 14560
+        },
+        "url": "https://t.co/P5WSKeCqKw",
+        "username": "NOS_PROJECT",
+        "verified": true
+      }
+    ]
+  }
+}

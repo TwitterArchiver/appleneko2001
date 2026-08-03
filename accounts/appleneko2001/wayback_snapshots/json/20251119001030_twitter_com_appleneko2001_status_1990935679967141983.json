@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990766111433109507"
+      ],
+      "media_source_tweet_id": [
+        "1990766115753189545"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "1990935679967141983",
+    "created_at": "2025-11-19T00:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990935679967141983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1485237646720782339",
+          "start": 3,
+          "username": "cyoroama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PeCY8Oq4O2",
+          "end": 39,
+          "expanded_url": "https://x.com/cyoroama/status/1990766115753189545/photo/1",
+          "media_key": "3_1990766111433109507",
+          "start": 16,
+          "url": "https://t.co/PeCY8Oq4O2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990935679967141983",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1282
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990766115753189545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyoroama: わ https://t.co/PeCY8Oq4O2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_1990766111433109507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6CfOxbbMAMCMIj.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990766111433109507"
+          ],
+          "media_source_tweet_id": [
+            "1990766115753189545"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "1990935679967141983",
+        "created_at": "2025-11-19T00:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990935679967141983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1485237646720782339",
+              "start": 3,
+              "username": "cyoroama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeCY8Oq4O2",
+              "end": 39,
+              "expanded_url": "https://x.com/cyoroama/status/1990766115753189545/photo/1",
+              "media_key": "3_1990766111433109507",
+              "start": 16,
+              "url": "https://t.co/PeCY8Oq4O2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990935679967141983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1282
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990766115753189545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyoroama: わ https://t.co/PeCY8Oq4O2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990766111433109507"
+          ]
+        },
+        "author_id": "1485237646720782339",
+        "conversation_id": "1990766115753189545",
+        "created_at": "2025-11-18T12:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T13:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990766115753189545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeCY8Oq4O2",
+              "end": 25,
+              "expanded_url": "https://x.com/cyoroama/status/1990766115753189545/photo/1",
+              "media_key": "3_1990766111433109507",
+              "start": 2,
+              "url": "https://t.co/PeCY8Oq4O2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990766115753189545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1320,
+          "impression_count": 155215,
+          "like_count": 15053,
+          "quote_count": 12,
+          "reply_count": 21,
+          "retweet_count": 1282
+        },
+        "reply_settings": "everyone",
+        "text": "わ https://t.co/PeCY8Oq4O2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 266,
+          "like_count": 65588,
+          "listed_count": 2,
+          "media_count": 1303,
+          "tweet_count": 12330
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T13:07:14.000Z",
+        "description": "",
+        "id": "1485237646720782339",
+        "name": "殴る",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486335386649464832/F0nrSVUq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105501,
+          "following_count": 18,
+          "like_count": 6964,
+          "listed_count": 719,
+          "media_count": 591,
+          "tweet_count": 6361
+        },
+        "username": "cyoroama",
+        "verified": false
+      }
+    ]
+  }
+}

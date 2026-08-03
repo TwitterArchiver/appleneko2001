@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2027802694648533191",
+    "created_at": "2026-03-01T08:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T09:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028029708911448443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028029708911448443",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028027394200899932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk 把一个未成年从被奇怪人士搭讪的状态下救回来了 更何况还是在自杀未遂恢复健康状态的时候……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2028027394200899932].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2028027394200899932",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2028027394200899932"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2027802694648533191",
+        "created_at": "2026-03-01T08:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028029708911448443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028029708911448443",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028027394200899932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 把一个未成年从被奇怪人士搭讪的状态下救回来了 更何况还是在自杀未遂恢复健康状态的时候……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 345,
+          "like_count": 94801,
+          "listed_count": 3,
+          "media_count": 1539,
+          "tweet_count": 15426
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "🦊/多意識體係統/🍥🏳️‍⚧️/轉發機 @kawa1_kitsune/成分複雜/發病/一般情況無攻擊性/歡迎私信或網站中聯絡方式/上两个都出了點問題請後面再試",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "kawa1_kitsune"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3UG3m"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "不知道",
+        "name": "浅羽　白音🏳️‍⚧️",
+        "pinned_tweet_id": "1992077127156715613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028003925434249216/f7_ccDqx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 3094,
+          "like_count": 280120,
+          "listed_count": 14,
+          "media_count": 924,
+          "tweet_count": 13553
+        },
+        "url": "https://t.co/i3MKU3UG3m",
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

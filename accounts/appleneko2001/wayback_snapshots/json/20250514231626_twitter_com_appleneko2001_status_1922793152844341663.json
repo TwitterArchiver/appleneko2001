@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1922793152844341663",
+    "created_at": "2025-05-14T23:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T00:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922793152844341663"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 66,
+          "normalized_text": "avaloniaUI",
+          "probability": 0.912,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/avstorm/status…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/avstorm/status/1922344192648335577",
+          "start": 87,
+          "url": "https://t.co/8tWAcW2Uo8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922793152844341663",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922344192648335577",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Uh it's gonna be my hard work to implement such thing in avaloniaUI but it's so sickkk https://t.co/8tWAcW2Uo8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38080,
+        "height": 1080,
+        "media_key": "13_1922343918261153792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922343918261153792/img/ktjXRf_sXu-q1koW.jpg",
+        "public_metrics": {
+          "view_count": 127351
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922343918261153792/vid/avc1/1280x720/EQC5qk8m5v4LtiCl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922343918261153792/vid/avc1/640x360/j5QkvMcDik8GGSJT.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922343918261153792/vid/avc1/480x270/VPM-j45fc_JR8IwL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922343918261153792/vid/avc1/1920x1080/L0jI8h4T8NawO-t9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922343918261153792/pl/dlW2l-rjg_wQpBNk.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1922793152844341663",
+        "created_at": "2025-05-14T23:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T00:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922793152844341663"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "avaloniaUI",
+              "probability": 0.912,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/avstorm/status…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/avstorm/status/1922344192648335577",
+              "start": 87,
+              "url": "https://t.co/8tWAcW2Uo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922793152844341663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922344192648335577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Uh it's gonna be my hard work to implement such thing in avaloniaUI but it's so sickkk https://t.co/8tWAcW2Uo8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922343918261153792"
+          ]
+        },
+        "author_id": "809153395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1922344192648335577",
+        "created_at": "2025-05-13T17:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T18:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922344192648335577"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Google Material 3",
+              "probability": 0.9217,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGSmnIKbIX",
+              "end": 52,
+              "expanded_url": "https://x.com/avstorm/status/1922344192648335577/video/1",
+              "media_key": "13_1922343918261153792",
+              "start": 29,
+              "url": "https://t.co/mGSmnIKbIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922344192648335577",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1807,
+          "impression_count": 406753,
+          "like_count": 5927,
+          "quote_count": 184,
+          "reply_count": 125,
+          "retweet_count": 455
+        },
+        "reply_settings": "everyone",
+        "text": "Google Material 3 Expressive https://t.co/mGSmnIKbIX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Pray to Twitter",
+        "name": "鳥頭 aka. DOVE Master 🕊 藍天社群",
+        "pinned_tweet_id": "1922499474988929031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 249,
+          "like_count": 63367,
+          "listed_count": 2,
+          "media_count": 1276,
+          "tweet_count": 12011
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-07T16:07:56.000Z",
+        "description": "Designer & Iconograph · Vibing @iconists",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "iconists"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/storm",
+                "end": 23,
+                "expanded_url": "https://bento.me/storm",
+                "start": 0,
+                "url": "https://t.co/8B5R5k4H0o"
+              }
+            ]
+          }
+        },
+        "id": "809153395",
+        "name": "Andreas Storm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597285797316759566/e8EWx4QR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95988,
+          "following_count": 705,
+          "like_count": 17280,
+          "listed_count": 1078,
+          "media_count": 852,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/8B5R5k4H0o",
+        "username": "avstorm",
+        "verified": true
+      }
+    ]
+  }
+}

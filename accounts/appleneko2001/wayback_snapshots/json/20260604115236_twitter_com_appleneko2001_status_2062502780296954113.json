@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2062502780296954113",
+    "created_at": "2026-06-04T11:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062502780296954113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/appleneko2001/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/appleneko2001/status/2062317376276939177",
+          "start": 24,
+          "url": "https://t.co/98lEy8pLV0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062502780296954113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062317376276939177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到最后咱哪里也没去…在大厅待了一整天又进火车了 https://t.co/98lEy8pLV0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2062502780296954113",
+        "created_at": "2026-06-04T11:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062502780296954113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/appleneko2001/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/appleneko2001/status/2062317376276939177",
+              "start": 24,
+              "url": "https://t.co/98lEy8pLV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062502780296954113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062317376276939177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到最后咱哪里也没去…在大厅待了一整天又进火车了 https://t.co/98lEy8pLV0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2062317376276939177",
+        "created_at": "2026-06-03T23:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062317376276939177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062317376276939177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午咱会短暂出现在沈阳的说（\n顺带一提 老家（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 247,
+          "like_count": 107332,
+          "listed_count": 2,
+          "media_count": 1645,
+          "tweet_count": 17233
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

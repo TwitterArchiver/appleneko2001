@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928760254327828483"
+      ],
+      "media_source_tweet_id": [
+        "1928760261139186042"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "1929114888909074850",
+    "created_at": "2025-06-01T09:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T10:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929114888909074850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1860855319716311040",
+          "start": 3,
+          "username": "DailyWatanare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3p3joxTTia",
+          "end": 42,
+          "expanded_url": "https://x.com/DailyWatanare/status/1928760261139186042/photo/1",
+          "media_key": "3_1928760254327828483",
+          "start": 19,
+          "url": "https://t.co/3p3joxTTia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929114888909074850",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928760261139186042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyWatanare: https://t.co/3p3joxTTia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1714,
+        "media_key": "3_1928760254327828483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRVO3gaMAM0fLM.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928760254327828483"
+          ],
+          "media_source_tweet_id": [
+            "1928760261139186042"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "1929114888909074850",
+        "created_at": "2025-06-01T09:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929114888909074850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1860855319716311040",
+              "start": 3,
+              "username": "DailyWatanare"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3p3joxTTia",
+              "end": 42,
+              "expanded_url": "https://x.com/DailyWatanare/status/1928760261139186042/photo/1",
+              "media_key": "3_1928760254327828483",
+              "start": 19,
+              "url": "https://t.co/3p3joxTTia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929114888909074850",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928760261139186042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyWatanare: https://t.co/3p3joxTTia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928760254327828483"
+          ]
+        },
+        "author_id": "1860855319716311040",
+        "conversation_id": "1928760261139186042",
+        "created_at": "2025-05-31T10:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T11:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928760261139186042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3p3joxTTia",
+              "end": 23,
+              "expanded_url": "https://x.com/DailyWatanare/status/1928760261139186042/photo/1",
+              "media_key": "3_1928760254327828483",
+              "start": 0,
+              "url": "https://t.co/3p3joxTTia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928760261139186042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 4215,
+          "like_count": 543,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3p3joxTTia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 256,
+          "like_count": 64236,
+          "listed_count": 2,
+          "media_count": 1287,
+          "tweet_count": 12133
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T01:17:43.000Z",
+        "description": "Daily Content of Watanare (There’s No Freaking Way I’ll be Your Lover! Unless…)/ Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri!) Scheduled For July 2025",
+        "id": "1860855319716311040",
+        "name": "Daily WataNare",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903806460901150721/--8ysDND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 40,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 205
+        },
+        "username": "DailyWatanare",
+        "verified": false
+      }
+    ]
+  }
+}

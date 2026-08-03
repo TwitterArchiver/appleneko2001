@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2045409138734407890",
+    "created_at": "2026-04-18T08:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045419371259129975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1628369872081104898",
+          "start": 0,
+          "username": "asaka_fumizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045419371259129975",
+    "in_reply_to_user_id": "1628369872081104898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045409613512884711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asaka_fumizuki 直接燒死serial模塊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2045409138734407890",
+        "created_at": "2026-04-18T08:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045419371259129975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1628369872081104898",
+              "start": 0,
+              "username": "asaka_fumizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045419371259129975",
+        "in_reply_to_user_id": "1628369872081104898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045409613512884711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asaka_fumizuki 直接燒死serial模塊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628369872081104898",
+        "conversation_id": "2045409138734407890",
+        "created_at": "2026-04-18T07:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045409613512884711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045409613512884711",
+        "in_reply_to_user_id": "1628369872081104898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045409138734407890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "连串口一个道理，谁家好人连串口会连VCC🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 354,
+          "like_count": 101835,
+          "listed_count": 3,
+          "media_count": 1609,
+          "tweet_count": 16432
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T12:23:35.000Z",
+        "description": "安積 文月 | 💻 | QAQ",
+        "id": "1628369872081104898",
+        "location": "now here",
+        "name": "0xDF4D4223🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862511215815401477/zd7ZKUUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 2830,
+          "like_count": 62189,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1415
+        },
+        "username": "asaka_fumizuki",
+        "verified": false
+      }
+    ]
+  }
+}

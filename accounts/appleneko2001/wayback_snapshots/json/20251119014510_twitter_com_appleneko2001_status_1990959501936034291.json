@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "1990959501936034291",
+    "created_at": "2025-11-19T01:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T02:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990959501936034291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4677053179",
+          "start": 3,
+          "username": "Nohomework0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990959501936034291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990614497695052198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nohomework0: 现在的所谓的博士，对计算机技术的知识匮乏的令人惊叹。有不会vpn的，有不知道笔记本能连显示器的，有不知道html文件可以在chrome打开的。\n\n真的，你们招聘的时候擦亮眼睛，不要因为这个人是博士就高看对方一眼，除了能吃苦，能力大部分不如本科生…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "1990959501936034291",
+        "created_at": "2025-11-19T01:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T02:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990959501936034291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4677053179",
+              "start": 3,
+              "username": "Nohomework0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990959501936034291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990614497695052198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nohomework0: 现在的所谓的博士，对计算机技术的知识匮乏的令人惊叹。有不会vpn的，有不知道笔记本能连显示器的，有不知道html文件可以在chrome打开的。\n\n真的，你们招聘的时候擦亮眼睛，不要因为这个人是博士就高看对方一眼，除了能吃苦，能力大部分不如本科生…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4677053179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "1990614497695052198",
+        "created_at": "2025-11-18T02:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990614497695052198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990614497695052198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 64507,
+          "like_count": 468,
+          "quote_count": 7,
+          "reply_count": 110,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "现在的所谓的博士，对计算机技术的知识匮乏的令人惊叹。有不会vpn的，有不知道笔记本能连显示器的，有不知道html文件可以在chrome打开的。\n\n真的，你们招聘的时候擦亮眼睛，不要因为这个人是博士就高看对方一眼，除了能吃苦，能力大部分不如本科生\n\n而且能吃苦这东西，随着年龄的增长也会削弱，没啥用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 266,
+          "like_count": 65717,
+          "listed_count": 2,
+          "media_count": 1305,
+          "tweet_count": 12342
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-30T07:53:28.000Z",
+        "description": "万年单身但也不要和你在一起/告诉你不为人知的故事/不线下游玩/不加vx/我一点也不可爱/喜欢看樱桃小丸子/只狼，怪猎玩家/独立游戏爱好者/键政人远离，否则block/年糕精灵",
+        "id": "4677053179",
+        "name": "双层牛肉汉堡",
+        "pinned_tweet_id": "1277715332564545536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263655317541236736/CJJovtRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4165,
+          "following_count": 2863,
+          "like_count": 6178,
+          "listed_count": 25,
+          "media_count": 1218,
+          "tweet_count": 17093
+        },
+        "username": "Nohomework0",
+        "verified": false
+      }
+    ]
+  }
+}

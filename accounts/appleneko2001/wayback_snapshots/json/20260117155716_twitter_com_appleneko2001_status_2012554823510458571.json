@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012455437501960417",
+    "created_at": "2026-01-17T15:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012554823510458571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "39716430",
+          "start": 0,
+          "username": "plantegg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012554823510458571",
+    "in_reply_to_user_id": "39716430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012455437501960417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plantegg 這屆的人類是廢了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2012455437501960417",
+        "created_at": "2026-01-17T15:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012554823510458571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "39716430",
+              "start": 0,
+              "username": "plantegg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012554823510458571",
+        "in_reply_to_user_id": "39716430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012455437501960417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plantegg 這屆的人類是廢了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39716430",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701964",
+              "name": "Google Cloud"
+            }
+          }
+        ],
+        "conversation_id": "2012455437501960417",
+        "created_at": "2026-01-17T09:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012455437501960417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012455437501960417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天参加的 Google AI 大会， 讲怎么用好AI，可是演示工程师一直在说电脑连不上网，实际就是翻不了墙，我就纳闷了：现场让gemini 买 Google Cloud 机器，自动配置翻墙软件，本地配好socks5 代理不就是个完美的现场最佳实践么，结果折腾了 2小时上讲台还是连不上，然后冲上台一直教大家怎么用好 AI\n\n这工程师是个年轻的妹子，还是稚嫩了点，我司也有很多同事类似，手里捧着 Claude code，然后说不会配环境，shell 报错解决不了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 60937,
+          "like_count": 191,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "今天参加的 Google AI 大会， 讲怎么用好AI，可是演示工程师一直在说电脑连不上网，实际就是翻不了墙，我就纳闷了：现场让gemini 买 Google Cloud 机器，自动配置翻墙软件，本地配好socks5 代理不就是个完美的现场最佳实践么，结果折腾了 2小时上讲台还是连不上，然后冲上台一直教大家怎么用好 AI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 302,
+          "like_count": 80070,
+          "listed_count": 2,
+          "media_count": 1408,
+          "tweet_count": 13637
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-13T08:54:08.000Z",
+        "description": "工程师，网络、性能、CPU等领域。个人介绍：https://t.co/sdAwtv1et3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "plantegg.github.io/2022/01/01/%E4…",
+                "end": 45,
+                "expanded_url": "https://plantegg.github.io/2022/01/01/%E4%B8%89%E4%B8%AA%E6%95%85%E4%BA%8B/",
+                "start": 22,
+                "url": "https://t.co/sdAwtv1et3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "plantegg.github.io",
+                "end": 23,
+                "expanded_url": "https://plantegg.github.io",
+                "start": 0,
+                "url": "https://t.co/UWhpCZ06ua"
+              }
+            ]
+          }
+        },
+        "id": "39716430",
+        "name": "plantegg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51302,
+          "following_count": 429,
+          "like_count": 2605,
+          "listed_count": 315,
+          "media_count": 1601,
+          "tweet_count": 7636
+        },
+        "url": "https://t.co/UWhpCZ06ua",
+        "username": "plantegg",
+        "verified": true
+      }
+    ]
+  }
+}

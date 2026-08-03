@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Microsoft Edge",
+          "id": "10052778497",
+          "name": "Microsoft Edge"
+        }
+      }
+    ],
+    "conversation_id": "2051772175309488432",
+    "created_at": "2026-05-05T21:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T22:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051772175309488432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IntCyberDigest…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/IntCyberDigest/status/2051406295828250963",
+          "start": 43,
+          "url": "https://t.co/3K80DHtlPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051772175309488432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051406295828250963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好我一开始就没想要用Microslop edge \n这下多了一个理由让我去避免它了 https://t.co/3K80DHtlPS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2051403444662009856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgMkGoXgAAK8mL.jpg",
+        "width": 2206
+      },
+      {
+        "height": 1634,
+        "media_key": "3_2051403549997682689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgMqPCWUAE5D3i.jpg",
+        "width": 1634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          }
+        ],
+        "conversation_id": "2051772175309488432",
+        "created_at": "2026-05-05T21:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051772175309488432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IntCyberDigest…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/IntCyberDigest/status/2051406295828250963",
+              "start": 43,
+              "url": "https://t.co/3K80DHtlPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051772175309488432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051406295828250963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好我一开始就没想要用Microslop edge \n这下多了一个理由让我去避免它了 https://t.co/3K80DHtlPS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051403444662009856",
+            "3_2051403549997682689"
+          ]
+        },
+        "author_id": "1831435289341894656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2051406295828250963",
+        "created_at": "2026-05-04T20:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T21:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051406295828250963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 260,
+              "id": "1496198618411323397",
+              "start": 244,
+              "username": "L1v1ng0ffTh3L4N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIG4EPkPjq",
+              "end": 303,
+              "expanded_url": "https://x.com/IntCyberDigest/status/2051406295828250963/photo/1",
+              "media_key": "3_2051403444662009856",
+              "start": 280,
+              "url": "https://t.co/AIG4EPkPjq"
+            },
+            {
+              "display_url": "pic.x.com/AIG4EPkPjq",
+              "end": 303,
+              "expanded_url": "https://x.com/IntCyberDigest/status/2051406295828250963/photo/1",
+              "media_key": "3_2051403549997682689",
+              "start": 280,
+              "url": "https://t.co/AIG4EPkPjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051406295828250963",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 260,
+                "id": "1496198618411323397",
+                "start": 244,
+                "username": "L1v1ng0ffTh3L4N"
+              }
+            ]
+          },
+          "text": "❗️🚨 Microsoft Edge keeps every saved password in process memory as cleartext from the moment it launches. Microsoft's responsed when reported: \"by design.\" \n\nAll of them. Including credentials for sites you won't open this session.\n\nResearcher @L1v1ng0ffTh3L4N tested every major Chromium browser. Edge is the only one that behaves this way. \n\nChrome decrypts credentials on demand, and App-Bound Encryption locks the keys to an authenticated Chrome process so other processes can't reuse them. \n\nIn Chrome, plaintext surfaces only during autofill or when a password is viewed, making memory scraping far less useful.\n\nWhat makes this extra weird is that Edge still demands re-authentication before revealing those passwords in its Password Manager UI, while the same browser process already holds every one of them in plaintext.\n\nIn shared environments, this turns into a credential harvest. On a terminal server, an attacker with admin rights can read the memory of every logged-on user process. In the published PoC video, a compromised admin account lifts stored credentials from two other logged-on (and even disconnected) users with Edge running.\n\nMicrosoft's official response when notified: \"by design.\"\n\nThe finding was disclosed April 29 at BigBiteOfTech by PaloAltoNtwks Norway, alongside a small educational tool that lets anyone verify the cleartext storage for themselves."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2864,
+          "impression_count": 1103922,
+          "like_count": 7871,
+          "quote_count": 405,
+          "reply_count": 218,
+          "retweet_count": 2073
+        },
+        "reply_settings": "everyone",
+        "text": "❗️🚨 Microsoft Edge keeps every saved password in process memory as cleartext from the moment it launches. Microsoft's responsed when reported: \"by design.\" \n\nAll of them. Including credentials for sites you won't open this session.\n\nResearcher @L1v1ng0ffTh3L4N tested every major https://t.co/AIG4EPkPjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 357,
+          "like_count": 103434,
+          "listed_count": 3,
+          "media_count": 1628,
+          "tweet_count": 16691
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T20:53:04.000Z",
+        "description": "Your weekly go-to cybersecurity newsletter, curated and commented on by our senior analysts.\n\nGot tips? Signal: IntCyberDigest.20",
+        "id": "1831435289341894656",
+        "name": "International Cyber Digest",
+        "pinned_tweet_id": "2051406295828250963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831435438562615296/imkSFey2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145710,
+          "following_count": 298,
+          "like_count": 5375,
+          "listed_count": 694,
+          "media_count": 2613,
+          "tweet_count": 5703
+        },
+        "username": "IntCyberDigest",
+        "verified": true
+      }
+    ]
+  }
+}

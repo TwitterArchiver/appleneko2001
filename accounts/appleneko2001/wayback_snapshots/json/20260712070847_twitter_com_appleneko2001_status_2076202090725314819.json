@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2076173742271778820",
+    "created_at": "2026-07-12T07:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076202090725314819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766452473840173056",
+          "start": 0,
+          "username": "mikotossd0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076202090725314819",
+    "in_reply_to_user_id": "1766452473840173056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076173742271778820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotossd0106 抱抱…\n这个东西最好是有服务器进行保管…不要直接塞进公开仓库中…\n如果可以的话 每次commit之前都先手动快速overview一下程式码避免泄漏…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2076173735313440768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNANAyFagAATeRr.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2076173742271778820",
+        "created_at": "2026-07-12T07:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076202090725314819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "mikotossd0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076202090725314819",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076173742271778820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotossd0106 抱抱…\n这个东西最好是有服务器进行保管…不要直接塞进公开仓库中…\n如果可以的话 每次commit之前都先手动快速overview一下程式码避免泄漏…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076173735313440768"
+          ]
+        },
+        "author_id": "1766452473840173056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2076173742271778820",
+        "created_at": "2026-07-12T05:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076173742271778820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4CmStncS3b",
+              "end": 58,
+              "expanded_url": "https://x.com/mikotossd0106/status/2076173742271778820/photo/1",
+              "media_key": "3_2076173735313440768",
+              "start": 35,
+              "url": "https://t.co/4CmStncS3b"
+            },
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/tatanakots/status/2076173460762722394",
+              "start": 59,
+              "url": "https://t.co/KjbrmfqUV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076173742271778820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076173460762722394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要...往...公开仓库里面...硬编码...api key... https://t.co/4CmStncS3b https://t.co/KjbrmfqUV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/9bx2JDcXSU"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 287,
+          "like_count": 115598,
+          "listed_count": 2,
+          "media_count": 1723,
+          "tweet_count": 18145
+        },
+        "url": "https://t.co/9bx2JDcXSU",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "rim de lacent!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.net",
+                "end": 23,
+                "expanded_url": "http://mikotossd.net",
+                "start": 0,
+                "url": "https://t.co/hoi4XcP34Y"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "2016170324564574213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072660313951121408/2IRD8A51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 1664,
+          "like_count": 92524,
+          "listed_count": 5,
+          "media_count": 1318,
+          "tweet_count": 5999
+        },
+        "url": "https://t.co/hoi4XcP34Y",
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009960087629000704"
+      ],
+      "media_source_tweet_id": [
+        "2009960091492200600"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1174344555111469057",
+          "name": "Samsung Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364234",
+          "name": "Samsung "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10026331316",
+          "name": "Samsung Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10045298641",
+          "name": "Samsung USA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364234",
+          "name": "Samsung "
+        }
+      }
+    ],
+    "conversation_id": "2010050068913742308",
+    "created_at": "2026-01-10T18:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T19:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010050068913742308"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "Samsung",
+          "probability": 0.9373,
+          "start": 37,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "883603486109298688",
+          "start": 3,
+          "username": "ShishirShelke1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gW41eHxsdg",
+          "end": 74,
+          "expanded_url": "https://x.com/ShishirShelke1/status/2009960091492200600/photo/1",
+          "media_key": "3_2009960087629000704",
+          "start": 51,
+          "url": "https://t.co/gW41eHxsdg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010050068913742308",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009960091492200600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShishirShelke1: After updating a Samsung phone https://t.co/gW41eHxsdg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2009960087629000704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TQDOvW8AA8e2S.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009960087629000704"
+          ],
+          "media_source_tweet_id": [
+            "2009960091492200600"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1174344555111469057",
+              "name": "Samsung Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026331316",
+              "name": "Samsung Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045298641",
+              "name": "Samsung USA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          }
+        ],
+        "conversation_id": "2010050068913742308",
+        "created_at": "2026-01-10T18:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010050068913742308"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Samsung",
+              "probability": 0.9373,
+              "start": 37,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "883603486109298688",
+              "start": 3,
+              "username": "ShishirShelke1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gW41eHxsdg",
+              "end": 74,
+              "expanded_url": "https://x.com/ShishirShelke1/status/2009960091492200600/photo/1",
+              "media_key": "3_2009960087629000704",
+              "start": 51,
+              "url": "https://t.co/gW41eHxsdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010050068913742308",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009960091492200600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShishirShelke1: After updating a Samsung phone https://t.co/gW41eHxsdg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009960087629000704"
+          ]
+        },
+        "author_id": "883603486109298688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1174344555111469057",
+              "name": "Samsung Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026331316",
+              "name": "Samsung Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045298641",
+              "name": "Samsung USA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          }
+        ],
+        "conversation_id": "2009960091492200600",
+        "created_at": "2026-01-10T12:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009960091492200600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Samsung",
+              "probability": 0.948,
+              "start": 17,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gW41eHxsdg",
+              "end": 54,
+              "expanded_url": "https://x.com/ShishirShelke1/status/2009960091492200600/photo/1",
+              "media_key": "3_2009960087629000704",
+              "start": 31,
+              "url": "https://t.co/gW41eHxsdg"
+            },
+            {
+              "display_url": "x.com/paulbatistta/s…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/paulbatistta/status/2009410033323524235",
+              "start": 55,
+              "url": "https://t.co/2yS7USrOyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009960091492200600",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 90217,
+          "like_count": 3672,
+          "quote_count": 27,
+          "reply_count": 24,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009410033323524235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "After updating a Samsung phone https://t.co/gW41eHxsdg https://t.co/2yS7USrOyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 281,
+          "like_count": 73720,
+          "listed_count": 2,
+          "media_count": 1368,
+          "tweet_count": 13048
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-08T08:27:42.000Z",
+        "description": "I talk tech",
+        "id": "883603486109298688",
+        "name": "Shishir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869269497154351104/Bt-G6hb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17660,
+          "following_count": 153,
+          "like_count": 71909,
+          "listed_count": 67,
+          "media_count": 4338,
+          "tweet_count": 9457
+        },
+        "username": "ShishirShelke1",
+        "verified": true
+      }
+    ]
+  }
+}

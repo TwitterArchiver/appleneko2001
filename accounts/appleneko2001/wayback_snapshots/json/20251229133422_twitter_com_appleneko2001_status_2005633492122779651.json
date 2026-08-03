@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2005633492122779651",
+    "created_at": "2025-12-29T13:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T14:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005633492122779651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Timfurry233/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Timfurry233/status/2005492671037764018",
+          "start": 34,
+          "url": "https://t.co/Y3pUDsGNpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005633492122779651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005492671037764018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "android逐漸封閉化\n是時候發展linux phone了（不是 https://t.co/Y3pUDsGNpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_2005490380612259840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Tu4CjbUAAsGNU.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005490380612186112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Tu4CjaMAAN3sE.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2005633492122779651",
+        "created_at": "2025-12-29T13:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005633492122779651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Timfurry233/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Timfurry233/status/2005492671037764018",
+              "start": 34,
+              "url": "https://t.co/Y3pUDsGNpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005633492122779651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005492671037764018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "android逐漸封閉化\n是時候發展linux phone了（不是 https://t.co/Y3pUDsGNpS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005490380612259840",
+            "3_2005490380612186112"
+          ]
+        },
+        "author_id": "1420377473901072390",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2005492671037764018",
+        "created_at": "2025-12-29T04:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T05:05:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005490389474803898",
+          "2005492671037764018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "自 2025 年 3 月 27 日起，我们建议您使用 android-latest-release 而非 aosp-main 构建 AOSP 并为其做出贡献。如需了解详情，请参阅 AOSP 的变更。 这些问题中危险性最高的是框架组件中一个严重程度为“严重”的安全漏洞，该漏洞可导致远程拒绝服务攻击，而无需额外的执行特权。 严重程度评估 的依据是漏洞被利用后可能会对受影响的设备造成的影响（假设相关平台和服务缓解措施被成功规避或出于开发目的而被停用）。 [ro.build.version.security_patch]:[2025-12-01] [ro.build.version.security_patch]:[2025-12-05] 在漏洞详情表内，“参考编号”列中的条目可能包含用于标识参考编号值所属组织的前缀。 如果问题尚未公开发布，在“参考编号”列中，相应 Android bug ID 旁边就会显示 *。 Google Developers 网站 上针对 Pixel 设备提供的最新二进制驱动程序中通常包含旨在解决相应问题的更新。 1.1 2025 年 12 月 4 日 在本公告中添加了 AOSP 链接",
+              "display_url": "source.android.google.cn/docs/security/…",
+              "end": 167,
+              "expanded_url": "https://source.android.google.cn/docs/security/bulletin/2025-12-01?hl=zh-cn",
+              "start": 144,
+              "status": 200,
+              "title": "Android 安全公告 - 2025 年 12 月  |  Android Open Source Project",
+              "unwound_url": "https://source.android.google.cn/docs/security/bulletin/2025-12-01?hl=zh-cn",
+              "url": "https://t.co/jq6P8IzUxV"
+            },
+            {
+              "display_url": "pic.x.com/No4MURFfb6",
+              "end": 191,
+              "expanded_url": "https://x.com/Timfurry233/status/2005492671037764018/photo/1",
+              "media_key": "3_2005490380612259840",
+              "start": 168,
+              "url": "https://t.co/No4MURFfb6"
+            },
+            {
+              "display_url": "pic.x.com/No4MURFfb6",
+              "end": 191,
+              "expanded_url": "https://x.com/Timfurry233/status/2005492671037764018/photo/1",
+              "media_key": "3_2005490380612186112",
+              "start": 168,
+              "url": "https://t.co/No4MURFfb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005492671037764018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4777,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用Android更新到安全补丁2025年12月的root用户有“福”啦！\n谷歌在最新的安全补丁里面禁止了模块service.s h的开机运行，导致很多模块都失效了。导致root模块开发者要想开机运行必须学习SElinux规则策略，开发难度陡增。\n咕噜咕噜学长和美国国家安全局这招太狠了😅\nhttps://t.co/jq6P8IzUxV https://t.co/No4MURFfb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 273,
+          "like_count": 68631,
+          "listed_count": 2,
+          "media_count": 1326,
+          "tweet_count": 12644
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T13:36:23.000Z",
+        "description": "wikifur维基兽！/立志成为编程兽/咱是一只furry哦！⚠️偶尔会有🔞内容啦( ˃̶̤́ ꒳ ˂̶̤̀ )，懂一点点前端代码啦，但还很生疏💻中文⭕️English⭕️/日本语❌机翻telegram: https://t.co/5gGVDFM0WF blog: https://t.co/sjwsjkH2Lt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/im_furry_Data",
+                "end": 126,
+                "expanded_url": "http://t.me/im_furry_Data",
+                "start": 103,
+                "url": "https://t.co/5gGVDFM0WF"
+              },
+              {
+                "display_url": "furries.fun",
+                "end": 156,
+                "expanded_url": "https://furries.fun",
+                "start": 133,
+                "url": "https://t.co/sjwsjkH2Lt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furries.fun",
+                "end": 23,
+                "expanded_url": "https://furries.fun",
+                "start": 0,
+                "url": "https://t.co/sjwsjkH2Lt"
+              }
+            ]
+          }
+        },
+        "id": "1420377473901072390",
+        "location": "毛毛之家: furryhome.cn",
+        "name": "xiaohuangbo🔜大学",
+        "pinned_tweet_id": "1998775629785813199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957346714417037312/nxpCXagl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4016,
+          "following_count": 2923,
+          "like_count": 28517,
+          "listed_count": 17,
+          "media_count": 490,
+          "tweet_count": 2868
+        },
+        "url": "https://t.co/sjwsjkH2Lt",
+        "username": "Timfurry233",
+        "verified": true
+      }
+    ]
+  }
+}

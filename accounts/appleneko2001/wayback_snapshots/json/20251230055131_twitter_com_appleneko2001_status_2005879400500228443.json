@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2005821983397912832",
+    "created_at": "2025-12-30T05:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T06:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005879400500228443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247769753097101318",
+          "start": 0,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005879400500228443",
+    "in_reply_to_user_id": "1247769753097101318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005821983397912832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X09COTCC 至少 互聯網經歷過它生長壯大的日子…可惜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2005821983397912832",
+        "created_at": "2025-12-30T05:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T06:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005879400500228443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247769753097101318",
+              "start": 0,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005879400500228443",
+        "in_reply_to_user_id": "1247769753097101318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005821983397912832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X09COTCC 至少 互聯網經歷過它生長壯大的日子…可惜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247769753097101318",
+        "conversation_id": "2005821983397912832",
+        "created_at": "2025-12-30T02:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T03:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005821983397912832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005821983397912832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 692,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很庆幸自己开智在了互联网不那么发达的年代。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 274,
+          "like_count": 69338,
+          "listed_count": 2,
+          "media_count": 1334,
+          "tweet_count": 12726
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "roll me into the moonlight",
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1992233381573357793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976459986567053312/fJpGKW31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7725,
+          "following_count": 1765,
+          "like_count": 162991,
+          "listed_count": 19,
+          "media_count": 1313,
+          "tweet_count": 44995
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

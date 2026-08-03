@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043214465957855232"
+      ],
+      "media_source_tweet_id": [
+        "2043214492369363021"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "2043678255111401830",
+    "created_at": "2026-04-13T13:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043678255111401830"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2298118682",
+          "start": 3,
+          "username": "felutiahime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qwJKcmswiF",
+          "end": 51,
+          "expanded_url": "https://x.com/felutiahime/status/2043214492369363021/photo/1",
+          "media_key": "3_2043214465957855232",
+          "start": 28,
+          "url": "https://t.co/qwJKcmswiF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043678255111401830",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2767
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043214492369363021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @felutiahime: #ぼっち・ざ・ろっく https://t.co/qwJKcmswiF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2154,
+        "media_key": "3_2043214465957855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFr0uztbgAA4Exc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043214465957855232"
+          ],
+          "media_source_tweet_id": [
+            "2043214492369363021"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "2043678255111401830",
+        "created_at": "2026-04-13T13:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043678255111401830"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2298118682",
+              "start": 3,
+              "username": "felutiahime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwJKcmswiF",
+              "end": 51,
+              "expanded_url": "https://x.com/felutiahime/status/2043214492369363021/photo/1",
+              "media_key": "3_2043214465957855232",
+              "start": 28,
+              "url": "https://t.co/qwJKcmswiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043678255111401830",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2767
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043214492369363021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @felutiahime: #ぼっち・ざ・ろっく https://t.co/qwJKcmswiF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043214465957855232"
+          ]
+        },
+        "author_id": "2298118682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "2043214492369363021",
+        "created_at": "2026-04-12T06:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043214492369363021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwJKcmswiF",
+              "end": 34,
+              "expanded_url": "https://x.com/felutiahime/status/2043214492369363021/photo/1",
+              "media_key": "3_2043214465957855232",
+              "start": 11,
+              "url": "https://t.co/qwJKcmswiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043214492369363021",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1806,
+          "impression_count": 276358,
+          "like_count": 30738,
+          "quote_count": 23,
+          "reply_count": 22,
+          "retweet_count": 2767
+        },
+        "reply_settings": "everyone",
+        "text": "#ぼっち・ざ・ろっく https://t.co/qwJKcmswiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 357,
+          "like_count": 101478,
+          "listed_count": 3,
+          "media_count": 1603,
+          "tweet_count": 16358
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-18T16:00:49.000Z",
+        "description": "【日本語/EN/All】 \n【お仕事/Work Contact】felutiawork@gmail.com or DM \n【Mini Commission/Request】Pixiv in the link \n \n AI training and Unauthorized are prohibited",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/felutiahime",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/felutiahime",
+                "start": 0,
+                "url": "https://t.co/n1oqLHkVtN"
+              }
+            ]
+          }
+        },
+        "id": "2298118682",
+        "location": "AIの学習は禁止です, 無断利用禁止",
+        "name": "フェルティア@お仕事募集中",
+        "pinned_tweet_id": "2033022954435654019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040002897128382464/CvHOnvW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174641,
+          "following_count": 691,
+          "like_count": 77138,
+          "listed_count": 769,
+          "media_count": 5378,
+          "tweet_count": 23165
+        },
+        "url": "https://t.co/n1oqLHkVtN",
+        "username": "felutiahime",
+        "verified": true
+      }
+    ]
+  }
+}

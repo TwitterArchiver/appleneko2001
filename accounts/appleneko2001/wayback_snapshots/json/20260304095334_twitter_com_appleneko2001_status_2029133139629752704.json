@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028873901103878144"
+      ],
+      "media_source_tweet_id": [
+        "2028873934448500983"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2029133139629752704",
+    "created_at": "2026-03-04T09:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T10:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029133139629752704"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 19,
+          "tag": "bluearchive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2012422511363809280",
+          "start": 3,
+          "username": "yoshakisensei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/opsgD2JuQ9",
+          "end": 55,
+          "expanded_url": "https://x.com/yoshakisensei/status/2028873934448500983/video/1",
+          "media_key": "7_2028873901103878144",
+          "start": 32,
+          "url": "https://t.co/opsgD2JuQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029133139629752704",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 437
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028873934448500983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoshakisensei: #bluearchive https://t.co/opsgD2JuQ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17205,
+        "height": 720,
+        "media_key": "7_2028873901103878144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028873901103878144/pu/img/j94xwyKlCzSOyMVm.jpg",
+        "public_metrics": {
+          "view_count": 35498
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028873901103878144/pu/vid/avc1/320x320/P6Gp3MzRVShSSG9e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028873901103878144/pu/vid/avc1/540x540/7tKUMo1eHUKivoi5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028873901103878144/pu/vid/avc1/720x720/OnS3UjHHpKs_8w3B.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028873901103878144/pu/pl/sSvVXjx2ofURd9Y0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028873901103878144"
+          ],
+          "media_source_tweet_id": [
+            "2028873934448500983"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2029133139629752704",
+        "created_at": "2026-03-04T09:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029133139629752704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "bluearchive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2012422511363809280",
+              "start": 3,
+              "username": "yoshakisensei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/opsgD2JuQ9",
+              "end": 55,
+              "expanded_url": "https://x.com/yoshakisensei/status/2028873934448500983/video/1",
+              "media_key": "7_2028873901103878144",
+              "start": 32,
+              "url": "https://t.co/opsgD2JuQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029133139629752704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 437
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028873934448500983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoshakisensei: #bluearchive https://t.co/opsgD2JuQ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028873901103878144"
+          ]
+        },
+        "author_id": "2012422511363809280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2028873934448500983",
+        "created_at": "2026-03-03T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028873934448500983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "bluearchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/opsgD2JuQ9",
+              "end": 36,
+              "expanded_url": "https://x.com/yoshakisensei/status/2028873934448500983/video/1",
+              "media_key": "7_2028873901103878144",
+              "start": 13,
+              "url": "https://t.co/opsgD2JuQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028873934448500983",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 949,
+          "impression_count": 67202,
+          "like_count": 4828,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 437
+        },
+        "reply_settings": "everyone",
+        "text": "#bluearchive https://t.co/opsgD2JuQ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 348,
+          "like_count": 96325,
+          "listed_count": 3,
+          "media_count": 1557,
+          "tweet_count": 15654
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T07:11:52.000Z",
+        "description": "worlds gon crazy but ig ill still upload sum videos",
+        "id": "2012422511363809280",
+        "name": "yoshakisensei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012422606859685888/4yFitpTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 21,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 64
+        },
+        "username": "yoshakisensei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028478847130505216"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Pixel",
+          "id": "1045759094756323328",
+          "name": "Google Pixel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2028451026966319182",
+    "created_at": "2026-03-02T14:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028481303352676371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774436958330380288",
+          "start": 0,
+          "username": "boz056528160711"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r4yFHDlCzN",
+          "end": 71,
+          "expanded_url": "https://x.com/appleneko2001/status/2028481303352676371/video/1",
+          "media_key": "7_2028478847130505216",
+          "start": 48,
+          "url": "https://t.co/r4yFHDlCzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028481303352676371",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028477592588964062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boz056528160711 Feat. Google Pixel 4 和小明（无辜入镜） https://t.co/r4yFHDlCzN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33795,
+        "height": 1280,
+        "media_key": "7_2028478847130505216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028478847130505216/pu/img/zVgG4UNEZdGKS4RY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028478847130505216/pu/vid/avc1/320x568/fokZ7hPLOF8ZWItP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028478847130505216/pu/vid/avc1/480x852/7ZadOlHQys0pCOm6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028478847130505216/pu/vid/avc1/720x1280/N09uEc4Nk5opZNpF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028478847130505216/pu/pl/im6sicmdzKRZ4_Ni.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028478847130505216"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2028451026966319182",
+        "created_at": "2026-03-02T14:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028481303352676371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774436958330380288",
+              "start": 0,
+              "username": "boz056528160711"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4yFHDlCzN",
+              "end": 71,
+              "expanded_url": "https://x.com/appleneko2001/status/2028481303352676371/video/1",
+              "media_key": "7_2028478847130505216",
+              "start": 48,
+              "url": "https://t.co/r4yFHDlCzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028481303352676371",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028477592588964062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boz056528160711 Feat. Google Pixel 4 和小明（无辜入镜） https://t.co/r4yFHDlCzN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2028451026966319182",
+        "created_at": "2026-03-02T14:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028477592588964062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774436958330380288",
+              "start": 0,
+              "username": "boz056528160711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028477592588964062",
+        "in_reply_to_user_id": "1774436958330380288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028475886174171175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boz056528160711 倒也不是手机问题 反而是系统问题 因为 如果是屏幕问题的话 系统会说现在是120 但肉眼感官只有60或更慢 我是能看出来的 甚至还有可对比的参考 90我也有\n如果是屏幕问题 我是可以因为手机瑕疵或参数不达标进行退款的 但实际状况却是软件问题 是YouTube 自己没写好着色强制限制了60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 344,
+          "like_count": 95200,
+          "listed_count": 3,
+          "media_count": 1547,
+          "tweet_count": 15502
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T14:02:00.000Z",
+        "description": "当朋友圈发  卖片的给我滚一边子去，自己找的资源都比你卖的好看",
+        "id": "1774436958330380288",
+        "name": "薄梓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775729931437350912/LFFr9uIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 51,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "boz056528160711",
+        "verified": false
+      }
+    ]
+  }
+}

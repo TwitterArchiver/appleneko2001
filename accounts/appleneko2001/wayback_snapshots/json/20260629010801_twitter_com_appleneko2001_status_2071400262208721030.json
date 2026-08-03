@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2071400262208721030",
+    "created_at": "2026-06-29T01:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T02:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071400262208721030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1527617736675041280",
+          "start": 3,
+          "username": "reliablesugar"
+        },
+        {
+          "end": 29,
+          "id": "1909553877739085825",
+          "start": 19,
+          "username": "heshan258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071400262208721030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071264349197615426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reliablesugar: @heshan258 他是爽了，那些在日本安安分分的中国人就惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2071400262208721030",
+        "created_at": "2026-06-29T01:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071400262208721030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1527617736675041280",
+              "start": 3,
+              "username": "reliablesugar"
+            },
+            {
+              "end": 29,
+              "id": "1909553877739085825",
+              "start": 19,
+              "username": "heshan258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071400262208721030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071264349197615426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reliablesugar: @heshan258 他是爽了，那些在日本安安分分的中国人就惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527617736675041280",
+        "conversation_id": "2071205501002727431",
+        "created_at": "2026-06-28T16:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071264349197615426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "heshan258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071264349197615426",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11670,
+          "like_count": 219,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071205501002727431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heshan258 他是爽了，那些在日本安安分分的中国人就惨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 276,
+          "like_count": 112410,
+          "listed_count": 2,
+          "media_count": 1692,
+          "tweet_count": 17757
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T11:50:38.000Z",
+        "description": "Software Engineer • Aiming for JLPT N1 • Avatar @p1ct0a1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "p1ct0a1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sigh.work",
+                "end": 23,
+                "expanded_url": "https://sigh.work/",
+                "start": 0,
+                "url": "https://t.co/aDQijHs5me"
+              }
+            ]
+          }
+        },
+        "id": "1527617736675041280",
+        "location": "Mars",
+        "name": "Aysel",
+        "pinned_tweet_id": "2047722991908467158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991833038423224320/7Q7Wm3vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 67,
+          "like_count": 1428,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/aDQijHs5me",
+        "username": "reliablesugar",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "我完全支持社会主义， 支持中国共产党的领导，本人忠于中华人民共和国宪法，维护宪法权威，履行法定职责， 忠于祖国、忠于人民，恪尽职守、廉洁奉公，接受人民监督，为建设富强民主文明和谐美丽的社会主义现代化强国 努力奋斗坚决反对历史虚无主义，拥护中国特色社会主义，坚持社会主义核心价值观， 尊重先驱伟人，向先烈致敬！",
+        "id": "1909553877739085825",
+        "name": "東雪蓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996296469574488064/gveR7_YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8311,
+          "following_count": 634,
+          "like_count": 1276,
+          "listed_count": 34,
+          "media_count": 547,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "heshan258",
+        "verified": false
+      }
+    ]
+  }
+}

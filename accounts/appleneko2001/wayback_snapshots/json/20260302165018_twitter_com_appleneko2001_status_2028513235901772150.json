@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2028340783292797000",
+    "created_at": "2026-03-02T16:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028513235901772150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028513235901772150",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028340783292797000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo 摸摸……吃点别的吧……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2028340783292797000",
+        "created_at": "2026-03-02T16:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028513235901772150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028513235901772150",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028340783292797000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 摸摸……吃点别的吧……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882563916632666112",
+        "conversation_id": "2028340783292797000",
+        "created_at": "2026-03-02T05:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028340783292797000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028340783292797000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天天天吃方便面都吃出半脸的痘痘了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 346,
+          "like_count": 95435,
+          "listed_count": 3,
+          "media_count": 1547,
+          "tweet_count": 15527
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "说出来的“善良”绝非善良，讲出来“正义”断非正义，人生最重要的是把握当下，你的善恶不需要你自己证明。🍵😋",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "pinned_tweet_id": "2025420445072457809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009577466348949504/Jb01L601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 826,
+          "like_count": 469445,
+          "listed_count": 8,
+          "media_count": 316,
+          "tweet_count": 39189
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

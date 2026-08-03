@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2007679382928928948",
+    "created_at": "2026-01-14T23:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T00:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011576042352415088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1295663351255543808",
+          "start": 0,
+          "username": "andreasxirtus"
+        },
+        {
+          "end": 29,
+          "id": "1893389048393408513",
+          "start": 15,
+          "username": "heliumbrowser"
+        },
+        {
+          "end": 36,
+          "id": "257245904",
+          "start": 30,
+          "username": "brave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011576042352415088",
+    "in_reply_to_user_id": "1295663351255543808",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007742796044837211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andreasxirtus @heliumbrowser @brave I want a browser and only browser, nothing else"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2007679382928928948",
+        "created_at": "2026-01-14T23:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T00:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011576042352415088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1295663351255543808",
+              "start": 0,
+              "username": "andreasxirtus"
+            },
+            {
+              "end": 29,
+              "id": "1893389048393408513",
+              "start": 15,
+              "username": "heliumbrowser"
+            },
+            {
+              "end": 36,
+              "id": "257245904",
+              "start": 30,
+              "username": "brave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011576042352415088",
+        "in_reply_to_user_id": "1295663351255543808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007742796044837211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andreasxirtus @heliumbrowser @brave I want a browser and only browser, nothing else"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295663351255543808",
+        "conversation_id": "2007679382928928948",
+        "created_at": "2026-01-04T09:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007742796044837211"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "Helium",
+              "probability": 0.7892,
+              "start": 58,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893389048393408513",
+              "start": 0,
+              "username": "heliumbrowser"
+            },
+            {
+              "end": 82,
+              "id": "257245904",
+              "start": 76,
+              "username": "brave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007742796044837211",
+        "in_reply_to_user_id": "1893389048393408513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1844,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007679382928928948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heliumbrowser Can you advise me why someone might prefer Helium instead of @brave?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 294,
+          "like_count": 78186,
+          "listed_count": 2,
+          "media_count": 1393,
+          "tweet_count": 13411
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-18T10:06:52.000Z",
+        "description": "Xirtus\nhttps://t.co/CiUztwzIMt \nhttps://t.co/Ku3b9m4Dck\nhttps://t.co/w7IpZvSeSl\nhttps://t.co/Hrrii6ws6I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "andreas.me",
+                "end": 30,
+                "expanded_url": "http://andreas.me",
+                "start": 7,
+                "url": "https://t.co/CiUztwzIMt"
+              },
+              {
+                "display_url": "linktr.ee/xirtus",
+                "end": 55,
+                "expanded_url": "https://linktr.ee/xirtus",
+                "start": 32,
+                "url": "https://t.co/Ku3b9m4Dck"
+              },
+              {
+                "display_url": "xirtus.com",
+                "end": 79,
+                "expanded_url": "http://xirtus.com",
+                "start": 56,
+                "url": "https://t.co/w7IpZvSeSl"
+              },
+              {
+                "display_url": "youtube.com/xirtus",
+                "end": 103,
+                "expanded_url": "https://youtube.com/xirtus",
+                "start": 80,
+                "url": "https://t.co/Hrrii6ws6I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xirtus.com",
+                "end": 23,
+                "expanded_url": "https://www.xirtus.com",
+                "start": 0,
+                "url": "https://t.co/YGpJkjlLt1"
+              }
+            ]
+          }
+        },
+        "id": "1295663351255543808",
+        "location": "Dresden, Sachsen",
+        "name": "Andreas Xirtus 📐",
+        "pinned_tweet_id": "2010363607087743435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1399941060822978563/9bh68xle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4146,
+          "following_count": 403,
+          "like_count": 14872,
+          "listed_count": 18,
+          "media_count": 7008,
+          "tweet_count": 14029
+        },
+        "url": "https://t.co/YGpJkjlLt1",
+        "username": "andreasxirtus",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T19:55:34.000Z",
+        "description": "The web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise.\n\nFully open source, by @imputnet.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 137,
+                "username": "imputnet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "helium.computer",
+                "end": 23,
+                "expanded_url": "https://helium.computer/",
+                "start": 0,
+                "url": "https://t.co/JEurq40fCr"
+              }
+            ]
+          }
+        },
+        "id": "1893389048393408513",
+        "name": "Helium",
+        "pinned_tweet_id": "1971117905002758381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966048573386084352/w1-yJqYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13301,
+          "following_count": 1,
+          "like_count": 507,
+          "listed_count": 46,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/JEurq40fCr",
+        "username": "heliumbrowser",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-25T01:18:01.000Z",
+        "description": "Join over 100M users with our private browser, search, Web3 access & more. It only takes 60 seconds to switch. For help, contact @BraveSupport 🦁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "BraveSupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brave.com/links/",
+                "end": 23,
+                "expanded_url": "https://brave.com/links/",
+                "start": 0,
+                "url": "https://t.co/5BzLDYBq6j"
+              }
+            ]
+          }
+        },
+        "id": "257245904",
+        "location": "San Francisco, CA",
+        "name": "Brave",
+        "pinned_tweet_id": "2008223296626544737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951131044171644928/7RtvNuKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371069,
+          "following_count": 177,
+          "like_count": 20511,
+          "listed_count": 2657,
+          "media_count": 2020,
+          "tweet_count": 14335
+        },
+        "url": "https://t.co/5BzLDYBq6j",
+        "username": "brave",
+        "verified": true
+      }
+    ]
+  }
+}

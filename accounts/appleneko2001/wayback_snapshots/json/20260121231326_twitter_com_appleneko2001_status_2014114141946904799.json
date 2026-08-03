@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2013893007293194355",
+    "created_at": "2026-01-21T23:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T00:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014114141946904799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699282628560748544",
+          "start": 0,
+          "username": "tingkawayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014114141946904799",
+    "in_reply_to_user_id": "1699282628560748544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013893007293194355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingkawayi 還是換一個吧（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1782,
+        "media_key": "3_2013892997834833920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LJAu-XgAAIBhW.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2013893007293194355",
+        "created_at": "2026-01-21T23:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T00:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014114141946904799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699282628560748544",
+              "start": 0,
+              "username": "tingkawayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014114141946904799",
+        "in_reply_to_user_id": "1699282628560748544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013893007293194355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingkawayi 還是換一個吧（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013892997834833920"
+          ]
+        },
+        "author_id": "1699282628560748544",
+        "conversation_id": "2013893007293194355",
+        "created_at": "2026-01-21T08:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T09:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013893007293194355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZScP1s45KK",
+              "end": 46,
+              "expanded_url": "https://x.com/tingkawayi/status/2013893007293194355/photo/1",
+              "media_key": "3_2013892997834833920",
+              "start": 23,
+              "url": "https://t.co/ZScP1s45KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013893007293194355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 27958,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这就是药娘和顺直男硬凑一起还喜欢上了的下场。 https://t.co/ZScP1s45KK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 314,
+          "like_count": 81583,
+          "listed_count": 2,
+          "media_count": 1424,
+          "tweet_count": 13837
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:45:33.000Z",
+        "description": "可以叫我小町或鑫鑫想要被关注（同类必回）断糖了捏，现在力气一拳打死一头牛，所以不要试图欺负我。",
+        "id": "1699282628560748544",
+        "location": "辽宁大连",
+        "name": "町🍥",
+        "pinned_tweet_id": "1821397083192262726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973011905100017664/-CJYacZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6529,
+          "following_count": 455,
+          "like_count": 280,
+          "listed_count": 9,
+          "media_count": 93,
+          "tweet_count": 693
+        },
+        "username": "tingkawayi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2005635358835593304",
+    "created_at": "2025-12-29T13:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T14:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005635358835593304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005635358835593304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005322565032845666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 以前觉得沟通很重要，后来发现共鸣才是绝杀，因为如果对方听不懂，你说的一切都是废话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2005635358835593304",
+        "created_at": "2025-12-29T13:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005635358835593304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005635358835593304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005322565032845666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 以前觉得沟通很重要，后来发现共鸣才是绝杀，因为如果对方听不懂，你说的一切都是废话。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2005322565032845666",
+        "created_at": "2025-12-28T16:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005322565032845666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005322565032845666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 14114,
+          "like_count": 315,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "以前觉得沟通很重要，后来发现共鸣才是绝杀，因为如果对方听不懂，你说的一切都是废话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 273,
+          "like_count": 68667,
+          "listed_count": 2,
+          "media_count": 1326,
+          "tweet_count": 12648
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 6,
+          "like_count": 731,
+          "listed_count": 10,
+          "media_count": 49,
+          "tweet_count": 885
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

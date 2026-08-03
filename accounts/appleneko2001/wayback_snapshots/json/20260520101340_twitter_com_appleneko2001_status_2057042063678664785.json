@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057033541528195072"
+      ],
+      "media_source_tweet_id": [
+        "2057038622516477964"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10040165566",
+          "name": "ご注文はうさぎですか??"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294476284609720320",
+          "name": "Is the Order a Rabbit?"
+        }
+      }
+    ],
+    "conversation_id": "2057042063678664785",
+    "created_at": "2026-05-20T10:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057042063678664785"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "ごちうさ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1394970344901935104",
+          "start": 3,
+          "username": "usagi_takumichi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/10QLWIPawA",
+          "end": 67,
+          "expanded_url": "https://x.com/usagi_takumichi/status/2057038622516477964/photo/1",
+          "media_key": "3_2057033541528195072",
+          "start": 44,
+          "url": "https://t.co/10QLWIPawA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057042063678664785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057038622516477964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usagi_takumichi: バスが来るのを待ってるチノちゃん\n#ごちうさ https://t.co/10QLWIPawA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2057033541528195072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwNG33aEAAGal2.jpg",
+        "width": 1416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057033541528195072"
+          ],
+          "media_source_tweet_id": [
+            "2057038622516477964"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040165566",
+              "name": "ご注文はうさぎですか??"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294476284609720320",
+              "name": "Is the Order a Rabbit?"
+            }
+          }
+        ],
+        "conversation_id": "2057042063678664785",
+        "created_at": "2026-05-20T10:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057042063678664785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "ごちうさ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1394970344901935104",
+              "start": 3,
+              "username": "usagi_takumichi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/10QLWIPawA",
+              "end": 67,
+              "expanded_url": "https://x.com/usagi_takumichi/status/2057038622516477964/photo/1",
+              "media_key": "3_2057033541528195072",
+              "start": 44,
+              "url": "https://t.co/10QLWIPawA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057042063678664785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057038622516477964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usagi_takumichi: バスが来るのを待ってるチノちゃん\n#ごちうさ https://t.co/10QLWIPawA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057033541528195072"
+          ]
+        },
+        "author_id": "1394970344901935104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040165566",
+              "name": "ご注文はうさぎですか??"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057038622516477964",
+        "created_at": "2026-05-20T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057038622516477964"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "ごちうさ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/10QLWIPawA",
+              "end": 46,
+              "expanded_url": "https://x.com/usagi_takumichi/status/2057038622516477964/photo/1",
+              "media_key": "3_2057033541528195072",
+              "start": 23,
+              "url": "https://t.co/10QLWIPawA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057038622516477964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 202,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "バスが来るのを待ってるチノちゃん\n#ごちうさ https://t.co/10QLWIPawA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，正在被修好…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 351,
+          "like_count": 105044,
+          "listed_count": 4,
+          "media_count": 1637,
+          "tweet_count": 16893
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T10:57:12.000Z",
+        "description": "絵を描いています(ごちうさメイン）。日本語/中国語/english/広東語 ok.ご依頼はメールでcfjanime@hotmail.comまで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/7774279",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/7774279",
+                "start": 0,
+                "url": "https://t.co/qZWLOHzhIY"
+              }
+            ]
+          }
+        },
+        "id": "1394970344901935104",
+        "name": "タク道（健全垢）@C107新作通販中",
+        "pinned_tweet_id": "2006685158007779494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1394970602742587396/disAeKYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37353,
+          "following_count": 126,
+          "like_count": 3112,
+          "listed_count": 249,
+          "media_count": 39,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/qZWLOHzhIY",
+        "username": "usagi_takumichi",
+        "verified": false
+      }
+    ]
+  }
+}

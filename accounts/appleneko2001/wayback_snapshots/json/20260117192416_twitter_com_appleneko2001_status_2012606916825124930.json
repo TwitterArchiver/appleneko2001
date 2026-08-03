@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012603223031587016",
+    "created_at": "2026-01-17T19:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T20:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012606916825124930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "876116957593870336",
+          "start": 0,
+          "username": "Hkrkyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012606916825124930",
+    "in_reply_to_user_id": "876116957593870336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012605979645632549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hkrkyou 以前試過…但…收效甚微…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2012603223031587016",
+        "created_at": "2026-01-17T19:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012606916825124930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "876116957593870336",
+              "start": 0,
+              "username": "Hkrkyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012606916825124930",
+        "in_reply_to_user_id": "876116957593870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012605979645632549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hkrkyou 以前試過…但…收效甚微…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876116957593870336",
+        "conversation_id": "2012603223031587016",
+        "created_at": "2026-01-17T19:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012605979645632549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012605979645632549",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012605701785346110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 这个确实难绷，我知道可以用洗鼻用的瓶子放生理盐水洗鼻子，但是太难搞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 302,
+          "like_count": 80148,
+          "listed_count": 2,
+          "media_count": 1409,
+          "tweet_count": 13656
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-17T16:38:54.000Z",
+        "description": "迷子の旅人",
+        "id": "876116957593870336",
+        "location": "喬の小屋",
+        "name": "博丽乔桑二号机",
+        "pinned_tweet_id": "1285969463850856451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006244756163264512/qtjEJdjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 31,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 83
+        },
+        "username": "Hkrkyou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050171622662025217"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2050171694900490733",
+    "created_at": "2026-05-01T11:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050171694900490733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8FY3arrDJ9",
+          "end": 77,
+          "expanded_url": "https://x.com/appleneko2001/status/2050171694900490733/photo/1",
+          "media_key": "3_2050171622662025217",
+          "start": 54,
+          "url": "https://t.co/8FY3arrDJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050171694900490733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "CSharp变成CBlunt了…（？\n原来不光我喜欢过用C#写程式码 后来变成写zig 也有一部分人一样呢 https://t.co/8FY3arrDJ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": ".NET maintenance hell, Rewriting it in Zig\nhttps://ziggit.dev/t/is-there-a-way-to-import-directly-to-the-file-without-adding-a-constant/6818",
+        "height": 1398,
+        "media_key": "3_2050171622662025217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOsOoFbMAEP2t0.jpg",
+        "width": 1652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050171622662025217"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2050171694900490733",
+        "created_at": "2026-05-01T11:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050171694900490733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8FY3arrDJ9",
+              "end": 77,
+              "expanded_url": "https://x.com/appleneko2001/status/2050171694900490733/photo/1",
+              "media_key": "3_2050171622662025217",
+              "start": 54,
+              "url": "https://t.co/8FY3arrDJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050171694900490733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "CSharp变成CBlunt了…（？\n原来不光我喜欢过用C#写程式码 后来变成写zig 也有一部分人一样呢 https://t.co/8FY3arrDJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 356,
+          "like_count": 103230,
+          "listed_count": 3,
+          "media_count": 1622,
+          "tweet_count": 16636
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

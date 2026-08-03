@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2027733623848493515",
+    "created_at": "2026-02-28T13:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027733623848493515"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "電撃萌王4月号",
+          "probability": 0.7599,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "257329386",
+          "start": 3,
+          "username": "yui_watagashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/aMfOxVSc",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/aMfOxVSc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027733623848493515",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027715404458754332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yui_watagashi: 【お仕事告知】\n\n 本日発売『電撃萌王4月号』にて \nピンナップ描かせていただきました🐺\nもふもふしてます☁️\n\n萌えのつぶつぶも書かせていただいてますので\nどちらも見ていただけたら嬉しいです…！ https://t.co/aMfOxVSc…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027733623848493515].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027733623848493515",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027733623848493515"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 887,
+        "media_key": "3_2027684770852020224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPIjlMaoAAgRQQ.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027684770852020224"
+          ]
+        },
+        "author_id": "257329386",
+        "conversation_id": "2027715404458754332",
+        "created_at": "2026-02-28T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027715404458754332"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "電撃萌王4月号",
+              "probability": 0.7789,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aMfOxVSc2l",
+              "end": 122,
+              "expanded_url": "https://x.com/yui_watagashi/status/2027715404458754332/photo/1",
+              "media_key": "3_2027684770852020224",
+              "start": 99,
+              "url": "https://t.co/aMfOxVSc2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027715404458754332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 696,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "【お仕事告知】\n\n 本日発売『電撃萌王4月号』にて \nピンナップ描かせていただきました🐺\nもふもふしてます☁️\n\n萌えのつぶつぶも書かせていただいてますので\nどちらも見ていただけたら嬉しいです…！ https://t.co/aMfOxVSc2l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 340,
+          "like_count": 93690,
+          "listed_count": 3,
+          "media_count": 1524,
+          "tweet_count": 15238
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-25T05:29:52.000Z",
+        "description": "オロC大好物の絵描き(｡･ө･｡) \n✦電撃萌王イラコン2024大賞│萌王連載中\n✧ご依頼：https://t.co/l77j8bpaQe \n✧Pixiv：https://t.co/DbMM7acu0X\n✧FANBOX：https://t.co/fh3dH0JyKr\n✧健全垢/@yuitan_w\n✧えち垢/@yuitan_2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 139,
+                "username": "yuitan_w"
+              },
+              {
+                "end": 165,
+                "start": 154,
+                "username": "yuitan_2nd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/bmC3s",
+                "end": 69,
+                "expanded_url": "https://x.gd/bmC3s",
+                "start": 46,
+                "url": "https://t.co/l77j8bpaQe"
+              },
+              {
+                "display_url": "x.gd/l0HfJ",
+                "end": 101,
+                "expanded_url": "https://x.gd/l0HfJ",
+                "start": 78,
+                "url": "https://t.co/DbMM7acu0X"
+              },
+              {
+                "display_url": "x.gd/8TZdO",
+                "end": 133,
+                "expanded_url": "https://x.gd/8TZdO",
+                "start": 110,
+                "url": "https://t.co/fh3dH0JyKr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/watagashiyui",
+                "end": 23,
+                "expanded_url": "https://lit.link/watagashiyui",
+                "start": 0,
+                "url": "https://t.co/whgaYmOo3h"
+              }
+            ]
+          }
+        },
+        "id": "257329386",
+        "location": "サークル「ゆいちゃんねる」",
+        "name": "わたがしゆい＠新作抱き枕02/20まで受付中！",
+        "pinned_tweet_id": "2015046936806535227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819754544454402048/RiIt-HFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38284,
+          "following_count": 297,
+          "like_count": 5375,
+          "listed_count": 572,
+          "media_count": 333,
+          "tweet_count": 5753
+        },
+        "url": "https://t.co/whgaYmOo3h",
+        "username": "yui_watagashi",
+        "verified": false
+      }
+    ]
+  }
+}

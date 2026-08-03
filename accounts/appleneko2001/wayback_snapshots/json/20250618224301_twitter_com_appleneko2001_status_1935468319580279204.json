@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1935468319580279204",
+    "created_at": "2025-06-18T22:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T23:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935468319580279204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tcdwww/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/tcdwww/status/1935156485170020386",
+          "start": 10,
+          "url": "https://t.co/1SwzHUwLFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935468319580279204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935156485170020386",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同意的不能再同意了 https://t.co/1SwzHUwLFf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1935468319580279204",
+        "created_at": "2025-06-18T22:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T23:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935468319580279204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tcdwww/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/tcdwww/status/1935156485170020386",
+              "start": 10,
+              "url": "https://t.co/1SwzHUwLFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935468319580279204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935156485170020386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同意的不能再同意了 https://t.co/1SwzHUwLFf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482030767358496768",
+        "conversation_id": "1935156485170020386",
+        "created_at": "2025-06-18T02:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T03:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935156485170020386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935156485170020386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1943,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "因为私信骚扰现象严重，我：\n- 在 Profile 坦承了自己的性别\n- 关闭了私信功能。如果我和你没有互 fo 关系你又急切的想联系我，可以通过邮箱或 Telegram。具体的自己找吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 259,
+          "like_count": 65058,
+          "listed_count": 2,
+          "media_count": 1293,
+          "tweet_count": 12265
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "男的。备用号 @tcdwww_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "tcdwww_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/tcdw",
+                "end": 23,
+                "expanded_url": "https://bento.me/tcdw",
+                "start": 0,
+                "url": "https://t.co/X2P4LSS9fM"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "China",
+        "name": "陶瓷大碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875776929191882752/msEtAuxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 267,
+          "like_count": 34042,
+          "listed_count": 4,
+          "media_count": 340,
+          "tweet_count": 4310
+        },
+        "url": "https://t.co/X2P4LSS9fM",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

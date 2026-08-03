@@ -1,0 +1,726 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1258079554742054912",
+          "name": "DansGaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Anthem",
+          "id": "999363333433131009",
+          "name": "Anthem"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anthem",
+          "id": "999363333433131009",
+          "name": "Anthem"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1258079554742054912",
+          "name": "DansGaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899856931094543",
+          "name": "Cooperative games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "136",
+          "name": "Video Game Personality "
+        },
+        "entity": {
+          "id": "1258079554742054912",
+          "name": "DansGaming"
+        }
+      }
+    ],
+    "conversation_id": "2008263759190483270",
+    "created_at": "2026-01-05T19:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T20:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008263759190483270"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Anthem",
+          "probability": 0.8306,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 107,
+          "normalized_text": "EA App",
+          "probability": 0.8984,
+          "start": 102,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "122439303",
+          "start": 3,
+          "username": "Dansgaming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008263759190483270",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008182733173141618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dansgaming: Anthem is shutting down for good in a week, so I thought I'd play one more time.\n\nThe EA App won't even let me download it…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_2008182623923814400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95_dOcXQAAwq33.jpg",
+        "width": 1517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1258079554742054912",
+              "name": "DansGaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Anthem",
+              "id": "999363333433131009",
+              "name": "Anthem"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anthem",
+              "id": "999363333433131009",
+              "name": "Anthem"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1258079554742054912",
+              "name": "DansGaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899856931094543",
+              "name": "Cooperative games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1258079554742054912",
+              "name": "DansGaming"
+            }
+          }
+        ],
+        "conversation_id": "2008263759190483270",
+        "created_at": "2026-01-05T19:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T20:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008263759190483270"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Anthem",
+              "probability": 0.8306,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "EA App",
+              "probability": 0.8984,
+              "start": 102,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "122439303",
+              "start": 3,
+              "username": "Dansgaming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008263759190483270",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008182733173141618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dansgaming: Anthem is shutting down for good in a week, so I thought I'd play one more time.\n\nThe EA App won't even let me download it…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008182623923814400"
+          ]
+        },
+        "author_id": "122439303",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1258079554742054912",
+              "name": "DansGaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Anthem",
+              "id": "999363333433131009",
+              "name": "Anthem"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anthem",
+              "id": "999363333433131009",
+              "name": "Anthem"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1258079554742054912",
+              "name": "DansGaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899856931094543",
+              "name": "Cooperative games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1258079554742054912",
+              "name": "DansGaming"
+            }
+          }
+        ],
+        "conversation_id": "2008182733173141618",
+        "created_at": "2026-01-05T14:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008182733173141618"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Anthem",
+              "probability": 0.9088,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 91,
+              "normalized_text": "EA App",
+              "probability": 0.8763,
+              "start": 86,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/spVNJd9six",
+              "end": 168,
+              "expanded_url": "https://x.com/Dansgaming/status/2008182733173141618/photo/1",
+              "media_key": "3_2008182623923814400",
+              "start": 145,
+              "url": "https://t.co/spVNJd9six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008182733173141618",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 191468,
+          "like_count": 7909,
+          "quote_count": 23,
+          "reply_count": 184,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "Anthem is shutting down for good in a week, so I thought I'd play one more time.\n\nThe EA App won't even let me download it even though I own it. https://t.co/spVNJd9six"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 276,
+          "like_count": 71979,
+          "listed_count": 2,
+          "media_count": 1359,
+          "tweet_count": 12945
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-12T18:22:28.000Z",
+        "description": "🕹️Variety Twitch Streamer since 2009\n📺 Daily Gaming Streams on Twitch, YouTube, Twitter & TikTok\n📨Business Email: dansgaming@loaded.gg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/dansgaming",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/dansgaming",
+                "start": 0,
+                "url": "https://t.co/YPY8T6HqTi"
+              }
+            ]
+          }
+        },
+        "id": "122439303",
+        "location": "Raleigh, NC",
+        "name": "DansGaming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838011844046303232/SQsMz2ek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131763,
+          "following_count": 1458,
+          "like_count": 28196,
+          "listed_count": 569,
+          "media_count": 9019,
+          "tweet_count": 67442
+        },
+        "url": "https://t.co/YPY8T6HqTi",
+        "username": "Dansgaming",
+        "verified": true
+      }
+    ]
+  }
+}

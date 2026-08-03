@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008086527843450880"
+      ],
+      "media_source_tweet_id": [
+        "2008086772534915500"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2008196989734068601",
+    "created_at": "2026-01-05T15:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T16:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008196989734068601"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1684075622371586048",
+          "start": 3,
+          "username": "kano2007226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B4bH6mmmkA",
+          "end": 59,
+          "expanded_url": "https://x.com/kano2007226/status/2008086772534915500/video/1",
+          "media_key": "13_2008086527843450880",
+          "start": 36,
+          "url": "https://t.co/B4bH6mmmkA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008196989734068601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008086772534915500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kano2007226: #prsk_FA  别惹他们.... https://t.co/B4bH6mmmkA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20921,
+        "height": 1920,
+        "media_key": "13_2008086527843450880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008086527843450880/img/2hlf-Q4wpjclh_Ct.jpg",
+        "public_metrics": {
+          "view_count": 4446
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008086527843450880/vid/avc1/320x320/zrVJp5oRCPn9WO7C.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008086527843450880/vid/avc1/540x540/dZ4B0TmE6EUdFjde.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008086527843450880/vid/avc1/720x720/16fVGzBo6XS_Vs5C.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008086527843450880/pl/TbMkJDus_Dvyyci-.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008086527843450880"
+          ],
+          "media_source_tweet_id": [
+            "2008086772534915500"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2008196989734068601",
+        "created_at": "2026-01-05T15:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T16:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008196989734068601"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684075622371586048",
+              "start": 3,
+              "username": "kano2007226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4bH6mmmkA",
+              "end": 59,
+              "expanded_url": "https://x.com/kano2007226/status/2008086772534915500/video/1",
+              "media_key": "13_2008086527843450880",
+              "start": 36,
+              "url": "https://t.co/B4bH6mmmkA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008196989734068601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008086772534915500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kano2007226: #prsk_FA  别惹他们.... https://t.co/B4bH6mmmkA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008086527843450880"
+          ]
+        },
+        "author_id": "1684075622371586048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2008086772534915500",
+        "created_at": "2026-01-05T08:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T09:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008086772534915500"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4bH6mmmkA",
+              "end": 42,
+              "expanded_url": "https://x.com/kano2007226/status/2008086772534915500/video/1",
+              "media_key": "13_2008086527843450880",
+              "start": 19,
+              "url": "https://t.co/B4bH6mmmkA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008086772534915500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 11183,
+          "like_count": 984,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "#prsk_FA  别惹他们.... https://t.co/B4bH6mmmkA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 275,
+          "like_count": 71809,
+          "listed_count": 2,
+          "media_count": 1356,
+          "tweet_count": 12920
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T05:38:20.000Z",
+        "description": "中文◎ En△日本語○  プロセカ 好き 我喜欢まふえなかな大乱炖（左右有意义）ニーゴ推し  温良单机同人女",
+        "id": "1684075622371586048",
+        "name": "kano",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000953419729920003/Yvt-1e0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 12,
+          "like_count": 690,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 39
+        },
+        "username": "kano2007226",
+        "verified": false
+      }
+    ]
+  }
+}

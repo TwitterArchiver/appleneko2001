@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "2027723634970923087",
+    "created_at": "2026-02-28T15:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027768437955825754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1418784224421847041",
+          "start": 0,
+          "username": "ChenToneGo"
+        },
+        {
+          "end": 22,
+          "id": "1751497892001685504",
+          "start": 12,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027768437955825754",
+    "in_reply_to_user_id": "1418784224421847041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027765040712192055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenToneGo @45_206MHz 你喜欢用copilot 直说啦 只是\n不要反悔喔（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2027723634970923087",
+        "created_at": "2026-02-28T15:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027768437955825754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1418784224421847041",
+              "start": 0,
+              "username": "ChenToneGo"
+            },
+            {
+              "end": 22,
+              "id": "1751497892001685504",
+              "start": 12,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027768437955825754",
+        "in_reply_to_user_id": "1418784224421847041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027765040712192055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenToneGo @45_206MHz 你喜欢用copilot 直说啦 只是\n不要反悔喔（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418784224421847041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2027723634970923087",
+        "created_at": "2026-02-28T15:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027765040712192055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 25,
+              "id": "1751497892001685504",
+              "start": 15,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027765040712192055",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027763565667750173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @45_206MHz Copilot 哪裡強買強賣了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 343,
+          "like_count": 94019,
+          "listed_count": 3,
+          "media_count": 1526,
+          "tweet_count": 15285
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T04:05:03.000Z",
+        "description": "要麼征服世界，要麼一無所有。",
+        "id": "1418784224421847041",
+        "location": "四海為家",
+        "name": "高振東 고전둥 Levi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021611394907652096/jprSe4L4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 44,
+          "like_count": 2016,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 182
+        },
+        "username": "ChenToneGo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun | 叫我 45 就好啦 | AMAB | gender apathetic | 舞萌痴 | MBTI: ISTP | 里推: @45_206io | 可爱の笨蛋妹妹: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "45_206io"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "Maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009572352519213057/8DgrF8uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 463,
+          "like_count": 28532,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2884
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

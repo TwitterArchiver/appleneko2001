@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2044678181836497367",
+    "created_at": "2026-04-16T07:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044678181836497367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1423565441071390723",
+          "start": 3,
+          "username": "ReimuNotMoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044678181836497367",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044656752482975993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReimuNotMoe: If you are a neurodivergent child who is interested in computers &amp; electronics, but you were born in a dysfunctional East…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2044678181836497367",
+        "created_at": "2026-04-16T07:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044678181836497367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1423565441071390723",
+              "start": 3,
+              "username": "ReimuNotMoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044678181836497367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044656752482975993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReimuNotMoe: If you are a neurodivergent child who is interested in computers &amp; electronics, but you were born in a dysfunctional East…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423565441071390723",
+        "conversation_id": "2044611478288994385",
+        "created_at": "2026-04-16T05:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044656752482975993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044656752482975993",
+        "in_reply_to_user_id": "1423565441071390723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044611478288994385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "If you are a neurodivergent child who is interested in computers &amp; electronics, but you were born in a dysfunctional East Asian family, this is the only way, unfortunately."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 355,
+          "like_count": 101692,
+          "listed_count": 3,
+          "media_count": 1606,
+          "tweet_count": 16392
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T08:43:51.000Z",
+        "description": "CTO of @SudoMaker\nLinux/BSD user since '08/'22\nFree software & privacy enthusiast\n\nCreator of the #Notkia, #RetroWave, and #ResonanceJS.\n\nI use C++ & MIPS btw.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 98,
+                "tag": "Notkia"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RetroWave"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "tag": "ResonanceJS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "SudoMaker"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "su.mk/store",
+                "end": 23,
+                "expanded_url": "https://su.mk/store",
+                "start": 0,
+                "url": "https://t.co/E7VENGmCJT"
+              }
+            ]
+          }
+        },
+        "id": "1423565441071390723",
+        "location": "-1 375e b 70b45 1a1a4b",
+        "name": "Reimu NotMoe @ 🦋 | 🖥️🛠️⚙️☕️🏙️🖖🖤🩶🤍💜",
+        "pinned_tweet_id": "1787146317594321241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916125301643567104/k8t3zmvA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3487,
+          "following_count": 456,
+          "like_count": 13216,
+          "listed_count": 32,
+          "media_count": 2281,
+          "tweet_count": 8896
+        },
+        "url": "https://t.co/E7VENGmCJT",
+        "username": "ReimuNotMoe",
+        "verified": false
+      }
+    ]
+  }
+}

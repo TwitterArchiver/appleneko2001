@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2061319007073181865",
+    "created_at": "2026-06-01T06:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061340244075766122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061340244075766122",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061319007073181865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiancongxyn 至少确定了家长是友好派或是反对派…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2061319007073181865",
+        "created_at": "2026-06-01T06:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061340244075766122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061340244075766122",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061319007073181865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn 至少确定了家长是友好派或是反对派…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2061319007073181865",
+        "created_at": "2026-06-01T05:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061319007073181865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/qiancongxyn/status/2061289590259175680",
+              "start": 73,
+              "url": "https://t.co/YM7uGHdEAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061319007073181865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 813,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061289590259175680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸觉得这医院真有病，居然迎合孩子想当女生的变态想法，就急着要我出院...\n\n好吧，至少能快点出院了...虽然我的豪赌结果是抽出了反对党...唉 https://t.co/YM7uGHdEAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "真的冷静下来了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "大笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 247,
+          "like_count": 106678,
+          "listed_count": 2,
+          "media_count": 1640,
+          "tweet_count": 17133
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n高二物化生｜成绩倒数｜考虑休学\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban我\n不阔爱不pass｜缺爱想交朋友\n\n私信互fo｜友好相处｜喜欢我就关注下呗🥺\n对象 @xiaoyimiaoaaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "xiaoyimiaoaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060573450616664245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 848,
+          "like_count": 1371,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

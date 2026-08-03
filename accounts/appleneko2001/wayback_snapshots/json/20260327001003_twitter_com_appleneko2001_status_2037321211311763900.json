@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2037321211311763900",
+    "created_at": "2026-03-27T00:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T01:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037321211311763900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3996897673",
+          "start": 3,
+          "username": "windscribecom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037321211311763900",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037299807677534363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @windscribecom: One vote.\n\nThe EU killed Chat Control by a single vote margin.\n\nThat's how close you were to having ALL your private mes…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2037321211311763900",
+        "created_at": "2026-03-27T00:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037321211311763900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3996897673",
+              "start": 3,
+              "username": "windscribecom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037321211311763900",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037299807677534363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @windscribecom: One vote.\n\nThe EU killed Chat Control by a single vote margin.\n\nThat's how close you were to having ALL your private mes…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3996897673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2037299807677534363",
+        "created_at": "2026-03-26T22:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037299807677534363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037299807677534363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3447,
+          "like_count": 250,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "One vote.\n\nThe EU killed Chat Control by a single vote margin.\n\nThat's how close you were to having ALL your private messages auto scanned for \"crimes\".\n\nThe fight isn't over though. Chat Control is dead but legislation for Chat Control 2 is already in motion. \n\nKill it as well."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2035715175735779790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 361,
+          "like_count": 100132,
+          "listed_count": 3,
+          "media_count": 1578,
+          "tweet_count": 16122
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-24T00:50:49.000Z",
+        "description": "The best, the fastest, the smartest and the most humble VPN service on this side of a flat disk you call Earth.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "windscribe.com/app/x",
+                "end": 23,
+                "expanded_url": "https://windscribe.com/app/x",
+                "start": 0,
+                "url": "https://t.co/xYr2VJUrUK"
+              }
+            ]
+          }
+        },
+        "id": "3996897673",
+        "location": "Toronto, Ontario",
+        "name": "Windscribe",
+        "pinned_tweet_id": "2027516995432849462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775218115132956672/q5zCi6Mz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206319,
+          "following_count": 69,
+          "like_count": 5839,
+          "listed_count": 220,
+          "media_count": 2540,
+          "tweet_count": 8211
+        },
+        "url": "https://t.co/xYr2VJUrUK",
+        "username": "windscribecom",
+        "verified": true
+      }
+    ]
+  }
+}

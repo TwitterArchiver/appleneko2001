@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1393305943966830592",
+          "name": "GOG.com"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1393305943966830592",
+          "name": "GOG.com"
+        }
+      }
+    ],
+    "conversation_id": "2011823258664874317",
+    "created_at": "2026-01-15T19:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T20:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011880505437012257"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "Yuri",
+          "probability": 0.6446,
+          "start": 40,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1241781582324592640",
+          "start": 0,
+          "username": "shldcx"
+        },
+        {
+          "end": 15,
+          "id": "18334111",
+          "start": 8,
+          "username": "GOGcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011880505437012257",
+    "in_reply_to_user_id": "1241781582324592640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011850169466396927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shldcx @GOGcom Classic red alert 2 and Yuri's revenge is sick I never forget about them \n\nOptical laser unit: EZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_2011849853127835660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-uGyD0bQAwFn43.png",
+        "width": 750
+      },
+      {
+        "height": 600,
+        "media_key": "3_2011850146452291586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-uHDIibQAITIo-.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1393305943966830592",
+              "name": "GOG.com"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1393305943966830592",
+              "name": "GOG.com"
+            }
+          }
+        ],
+        "conversation_id": "2011823258664874317",
+        "created_at": "2026-01-15T19:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T20:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011880505437012257"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Yuri",
+              "probability": 0.6446,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1241781582324592640",
+              "start": 0,
+              "username": "shldcx"
+            },
+            {
+              "end": 15,
+              "id": "18334111",
+              "start": 8,
+              "username": "GOGcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011880505437012257",
+        "in_reply_to_user_id": "1241781582324592640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011850169466396927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shldcx @GOGcom Classic red alert 2 and Yuri's revenge is sick I never forget about them \n\nOptical laser unit: EZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011849853127835660",
+            "3_2011850146452291586"
+          ]
+        },
+        "author_id": "1241781582324592640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1393305943966830592",
+              "name": "GOG.com"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1393305943966830592",
+              "name": "GOG.com"
+            }
+          }
+        ],
+        "conversation_id": "2011823258664874317",
+        "created_at": "2026-01-15T17:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T18:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011850169466396927"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "red alert 2",
+              "probability": 0.6937,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Yuri's Revenge",
+              "probability": 0.7506,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "18334111",
+              "start": 0,
+              "username": "GOGcom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2IAllpbFA",
+              "end": 88,
+              "expanded_url": "https://x.com/shldcx/status/2011850169466396927/photo/1",
+              "media_key": "3_2011849853127835660",
+              "start": 65,
+              "url": "https://t.co/Q2IAllpbFA"
+            },
+            {
+              "display_url": "pic.x.com/Q2IAllpbFA",
+              "end": 88,
+              "expanded_url": "https://x.com/shldcx/status/2011850169466396927/photo/1",
+              "media_key": "3_2011850146452291586",
+              "start": 65,
+              "url": "https://t.co/Q2IAllpbFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011850169466396927",
+        "in_reply_to_user_id": "18334111",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1922,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011823258664874317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GOGcom red alert 2, both the regular and Yuri's Revenge edition https://t.co/Q2IAllpbFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 294,
+          "like_count": 78836,
+          "listed_count": 2,
+          "media_count": 1394,
+          "tweet_count": 13470
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-22T17:39:59.000Z",
+        "description": "personal acc: @aq_shl | Tech | Game | Meme | ID/EN \n#ぼっち・ざ・ろっく | #けいおん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 52,
+                "tag": "ぼっち・ざ・ろっく"
+              },
+              {
+                "end": 70,
+                "start": 65,
+                "tag": "けいおん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "aq_shl"
+              }
+            ]
+          }
+        },
+        "id": "1241781582324592640",
+        "name": "couch potato",
+        "pinned_tweet_id": "1311221112957616130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268193383199076359/U5CMbbfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 1077,
+          "like_count": 32321,
+          "listed_count": 0,
+          "media_count": 857,
+          "tweet_count": 11888
+        },
+        "username": "shldcx",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-23T14:47:11.000Z",
+        "description": "Digital PC gaming platform – timeless classics, no DRM, great deals, and making games live forever!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "GOG.com",
+                "end": 23,
+                "expanded_url": "http://www.GOG.com",
+                "start": 0,
+                "url": "https://t.co/aYlAkDr90p"
+              }
+            ]
+          }
+        },
+        "id": "18334111",
+        "name": "GOG.COM",
+        "pinned_tweet_id": "1856698605563793789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856699937456607232/KyhkroJW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428457,
+          "following_count": 676,
+          "like_count": 16622,
+          "listed_count": 3284,
+          "media_count": 14844,
+          "tweet_count": 32580
+        },
+        "url": "https://t.co/aYlAkDr90p",
+        "username": "GOGcom",
+        "verified": true
+      }
+    ]
+  }
+}

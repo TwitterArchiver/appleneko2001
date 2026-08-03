@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2004249791094837741",
+    "created_at": "2025-12-25T17:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T18:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004249791094837741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "296593919",
+          "start": 3,
+          "username": "vikingmute"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more. - Maxteabag/sqlit",
+          "display_url": "github.com/Maxteabag/sqlit",
+          "end": 74,
+          "expanded_url": "https://github.com/Maxteabag/sqlit",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2003570720757149696/iprdXQn6?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2003570720757149696/iprdXQn6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 51,
+          "status": 200,
+          "title": "GitHub - Maxteabag/sqlit: A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.",
+          "unwound_url": "https://github.com/Maxteabag/sqlit",
+          "url": "https://t.co/bU5bCrjbpE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004249791094837741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004007256200036538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vikingmute: 今年是不是 TUI 大年啊，啥都有 TUI，看到了这个 sqlit，\nhttps://t.co/bU5bCrjbpE\n\n支持 15 种数据库（主流的都可以），功能还挺强大的：查询历史 语法高亮 自动补全  Vim 风格编辑，风格很像 lazygi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "16_2004007150037987328",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8-p4qFbcAAsPfK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8-p4qFbcAAsPfK.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2004249791094837741",
+        "created_at": "2025-12-25T17:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T18:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004249791094837741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "296593919",
+              "start": 3,
+              "username": "vikingmute"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more. - Maxteabag/sqlit",
+              "display_url": "github.com/Maxteabag/sqlit",
+              "end": 74,
+              "expanded_url": "https://github.com/Maxteabag/sqlit",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2003570720757149696/iprdXQn6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2003570720757149696/iprdXQn6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "GitHub - Maxteabag/sqlit: A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.",
+              "unwound_url": "https://github.com/Maxteabag/sqlit",
+              "url": "https://t.co/bU5bCrjbpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004249791094837741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004007256200036538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vikingmute: 今年是不是 TUI 大年啊，啥都有 TUI，看到了这个 sqlit，\nhttps://t.co/bU5bCrjbpE\n\n支持 15 种数据库（主流的都可以），功能还挺强大的：查询历史 语法高亮 自动补全  Vim 风格编辑，风格很像 lazygi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2004007150037987328"
+          ]
+        },
+        "author_id": "296593919",
+        "conversation_id": "2004007256200036538",
+        "created_at": "2025-12-25T01:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T02:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004007256200036538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more. - Maxteabag/sqlit",
+              "display_url": "github.com/Maxteabag/sqlit",
+              "end": 58,
+              "expanded_url": "https://github.com/Maxteabag/sqlit",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2003570720757149696/iprdXQn6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2003570720757149696/iprdXQn6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "GitHub - Maxteabag/sqlit: A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more.",
+              "unwound_url": "https://github.com/Maxteabag/sqlit",
+              "url": "https://t.co/bU5bCrjbpE"
+            },
+            {
+              "display_url": "pic.x.com/zYpNHivmX6",
+              "end": 172,
+              "expanded_url": "https://x.com/vikingmute/status/2004007256200036538/photo/1",
+              "media_key": "16_2004007150037987328",
+              "start": 149,
+              "url": "https://t.co/zYpNHivmX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004007256200036538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 19446,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "今年是不是 TUI 大年啊，啥都有 TUI，看到了这个 sqlit，\nhttps://t.co/bU5bCrjbpE\n\n支持 15 种数据库（主流的都可以），功能还挺强大的：查询历史 语法高亮 自动补全  Vim 风格编辑，风格很像 lazygit，挺漂亮的 大家如果喜欢 TUI，可以尝试一下。 https://t.co/zYpNHivmX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67270,
+          "listed_count": 2,
+          "media_count": 1319,
+          "tweet_count": 12500
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "easycv.cn",
+                "end": 44,
+                "expanded_url": "http://easycv.cn",
+                "start": 21,
+                "url": "https://t.co/xMu5JFIGnr"
+              },
+              {
+                "display_url": "imooc.com/t/6012904",
+                "end": 96,
+                "expanded_url": "http://www.imooc.com/t/6012904",
+                "start": 73,
+                "url": "https://t.co/NTyFFrvHwL"
+              },
+              {
+                "display_url": "vikingz.me/1000-days",
+                "end": 136,
+                "expanded_url": "http://vikingz.me/1000-days",
+                "start": 113,
+                "url": "https://t.co/bonuLQCCsY"
+              },
+              {
+                "display_url": "youtube.com/@vikingzhang",
+                "end": 166,
+                "expanded_url": "http://www.youtube.com/@vikingzhang",
+                "start": 143,
+                "url": "https://t.co/aQYLgujIyC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "location": "Shanghai",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61245,
+          "following_count": 280,
+          "like_count": 881,
+          "listed_count": 625,
+          "media_count": 1371,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true
+      }
+    ]
+  }
+}

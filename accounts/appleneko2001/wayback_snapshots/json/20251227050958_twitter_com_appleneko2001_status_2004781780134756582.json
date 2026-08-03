@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1573102323341017088",
+          "name": "Beat Saber"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1573102323341017088",
+          "name": "Beat Saber"
+        }
+      }
+    ],
+    "conversation_id": "2004781780134756582",
+    "created_at": "2025-12-27T05:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004781780134756582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mhtqwq/status/…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/mhtqwq/status/2004767696207184325",
+          "start": 34,
+          "url": "https://t.co/4MDhXt2SMK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004781780134756582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004767696207184325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "來玩beat saber吧\n每天都至少玩上30分鐘 開mod更好（ https://t.co/4MDhXt2SMK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004420465289220096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EhyxYWUAA6enI.jpg",
+        "width": 1191
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1573102323341017088",
+              "name": "Beat Saber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1573102323341017088",
+              "name": "Beat Saber"
+            }
+          }
+        ],
+        "conversation_id": "2004781780134756582",
+        "created_at": "2025-12-27T05:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004781780134756582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mhtqwq/status/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/mhtqwq/status/2004767696207184325",
+              "start": 34,
+              "url": "https://t.co/4MDhXt2SMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004781780134756582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004767696207184325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "來玩beat saber吧\n每天都至少玩上30分鐘 開mod更好（ https://t.co/4MDhXt2SMK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004420465289220096"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "2004767696207184325",
+        "created_at": "2025-12-27T04:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T05:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004767696207184325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtP6FwHtpi",
+              "end": 73,
+              "expanded_url": "https://x.com/mhtqwq/status/2004767696207184325/photo/1",
+              "media_key": "3_2004420465289220096",
+              "start": 50,
+              "url": "https://t.co/TtP6FwHtpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004767696207184325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2597,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肌肉是靠日积月累积累的，不是靠打药，身体最重要，慢慢沉淀，靠你自己一定能越来越强壮，肌肉越来越发达 https://t.co/TtP6FwHtpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67719,
+          "listed_count": 2,
+          "media_count": 1321,
+          "tweet_count": 12555
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜差点一口气活了｜不建政｜Minecraft｜格雷科寄｜p社战犯｜❤️@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4430,
+          "following_count": 425,
+          "like_count": 9265,
+          "listed_count": 8,
+          "media_count": 1796,
+          "tweet_count": 9074
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

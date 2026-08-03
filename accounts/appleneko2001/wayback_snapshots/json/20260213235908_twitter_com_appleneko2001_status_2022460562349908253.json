@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2022273955240010173",
+    "created_at": "2026-02-13T23:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T00:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022460562349908253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1842424481953804288",
+          "start": 0,
+          "username": "Expl01t0_ETH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022460562349908253",
+    "in_reply_to_user_id": "1842424481953804288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022273955240010173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Expl01t0_ETH You can still have better life and love, it just takes time to get there...\nI don't think you're cooked that lot\n\nTry something else if you can!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2022273955240010173",
+        "created_at": "2026-02-13T23:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T00:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022460562349908253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1842424481953804288",
+              "start": 0,
+              "username": "Expl01t0_ETH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022460562349908253",
+        "in_reply_to_user_id": "1842424481953804288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022273955240010173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Expl01t0_ETH You can still have better life and love, it just takes time to get there...\nI don't think you're cooked that lot\n\nTry something else if you can!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842424481953804288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2022273955240010173",
+        "created_at": "2026-02-13T11:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022273955240010173"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Cyberpunk \nCollege",
+              "probability": 0.6931,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 169,
+              "normalized_text": "crypto",
+              "probability": 0.5562,
+              "start": 164,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kashishonchain…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/kashishonchain/status/2022047743838236814",
+              "start": 188,
+              "url": "https://t.co/onW97EEN3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022273955240010173",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022047743838236814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "21 year old\n\nFull time coder\nCyberpunk \nCollege \nLost my $2000 in this crypto market.\nLive alone \n6 feet\nJaked \nNo wife \nNo kid \nWatching anime \nPosting on X about crypto.\n\nThat is enough https://t.co/onW97EEN3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 326,
+          "like_count": 89264,
+          "listed_count": 2,
+          "media_count": 1486,
+          "tweet_count": 14566
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:40:22.000Z",
+        "description": "coder/ studing cybersecurity / crypto trader / calisthenics",
+        "id": "1842424481953804288",
+        "location": "world",
+        "name": "bhall.ETH",
+        "pinned_tweet_id": "2020495387455639776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998368348581896192/ZU1A5CvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 976,
+          "like_count": 16516,
+          "listed_count": 2,
+          "media_count": 555,
+          "tweet_count": 18980
+        },
+        "username": "Expl01t0_ETH",
+        "verified": true
+      }
+    ]
+  }
+}

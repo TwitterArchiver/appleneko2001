@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2076676870658310229",
+    "created_at": "2026-07-14T00:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076831272379548128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073080648647245827",
+          "start": 0,
+          "username": "Androidneko2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076831272379548128",
+    "in_reply_to_user_id": "2073080648647245827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076793194768146636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Androidneko2001 噗哈哈 太真实了…\n如何反击"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076793194768146636].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076793194768146636",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076793194768146636"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2076676870658310229",
+        "created_at": "2026-07-14T00:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076831272379548128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073080648647245827",
+              "start": 0,
+              "username": "Androidneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076831272379548128",
+        "in_reply_to_user_id": "2073080648647245827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076793194768146636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Androidneko2001 噗哈哈 太真实了…\n如何反击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/9bx2JDcXSU"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 288,
+          "like_count": 115720,
+          "listed_count": 2,
+          "media_count": 1727,
+          "tweet_count": 18161
+        },
+        "url": "https://t.co/9bx2JDcXSU",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-03T16:25:56.000Z",
+        "description": "在星空中试着创造虚空✨|已有恋人🧑‍🤝‍🧑|低于平均计算机用户💻|是炒作人士（❌）|可能精神很稳🚸| 不自由开发者/贡献者👨‍💻|前Material.Girl贡献者💡|母语中文📖 | I speak ENG📖 | 养的猫吃鱼板🍥",
+        "id": "2073080648647245827",
+        "name": "芒果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076826596238102529/lWjw3rOp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Androidneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

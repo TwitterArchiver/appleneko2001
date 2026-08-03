@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002593474777133059"
+      ],
+      "media_source_tweet_id": [
+        "2002593480594604235"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2002811722302988480",
+    "created_at": "2025-12-21T18:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T19:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002811722302988480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514079229851631616",
+          "start": 3,
+          "username": "Nanten82"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9NZTpPyd5F",
+          "end": 41,
+          "expanded_url": "https://x.com/Nanten82/status/2002593480594604235/photo/1",
+          "media_key": "3_2002593474777133059",
+          "start": 18,
+          "url": "https://t.co/9NZTpPyd5F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002811722302988480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002593480594604235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Nanten82: 👹🔺🔞 https://t.co/9NZTpPyd5F"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002811722302988480].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002811722302988480",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002811722302988480"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2002593474777133059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8qkJ7WbMAME-sD.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002593474777133059"
+          ]
+        },
+        "author_id": "1514079229851631616",
+        "conversation_id": "2002593480594604235",
+        "created_at": "2025-12-21T04:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T05:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002593480594604235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NZTpPyd5F",
+              "end": 27,
+              "expanded_url": "https://x.com/Nanten82/status/2002593480594604235/photo/1",
+              "media_key": "3_2002593474777133059",
+              "start": 4,
+              "url": "https://t.co/9NZTpPyd5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002593480594604235",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1052,
+          "impression_count": 224810,
+          "like_count": 8729,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "reply_settings": "following",
+        "text": "👹🔺🔞 https://t.co/9NZTpPyd5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 66361,
+          "listed_count": 2,
+          "media_count": 1316,
+          "tweet_count": 12438
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T03:14:29.000Z",
+        "description": "いろいろ好きなマイペース人間です。最近は無期迷途。無言フォロー失礼します。ラフシャロに狂ってます。成人済です。",
+        "id": "1514079229851631616",
+        "name": "南天",
+        "pinned_tweet_id": "1960174103413006554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897751097881600000/ND2AsimX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 125,
+          "like_count": 44018,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1430
+        },
+        "username": "Nanten82",
+        "verified": false
+      }
+    ]
+  }
+}

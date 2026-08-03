@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2027799780190261617",
+    "created_at": "2026-02-28T17:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T18:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027802936114585936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868785269362900993",
+          "start": 0,
+          "username": "aaloesssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027802936114585936",
+    "in_reply_to_user_id": "1868785269362900993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027799780190261617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaloesssss 好看（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2027799776318918662",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQxJx8bEAYHBxm.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2027799780190261617",
+        "created_at": "2026-02-28T17:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027802936114585936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868785269362900993",
+              "start": 0,
+              "username": "aaloesssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027802936114585936",
+        "in_reply_to_user_id": "1868785269362900993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027799780190261617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaloesssss 好看（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027799776318918662"
+          ]
+        },
+        "author_id": "1868785269362900993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138142881506504704",
+              "name": "Jo Yuri"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138142881506504704",
+              "name": "Jo Yuri"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138142881506504704",
+              "name": "Jo Yuri"
+            }
+          }
+        ],
+        "conversation_id": "2027799780190261617",
+        "created_at": "2026-02-28T17:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027799780190261617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "조유리"
+            },
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "JoYuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Cz9dcuem2",
+              "end": 49,
+              "expanded_url": "https://x.com/aaloesssss/status/2027799780190261617/photo/1",
+              "media_key": "3_2027799776318918662",
+              "start": 26,
+              "url": "https://t.co/8Cz9dcuem2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027799780190261617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#조유리 #JoYuri \n\n我想和你赏最美的风景 https://t.co/8Cz9dcuem2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 344,
+          "like_count": 94237,
+          "listed_count": 3,
+          "media_count": 1531,
+          "tweet_count": 15318
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T22:28:31.000Z",
+        "description": "这个主播好有意思，我好喜欢，大家快关注快关注，什么，你看，这个人居然回follow了，好爱好爱好爱啊😘\n小tip:\n只混上流圈子，关注我一起上流，互fo(惬意) 🥰\ntip2:只与姐姐和巨帅的哥哥聊天（雾）",
+        "id": "1868785269362900993",
+        "location": "向往Japan",
+        "name": "aloes",
+        "pinned_tweet_id": "1915393454341054624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870805671450464257/6ns7iaR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 735,
+          "like_count": 1317,
+          "listed_count": 7,
+          "media_count": 39,
+          "tweet_count": 647
+        },
+        "username": "aaloesssss",
+        "verified": false
+      }
+    ]
+  }
+}

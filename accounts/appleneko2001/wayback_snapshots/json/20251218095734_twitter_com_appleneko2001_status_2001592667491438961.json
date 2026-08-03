@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000838351885369344"
+      ],
+      "media_source_tweet_id": [
+        "2000838718442410474"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001592667491438961",
+    "created_at": "2025-12-18T09:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T10:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001592667491438961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "28530405",
+          "start": 3,
+          "username": "manateelazycat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmNjUgU0Ni",
+          "end": 72,
+          "expanded_url": "https://x.com/manateelazycat/status/2000838718442410474/video/1",
+          "media_key": "13_2000838351885369344",
+          "start": 49,
+          "url": "https://t.co/nmNjUgU0Ni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001592667491438961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000838718442410474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manateelazycat: 在你问AI一个很傻的编程问题之前……先看看这个哈哈哈哈🤣 https://t.co/nmNjUgU0Ni"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34620,
+        "height": 664,
+        "media_key": "13_2000838351885369344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000838351885369344/img/DROXJ5mbc8ev6FfR.jpg",
+        "public_metrics": {
+          "view_count": 41963
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000838351885369344/vid/avc1/292x270/93NxLikS8mwXR2Fz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000838351885369344/vid/avc1/390x360/AqLturNQsM-xu6A8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000838351885369344/vid/avc1/720x664/BBXYHellDBEpKyAH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000838351885369344/pl/WZqVPzOyCAvKieKs.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000838351885369344"
+          ],
+          "media_source_tweet_id": [
+            "2000838718442410474"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001592667491438961",
+        "created_at": "2025-12-18T09:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001592667491438961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "28530405",
+              "start": 3,
+              "username": "manateelazycat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmNjUgU0Ni",
+              "end": 72,
+              "expanded_url": "https://x.com/manateelazycat/status/2000838718442410474/video/1",
+              "media_key": "13_2000838351885369344",
+              "start": 49,
+              "url": "https://t.co/nmNjUgU0Ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001592667491438961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000838718442410474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manateelazycat: 在你问AI一个很傻的编程问题之前……先看看这个哈哈哈哈🤣 https://t.co/nmNjUgU0Ni"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000838351885369344"
+          ]
+        },
+        "author_id": "28530405",
+        "conversation_id": "2000838718442410474",
+        "created_at": "2025-12-16T08:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000838718442410474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmNjUgU0Ni",
+              "end": 52,
+              "expanded_url": "https://x.com/manateelazycat/status/2000838718442410474/video/1",
+              "media_key": "13_2000838351885369344",
+              "start": 29,
+              "url": "https://t.co/nmNjUgU0Ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000838718442410474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 88460,
+          "like_count": 911,
+          "quote_count": 22,
+          "reply_count": 29,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "在你问AI一个很傻的编程问题之前……先看看这个哈哈哈哈🤣 https://t.co/nmNjUgU0Ni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 268,
+          "like_count": 66018,
+          "listed_count": 2,
+          "media_count": 1313,
+          "tweet_count": 12392
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 98,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 75,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "1999726988395938121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46709,
+          "following_count": 275,
+          "like_count": 18630,
+          "listed_count": 323,
+          "media_count": 4649,
+          "tweet_count": 36154
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,679 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1923045713006518563",
+    "created_at": "2025-05-17T00:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T01:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923531393147027698"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 172,
+          "normalized_text": "UX",
+          "probability": 0.6995,
+          "start": 171,
+          "type": "Other"
+        },
+        {
+          "end": 213,
+          "normalized_text": "M2",
+          "probability": 0.5389,
+          "start": 212,
+          "type": "Other"
+        },
+        {
+          "end": 227,
+          "normalized_text": "M3E",
+          "probability": 0.7109,
+          "start": 225,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807064118366490624",
+          "start": 0,
+          "username": "SLKVinyl"
+        },
+        {
+          "end": 23,
+          "id": "1716314951545978880",
+          "start": 10,
+          "username": "TheOneDanTek"
+        },
+        {
+          "end": 33,
+          "id": "1721234076869496832",
+          "start": 24,
+          "username": "derekyt_"
+        },
+        {
+          "end": 47,
+          "id": "2427421832",
+          "start": 34,
+          "username": "GoogleDesign"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923531393147027698",
+    "in_reply_to_user_id": "1807064118366490624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923477391579677108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLKVinyl @TheOneDanTek @derekyt_ @GoogleDesign Honestly I had hyped demo for a while but now I'm thinking about it what if we use such design and it's gonna be laggy and UX aware-less.\nChoose wisely ugh\nBack to M2 if not to M3E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1923045713006518563",
+        "created_at": "2025-05-17T00:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T01:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923531393147027698"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 172,
+              "normalized_text": "UX",
+              "probability": 0.6995,
+              "start": 171,
+              "type": "Other"
+            },
+            {
+              "end": 213,
+              "normalized_text": "M2",
+              "probability": 0.5389,
+              "start": 212,
+              "type": "Other"
+            },
+            {
+              "end": 227,
+              "normalized_text": "M3E",
+              "probability": 0.7109,
+              "start": 225,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807064118366490624",
+              "start": 0,
+              "username": "SLKVinyl"
+            },
+            {
+              "end": 23,
+              "id": "1716314951545978880",
+              "start": 10,
+              "username": "TheOneDanTek"
+            },
+            {
+              "end": 33,
+              "id": "1721234076869496832",
+              "start": 24,
+              "username": "derekyt_"
+            },
+            {
+              "end": 47,
+              "id": "2427421832",
+              "start": 34,
+              "username": "GoogleDesign"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923531393147027698",
+        "in_reply_to_user_id": "1807064118366490624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923477391579677108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLKVinyl @TheOneDanTek @derekyt_ @GoogleDesign Honestly I had hyped demo for a while but now I'm thinking about it what if we use such design and it's gonna be laggy and UX aware-less.\nChoose wisely ugh\nBack to M2 if not to M3E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807064118366490624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1923045713006518563",
+        "created_at": "2025-05-16T20:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T21:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923477391579677108"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 107,
+              "normalized_text": "iOS",
+              "probability": 0.9889,
+              "start": 105,
+              "type": "Other"
+            },
+            {
+              "end": 152,
+              "normalized_text": "OneUI",
+              "probability": 0.8436,
+              "start": 148,
+              "type": "Other"
+            },
+            {
+              "end": 164,
+              "normalized_text": "discord",
+              "probability": 0.8599,
+              "start": 158,
+              "type": "Other"
+            },
+            {
+              "end": 188,
+              "normalized_text": "Google M3E",
+              "probability": 0.7979,
+              "start": 179,
+              "type": "Other"
+            },
+            {
+              "end": 278,
+              "normalized_text": "M3E",
+              "probability": 0.7811,
+              "start": 276,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1716314951545978880",
+              "start": 0,
+              "username": "TheOneDanTek"
+            },
+            {
+              "end": 23,
+              "id": "1721234076869496832",
+              "start": 14,
+              "username": "derekyt_"
+            },
+            {
+              "end": 37,
+              "id": "2427421832",
+              "start": 24,
+              "username": "GoogleDesign"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923477391579677108",
+        "in_reply_to_user_id": "1716314951545978880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923476682700210424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheOneDanTek @derekyt_ @GoogleDesign Every time we argue it’s like you’re allergic to good UI\n\nYou hate iOS and tell me that you’re biased towards OneUI\n\nOn discord you say that Google M3E makes bad UI and now you’re telling a completely different story saying that you like M3E\n\nPick a story bro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\nGo follow me at bsky instead",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Pray to Twitter",
+        "name": "鳥頭 aka. DOVE Master 🕊 藍天社群",
+        "pinned_tweet_id": "1922499474988929031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 250,
+          "like_count": 63490,
+          "listed_count": 2,
+          "media_count": 1277,
+          "tweet_count": 12034
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:50:49.000Z",
+        "description": "photographer + concept creator/designer 🔰+ digital artist 🔰+ random thingss | Google should fire all their designers.",
+        "id": "1807064118366490624",
+        "name": "SLK15",
+        "pinned_tweet_id": "1888804086184833485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874851443267739648/yOHkuEyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 242,
+          "like_count": 10429,
+          "listed_count": 2,
+          "media_count": 840,
+          "tweet_count": 4526
+        },
+        "username": "SLKVinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T04:45:56.000Z",
+        "description": "tech cars and aesthetics. Exynos S22 User. Porpl Boi. so called devil incarnate apparently. Fuck Bigots. 🌈 boy crazy, clearly",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheOneDanTek",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheOneDanTek",
+                "start": 0,
+                "url": "https://t.co/aalc7nHZ0R"
+              }
+            ]
+          }
+        },
+        "id": "1716314951545978880",
+        "location": "He/Him | Bi | 15",
+        "name": "DanTek",
+        "pinned_tweet_id": "1903939464197460206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919267173219913728/TMXFrTBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 725,
+          "like_count": 54137,
+          "listed_count": 2,
+          "media_count": 1240,
+          "tweet_count": 17997
+        },
+        "url": "https://t.co/aalc7nHZ0R",
+        "username": "TheOneDanTek",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T18:32:57.000Z",
+        "description": "i make videos, along with bad tech takes and designs • he/him 🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@derekyt24",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@derekyt24",
+                "start": 0,
+                "url": "https://t.co/JKtPNyDFkO"
+              }
+            ]
+          }
+        },
+        "id": "1721234076869496832",
+        "location": "🇺🇸",
+        "name": "Derek",
+        "pinned_tweet_id": "1922404895547691173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919963775224184834/i-o6zZ9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 462,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 568,
+          "tweet_count": 4157
+        },
+        "url": "https://t.co/JKtPNyDFkO",
+        "username": "derekyt_",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-04T15:04:57.000Z",
+        "description": "Design resources and inspiration from Google — including the Material Design system, Google Fonts, and emerging concepts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "design.google",
+                "end": 23,
+                "expanded_url": "http://design.google",
+                "start": 0,
+                "url": "https://t.co/aikA9FtNEm"
+              }
+            ]
+          }
+        },
+        "id": "2427421832",
+        "name": "Google Design",
+        "pinned_tweet_id": "1922374186531492347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856407846629359616/bW8F25x6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205108,
+          "following_count": 440,
+          "like_count": 3019,
+          "listed_count": 3523,
+          "media_count": 1202,
+          "tweet_count": 2416
+        },
+        "url": "https://t.co/aikA9FtNEm",
+        "username": "GoogleDesign",
+        "verified": true
+      }
+    ]
+  }
+}

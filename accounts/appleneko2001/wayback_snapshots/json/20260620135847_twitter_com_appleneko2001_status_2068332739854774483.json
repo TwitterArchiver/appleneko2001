@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2036601528279261655",
+    "created_at": "2026-06-20T13:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068332739854774483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 30,
+          "id": "1622066090074607616",
+          "start": 16,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 43,
+          "id": "1608089617219346433",
+          "start": 31,
+          "username": "lili1662612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068332739854774483",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036758650740732303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Diamond_Kokoro @hoshinofujivy @lili1662612 我觉得 他的说法可能不太准确\n每个人的人生都不一样\n咱几乎一生都在俄罗斯上学 专科也是 不知道你/妳想象中的教育的最低标准是什么呢？\n咱读书只是想应付家长所谓的教育和社会偏见罢了 学历有时候带来的误差有时候甚至是灾难性的\n也许不是所有人都愿意打标点符号 但语言的用意不就是传递信息与想法吗"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [lili1662612].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "lili1662612",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "lili1662612"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2036601528279261655",
+        "created_at": "2026-06-20T13:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068332739854774483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 30,
+              "id": "1622066090074607616",
+              "start": 16,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 43,
+              "id": "1608089617219346433",
+              "start": 31,
+              "username": "lili1662612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068332739854774483",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036758650740732303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Diamond_Kokoro @hoshinofujivy @lili1662612 我觉得 他的说法可能不太准确\n每个人的人生都不一样\n咱几乎一生都在俄罗斯上学 专科也是 不知道你/妳想象中的教育的最低标准是什么呢？\n咱读书只是想应付家长所谓的教育和社会偏见罢了 学历有时候带来的误差有时候甚至是灾难性的\n也许不是所有人都愿意打标点符号 但语言的用意不就是传递信息与想法吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2036601528279261655",
+        "created_at": "2026-03-25T10:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036758650740732303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 27,
+              "id": "1608089617219346433",
+              "start": 15,
+              "username": "lili1662612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036758650740732303",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1744,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036676508442649060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hoshinofujivy @lili1662612 资产不影响教育理念是我今天在推特上看到最搞笑的一句话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 266,
+          "like_count": 110483,
+          "listed_count": 2,
+          "media_count": 1671,
+          "tweet_count": 17553
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "𝘈𝘯𝘨𝘦𝘭𝘶𝘴 𝘕𝘰𝘷𝘶𝘴. 我的推文使用传统汉字撰写，用程式自动转换为简化汉字，如有简化字应用不当，请您谅解和指出。\n戀人：@irisdesombres 。祢的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 63,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "Erlösung",
+        "name": "小羽",
+        "pinned_tweet_id": "2047343219063840775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066729887201660928/hgKilZA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 156,
+          "like_count": 10259,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 7135
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12071,
+          "following_count": 4367,
+          "like_count": 49194,
+          "listed_count": 36,
+          "media_count": 2888,
+          "tweet_count": 16264
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

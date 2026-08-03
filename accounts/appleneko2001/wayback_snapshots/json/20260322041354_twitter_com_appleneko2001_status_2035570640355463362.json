@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2035229996973805785",
+    "created_at": "2026-03-22T04:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035570640355463362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1083759056337088512",
+          "start": 0,
+          "username": "CrazyBunnyDoll"
+        },
+        {
+          "end": 23,
+          "id": "1324198319535521795",
+          "start": 16,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035570640355463362",
+    "in_reply_to_user_id": "1083759056337088512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035513043048964314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrazyBunnyDoll @KKaWSB 生态墙带给微软的好处这块（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2035229996973805785",
+        "created_at": "2026-03-22T04:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035570640355463362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1083759056337088512",
+              "start": 0,
+              "username": "CrazyBunnyDoll"
+            },
+            {
+              "end": 23,
+              "id": "1324198319535521795",
+              "start": 16,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035570640355463362",
+        "in_reply_to_user_id": "1083759056337088512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035513043048964314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrazyBunnyDoll @KKaWSB 生态墙带给微软的好处这块（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1083759056337088512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2035229996973805785",
+        "created_at": "2026-03-22T00:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T01:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035513043048964314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035513043048964314",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035229996973805785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 如果不是linux上的onedrive不允许连公司内部，真的早换了，越来越难用！以前只用几M的app，换了个皮，功能没增加，内存使用增加几十倍……遍地的废物copilot，看着都烦，word的copilot，甚至不能帮我写文档，连vscode的tab都不如……还有广告，居然放开始菜单……一手好牌打得稀烂，而且居然能这么烂！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2031397929580376199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 361,
+          "like_count": 99550,
+          "listed_count": 3,
+          "media_count": 1575,
+          "tweet_count": 16081
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-11T16:14:29.000Z",
+        "description": "INFJ-T / 日常咸鱼 / 沉迷lolita小裙子 / 贫穷让我沉迷加班 / 小透明，欢迎扩列 / 脸大如饼，越减越肥 / 照骗什么的都是假的 (￣∇￣) / 小红书：CrazyBunnyDoll",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/crazybunnydoll",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/crazybunnydoll",
+                "start": 0,
+                "url": "https://t.co/Fk377BXLOY"
+              }
+            ]
+          }
+        },
+        "id": "1083759056337088512",
+        "name": "疯兔",
+        "pinned_tweet_id": "2006959208890290185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997763325556654080/OU5H8JY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 248,
+          "like_count": 7066,
+          "listed_count": 23,
+          "media_count": 1134,
+          "tweet_count": 7943
+        },
+        "url": "https://t.co/Fk377BXLOY",
+        "username": "CrazyBunnyDoll",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观 | 招募工程师（可兼职）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 23,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 0,
+                "url": "https://t.co/QsTW1lrCWR"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70962,
+          "following_count": 2826,
+          "like_count": 9010,
+          "listed_count": 611,
+          "media_count": 5047,
+          "tweet_count": 10487
+        },
+        "url": "https://t.co/QsTW1lrCWR",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

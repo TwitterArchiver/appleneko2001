@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923690553574580224"
+      ],
+      "media_source_tweet_id": [
+        "1923691744836960465"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492288722066284544",
+          "name": "Game design"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1923787459852136497",
+    "created_at": "2025-05-17T17:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T18:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923787459852136497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3282100620",
+          "start": 3,
+          "username": "suika_hiragi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JbBUCkknWi",
+          "end": 106,
+          "expanded_url": "https://x.com/suika_hiragi/status/1923691744836960465/photo/1",
+          "media_key": "3_1923690553574580224",
+          "start": 83,
+          "url": "https://t.co/JbBUCkknWi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923787459852136497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923691744836960465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suika_hiragi: 最近イラストレータ様達と共に、とあるプロジェクトのゲームデザイナーとして動いてる！\n合間に描いた練習絵でもあげとくZE（￣▽￣） https://t.co/JbBUCkknWi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1923690553574580224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJSXceWYAAKdsn.jpg",
+        "width": 1501
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923690553574580224"
+          ],
+          "media_source_tweet_id": [
+            "1923691744836960465"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492288722066284544",
+              "name": "Game design"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1923787459852136497",
+        "created_at": "2025-05-17T17:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T18:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923787459852136497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3282100620",
+              "start": 3,
+              "username": "suika_hiragi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbBUCkknWi",
+              "end": 106,
+              "expanded_url": "https://x.com/suika_hiragi/status/1923691744836960465/photo/1",
+              "media_key": "3_1923690553574580224",
+              "start": 83,
+              "url": "https://t.co/JbBUCkknWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923787459852136497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923691744836960465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suika_hiragi: 最近イラストレータ様達と共に、とあるプロジェクトのゲームデザイナーとして動いてる！\n合間に描いた練習絵でもあげとくZE（￣▽￣） https://t.co/JbBUCkknWi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923690553574580224"
+          ]
+        },
+        "author_id": "3282100620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492288722066284544",
+              "name": "Game design"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1923691744836960465",
+        "created_at": "2025-05-17T10:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923691744836960465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbBUCkknWi",
+              "end": 88,
+              "expanded_url": "https://x.com/suika_hiragi/status/1923691744836960465/photo/1",
+              "media_key": "3_1923690553574580224",
+              "start": 65,
+              "url": "https://t.co/JbBUCkknWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923691744836960465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 7513,
+          "like_count": 562,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "最近イラストレータ様達と共に、とあるプロジェクトのゲームデザイナーとして動いてる！\n合間に描いた練習絵でもあげとくZE（￣▽￣） https://t.co/JbBUCkknWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\nGo follow me at bsky instead",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Pray to Twitter",
+        "name": "鳥頭 aka. DOVE Master 🕊 藍天社群",
+        "pinned_tweet_id": "1922499474988929031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 250,
+          "like_count": 63584,
+          "listed_count": 2,
+          "media_count": 1279,
+          "tweet_count": 12046
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-17T06:30:24.000Z",
+        "description": "『いつも応援ｺﾒとRTには感謝ｯ』落 書 き メインです パンツが主食☆ｷﾂﾒの18禁ｲﾗｽﾄ描きたい願望有ｯリク・お仕事系のご依頼は受けておりませぬ宜しくです.\nサブ垢\n@melon_center",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "melon_center"
+              }
+            ]
+          }
+        },
+        "id": "3282100620",
+        "name": "柊 水佳(suica)→絵研究（練習）生 *ＥＣＯ民→🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1106755979276775424/w3_I3Bfj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8000,
+          "following_count": 1766,
+          "like_count": 14495,
+          "listed_count": 103,
+          "media_count": 517,
+          "tweet_count": 10674
+        },
+        "username": "suika_hiragi",
+        "verified": false
+      }
+    ]
+  }
+}

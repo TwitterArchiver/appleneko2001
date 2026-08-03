@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007339546892025856"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2007340012900323463",
+    "created_at": "2026-01-03T06:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T07:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007340012900323463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KQmjDum3uj",
+          "end": 73,
+          "expanded_url": "https://x.com/appleneko2001/status/2007340012900323463/photo/1",
+          "media_key": "3_2007339546892025856",
+          "start": 50,
+          "url": "https://t.co/KQmjDum3uj"
+        },
+        {
+          "display_url": "x.com/appleneko2001/…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/appleneko2001/status/2007135028334276943",
+          "start": 74,
+          "url": "https://t.co/mjymRVXF1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007340012900323463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007135028334276943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再次證明了我是運維廢物 連路由都做不好🫠\n目標主機好像還被阻擋數據流通來着 搞到我還要換IP和設定 https://t.co/KQmjDum3uj https://t.co/mjymRVXF1X"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "now both does ping ",
+        "height": 327,
+        "media_key": "3_2007339546892025856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9uArrwXwAA7F-i.png",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007339546892025856"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2007340012900323463",
+        "created_at": "2026-01-03T06:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007340012900323463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQmjDum3uj",
+              "end": 73,
+              "expanded_url": "https://x.com/appleneko2001/status/2007340012900323463/photo/1",
+              "media_key": "3_2007339546892025856",
+              "start": 50,
+              "url": "https://t.co/KQmjDum3uj"
+            },
+            {
+              "display_url": "x.com/appleneko2001/…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/appleneko2001/status/2007135028334276943",
+              "start": 74,
+              "url": "https://t.co/mjymRVXF1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007340012900323463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007135028334276943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次證明了我是運維廢物 連路由都做不好🫠\n目標主機好像還被阻擋數據流通來着 搞到我還要換IP和設定 https://t.co/KQmjDum3uj https://t.co/mjymRVXF1X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2007135028334276943",
+        "created_at": "2026-01-02T17:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T18:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007135028334276943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007135028334276943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幾乎一事無成的一天\nWireguard 掛上去又沒辦法連線 上一個系統還能setsockopt的 這次不行了（\n還發現新的問題 steamvr不能正常使用 以及java環境有點怪異 沒辦法啟動hmcl 先睡覺了…唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 274,
+          "like_count": 71161,
+          "listed_count": 2,
+          "media_count": 1343,
+          "tweet_count": 12845
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

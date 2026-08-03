@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012538626710671502",
+    "created_at": "2026-01-17T16:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012557373349531674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "997619727680835584",
+          "start": 0,
+          "username": "onliviane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012557373349531674",
+    "in_reply_to_user_id": "997619727680835584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012538626710671502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onliviane 其實也可以 我自己就做過類似的\n只不過我的實現是非常簡單的取Hue值 色彩鮮豔度和亮度由自動化管理… 相對來說比較統一一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2012538626710671502",
+        "created_at": "2026-01-17T16:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012557373349531674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "997619727680835584",
+              "start": 0,
+              "username": "onliviane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012557373349531674",
+        "in_reply_to_user_id": "997619727680835584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012538626710671502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onliviane 其實也可以 我自己就做過類似的\n只不過我的實現是非常簡單的取Hue值 色彩鮮豔度和亮度由自動化管理… 相對來說比較統一一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "997619727680835584",
+        "conversation_id": "2012538626710671502",
+        "created_at": "2026-01-17T14:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012538626710671502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "elements of type color provide a user interface element that lets a user specify a color, either by using a visual color picker interface or by entering the color into a text field in a CSS color value format.",
+              "display_url": "developer.mozilla.org/en-US/docs/Web…",
+              "end": 59,
+              "expanded_url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/color",
+              "start": 36,
+              "status": 200,
+              "title": "- HTML | MDN",
+              "unwound_url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/color",
+              "url": "https://t.co/gNkUsuCM9A"
+            },
+            {
+              "display_url": "x.com/onliviane/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/onliviane/status/2012537343819841685",
+              "start": 60,
+              "url": "https://t.co/ROspWRJhRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012538626710671502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012537343819841685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才发现居然自带，也太爽了... 不过还是想看看能不能自己手搓一个。\n\nhttps://t.co/gNkUsuCM9A https://t.co/ROspWRJhRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 302,
+          "like_count": 80107,
+          "listed_count": 2,
+          "media_count": 1408,
+          "tweet_count": 13640
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-18T23:27:32.000Z",
+        "description": "我同意接受所有 Cookies #ohno妈咪何意味",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 16,
+                "tag": "ohno妈咪何意味"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.clickfling.top",
+                "end": 23,
+                "expanded_url": "https://blog.clickfling.top",
+                "start": 0,
+                "url": "https://t.co/rvh4uVpOHz"
+              }
+            ]
+          }
+        },
+        "id": "997619727680835584",
+        "location": "240e:100::/28",
+        "name": "onliviane🍃",
+        "pinned_tweet_id": "1221091177971077121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816488086467223552/EY8Ama0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 1537,
+          "like_count": 11478,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/rvh4uVpOHz",
+        "username": "onliviane",
+        "verified": false
+      }
+    ]
+  }
+}

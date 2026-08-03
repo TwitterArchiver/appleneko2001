@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050959776344109056"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2050960100387668038",
+    "created_at": "2026-05-03T15:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050960100387668038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A7pavav6VM",
+          "end": 52,
+          "expanded_url": "https://x.com/appleneko2001/status/2050960100387668038/photo/1",
+          "media_key": "3_2050959776344109056",
+          "start": 29,
+          "url": "https://t.co/A7pavav6VM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050960100387668038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也没必要一个改动就通知好几次吧…搞到好像系统内核很慌一样 https://t.co/A7pavav6VM"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "fanotify API panicked due to my program is paused in debugging stage and trying to push events data multiple time lol",
+        "height": 1539,
+        "media_key": "3_2050959776344109056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ5DNWa8AAodhi.jpg",
+        "width": 1516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050959776344109056"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2050960100387668038",
+        "created_at": "2026-05-03T15:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050960100387668038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7pavav6VM",
+              "end": 52,
+              "expanded_url": "https://x.com/appleneko2001/status/2050960100387668038/photo/1",
+              "media_key": "3_2050959776344109056",
+              "start": 29,
+              "url": "https://t.co/A7pavav6VM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050960100387668038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也没必要一个改动就通知好几次吧…搞到好像系统内核很慌一样 https://t.co/A7pavav6VM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 356,
+          "like_count": 103332,
+          "listed_count": 3,
+          "media_count": 1626,
+          "tweet_count": 16670
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011096557257703430"
+      ],
+      "media_source_tweet_id": [
+        "2011317356031852617"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2011370940949762402",
+    "created_at": "2026-01-14T09:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T10:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011370940949762402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3143045040",
+          "start": 3,
+          "username": "L0WR15E"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kRlzEiJTDH",
+          "end": 36,
+          "expanded_url": "https://x.com/L0WR15E/status/2011317356031852617/photo/1",
+          "media_key": "3_2011096557257703430",
+          "start": 13,
+          "url": "https://t.co/kRlzEiJTDH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011370940949762402",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011317356031852617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L0WR15E: https://t.co/kRlzEiJTDH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2011096557257703430",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jZqeBbQAY1ndW.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011096557257703430"
+          ],
+          "media_source_tweet_id": [
+            "2011317356031852617"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2011370940949762402",
+        "created_at": "2026-01-14T09:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011370940949762402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3143045040",
+              "start": 3,
+              "username": "L0WR15E"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRlzEiJTDH",
+              "end": 36,
+              "expanded_url": "https://x.com/L0WR15E/status/2011317356031852617/photo/1",
+              "media_key": "3_2011096557257703430",
+              "start": 13,
+              "url": "https://t.co/kRlzEiJTDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011370940949762402",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011317356031852617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L0WR15E: https://t.co/kRlzEiJTDH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011096557257703430"
+          ]
+        },
+        "author_id": "3143045040",
+        "conversation_id": "2011317356031852617",
+        "created_at": "2026-01-14T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011317356031852617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRlzEiJTDH",
+              "end": 23,
+              "expanded_url": "https://x.com/L0WR15E/status/2011317356031852617/photo/1",
+              "media_key": "3_2011096557257703430",
+              "start": 0,
+              "url": "https://t.co/kRlzEiJTDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011317356031852617",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 7368,
+          "like_count": 397,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kRlzEiJTDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 293,
+          "like_count": 77651,
+          "listed_count": 2,
+          "media_count": 1390,
+          "tweet_count": 13352
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-07T08:20:48.000Z",
+        "description": "フリーランスイラストレーター\nご連絡(新規2026年4月～)▷l0wr15egm@gmail.com\nCommission▷https://t.co/rBUUTHf2B2\nポートフォリオ▷https://t.co/rH3MqKWqkt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@L0WR15E",
+                "end": 85,
+                "expanded_url": "https://skeb.jp/@L0WR15E",
+                "start": 62,
+                "url": "https://t.co/rBUUTHf2B2"
+              },
+              {
+                "display_url": "fori.io/L0WR15E",
+                "end": 117,
+                "expanded_url": "https://fori.io/L0WR15E",
+                "start": 94,
+                "url": "https://t.co/rH3MqKWqkt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/L0WR15E",
+                "end": 23,
+                "expanded_url": "https://fori.io/L0WR15E",
+                "start": 0,
+                "url": "https://t.co/rH3MqKWqkt"
+              }
+            ]
+          }
+        },
+        "id": "3143045040",
+        "location": "l0wr15egm@gmail.com",
+        "name": "LOWRISE",
+        "pinned_tweet_id": "1941104445837991981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659933864008220673/hCrwciaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108280,
+          "following_count": 184,
+          "like_count": 243,
+          "listed_count": 1155,
+          "media_count": 352,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/rH3MqKWqkt",
+        "username": "L0WR15E",
+        "verified": true
+      }
+    ]
+  }
+}

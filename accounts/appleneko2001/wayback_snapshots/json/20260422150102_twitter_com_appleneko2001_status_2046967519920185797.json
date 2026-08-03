@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046568582176534528"
+      ],
+      "media_source_tweet_id": [
+        "2046569163947426096"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2046967519920185797",
+    "created_at": "2026-04-22T15:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046967519920185797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3002936785",
+          "start": 3,
+          "username": "sawara65"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9TZNctJXS1",
+          "end": 43,
+          "expanded_url": "https://x.com/sawara65/status/2046569163947426096/photo/1",
+          "media_key": "3_2046568582176534528",
+          "start": 20,
+          "url": "https://t.co/9TZNctJXS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046967519920185797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046569163947426096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sawara65: きみの隣で https://t.co/9TZNctJXS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2061,
+        "media_key": "3_2046568582176534528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbfSEUbcAASCTG.jpg",
+        "width": 1432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046568582176534528"
+          ],
+          "media_source_tweet_id": [
+            "2046569163947426096"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2046967519920185797",
+        "created_at": "2026-04-22T15:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046967519920185797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3002936785",
+              "start": 3,
+              "username": "sawara65"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TZNctJXS1",
+              "end": 43,
+              "expanded_url": "https://x.com/sawara65/status/2046569163947426096/photo/1",
+              "media_key": "3_2046568582176534528",
+              "start": 20,
+              "url": "https://t.co/9TZNctJXS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046967519920185797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1320
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046569163947426096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sawara65: きみの隣で https://t.co/9TZNctJXS1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046568582176534528"
+          ]
+        },
+        "author_id": "3002936785",
+        "conversation_id": "2046569163947426096",
+        "created_at": "2026-04-21T12:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046569163947426096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TZNctJXS1",
+              "end": 29,
+              "expanded_url": "https://x.com/sawara65/status/2046569163947426096/photo/1",
+              "media_key": "3_2046568582176534528",
+              "start": 6,
+              "url": "https://t.co/9TZNctJXS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046569163947426096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 595,
+          "impression_count": 92430,
+          "like_count": 7567,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 1320
+        },
+        "reply_settings": "everyone",
+        "text": "きみの隣で https://t.co/9TZNctJXS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 355,
+          "like_count": 102236,
+          "listed_count": 3,
+          "media_count": 1611,
+          "tweet_count": 16511
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-30T06:04:26.000Z",
+        "description": "絵を描く🐟 百合/リズと青い鳥/ユーフォ/スタァライト/🎠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/sawara65",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/sawara65",
+                "start": 0,
+                "url": "https://t.co/WOMJWZ7jHz"
+              }
+            ]
+          }
+        },
+        "id": "3002936785",
+        "location": "屋上前の踊り場",
+        "name": "さわら",
+        "pinned_tweet_id": "2046444617743433971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1177929051375169538/WRTbYZ3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37355,
+          "following_count": 2845,
+          "like_count": 902,
+          "listed_count": 459,
+          "media_count": 667,
+          "tweet_count": 34341
+        },
+        "url": "https://t.co/WOMJWZ7jHz",
+        "username": "sawara65",
+        "verified": false
+      }
+    ]
+  }
+}

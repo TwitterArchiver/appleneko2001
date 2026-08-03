@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025091637651902464"
+      ],
+      "media_source_tweet_id": [
+        "2025405186282586200"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1492240250147512324",
+          "name": "Day of cat (JP)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1492240250147512324",
+          "name": "Day of cat (JP)"
+        }
+      }
+    ],
+    "conversation_id": "2025763445510201853",
+    "created_at": "2026-02-23T02:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T03:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025763445510201853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1408996496230391814",
+          "start": 3,
+          "username": "ima_AI123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2VTmFsz0Kj",
+          "end": 50,
+          "expanded_url": "https://x.com/ima_AI123/status/2025405186282586200/photo/1",
+          "media_key": "3_2025091637651902464",
+          "start": 27,
+          "url": "https://t.co/2VTmFsz0Kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025763445510201853",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025405186282586200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ima_AI123: 2月22日は猫の日！！ https://t.co/2VTmFsz0Kj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025091637651902464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqSHXPbEAApgtm.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025091637651902464"
+          ],
+          "media_source_tweet_id": [
+            "2025405186282586200"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          }
+        ],
+        "conversation_id": "2025763445510201853",
+        "created_at": "2026-02-23T02:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025763445510201853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1408996496230391814",
+              "start": 3,
+              "username": "ima_AI123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VTmFsz0Kj",
+              "end": 50,
+              "expanded_url": "https://x.com/ima_AI123/status/2025405186282586200/photo/1",
+              "media_key": "3_2025091637651902464",
+              "start": 27,
+              "url": "https://t.co/2VTmFsz0Kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025763445510201853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025405186282586200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ima_AI123: 2月22日は猫の日！！ https://t.co/2VTmFsz0Kj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025091637651902464"
+          ]
+        },
+        "author_id": "1408996496230391814",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1492240250147512324",
+              "name": "Day of cat (JP)"
+            }
+          }
+        ],
+        "conversation_id": "2025405186282586200",
+        "created_at": "2026-02-22T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025405186282586200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VTmFsz0Kj",
+              "end": 35,
+              "expanded_url": "https://x.com/ima_AI123/status/2025405186282586200/photo/1",
+              "media_key": "3_2025091637651902464",
+              "start": 12,
+              "url": "https://t.co/2VTmFsz0Kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025405186282586200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 27802,
+          "like_count": 2647,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "2月22日は猫の日！！ https://t.co/2VTmFsz0Kj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 327,
+          "like_count": 91788,
+          "listed_count": 2,
+          "media_count": 1502,
+          "tweet_count": 14911
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-27T03:52:14.000Z",
+        "description": "少女たちの日常とファンタジー AI+加筆修正 白猫の名前はイマ、黒猫の名前はルリです🐈‍⬛　4コマ+1のまとめ→ https://t.co/6yMn8VhJlM 🐈‍⬛Amazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/3Nxl2Yn",
+                "end": 80,
+                "expanded_url": "https://amzn.to/3Nxl2Yn",
+                "start": 57,
+                "url": "https://t.co/6yMn8VhJlM"
+              }
+            ]
+          }
+        },
+        "id": "1408996496230391814",
+        "name": "イマ",
+        "pinned_tweet_id": "2020528054012088722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657073333882728448/2PQKhm70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49788,
+          "following_count": 1966,
+          "like_count": 136007,
+          "listed_count": 318,
+          "media_count": 2191,
+          "tweet_count": 2954
+        },
+        "username": "ima_AI123",
+        "verified": true
+      }
+    ]
+  }
+}

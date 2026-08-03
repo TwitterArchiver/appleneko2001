@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070879736142921728",
+        "3_2070879736142954496"
+      ],
+      "media_source_tweet_id": [
+        "2070879741369098733",
+        "2070879741369098733"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2071024245254267132",
+    "created_at": "2026-06-28T00:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T01:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071024245254267132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1139170314363916288",
+          "start": 3,
+          "username": "yuki77mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxD383lozz",
+          "end": 76,
+          "expanded_url": "https://x.com/yuki77mi/status/2070879741369098733/photo/1",
+          "media_key": "3_2070879736142921728",
+          "start": 53,
+          "url": "https://t.co/mxD383lozz"
+        },
+        {
+          "display_url": "pic.x.com/mxD383lozz",
+          "end": 76,
+          "expanded_url": "https://x.com/yuki77mi/status/2070879741369098733/photo/1",
+          "media_key": "3_2070879736142954496",
+          "start": 53,
+          "url": "https://t.co/mxD383lozz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071024245254267132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070879741369098733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuki77mi: 最近自主制作のイラストを上げられてないので過去絵\nこんな感じの絵を描いてます https://t.co/mxD383lozz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070879736142921728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0-JeVagAAlmoy.jpg",
+        "width": 1498
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070879736142954496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0-JeVbAAAwySt.jpg",
+        "width": 1410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070879736142921728",
+            "3_2070879736142954496"
+          ],
+          "media_source_tweet_id": [
+            "2070879741369098733",
+            "2070879741369098733"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2071024245254267132",
+        "created_at": "2026-06-28T00:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071024245254267132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1139170314363916288",
+              "start": 3,
+              "username": "yuki77mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxD383lozz",
+              "end": 76,
+              "expanded_url": "https://x.com/yuki77mi/status/2070879741369098733/photo/1",
+              "media_key": "3_2070879736142921728",
+              "start": 53,
+              "url": "https://t.co/mxD383lozz"
+            },
+            {
+              "display_url": "pic.x.com/mxD383lozz",
+              "end": 76,
+              "expanded_url": "https://x.com/yuki77mi/status/2070879741369098733/photo/1",
+              "media_key": "3_2070879736142954496",
+              "start": 53,
+              "url": "https://t.co/mxD383lozz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071024245254267132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070879741369098733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuki77mi: 最近自主制作のイラストを上げられてないので過去絵\nこんな感じの絵を描いてます https://t.co/mxD383lozz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070879736142921728",
+            "3_2070879736142954496"
+          ]
+        },
+        "author_id": "1139170314363916288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2070879741369098733",
+        "created_at": "2026-06-27T14:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070879741369098733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxD383lozz",
+              "end": 62,
+              "expanded_url": "https://x.com/yuki77mi/status/2070879741369098733/photo/1",
+              "media_key": "3_2070879736142921728",
+              "start": 39,
+              "url": "https://t.co/mxD383lozz"
+            },
+            {
+              "display_url": "pic.x.com/mxD383lozz",
+              "end": 62,
+              "expanded_url": "https://x.com/yuki77mi/status/2070879741369098733/photo/1",
+              "media_key": "3_2070879736142954496",
+              "start": 39,
+              "url": "https://t.co/mxD383lozz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070879741369098733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 17802,
+          "like_count": 737,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "最近自主制作のイラストを上げられてないので過去絵\nこんな感じの絵を描いてます https://t.co/mxD383lozz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "pinned_tweet_id": "2069259860060103005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 274,
+          "like_count": 112135,
+          "listed_count": 2,
+          "media_count": 1692,
+          "tweet_count": 17739
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-13T13:59:02.000Z",
+        "description": "pixelart/Illust/animation✏ ご依頼等はHP記載のメールアドレスまたはDMよりお願いします。 公式ファンクラブ→ https://t.co/70Tn1aN91o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nanamiyuki.bitfan.id",
+                "end": 92,
+                "expanded_url": "https://nanamiyuki.bitfan.id/",
+                "start": 69,
+                "url": "https://t.co/70Tn1aN91o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuki77mi.amebaownd.com",
+                "end": 23,
+                "expanded_url": "https://yuki77mi.amebaownd.com",
+                "start": 0,
+                "url": "https://t.co/uQdpWpt62h"
+              }
+            ]
+          }
+        },
+        "id": "1139170314363916288",
+        "name": "ななみ雪",
+        "pinned_tweet_id": "1605326008550567936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1145336604489220096/XEoT0kZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105631,
+          "following_count": 2439,
+          "like_count": 54103,
+          "listed_count": 1016,
+          "media_count": 1553,
+          "tweet_count": 11772
+        },
+        "url": "https://t.co/uQdpWpt62h",
+        "username": "yuki77mi",
+        "verified": true
+      }
+    ]
+  }
+}

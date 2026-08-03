@@ -1,0 +1,609 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061753836021469184"
+      ],
+      "media_source_tweet_id": [
+        "2061753842015072683"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1313532909337210880",
+          "name": "Comitia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2061804296824672674",
+    "created_at": "2026-06-02T13:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061804296824672674"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 92,
+          "tag": "COMITIA156"
+        },
+        {
+          "end": 114,
+          "start": 105,
+          "tag": "コミティア156"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "941682926755856384",
+          "start": 3,
+          "username": "matcha__ore_p"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WSo9MxePsc",
+          "end": 138,
+          "expanded_url": "https://x.com/matcha__ore_p/status/2061753842015072683/photo/1",
+          "media_key": "3_2061753836021469184",
+          "start": 115,
+          "url": "https://t.co/WSo9MxePsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061804296824672674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061753842015072683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @matcha__ore_p: コミティアのお品書きです🫧\nお得な新刊セットあります\n当日はN46aのしろいねこのおみせにてお待ちしております\n商品紹介は後日リプに追加します\n #COMITIA156  #コミティア156 https://t.co/WSo9MxePsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2551,
+        "media_key": "3_2061753836021469184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzSMLJb0AA-EUf.jpg",
+        "width": 1819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061753836021469184"
+          ],
+          "media_source_tweet_id": [
+            "2061753842015072683"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313532909337210880",
+              "name": "Comitia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2061804296824672674",
+        "created_at": "2026-06-02T13:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061804296824672674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 92,
+              "tag": "COMITIA156"
+            },
+            {
+              "end": 114,
+              "start": 105,
+              "tag": "コミティア156"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "941682926755856384",
+              "start": 3,
+              "username": "matcha__ore_p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSo9MxePsc",
+              "end": 138,
+              "expanded_url": "https://x.com/matcha__ore_p/status/2061753842015072683/photo/1",
+              "media_key": "3_2061753836021469184",
+              "start": 115,
+              "url": "https://t.co/WSo9MxePsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061804296824672674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061753842015072683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @matcha__ore_p: コミティアのお品書きです🫧\nお得な新刊セットあります\n当日はN46aのしろいねこのおみせにてお待ちしております\n商品紹介は後日リプに追加します\n #COMITIA156  #コミティア156 https://t.co/WSo9MxePsc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061753836021469184"
+          ]
+        },
+        "author_id": "941682926755856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313532909337210880",
+              "name": "Comitia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2061753842015072683",
+        "created_at": "2026-06-02T10:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061753842015072683"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 73,
+              "tag": "COMITIA156"
+            },
+            {
+              "end": 95,
+              "start": 86,
+              "tag": "コミティア156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSo9MxePsc",
+              "end": 119,
+              "expanded_url": "https://x.com/matcha__ore_p/status/2061753842015072683/photo/1",
+              "media_key": "3_2061753836021469184",
+              "start": 96,
+              "url": "https://t.co/WSo9MxePsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061753842015072683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 3747,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "コミティアのお品書きです🫧\nお得な新刊セットあります\n当日はN46aのしろいねこのおみせにてお待ちしております\n商品紹介は後日リプに追加します\n #COMITIA156  #コミティア156 https://t.co/WSo9MxePsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "被戳了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 246,
+          "like_count": 106980,
+          "listed_count": 2,
+          "media_count": 1641,
+          "tweet_count": 17163
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-15T14:54:40.000Z",
+        "description": "#たゃおれ絵 お仕事はDM𓆜 𓆝 𓆞 𓆟 グッズ・本(https://t.co/aYVpW4pQDO) 未公開イラスト等（https://t.co/mmvyzwF7cv）⚠︎︎AI学習禁止⚠︎︎アイコン（@nenane0833）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "たゃおれ絵"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "nenane0833"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matcha-ore-p.booth.pm",
+                "end": 50,
+                "expanded_url": "https://matcha-ore-p.booth.pm",
+                "start": 27,
+                "url": "https://t.co/aYVpW4pQDO"
+              },
+              {
+                "display_url": "matcha-ore-p.fanbox.cc",
+                "end": 84,
+                "expanded_url": "https://matcha-ore-p.fanbox.cc",
+                "start": 61,
+                "url": "https://t.co/mmvyzwF7cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@matcha__ore_p",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@matcha__ore_p",
+                "start": 0,
+                "url": "https://t.co/EcWAl4hEiW"
+              }
+            ]
+          }
+        },
+        "id": "941682926755856384",
+        "name": "まったゃおれ コミティア156 N46a",
+        "pinned_tweet_id": "2059249650310537403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944998115263832064/DOOC6_GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42848,
+          "following_count": 198,
+          "like_count": 55607,
+          "listed_count": 264,
+          "media_count": 692,
+          "tweet_count": 5573
+        },
+        "url": "https://t.co/EcWAl4hEiW",
+        "username": "matcha__ore_p",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043689816",
+          "name": "Microsoft Office"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      }
+    ],
+    "conversation_id": "2008258793180999861",
+    "created_at": "2026-01-05T19:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T20:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008258793180999861"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Microsoft",
+          "probability": 0.9573,
+          "start": 19,
+          "type": "Organization"
+        },
+        {
+          "end": 60,
+          "normalized_text": "Microsoft",
+          "probability": 0.9671,
+          "start": 52,
+          "type": "Organization"
+        },
+        {
+          "end": 85,
+          "normalized_text": "Microsoft Office",
+          "probability": 0.7636,
+          "start": 70,
+          "type": "Other"
+        },
+        {
+          "end": 114,
+          "normalized_text": "Microsoft 365 Copilot App",
+          "probability": 0.7302,
+          "start": 90,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1158139840866791424",
+          "start": 3,
+          "username": "vxunderground"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008258793180999861",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 419
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008229485993488549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vxunderground: Microsoft is so fucking stupid.\n\nMicrosoft renamed Microsoft Office to Microsoft 365 Copilot App\n\nI'm not joking https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1915,
+        "media_key": "3_2008229372860186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96p-XzWQAAb0Oy.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689816",
+              "name": "Microsoft Office"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2008258793180999861",
+        "created_at": "2026-01-05T19:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T20:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008258793180999861"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Microsoft",
+              "probability": 0.9573,
+              "start": 19,
+              "type": "Organization"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Microsoft",
+              "probability": 0.9671,
+              "start": 52,
+              "type": "Organization"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Microsoft Office",
+              "probability": 0.7636,
+              "start": 70,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "Microsoft 365 Copilot App",
+              "probability": 0.7302,
+              "start": 90,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1158139840866791424",
+              "start": 3,
+              "username": "vxunderground"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008258793180999861",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 419
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008229485993488549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vxunderground: Microsoft is so fucking stupid.\n\nMicrosoft renamed Microsoft Office to Microsoft 365 Copilot App\n\nI'm not joking https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008229372860186624"
+          ]
+        },
+        "author_id": "1158139840866791424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689816",
+              "name": "Microsoft Office"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2008229485993488549",
+        "created_at": "2026-01-05T17:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T18:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008229485993488549"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Microsoft",
+              "probability": 0.9309,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Microsoft",
+              "probability": 0.9688,
+              "start": 33,
+              "type": "Organization"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Microsoft Office",
+              "probability": 0.8241,
+              "start": 51,
+              "type": "Other"
+            },
+            {
+              "end": 83,
+              "normalized_text": "Microsoft 365",
+              "probability": 0.875,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "Copilot App",
+              "probability": 0.6677,
+              "start": 85,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8to6CdRkze",
+              "end": 136,
+              "expanded_url": "https://x.com/vxunderground/status/2008229485993488549/photo/1",
+              "media_key": "3_2008229372860186624",
+              "start": 113,
+              "url": "https://t.co/8to6CdRkze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008229485993488549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 147675,
+          "like_count": 6137,
+          "quote_count": 155,
+          "reply_count": 286,
+          "retweet_count": 419
+        },
+        "reply_settings": "everyone",
+        "text": "Microsoft is so fucking stupid.\n\nMicrosoft renamed Microsoft Office to Microsoft 365 Copilot App\n\nI'm not joking https://t.co/8to6CdRkze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 276,
+          "like_count": 71942,
+          "listed_count": 2,
+          "media_count": 1359,
+          "tweet_count": 12938
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-04T22:17:10.000Z",
+        "description": "The largest collection of malware source code, samples, and papers on the internet.\n\nPassword: infected",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vx-underground.org",
+                "end": 23,
+                "expanded_url": "https://vx-underground.org",
+                "start": 0,
+                "url": "https://t.co/Yn4orDEAhs"
+              }
+            ]
+          }
+        },
+        "id": "1158139840866791424",
+        "location": "International",
+        "name": "vx-underground",
+        "pinned_tweet_id": "1994122768548315546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903282052297891840/sMABW3W-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397552,
+          "following_count": 318,
+          "like_count": 16135,
+          "listed_count": 2368,
+          "media_count": 6622,
+          "tweet_count": 21133
+        },
+        "url": "https://t.co/Yn4orDEAhs",
+        "username": "vxunderground",
+        "verified": true
+      }
+    ]
+  }
+}

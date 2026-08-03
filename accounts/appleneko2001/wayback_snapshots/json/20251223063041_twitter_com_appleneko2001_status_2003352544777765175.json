@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2003352544777765175",
+    "created_at": "2025-12-23T06:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T07:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003352544777765175"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "OSS",
+          "probability": 0.5249,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/saraaa7447/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/saraaa7447/status/2003071794308333668",
+          "start": 37,
+          "url": "https://t.co/ulHhFOXkjT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003352544777765175",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003071794308333668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "The fall of biggest OSS community (? https://t.co/ulHhFOXkjT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003071788649996288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xXLdYW4AAJRjP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2003352544777765175",
+        "created_at": "2025-12-23T06:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T07:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003352544777765175"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "OSS",
+              "probability": 0.5249,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/saraaa7447/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/saraaa7447/status/2003071794308333668",
+              "start": 37,
+              "url": "https://t.co/ulHhFOXkjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003352544777765175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003071794308333668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The fall of biggest OSS community (? https://t.co/ulHhFOXkjT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003071788649996288"
+          ]
+        },
+        "author_id": "1538641734720176129",
+        "conversation_id": "2003071794308333668",
+        "created_at": "2025-12-22T11:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003071794308333668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EOrEmWSU3G",
+              "end": 89,
+              "expanded_url": "https://x.com/saraaa7447/status/2003071794308333668/photo/1",
+              "media_key": "3_2003071788649996288",
+              "start": 66,
+              "url": "https://t.co/EOrEmWSU3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003071794308333668",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 9437,
+          "like_count": 505,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Can’t wait to try this new social media my friends recommended :D https://t.co/EOrEmWSU3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 66850,
+          "listed_count": 2,
+          "media_count": 1318,
+          "tweet_count": 12467
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T21:55:59.000Z",
+        "description": "that tech obsessed powerpc girl on the internet.\n20.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sarascafe.lenowo.org",
+                "end": 23,
+                "expanded_url": "https://sarascafe.lenowo.org/",
+                "start": 0,
+                "url": "https://t.co/y9hSbuXWGi"
+              }
+            ]
+          }
+        },
+        "id": "1538641734720176129",
+        "location": "She/Her 🏳️‍⚧️🇧🇬🇧🇪",
+        "name": "saraaaaaaa 💽",
+        "pinned_tweet_id": "1660788149990113280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962500407587946496/g-KCPKQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4859,
+          "following_count": 996,
+          "like_count": 115637,
+          "listed_count": 28,
+          "media_count": 1153,
+          "tweet_count": 13675
+        },
+        "url": "https://t.co/y9hSbuXWGi",
+        "username": "saraaa7447",
+        "verified": true
+      }
+    ]
+  }
+}

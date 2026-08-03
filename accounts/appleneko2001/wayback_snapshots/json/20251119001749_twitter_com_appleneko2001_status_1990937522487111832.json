@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1990430328436261003",
+    "created_at": "2025-11-19T00:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990937522487111832"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "twitter",
+          "probability": 0.9098,
+          "start": 45,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1854168927883956245",
+          "start": 0,
+          "username": "Naam_kafi_hai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990937522487111832",
+    "in_reply_to_user_id": "1854168927883956245",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990430328436261003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naam_kafi_hai me trying to struggling calls twitter simply x:😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_1990430270567436288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59tyQtbUAAWYhG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1990430328436261003",
+        "created_at": "2025-11-19T00:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990937522487111832"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "twitter",
+              "probability": 0.9098,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1854168927883956245",
+              "start": 0,
+              "username": "Naam_kafi_hai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990937522487111832",
+        "in_reply_to_user_id": "1854168927883956245",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990430328436261003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naam_kafi_hai me trying to struggling calls twitter simply x:😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990430270567436288"
+          ]
+        },
+        "author_id": "1854168927883956245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1990430328436261003",
+        "created_at": "2025-11-17T14:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990430328436261003"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Twitter",
+              "probability": 0.9843,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTjnblI8Oj",
+              "end": 71,
+              "expanded_url": "https://x.com/Naam_kafi_hai/status/1990430328436261003/photo/1",
+              "media_key": "3_1990430270567436288",
+              "start": 48,
+              "url": "https://t.co/mTjnblI8Oj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990430328436261003",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 736552,
+          "like_count": 3291,
+          "quote_count": 659,
+          "reply_count": 1893,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "When was the last time you called it \"Twitter\"? https://t.co/mTjnblI8Oj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 266,
+          "like_count": 65597,
+          "listed_count": 2,
+          "media_count": 1304,
+          "tweet_count": 12333
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T14:28:32.000Z",
+        "description": "Keep Smiling with My MEMES 😂",
+        "id": "1854168927883956245",
+        "name": "DOUBLE-R",
+        "pinned_tweet_id": "1983071372596346954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939798307687088128/2M5TNk8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15381,
+          "following_count": 1663,
+          "like_count": 74017,
+          "listed_count": 12,
+          "media_count": 1053,
+          "tweet_count": 5813
+        },
+        "username": "Naam_kafi_hai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2028967561485005044",
+    "created_at": "2026-03-04T05:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T06:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029065294266912943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1920881863310123008",
+          "start": 0,
+          "username": "iron314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029065294266912943",
+    "in_reply_to_user_id": "1920881863310123008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029064471617176051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iron314 问题是 不是因为这个重启的呀……\n更像是软件方面的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2028967561485005044",
+        "created_at": "2026-03-04T05:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029065294266912943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1920881863310123008",
+              "start": 0,
+              "username": "iron314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029065294266912943",
+        "in_reply_to_user_id": "1920881863310123008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029064471617176051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iron314 问题是 不是因为这个重启的呀……\n更像是软件方面的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920881863310123008",
+        "conversation_id": "2028967561485005044",
+        "created_at": "2026-03-04T05:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029064471617176051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029064471617176051",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028967561485005044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 我记得有的手机严重过热可能会重启吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 347,
+          "like_count": 96273,
+          "listed_count": 3,
+          "media_count": 1557,
+          "tweet_count": 15650
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T16:41:58.000Z",
+        "description": "Why? I think, it 's my duty.",
+        "id": "1920881863310123008",
+        "location": "empty dream",
+        "name": "iron",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007130618681765888/6-PhkMZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 127,
+          "like_count": 32177,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 393
+        },
+        "username": "iron314",
+        "verified": false
+      }
+    ]
+  }
+}

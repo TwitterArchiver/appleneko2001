@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990940175698915328"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990940247577014663",
+    "created_at": "2025-11-19T00:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990940247577014663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2xXK189ur0",
+          "end": 26,
+          "expanded_url": "https://x.com/appleneko2001/status/1990940247577014663/photo/1",
+          "media_key": "3_1990940175698915328",
+          "start": 3,
+          "url": "https://t.co/2xXK189ur0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990940247577014663",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊？ https://t.co/2xXK189ur0"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "wut ? new moon?",
+        "height": 207,
+        "media_key": "3_1990940175698915328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6E9ipWWcAAi5Dk.png",
+        "width": 492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990940175698915328"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990940247577014663",
+        "created_at": "2025-11-19T00:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990940247577014663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xXK189ur0",
+              "end": 26,
+              "expanded_url": "https://x.com/appleneko2001/status/1990940247577014663/photo/1",
+              "media_key": "3_1990940175698915328",
+              "start": 3,
+              "url": "https://t.co/2xXK189ur0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990940247577014663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？ https://t.co/2xXK189ur0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 266,
+          "like_count": 65611,
+          "listed_count": 2,
+          "media_count": 1305,
+          "tweet_count": 12335
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

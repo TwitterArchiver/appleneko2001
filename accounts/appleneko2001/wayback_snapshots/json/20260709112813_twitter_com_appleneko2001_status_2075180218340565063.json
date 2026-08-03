@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075180053298860032",
+        "3_2075179937074671616",
+        "3_2075179976425639936"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2075180218340565063",
+    "created_at": "2026-07-09T11:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075180218340565063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhvS7mhQxN",
+          "end": 65,
+          "expanded_url": "https://x.com/appleneko2001/status/2075180218340565063/photo/1",
+          "media_key": "3_2075180053298860032",
+          "start": 42,
+          "url": "https://t.co/dhvS7mhQxN"
+        },
+        {
+          "display_url": "pic.x.com/dhvS7mhQxN",
+          "end": 65,
+          "expanded_url": "https://x.com/appleneko2001/status/2075180218340565063/photo/1",
+          "media_key": "3_2075179937074671616",
+          "start": 42,
+          "url": "https://t.co/dhvS7mhQxN"
+        },
+        {
+          "display_url": "pic.x.com/dhvS7mhQxN",
+          "end": 65,
+          "expanded_url": "https://x.com/appleneko2001/status/2075180218340565063/photo/1",
+          "media_key": "3_2075179976425639936",
+          "start": 42,
+          "url": "https://t.co/dhvS7mhQxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075180218340565063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "智障discord 真的需要有个修界面布局的人呢…\n图2是修正后效果\n图3是修正前 https://t.co/dhvS7mhQxN"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "vesktop quickcss editor screenshot",
+        "height": 533,
+        "media_key": "3_2075180053298860032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyFQ4Ha0AAfhIy.jpg",
+        "width": 1697
+      },
+      {
+        "alt_text": "after",
+        "height": 161,
+        "media_key": "3_2075179937074671616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyFKHJacAATBTd.png",
+        "width": 709
+      },
+      {
+        "alt_text": "before",
+        "height": 235,
+        "media_key": "3_2075179976425639936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyFMZvakAAjYe3.png",
+        "width": 394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075180053298860032",
+            "3_2075179937074671616",
+            "3_2075179976425639936"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2075180218340565063",
+        "created_at": "2026-07-09T11:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075180218340565063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhvS7mhQxN",
+              "end": 65,
+              "expanded_url": "https://x.com/appleneko2001/status/2075180218340565063/photo/1",
+              "media_key": "3_2075180053298860032",
+              "start": 42,
+              "url": "https://t.co/dhvS7mhQxN"
+            },
+            {
+              "display_url": "pic.x.com/dhvS7mhQxN",
+              "end": 65,
+              "expanded_url": "https://x.com/appleneko2001/status/2075180218340565063/photo/1",
+              "media_key": "3_2075179937074671616",
+              "start": 42,
+              "url": "https://t.co/dhvS7mhQxN"
+            },
+            {
+              "display_url": "pic.x.com/dhvS7mhQxN",
+              "end": 65,
+              "expanded_url": "https://x.com/appleneko2001/status/2075180218340565063/photo/1",
+              "media_key": "3_2075179976425639936",
+              "start": 42,
+              "url": "https://t.co/dhvS7mhQxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075180218340565063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "智障discord 真的需要有个修界面布局的人呢…\n图2是修正后效果\n图3是修正前 https://t.co/dhvS7mhQxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 286,
+          "like_count": 114980,
+          "listed_count": 2,
+          "media_count": 1710,
+          "tweet_count": 18044
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

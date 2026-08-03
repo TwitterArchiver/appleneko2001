@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012210239399927839",
+    "created_at": "2026-01-17T07:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012431283540959319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012431283540959319",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012429879535341662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot 哈哈 推特\n這下老馬是真的急瘋了（不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2012210239399927839",
+        "created_at": "2026-01-17T07:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012431283540959319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012431283540959319",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012429879535341662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 哈哈 推特\n這下老馬是真的急瘋了（不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2012210239399927839",
+        "created_at": "2026-01-17T07:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012429879535341662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ],
+          "urls": [
+            {
+              "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+              "display_url": "X.com",
+              "end": 54,
+              "expanded_url": "http://X.com",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2010537481863589888/jdC15IeM?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010537481863589888/jdC15IeM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "X. It’s what’s happening",
+              "unwound_url": "https://x.com/",
+              "url": "https://t.co/SeTNsFYikP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012429879535341662",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012429640523301324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 我去，我发推特网址会强制给我变成https://t.co/SeTNsFYikP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 301,
+          "like_count": 79793,
+          "listed_count": 2,
+          "media_count": 1406,
+          "tweet_count": 13600
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 589,
+          "like_count": 68392,
+          "listed_count": 5,
+          "media_count": 2314,
+          "tweet_count": 10350
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

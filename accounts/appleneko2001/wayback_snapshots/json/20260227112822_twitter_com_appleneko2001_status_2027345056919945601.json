@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027345050276126720",
+        "3_2027345052285227008"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2027345056919945601",
+    "created_at": "2026-02-27T11:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027345056919945601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Re4FFZmclf",
+          "end": 43,
+          "expanded_url": "https://x.com/appleneko2001/status/2027345056919945601/photo/1",
+          "media_key": "3_2027345050276126720",
+          "start": 20,
+          "url": "https://t.co/Re4FFZmclf"
+        },
+        {
+          "display_url": "pic.x.com/Re4FFZmclf",
+          "end": 43,
+          "expanded_url": "https://x.com/appleneko2001/status/2027345056919945601/photo/1",
+          "media_key": "3_2027345052285227008",
+          "start": 20,
+          "url": "https://t.co/Re4FFZmclf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027345056919945601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "顺便买了维生素D3 按照grok的要求 https://t.co/Re4FFZmclf"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Grok says I should get some vitamin D3",
+        "height": 885,
+        "media_key": "3_2027345050276126720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKTlPba4AAq0RG.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "So do I",
+        "height": 2048,
+        "media_key": "3_2027345052285227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKTlW6bUAAcLQ-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027345050276126720",
+            "3_2027345052285227008"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2027345056919945601",
+        "created_at": "2026-02-27T11:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027345056919945601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Re4FFZmclf",
+              "end": 43,
+              "expanded_url": "https://x.com/appleneko2001/status/2027345056919945601/photo/1",
+              "media_key": "3_2027345050276126720",
+              "start": 20,
+              "url": "https://t.co/Re4FFZmclf"
+            },
+            {
+              "display_url": "pic.x.com/Re4FFZmclf",
+              "end": 43,
+              "expanded_url": "https://x.com/appleneko2001/status/2027345056919945601/photo/1",
+              "media_key": "3_2027345052285227008",
+              "start": 20,
+              "url": "https://t.co/Re4FFZmclf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027345056919945601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顺便买了维生素D3 按照grok的要求 https://t.co/Re4FFZmclf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 337,
+          "like_count": 93106,
+          "listed_count": 3,
+          "media_count": 1522,
+          "tweet_count": 15153
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2021956361723293760",
+    "created_at": "2026-02-13T02:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022131479040729238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV"
+        },
+        {
+          "end": 19,
+          "id": "1515290827454439426",
+          "start": 11,
+          "username": "FuncSir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022131479040729238",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022129948409180411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV @FuncSir 好象是这样……\n只是……咱不想用windows 了 已经忍无可忍了……\n老套的系统架构 割裂的系统模块 烦人的自动更新 令人厌恶的AI 超多的系统漏洞\n让我把windows 当作宿主OS 先说说怎么让微软修掉这些问题再说吧 可惜我觉得他们不会 就象那些大平台一样 有了大量的市场占有率 就开始摆烂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2021956361723293760",
+        "created_at": "2026-02-13T02:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022131479040729238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV"
+            },
+            {
+              "end": 19,
+              "id": "1515290827454439426",
+              "start": 11,
+              "username": "FuncSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022131479040729238",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022129948409180411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV @FuncSir 好象是这样……\n只是……咱不想用windows 了 已经忍无可忍了……\n老套的系统架构 割裂的系统模块 烦人的自动更新 令人厌恶的AI 超多的系统漏洞\n让我把windows 当作宿主OS 先说说怎么让微软修掉这些问题再说吧 可惜我觉得他们不会 就象那些大平台一样 有了大量的市场占有率 就开始摆烂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2021956361723293760",
+        "created_at": "2026-02-13T02:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022129948409180411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 23,
+              "id": "1515290827454439426",
+              "start": 15,
+              "username": "FuncSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022129948409180411",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022003193123914160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @FuncSir 反作弊基本无解\n或者说 研究怎么混过反作弊 的成本大概率比 单独装一台打游戏的物理机 的成本要高很多\n不过vgpu-unlock和gpu-passthru后在linux虚拟机里玩那些没有反作弊的steam游戏时 Cynun没遇到过问题\n第二台物理机+远程kvm也算是云游戏（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 325,
+          "like_count": 88955,
+          "listed_count": 2,
+          "media_count": 1484,
+          "tweet_count": 14501
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "抱抱鱼 | 计算机用户| 虚弱的无定形类人智能体 | HFAutism,部分精神和心理疾病可能会影响其发言内容；遭遇异常状态请小心处理。",
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "Cynun VIIV",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 1150,
+          "like_count": 29796,
+          "listed_count": 7,
+          "media_count": 142,
+          "tweet_count": 4907
+        },
+        "username": "CynunVIIV",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T11:28:13.000Z",
+        "description": "println!(\"Hello!\");",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vioxt.eu.org",
+                "end": 23,
+                "expanded_url": "http://vioxt.eu.org",
+                "start": 0,
+                "url": "https://t.co/DGPCc9sVCE"
+              }
+            ]
+          }
+        },
+        "id": "1515290827454439426",
+        "location": "Earth",
+        "name": "FunctionSir",
+        "pinned_tweet_id": "1756343396824658173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515291015145398273/Ip8NFdrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2148,
+          "like_count": 3619,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/DGPCc9sVCE",
+        "username": "FuncSir",
+        "verified": false
+      }
+    ]
+  }
+}

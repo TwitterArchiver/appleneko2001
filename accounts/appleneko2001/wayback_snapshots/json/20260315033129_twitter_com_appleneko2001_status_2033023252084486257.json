@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032708292548730880"
+      ],
+      "media_source_tweet_id": [
+        "2032744039880290692"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      }
+    ],
+    "conversation_id": "2033023252084486257",
+    "created_at": "2026-03-15T03:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T04:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033023252084486257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1367023585055805440",
+          "start": 3,
+          "username": "pcsuke"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Music: Radetsky March, U.S. Marine Band (Public Domain) Software: Google MediaPipe (MIT License) Development:",
+          "display_url": "webcam-conductor.suke.work",
+          "end": 85,
+          "expanded_url": "https://webcam-conductor.suke.work",
+          "start": 62,
+          "status": 200,
+          "title": "Webcam Conductor",
+          "unwound_url": "https://webcam-conductor.suke.work",
+          "url": "https://t.co/1czaoPIvFh"
+        },
+        {
+          "display_url": "pic.x.com/hYx93pUmy4",
+          "end": 109,
+          "expanded_url": "https://x.com/pcsuke/status/2032744039880290692/video/1",
+          "media_key": "13_2032708292548730880",
+          "start": 86,
+          "url": "https://t.co/hYx93pUmy4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033023252084486257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1051
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032744039880290692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pcsuke: 指揮者になって音楽を操る体験ができるWebアプリ。\nWebカメラ付きのPCで遊んでみてください。\n\nhttps://t.co/1czaoPIvFh https://t.co/hYx93pUmy4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71104,
+        "height": 1200,
+        "media_key": "13_2032708292548730880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032708292548730880/img/Hddw9ibtvp7mwArc.jpg",
+        "public_metrics": {
+          "view_count": 397569
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032708292548730880/vid/avc1/432x270/Xuk6BWJ__UwiUpuH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032708292548730880/vid/avc1/576x360/HQDYSM_9qL28Wqkt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032708292548730880/vid/avc1/1152x720/OS3jS5M753aozpHT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032708292548730880/pl/6NTrQr3SQWLRapCp.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032708292548730880"
+          ],
+          "media_source_tweet_id": [
+            "2032744039880290692"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          }
+        ],
+        "conversation_id": "2033023252084486257",
+        "created_at": "2026-03-15T03:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T04:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033023252084486257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1367023585055805440",
+              "start": 3,
+              "username": "pcsuke"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Music: Radetsky March, U.S. Marine Band (Public Domain) Software: Google MediaPipe (MIT License) Development:",
+              "display_url": "webcam-conductor.suke.work",
+              "end": 85,
+              "expanded_url": "https://webcam-conductor.suke.work",
+              "start": 62,
+              "status": 200,
+              "title": "Webcam Conductor",
+              "unwound_url": "https://webcam-conductor.suke.work",
+              "url": "https://t.co/1czaoPIvFh"
+            },
+            {
+              "display_url": "pic.x.com/hYx93pUmy4",
+              "end": 109,
+              "expanded_url": "https://x.com/pcsuke/status/2032744039880290692/video/1",
+              "media_key": "13_2032708292548730880",
+              "start": 86,
+              "url": "https://t.co/hYx93pUmy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033023252084486257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1051
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032744039880290692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pcsuke: 指揮者になって音楽を操る体験ができるWebアプリ。\nWebカメラ付きのPCで遊んでみてください。\n\nhttps://t.co/1czaoPIvFh https://t.co/hYx93pUmy4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032708292548730880"
+          ]
+        },
+        "author_id": "1367023585055805440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          }
+        ],
+        "conversation_id": "2032744039880290692",
+        "created_at": "2026-03-14T09:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032744039880290692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Music: Radetsky March, U.S. Marine Band (Public Domain) Software: Google MediaPipe (MIT License) Development:",
+              "display_url": "webcam-conductor.suke.work",
+              "end": 73,
+              "expanded_url": "https://webcam-conductor.suke.work",
+              "start": 50,
+              "status": 200,
+              "title": "Webcam Conductor",
+              "unwound_url": "https://webcam-conductor.suke.work",
+              "url": "https://t.co/1czaoPIvFh"
+            },
+            {
+              "display_url": "pic.x.com/hYx93pUmy4",
+              "end": 97,
+              "expanded_url": "https://x.com/pcsuke/status/2032744039880290692/video/1",
+              "media_key": "13_2032708292548730880",
+              "start": 74,
+              "url": "https://t.co/hYx93pUmy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032744039880290692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3865,
+          "impression_count": 846473,
+          "like_count": 7521,
+          "quote_count": 138,
+          "reply_count": 6,
+          "retweet_count": 1051
+        },
+        "reply_settings": "everyone",
+        "text": "指揮者になって音楽を操る体験ができるWebアプリ。\nWebカメラ付きのPCで遊んでみてください。\n\nhttps://t.co/1czaoPIvFh https://t.co/hYx93pUmy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2031397929580376199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 359,
+          "like_count": 98763,
+          "listed_count": 3,
+          "media_count": 1569,
+          "tweet_count": 15996
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-03T08:06:41.000Z",
+        "description": "インターフェース・映像の「新しい」表現や体験の方法をデザインやプログラミングで実装しています。2008年生まれの高校生です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suke.work",
+                "end": 23,
+                "expanded_url": "https://suke.work/",
+                "start": 0,
+                "url": "https://t.co/rvXX84VYrB"
+              }
+            ]
+          }
+        },
+        "id": "1367023585055805440",
+        "location": "🇯🇵 大分県",
+        "name": "スケ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496298933395800064/lri7DJ9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 878,
+          "like_count": 6670,
+          "listed_count": 19,
+          "media_count": 330,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/rvXX84VYrB",
+        "username": "pcsuke",
+        "verified": false
+      }
+    ]
+  }
+}

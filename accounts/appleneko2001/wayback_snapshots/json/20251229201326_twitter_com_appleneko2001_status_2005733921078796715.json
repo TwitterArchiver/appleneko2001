@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      }
+    ],
+    "conversation_id": "2005733921078796715",
+    "created_at": "2025-12-29T20:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T21:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005733921078796715"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 135,
+          "normalized_text": "arcade",
+          "probability": 0.4449,
+          "start": 130,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1831325697282809856",
+          "start": 3,
+          "username": "CDRomance_Spike"
+        }
+      ],
+      "urls": [
+        {
+          "description": "IIDX EMPRESS - THANK YOU FOR PLAYING (A Vs 黑) Autoplay",
+          "display_url": "two-torial.xyz",
+          "end": 59,
+          "expanded_url": "http://two-torial.xyz",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/2005597204036440064/MEyKGQNt?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2005597204036440064/MEyKGQNt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 36,
+          "status": 200,
+          "title": "IIDX EMPRESS - THANK YOU FOR PLAYING (A Vs 黑) Autoplay",
+          "unwound_url": "https://www.youtube.com/watch?si=5jRic1jJjeWbMgMV&v=5VhtIoDMKeQ&feature=youtu.be",
+          "url": "https://t.co/Cum9Wca3Qd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005733921078796715",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005647869953573342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CDRomance_Spike: I'm sad to see https://t.co/Cum9Wca3Qd a site  and community known for having the best guides to play modern arcade ga…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2050,
+        "media_key": "3_2005644879418839040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V7ZDdXUAAHp8D.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1442,
+        "media_key": "3_2005644879443922944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V7ZDjWEAA31rC.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          }
+        ],
+        "conversation_id": "2005733921078796715",
+        "created_at": "2025-12-29T20:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T21:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005733921078796715"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 135,
+              "normalized_text": "arcade",
+              "probability": 0.4449,
+              "start": 130,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1831325697282809856",
+              "start": 3,
+              "username": "CDRomance_Spike"
+            }
+          ],
+          "urls": [
+            {
+              "description": "IIDX EMPRESS - THANK YOU FOR PLAYING (A Vs 黑) Autoplay",
+              "display_url": "two-torial.xyz",
+              "end": 59,
+              "expanded_url": "http://two-torial.xyz",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2005597204036440064/MEyKGQNt?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2005597204036440064/MEyKGQNt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "IIDX EMPRESS - THANK YOU FOR PLAYING (A Vs 黑) Autoplay",
+              "unwound_url": "https://www.youtube.com/watch?si=5jRic1jJjeWbMgMV&v=5VhtIoDMKeQ&feature=youtu.be",
+              "url": "https://t.co/Cum9Wca3Qd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005733921078796715",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005647869953573342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CDRomance_Spike: I'm sad to see https://t.co/Cum9Wca3Qd a site  and community known for having the best guides to play modern arcade ga…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005644879418839040",
+            "3_2005644879443922944"
+          ]
+        },
+        "author_id": "1831325697282809856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1128367253861175296",
+              "name": "Taiko no Tatsujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1128367253861175296",
+              "name": "Taiko no Tatsujin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2005647869953573342",
+        "created_at": "2025-12-29T14:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T15:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005647869953573342"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 130,
+              "normalized_text": "IIDX",
+              "probability": 0.8912,
+              "start": 127,
+              "type": "Other"
+            },
+            {
+              "end": 136,
+              "normalized_text": "SDVX",
+              "probability": 0.9001,
+              "start": 133,
+              "type": "Other"
+            },
+            {
+              "end": 141,
+              "normalized_text": "DDR",
+              "probability": 0.7408,
+              "start": 139,
+              "type": "Other"
+            },
+            {
+              "end": 148,
+              "normalized_text": "Pop'n",
+              "probability": 0.8477,
+              "start": 144,
+              "type": "Other"
+            },
+            {
+              "end": 158,
+              "normalized_text": "GITADORA",
+              "probability": 0.928,
+              "start": 151,
+              "type": "Other"
+            },
+            {
+              "end": 177,
+              "normalized_text": "Taiko no Tatsujin",
+              "probability": 0.599,
+              "start": 161,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "IIDX EMPRESS - THANK YOU FOR PLAYING (A Vs 黑) Autoplay",
+              "display_url": "two-torial.xyz",
+              "end": 38,
+              "expanded_url": "http://two-torial.xyz",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2005597204036440064/MEyKGQNt?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2005597204036440064/MEyKGQNt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "IIDX EMPRESS - THANK YOU FOR PLAYING (A Vs 黑) Autoplay",
+              "unwound_url": "https://www.youtube.com/watch?si=5jRic1jJjeWbMgMV&v=5VhtIoDMKeQ&feature=youtu.be",
+              "url": "https://t.co/Cum9Wca3Qd"
+            },
+            {
+              "display_url": "pic.x.com/MRMJqkimbX",
+              "end": 226,
+              "expanded_url": "https://x.com/CDRomance_Spike/status/2005647869953573342/photo/1",
+              "media_key": "3_2005644879418839040",
+              "start": 203,
+              "url": "https://t.co/MRMJqkimbX"
+            },
+            {
+              "display_url": "pic.x.com/MRMJqkimbX",
+              "end": 226,
+              "expanded_url": "https://x.com/CDRomance_Spike/status/2005647869953573342/photo/1",
+              "media_key": "3_2005644879443922944",
+              "start": 203,
+              "url": "https://t.co/MRMJqkimbX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005647869953573342",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 658,
+          "impression_count": 47919,
+          "like_count": 1650,
+          "quote_count": 25,
+          "reply_count": 23,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "I'm sad to see https://t.co/Cum9Wca3Qd a site  and community known for having the best guides to play modern arcade games like IIDX, SDVX, DDR, Pop'n, GITADORA, Taiko no Tatsujin and more has shut down. https://t.co/MRMJqkimbX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 274,
+          "like_count": 69117,
+          "listed_count": 2,
+          "media_count": 1330,
+          "tweet_count": 12694
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T13:37:35.000Z",
+        "description": "The best retro gaming site in the universe, allegedly.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cdromance.org",
+                "end": 23,
+                "expanded_url": "https://cdromance.org",
+                "start": 0,
+                "url": "https://t.co/euOerkXOL9"
+              }
+            ]
+          }
+        },
+        "id": "1831325697282809856",
+        "name": "CDRomance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991996545370058752/LQyc_4-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5020,
+          "following_count": 85,
+          "like_count": 181,
+          "listed_count": 13,
+          "media_count": 123,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/euOerkXOL9",
+        "username": "CDRomance_Spike",
+        "verified": false
+      }
+    ]
+  }
+}

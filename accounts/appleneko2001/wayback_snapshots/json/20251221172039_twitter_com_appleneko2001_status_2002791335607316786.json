@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2002661261272895983",
+    "created_at": "2025-12-21T17:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T18:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002791335607316786"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "紅衣",
+          "probability": 0.5241,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        },
+        {
+          "end": 22,
+          "id": "260663159",
+          "start": 10,
+          "username": "fakeChitose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002791335607316786",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002712929356103782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 @fakeChitose 紅衣教主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2002661261272895983",
+        "created_at": "2025-12-21T17:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T18:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002791335607316786"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "紅衣",
+              "probability": 0.5241,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            },
+            {
+              "end": 22,
+              "id": "260663159",
+              "start": 10,
+              "username": "fakeChitose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002791335607316786",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002712929356103782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 @fakeChitose 紅衣教主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683218035602255872",
+        "conversation_id": "2002661261272895983",
+        "created_at": "2025-12-21T12:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T13:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002712929356103782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "260663159",
+              "start": 0,
+              "username": "fakeChitose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002712929356103782",
+        "in_reply_to_user_id": "260663159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1043,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002661261272895983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fakeChitose 这玩意还真是微软官方的，但这个软件图标做的真的很像一些山寨软件。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 269,
+          "like_count": 66320,
+          "listed_count": 2,
+          "media_count": 1316,
+          "tweet_count": 12434
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7067,
+          "following_count": 115,
+          "like_count": 225,
+          "listed_count": 17,
+          "media_count": 494,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-04T09:56:32.000Z",
+        "description": "成人井外勢力 地球在住 混吃等死從業者 廣東話母語者 粵拼用家 / memo AkechiSatori #StandWithUkraine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 52,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/fakeChito…",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/fakeChitose",
+                "start": 0,
+                "url": "https://t.co/4hZcOWhdip"
+              }
+            ]
+          }
+        },
+        "id": "260663159",
+        "location": "地球",
+        "name": "チトセ 💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632373928697151488/2EvE2as9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2927,
+          "following_count": 1150,
+          "like_count": 5107,
+          "listed_count": 17,
+          "media_count": 1822,
+          "tweet_count": 9580
+        },
+        "url": "https://t.co/4hZcOWhdip",
+        "username": "fakeChitose",
+        "verified": true
+      }
+    ]
+  }
+}

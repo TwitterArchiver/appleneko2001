@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1942373228120310085",
+    "created_at": "2025-07-09T13:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T14:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942946091319656671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807064118366490624",
+          "start": 0,
+          "username": "SLKVinyl"
+        },
+        {
+          "end": 20,
+          "id": "1640127056892555265",
+          "start": 10,
+          "username": "31mariocr"
+        },
+        {
+          "end": 33,
+          "id": "1255790171523436544",
+          "start": 21,
+          "username": "LeakerApple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942946091319656671",
+    "in_reply_to_user_id": "1807064118366490624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942592795316793654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLKVinyl @31mariocr @LeakerApple Prob just a way to reveal the overcooked changes idk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1942373228120310085",
+        "created_at": "2025-07-09T13:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T14:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942946091319656671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807064118366490624",
+              "start": 0,
+              "username": "SLKVinyl"
+            },
+            {
+              "end": 20,
+              "id": "1640127056892555265",
+              "start": 10,
+              "username": "31mariocr"
+            },
+            {
+              "end": 33,
+              "id": "1255790171523436544",
+              "start": 21,
+              "username": "LeakerApple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942946091319656671",
+        "in_reply_to_user_id": "1807064118366490624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942592795316793654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLKVinyl @31mariocr @LeakerApple Prob just a way to reveal the overcooked changes idk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807064118366490624",
+        "conversation_id": "1942373228120310085",
+        "created_at": "2025-07-08T14:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942592795316793654"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "apple",
+              "probability": 0.407,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1640127056892555265",
+              "start": 0,
+              "username": "31mariocr"
+            },
+            {
+              "end": 23,
+              "id": "1255790171523436544",
+              "start": 11,
+              "username": "LeakerApple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942592795316793654",
+        "in_reply_to_user_id": "1640127056892555265",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942592400603681045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@31mariocr @LeakerApple The apple community is totally lost"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 259,
+          "like_count": 65534,
+          "listed_count": 2,
+          "media_count": 1297,
+          "tweet_count": 12303
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:50:49.000Z",
+        "description": "17 | photographer + concept creator/designer + digital artist 🔰+ random thingss | I argue about tech and post concepts as a side lmao",
+        "id": "1807064118366490624",
+        "location": "Lumon",
+        "name": "SLK15",
+        "pinned_tweet_id": "1939730014301552916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874851443267739648/yOHkuEyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 384,
+          "like_count": 16410,
+          "listed_count": 3,
+          "media_count": 1250,
+          "tweet_count": 7372
+        },
+        "username": "SLKVinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T23:02:24.000Z",
+        "description": "19 | 🇬🇧🇷🇴",
+        "id": "1640127056892555265",
+        "location": "London",
+        "name": "Mario",
+        "pinned_tweet_id": "1669065740987539468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668999999055691776/KCjSJwO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 128,
+          "like_count": 9660,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2032
+        },
+        "username": "31mariocr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-30T09:25:06.000Z",
+        "description": "Former Apple leaker featured on Max Tech and FPT.\n\nContact via DMs or leakerapple@gmail.com for business enquires ✉️",
+        "id": "1255790171523436544",
+        "location": "Dynamic Island",
+        "name": "AppleLeaker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325426249225826304/ljr7LyPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39804,
+          "following_count": 1149,
+          "like_count": 112552,
+          "listed_count": 354,
+          "media_count": 2885,
+          "tweet_count": 33790
+        },
+        "username": "LeakerApple",
+        "verified": true
+      }
+    ]
+  }
+}

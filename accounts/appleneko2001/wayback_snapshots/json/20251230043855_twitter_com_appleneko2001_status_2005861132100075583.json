@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2005830091775885581",
+    "created_at": "2025-12-30T04:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T05:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005861132100075583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "705380039399858176",
+          "start": 0,
+          "username": "hanson2118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005861132100075583",
+    "in_reply_to_user_id": "705380039399858176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005857029307470171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanson2118 這個app很爛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2005830091775885581",
+        "created_at": "2025-12-30T04:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005861132100075583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "705380039399858176",
+              "start": 0,
+              "username": "hanson2118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005861132100075583",
+        "in_reply_to_user_id": "705380039399858176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005857029307470171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanson2118 這個app很爛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705380039399858176",
+        "conversation_id": "2005830091775885581",
+        "created_at": "2025-12-30T04:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005857029307470171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005857029307470171",
+        "in_reply_to_user_id": "2786701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005830091775885581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong Telegram也是俄罗斯的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 274,
+          "like_count": 69263,
+          "listed_count": 2,
+          "media_count": 1333,
+          "tweet_count": 12720
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-03T13:11:21.000Z",
+        "description": "",
+        "id": "705380039399858176",
+        "name": "Hanson",
+        "pinned_tweet_id": "1630827158854664194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1235372057455505408/fm-LD2RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 873,
+          "like_count": 32963,
+          "listed_count": 20,
+          "media_count": 409,
+          "tweet_count": 41694
+        },
+        "username": "hanson2118",
+        "verified": false
+      }
+    ]
+  }
+}

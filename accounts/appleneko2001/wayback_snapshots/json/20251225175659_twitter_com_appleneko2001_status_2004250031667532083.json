@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856568905648578560",
+          "name": "Grand Theft Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2004250031667532083",
+    "created_at": "2025-12-25T17:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T18:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004250031667532083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GTAVI_Countdow…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/GTAVI_Countdown/status/2004044290457305414",
+          "start": 39,
+          "url": "https://t.co/nWwtaoGIkb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004250031667532083",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004044290457305414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "feels nostalgia (?\nkinda like old doom https://t.co/nWwtaoGIkb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12090,
+        "height": 1080,
+        "media_key": "13_2004044069056499712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004044069056499712/img/315917UA7-F6roTo.jpg",
+        "public_metrics": {
+          "view_count": 237085
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004044069056499712/vid/avc1/480x270/9PBS5_kOXadImczU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004044069056499712/vid/avc1/1920x1080/enhrzUyqc-AuZ06r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004044069056499712/vid/avc1/1280x720/6BUWLXdG3PklqdEe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004044069056499712/vid/avc1/640x360/iw-NkoPOKc0hwd98.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004044069056499712/pl/k4EdKH5VlrM2DqtR.m3u8?v=44c"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2004250031667532083",
+        "created_at": "2025-12-25T17:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T18:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004250031667532083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GTAVI_Countdow…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/GTAVI_Countdown/status/2004044290457305414",
+              "start": 39,
+              "url": "https://t.co/nWwtaoGIkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004250031667532083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004044290457305414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "feels nostalgia (?\nkinda like old doom https://t.co/nWwtaoGIkb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004044069056499712"
+          ]
+        },
+        "author_id": "1490392275062566916",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2004044290457305414",
+        "created_at": "2025-12-25T04:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T05:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004044290457305414"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "GTA",
+              "probability": 0.706,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Spider-Verse",
+              "probability": 0.8111,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "12FPS",
+              "probability": 0.6128,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 110,
+              "normalized_text": "LS Car Meet",
+              "probability": 0.6751,
+              "start": 100,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8eyPkfKgo",
+              "end": 136,
+              "expanded_url": "https://x.com/GTAVI_Countdown/status/2004044290457305414/video/1",
+              "media_key": "13_2004044069056499712",
+              "start": 113,
+              "url": "https://t.co/k8eyPkfKgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004044290457305414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1911,
+          "impression_count": 477812,
+          "like_count": 21948,
+          "quote_count": 49,
+          "reply_count": 87,
+          "retweet_count": 900
+        },
+        "reply_settings": "everyone",
+        "text": "GTA Online: Into the Spider-Verse.\n\nA bug causes your character to move in 12FPS when you enter the LS Car Meet. https://t.co/k8eyPkfKgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67278,
+          "listed_count": 2,
+          "media_count": 1319,
+          "tweet_count": 12501
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T18:29:53.000Z",
+        "description": "Countdowns | Facts | Latest News | Trailers | Memes | Not Affiliated with Rockstar Games",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "VICountdown.com",
+                "end": 23,
+                "expanded_url": "http://VICountdown.com",
+                "start": 0,
+                "url": "https://t.co/z6FKC9b1JE"
+              }
+            ]
+          }
+        },
+        "id": "1490392275062566916",
+        "name": "GTA 6 Countdown ⏳",
+        "pinned_tweet_id": "1986541233733251277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583206957552377886/p5nHYQKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448175,
+          "following_count": 6,
+          "like_count": 15,
+          "listed_count": 264,
+          "media_count": 2563,
+          "tweet_count": 2727
+        },
+        "url": "https://t.co/z6FKC9b1JE",
+        "username": "GTAVI_Countdown",
+        "verified": true
+      }
+    ]
+  }
+}

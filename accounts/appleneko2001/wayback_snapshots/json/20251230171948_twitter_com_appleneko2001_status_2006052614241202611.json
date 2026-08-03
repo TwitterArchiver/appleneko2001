@@ -1,0 +1,740 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005951159195033600"
+      ],
+      "media_source_tweet_id": [
+        "2005951306779824569"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2006052614241202611",
+    "created_at": "2025-12-30T17:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T18:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006052614241202611"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "HSBC",
+          "probability": 0.5897,
+          "start": 12,
+          "type": "Other"
+        },
+        {
+          "end": 45,
+          "normalized_text": "F-Droid",
+          "probability": 0.7911,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "Bitwarden",
+          "probability": 0.9118,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "861889353869557762",
+          "start": 3,
+          "username": "CR1337"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZHdPU2uNB",
+          "end": 90,
+          "expanded_url": "https://x.com/CR1337/status/2005951306779824569/photo/1",
+          "media_key": "3_2005951159195033600",
+          "start": 67,
+          "url": "https://t.co/pZHdPU2uNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006052614241202611",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005951306779824569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CR1337: HSBC blocks its app due to F-Droid-installed Bitwarden https://t.co/pZHdPU2uNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_2005951159195033600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9aR84iaYAAPKIf.jpg",
+        "width": 665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005951159195033600"
+          ],
+          "media_source_tweet_id": [
+            "2005951306779824569"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2006052614241202611",
+        "created_at": "2025-12-30T17:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006052614241202611"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "HSBC",
+              "probability": 0.5897,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "F-Droid",
+              "probability": 0.7911,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "Bitwarden",
+              "probability": 0.9118,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "861889353869557762",
+              "start": 3,
+              "username": "CR1337"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZHdPU2uNB",
+              "end": 90,
+              "expanded_url": "https://x.com/CR1337/status/2005951306779824569/photo/1",
+              "media_key": "3_2005951159195033600",
+              "start": 67,
+              "url": "https://t.co/pZHdPU2uNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006052614241202611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005951306779824569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CR1337: HSBC blocks its app due to F-Droid-installed Bitwarden https://t.co/pZHdPU2uNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005951159195033600"
+          ]
+        },
+        "author_id": "861889353869557762",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2005951306779824569",
+        "created_at": "2025-12-30T10:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005951306779824569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "HSBC",
+              "probability": 0.6936,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 33,
+              "normalized_text": "F-Droid",
+              "probability": 0.8533,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "Bitwarden",
+              "probability": 0.9203,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZHdPU2uNB",
+              "end": 78,
+              "expanded_url": "https://x.com/CR1337/status/2005951306779824569/photo/1",
+              "media_key": "3_2005951159195033600",
+              "start": 55,
+              "url": "https://t.co/pZHdPU2uNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005951306779824569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 460,
+          "impression_count": 212816,
+          "like_count": 3298,
+          "quote_count": 42,
+          "reply_count": 144,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "HSBC blocks its app due to F-Droid-installed Bitwarden https://t.co/pZHdPU2uNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 275,
+          "like_count": 69538,
+          "listed_count": 2,
+          "media_count": 1337,
+          "tweet_count": 12751
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-09T10:23:29.000Z",
+        "description": "🇩🇪 // Crypto Agorist // Privacy & @Monero // Team @Relocatify_Intl // Offshore Banking Service in Cambodia 🇰🇭 // Ambassador @Navio_Official & @Mute_Swap //",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 34,
+                "username": "Monero"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "Relocatify_Intl"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "Navio_Official"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "Mute_Swap"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cr1337.io",
+                "end": 23,
+                "expanded_url": "http://cr1337.io",
+                "start": 0,
+                "url": "https://t.co/Wu6Bzz0fUr"
+              }
+            ]
+          }
+        },
+        "id": "861889353869557762",
+        "location": "Phnom Penh",
+        "name": "CR1337",
+        "pinned_tweet_id": "2002737577980547387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927604303956410368/YORgL01J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48931,
+          "following_count": 781,
+          "like_count": 108247,
+          "listed_count": 791,
+          "media_count": 16742,
+          "tweet_count": 99509
+        },
+        "url": "https://t.co/Wu6Bzz0fUr",
+        "username": "CR1337",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012464957573459968"
+      ],
+      "media_source_tweet_id": [
+        "2012464960136261922"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2012560369584402886",
+    "created_at": "2026-01-17T16:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012560369584402886"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "プラナちゃん",
+          "probability": 0.7434,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "63745619",
+          "start": 3,
+          "username": "fukemachi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QEb3yPchsE",
+          "end": 57,
+          "expanded_url": "https://x.com/fukemachi/status/2012464960136261922/photo/1",
+          "media_key": "3_2012464957573459968",
+          "start": 34,
+          "url": "https://t.co/QEb3yPchsE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012560369584402886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 553
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012464960136261922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fukemachi: 新年明けまして巫女服プラナちゃん⛩️ https://t.co/QEb3yPchsE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2012464957573459968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-22N2cWcAADcBP.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012464957573459968"
+          ],
+          "media_source_tweet_id": [
+            "2012464960136261922"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2012560369584402886",
+        "created_at": "2026-01-17T16:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012560369584402886"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "プラナちゃん",
+              "probability": 0.7434,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "63745619",
+              "start": 3,
+              "username": "fukemachi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QEb3yPchsE",
+              "end": 57,
+              "expanded_url": "https://x.com/fukemachi/status/2012464960136261922/photo/1",
+              "media_key": "3_2012464957573459968",
+              "start": 34,
+              "url": "https://t.co/QEb3yPchsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012560369584402886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 553
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012464960136261922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fukemachi: 新年明けまして巫女服プラナちゃん⛩️ https://t.co/QEb3yPchsE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012464957573459968"
+          ]
+        },
+        "author_id": "63745619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2012464960136261922",
+        "created_at": "2026-01-17T10:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012464960136261922"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "プラナちゃん",
+              "probability": 0.7009,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QEb3yPchsE",
+              "end": 42,
+              "expanded_url": "https://x.com/fukemachi/status/2012464960136261922/photo/1",
+              "media_key": "3_2012464957573459968",
+              "start": 19,
+              "url": "https://t.co/QEb3yPchsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012464960136261922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 361,
+          "impression_count": 35941,
+          "like_count": 3902,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 553
+        },
+        "reply_settings": "everyone",
+        "text": "新年明けまして巫女服プラナちゃん⛩️ https://t.co/QEb3yPchsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 302,
+          "like_count": 80119,
+          "listed_count": 2,
+          "media_count": 1409,
+          "tweet_count": 13643
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-07T15:10:29.000Z",
+        "description": "ブルアカFA描いてます！ ★FANBOX https://t.co/RMLyT5oQXw ★ブルスカ @fukemachi.bsky.social ★DLsite https://t.co/ijqDzgBaU8 お仕事のご相談はDMへお願いします✉️ ※無断転載・無断利用お断り※ ※転載の相談は現状一律でお断りしています※",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "fukemachi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fukemachi.fanbox.cc",
+                "end": 44,
+                "expanded_url": "http://fukemachi.fanbox.cc",
+                "start": 21,
+                "url": "https://t.co/RMLyT5oQXw"
+              },
+              {
+                "display_url": "x.gd/JjK9p",
+                "end": 105,
+                "expanded_url": "https://x.gd/JjK9p",
+                "start": 82,
+                "url": "https://t.co/ijqDzgBaU8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=129822",
+                "start": 0,
+                "url": "https://t.co/lBRxnnXngH"
+              }
+            ]
+          }
+        },
+        "id": "63745619",
+        "name": "ふけまち🎑C107新刊🍈委託中！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932271797246062592/kOjIsVDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76944,
+          "following_count": 891,
+          "like_count": 16176,
+          "listed_count": 527,
+          "media_count": 1408,
+          "tweet_count": 41378
+        },
+        "url": "https://t.co/lBRxnnXngH",
+        "username": "fukemachi",
+        "verified": true
+      }
+    ]
+  }
+}

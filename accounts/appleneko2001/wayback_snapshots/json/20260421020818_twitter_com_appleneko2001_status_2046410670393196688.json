@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046186452263079936",
+        "3_2046186507560701953"
+      ],
+      "media_source_tweet_id": [
+        "2046186589882314837",
+        "2046186589882314837"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053916157",
+          "name": "Pop Team Epic"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1577702132035092480",
+          "name": "Pop Team Epic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1577702132035092480",
+          "name": "Pop Team Epic"
+        }
+      }
+    ],
+    "conversation_id": "2046410670393196688",
+    "created_at": "2026-04-21T02:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T03:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046410670393196688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1561593418425413632",
+          "start": 3,
+          "username": "MeiStingray"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMuj5izqiz",
+          "end": 64,
+          "expanded_url": "https://x.com/MeiStingray/status/2046186589882314837/photo/1",
+          "media_key": "3_2046186452263079936",
+          "start": 41,
+          "url": "https://t.co/ZMuj5izqiz"
+        },
+        {
+          "display_url": "pic.x.com/ZMuj5izqiz",
+          "end": 64,
+          "expanded_url": "https://x.com/MeiStingray/status/2046186589882314837/photo/1",
+          "media_key": "3_2046186507560701953",
+          "start": 41,
+          "url": "https://t.co/ZMuj5izqiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046410670393196688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046186589882314837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeiStingray: 总感觉是概念上的POP TEAM EPIC（。 https://t.co/ZMuj5izqiz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_2046186452263079936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWDvLdbkAA7tN8.jpg",
+        "width": 2184
+      },
+      {
+        "height": 3276,
+        "media_key": "3_2046186507560701953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWDyZdaUAEHCle.jpg",
+        "width": 2184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046186452263079936",
+            "3_2046186507560701953"
+          ],
+          "media_source_tweet_id": [
+            "2046186589882314837",
+            "2046186589882314837"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053916157",
+              "name": "Pop Team Epic"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1577702132035092480",
+              "name": "Pop Team Epic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1577702132035092480",
+              "name": "Pop Team Epic"
+            }
+          }
+        ],
+        "conversation_id": "2046410670393196688",
+        "created_at": "2026-04-21T02:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046410670393196688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1561593418425413632",
+              "start": 3,
+              "username": "MeiStingray"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMuj5izqiz",
+              "end": 64,
+              "expanded_url": "https://x.com/MeiStingray/status/2046186589882314837/photo/1",
+              "media_key": "3_2046186452263079936",
+              "start": 41,
+              "url": "https://t.co/ZMuj5izqiz"
+            },
+            {
+              "display_url": "pic.x.com/ZMuj5izqiz",
+              "end": 64,
+              "expanded_url": "https://x.com/MeiStingray/status/2046186589882314837/photo/1",
+              "media_key": "3_2046186507560701953",
+              "start": 41,
+              "url": "https://t.co/ZMuj5izqiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046410670393196688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046186589882314837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeiStingray: 总感觉是概念上的POP TEAM EPIC（。 https://t.co/ZMuj5izqiz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046186452263079936",
+            "3_2046186507560701953"
+          ]
+        },
+        "author_id": "1561593418425413632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053916157",
+              "name": "Pop Team Epic"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1577702132035092480",
+              "name": "Pop Team Epic"
+            }
+          }
+        ],
+        "conversation_id": "2046186589882314837",
+        "created_at": "2026-04-20T11:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046186589882314837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMuj5izqiz",
+              "end": 47,
+              "expanded_url": "https://x.com/MeiStingray/status/2046186589882314837/photo/1",
+              "media_key": "3_2046186452263079936",
+              "start": 24,
+              "url": "https://t.co/ZMuj5izqiz"
+            },
+            {
+              "display_url": "pic.x.com/ZMuj5izqiz",
+              "end": 47,
+              "expanded_url": "https://x.com/MeiStingray/status/2046186589882314837/photo/1",
+              "media_key": "3_2046186507560701953",
+              "start": 24,
+              "url": "https://t.co/ZMuj5izqiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046186589882314837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3002,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "总感觉是概念上的POP TEAM EPIC（。 https://t.co/ZMuj5izqiz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 356,
+          "like_count": 101988,
+          "listed_count": 3,
+          "media_count": 1610,
+          "tweet_count": 16471
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:57:43.000Z",
+        "description": "♂  / 自我拍摄 / 重加工 / UIUC Alum / 宇宙的第1颗星 ⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kicity.com",
+                "end": 23,
+                "expanded_url": "http://kicity.com",
+                "start": 0,
+                "url": "https://t.co/YnaWc6KAWV"
+              }
+            ]
+          }
+        },
+        "id": "1561593418425413632",
+        "location": "ヨイツ",
+        "name": "青梅定理⭐",
+        "pinned_tweet_id": "1897574302020727075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908429654941487104/HBUqAg_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4183,
+          "following_count": 570,
+          "like_count": 57144,
+          "listed_count": 21,
+          "media_count": 292,
+          "tweet_count": 13382
+        },
+        "url": "https://t.co/YnaWc6KAWV",
+        "username": "MeiStingray",
+        "verified": true
+      }
+    ]
+  }
+}

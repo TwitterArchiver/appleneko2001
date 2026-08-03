@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024014337862762496"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2024014439775936632",
+    "created_at": "2026-02-18T06:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T07:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024014439775936632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OChErskkJ4",
+          "end": 73,
+          "expanded_url": "https://x.com/appleneko2001/status/2024014439775936632/photo/1",
+          "media_key": "3_2024014337862762496",
+          "start": 50,
+          "url": "https://t.co/OChErskkJ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024014439775936632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天在看私信请求时遇到推友的请求了……咱拖的有点久了对不起……咱尽量多看几眼的……\n除了以下这些： https://t.co/OChErskkJ4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024014439775936632].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024014439775936632",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024014439775936632"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "an another message request spams ",
+        "height": 1214,
+        "media_key": "3_2024014337862762496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa-UQybgAAtCD0.jpg",
+        "width": 561
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 327,
+          "like_count": 90612,
+          "listed_count": 2,
+          "media_count": 1494,
+          "tweet_count": 14719
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

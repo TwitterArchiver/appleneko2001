@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012129693013831925",
+    "created_at": "2026-01-16T11:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T12:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012129693013831925"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012129693013831925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像找到為什麼steamvr無法連結頭戴裝置的畫面了 direct display失敗…\n看了一眼日誌輸出的我：\n先把畫面輸出問題解決了再說（\n\nPS：還有IPC問題呢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2012129693013831925",
+        "created_at": "2026-01-16T11:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T12:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012129693013831925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012129693013831925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像找到為什麼steamvr無法連結頭戴裝置的畫面了 direct display失敗…\n看了一眼日誌輸出的我：\n先把畫面輸出問題解決了再說（\n\nPS：還有IPC問題呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 298,
+          "like_count": 79326,
+          "listed_count": 2,
+          "media_count": 1401,
+          "tweet_count": 13544
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

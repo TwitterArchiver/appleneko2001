@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069833174872633344"
+      ],
+      "media_source_tweet_id": [
+        "2069833185022881810"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2069979688777503048",
+    "created_at": "2026-06-25T03:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069979688777503048"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "国旗娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1374028563272265731",
+          "start": 3,
+          "username": "mijukudoctor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYOAhO1c4o",
+          "end": 61,
+          "expanded_url": "https://x.com/mijukudoctor/status/2069833185022881810/photo/1",
+          "media_key": "3_2069833174872633344",
+          "start": 38,
+          "url": "https://t.co/UYOAhO1c4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069979688777503048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 629
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069833185022881810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mijukudoctor: #国旗娘\nGoogleストリートビュー https://t.co/UYOAhO1c4o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2069833174872633344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmGTlyaMAAtjTo.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069833174872633344"
+          ],
+          "media_source_tweet_id": [
+            "2069833185022881810"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2069979688777503048",
+        "created_at": "2026-06-25T03:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069979688777503048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "国旗娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1374028563272265731",
+              "start": 3,
+              "username": "mijukudoctor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYOAhO1c4o",
+              "end": 61,
+              "expanded_url": "https://x.com/mijukudoctor/status/2069833185022881810/photo/1",
+              "media_key": "3_2069833174872633344",
+              "start": 38,
+              "url": "https://t.co/UYOAhO1c4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069979688777503048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 629
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069833185022881810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mijukudoctor: #国旗娘\nGoogleストリートビュー https://t.co/UYOAhO1c4o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069833174872633344"
+          ]
+        },
+        "author_id": "1374028563272265731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2069833185022881810",
+        "created_at": "2026-06-24T17:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069833185022881810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "国旗娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYOAhO1c4o",
+              "end": 43,
+              "expanded_url": "https://x.com/mijukudoctor/status/2069833185022881810/photo/1",
+              "media_key": "3_2069833174872633344",
+              "start": 20,
+              "url": "https://t.co/UYOAhO1c4o"
+            },
+            {
+              "display_url": "x.com/ppfjvdjudk5407…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/ppfjvdjudk54073/status/2063579923328209051",
+              "start": 44,
+              "url": "https://t.co/iNjhN0XXoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069833185022881810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 496,
+          "impression_count": 160682,
+          "like_count": 9632,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 629
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063579923328209051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#国旗娘\nGoogleストリートビュー https://t.co/UYOAhO1c4o https://t.co/iNjhN0XXoc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "pinned_tweet_id": "2069259860060103005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 271,
+          "like_count": 111571,
+          "listed_count": 2,
+          "media_count": 1679,
+          "tweet_count": 17670
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:02:44.000Z",
+        "description": "🍵ごく稀に絵を描く🍵ブロ解ご自由に🍵詳しくはこちらを読んでね→(https://t.co/gWs8fs9syE)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/AyatakaDetail",
+                "end": 55,
+                "expanded_url": "https://lit.link/AyatakaDetail",
+                "start": 32,
+                "url": "https://t.co/gWs8fs9syE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/72726477",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/72726477",
+                "start": 0,
+                "url": "https://t.co/ihIgdD3Buf"
+              }
+            ]
+          }
+        },
+        "id": "1374028563272265731",
+        "name": "あやたか ☺︎🍵",
+        "pinned_tweet_id": "1393586854738284547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943702150720233472/DUu83nuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 397,
+          "like_count": 49314,
+          "listed_count": 10,
+          "media_count": 4104,
+          "tweet_count": 23144
+        },
+        "url": "https://t.co/ihIgdD3Buf",
+        "username": "mijukudoctor",
+        "verified": false
+      }
+    ]
+  }
+}

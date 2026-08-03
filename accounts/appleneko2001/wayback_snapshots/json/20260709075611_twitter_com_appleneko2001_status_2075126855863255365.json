@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2074829680818155555",
+    "created_at": "2026-07-09T07:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075126855863255365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1628734437998608386",
+          "start": 0,
+          "username": "launchpad001"
+        },
+        {
+          "end": 21,
+          "id": "1206800829950259202",
+          "start": 14,
+          "username": "m1ssuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075126855863255365",
+    "in_reply_to_user_id": "1628734437998608386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075005402702565879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@launchpad001 @m1ssuo 难绷…\niOS没活秀了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2074829680818155555",
+        "created_at": "2026-07-09T07:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075126855863255365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628734437998608386",
+              "start": 0,
+              "username": "launchpad001"
+            },
+            {
+              "end": 21,
+              "id": "1206800829950259202",
+              "start": 14,
+              "username": "m1ssuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075126855863255365",
+        "in_reply_to_user_id": "1628734437998608386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075005402702565879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@launchpad001 @m1ssuo 难绷…\niOS没活秀了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628734437998608386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2074829680818155555",
+        "created_at": "2026-07-08T23:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075005402702565879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1206800829950259202",
+              "start": 0,
+              "username": "m1ssuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075005402702565879",
+        "in_reply_to_user_id": "1206800829950259202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074829680818155555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1ssuo 因为现在有一个叫“连接助理”的东西，会同时使用流量和 Wi-Fi（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 286,
+          "like_count": 114959,
+          "listed_count": 2,
+          "media_count": 1708,
+          "tweet_count": 18036
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-23T12:32:12.000Z",
+        "description": "全栈开发者 | BGP Player | she/her | 欢迎互 fo 喵 | @candyrect",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "candyrect"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "launchpadx.top",
+                "end": 23,
+                "expanded_url": "https://launchpadx.top",
+                "start": 0,
+                "url": "https://t.co/HJpn4ZVxIG"
+              }
+            ]
+          }
+        },
+        "id": "1628734437998608386",
+        "location": "Shanghai, China",
+        "name": "启动台LaunchPad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018496241861361664/-l33uApi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 814,
+          "like_count": 5833,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/HJpn4ZVxIG",
+        "username": "launchpad001",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-17T04:58:40.000Z",
+        "description": "Founder of @OwO_Network | Operator of AS-OWONET (AS30700, AS60614, etc.) | #WWDC24 | #BGP | https://t.co/aPrcdNK9vL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 75,
+                "tag": "WWDC24"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "BGP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "OwO_Network"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/missuo",
+                "end": 115,
+                "expanded_url": "http://github.com/missuo",
+                "start": 92,
+                "url": "https://t.co/aPrcdNK9vL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.ee/missuo",
+                "end": 23,
+                "expanded_url": "https://s.ee/missuo",
+                "start": 0,
+                "url": "https://t.co/eSu3UJUgem"
+              }
+            ]
+          }
+        },
+        "id": "1206800829950259202",
+        "location": "Pittsburgh, PA",
+        "name": "Vincent Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11127,
+          "following_count": 1369,
+          "like_count": 13982,
+          "listed_count": 80,
+          "media_count": 1216,
+          "tweet_count": 6861
+        },
+        "url": "https://t.co/eSu3UJUgem",
+        "username": "m1ssuo",
+        "verified": true
+      }
+    ]
+  }
+}

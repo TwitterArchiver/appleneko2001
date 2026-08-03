@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083225590296174593"
+      ],
+      "media_source_tweet_id": [
+        "2083470539331371352"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083622752335135017",
+    "created_at": "2026-08-01T18:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083622752335135017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1473166885516906496",
+          "start": 3,
+          "username": "madaomoshiroi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iHa8bDjZ64",
+          "end": 68,
+          "expanded_url": "https://x.com/madaomoshiroi/status/2083470539331371352/video/1",
+          "media_key": "13_2083225590296174593",
+          "start": 45,
+          "url": "https://t.co/iHa8bDjZ64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083622752335135017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083470539331371352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madaomoshiroi: 関西人が見たら二度見するであろう、たこ焼きの作り方 https://t.co/iHa8bDjZ64"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 122113,
+        "height": 1280,
+        "media_key": "13_2083225590296174593",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083225590296174593/img/B-46A-L60zmN8aHG.jpg",
+        "public_metrics": {
+          "view_count": 318705
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083225590296174593/vid/avc1/320x568/WfpKmCaEF8Nu4_YU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083225590296174593/vid/avc1/480x852/aHVEh3QXcg1QSmGq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083225590296174593/vid/avc1/720x1280/2WnxPbN4PJK5A3nF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083225590296174593/pl/Phsy86BFBUGuIYbS.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083225590296174593"
+          ]
+        },
+        "author_id": "1473166885516906496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083470539331371352",
+        "created_at": "2026-08-01T08:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083470539331371352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHa8bDjZ64",
+              "end": 49,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2083470539331371352/video/1",
+              "media_key": "13_2083225590296174593",
+              "start": 26,
+              "url": "https://t.co/iHa8bDjZ64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083470539331371352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 477579,
+          "like_count": 741,
+          "quote_count": 33,
+          "reply_count": 74,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "関西人が見たら二度見するであろう、たこ焼きの作り方 https://t.co/iHa8bDjZ64"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083225590296174593"
+          ],
+          "media_source_tweet_id": [
+            "2083470539331371352"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083622752335135017",
+        "created_at": "2026-08-01T18:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083622752335135017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1473166885516906496",
+              "start": 3,
+              "username": "madaomoshiroi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHa8bDjZ64",
+              "end": 68,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2083470539331371352/video/1",
+              "media_key": "13_2083225590296174593",
+              "start": 45,
+              "url": "https://t.co/iHa8bDjZ64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083622752335135017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083470539331371352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madaomoshiroi: 関西人が見たら二度見するであろう、たこ焼きの作り方 https://t.co/iHa8bDjZ64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/5CNGBqFNCw"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋夜星吃芒果",
+        "pinned_tweet_id": "2081264628445979049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082828677990191104/YOW-0eqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 290,
+          "like_count": 118091,
+          "listed_count": 3,
+          "media_count": 1772,
+          "tweet_count": 18521
+        },
+        "url": "https://t.co/5CNGBqFNCw",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:42:16.000Z",
+        "description": "まだ面白いものを引用しています。",
+        "id": "1473166885516906496",
+        "location": "採用→👍",
+        "name": "まだ面白い",
+        "pinned_tweet_id": "1821032266757283910",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331831,
+          "following_count": 0,
+          "like_count": 4544,
+          "listed_count": 521,
+          "media_count": 9800,
+          "tweet_count": 9945
+        },
+        "url": "",
+        "username": "madaomoshiroi",
+        "verified": true
+      }
+    ]
+  }
+}

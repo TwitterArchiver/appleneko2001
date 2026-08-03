@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2030484089678270922",
+    "created_at": "2026-03-09T04:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T05:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030868784018596099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2019106349150277633",
+          "start": 0,
+          "username": "Tuzhile"
+        },
+        {
+          "end": 24,
+          "id": "1882563916632666112",
+          "start": 9,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030868784018596099",
+    "in_reply_to_user_id": "2019106349150277633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030638468229992891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tuzhile @hhjnjkoguyunmo 我不理解\n你们有什么恩怨为什么不能好说好商量 非要大烧到咱们身上呀💦\n咱本来心理和精神状态就不是很好 却要用这种方式报复\n到时候真出人命了你们自己该怎么办\n我能理解你们要在互联网上取乐 只是 咱们真的不是你们的目标 我们这些求安宁过日子的也不想跟你们斗争……\n再次抱歉 发生这么多事"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hhjnjkoguyunmo].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hhjnjkoguyunmo",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hhjnjkoguyunmo"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030638460717936641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5G69ZWsAEnfWQ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030638460843991042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5G693aIAIClBf.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030638460705320960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5G69WWMAA0osO.jpg",
+        "width": 945
+      },
+      {
+        "height": 263,
+        "media_key": "3_2030638460713766912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5G69YXEAAgM7m.jpg",
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2030484089678270922",
+        "created_at": "2026-03-09T04:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030868784018596099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2019106349150277633",
+              "start": 0,
+              "username": "Tuzhile"
+            },
+            {
+              "end": 24,
+              "id": "1882563916632666112",
+              "start": 9,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030868784018596099",
+        "in_reply_to_user_id": "2019106349150277633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030638468229992891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tuzhile @hhjnjkoguyunmo 我不理解\n你们有什么恩怨为什么不能好说好商量 非要大烧到咱们身上呀💦\n咱本来心理和精神状态就不是很好 却要用这种方式报复\n到时候真出人命了你们自己该怎么办\n我能理解你们要在互联网上取乐 只是 咱们真的不是你们的目标 我们这些求安宁过日子的也不想跟你们斗争……\n再次抱歉 发生这么多事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030638460717936641",
+            "3_2030638460843991042",
+            "3_2030638460705320960",
+            "3_2030638460713766912"
+          ]
+        },
+        "author_id": "2019106349150277633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030484089678270922",
+        "created_at": "2026-03-08T13:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030638468229992891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 30,
+              "id": "1882563916632666112",
+              "start": 15,
+              "username": "hhjnjkoguyunmo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WjS5Hv0BQc",
+              "end": 71,
+              "expanded_url": "https://x.com/Tuzhile/status/2030638468229992891/photo/1",
+              "media_key": "3_2030638460717936641",
+              "start": 48,
+              "url": "https://t.co/WjS5Hv0BQc"
+            },
+            {
+              "display_url": "pic.x.com/WjS5Hv0BQc",
+              "end": 71,
+              "expanded_url": "https://x.com/Tuzhile/status/2030638468229992891/photo/1",
+              "media_key": "3_2030638460843991042",
+              "start": 48,
+              "url": "https://t.co/WjS5Hv0BQc"
+            },
+            {
+              "display_url": "pic.x.com/WjS5Hv0BQc",
+              "end": 71,
+              "expanded_url": "https://x.com/Tuzhile/status/2030638468229992891/photo/1",
+              "media_key": "3_2030638460705320960",
+              "start": 48,
+              "url": "https://t.co/WjS5Hv0BQc"
+            },
+            {
+              "display_url": "pic.x.com/WjS5Hv0BQc",
+              "end": 71,
+              "expanded_url": "https://x.com/Tuzhile/status/2030638468229992891/photo/1",
+              "media_key": "3_2030638460713766912",
+              "start": 48,
+              "url": "https://t.co/WjS5Hv0BQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030638468229992891",
+        "in_reply_to_user_id": "2019106349150277633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030638270304964937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @hhjnjkoguyunmo 这是我找的各个证据还有虽然比较少 https://t.co/WjS5Hv0BQc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2030675652933021830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 360,
+          "like_count": 98381,
+          "listed_count": 3,
+          "media_count": 1571,
+          "tweet_count": 15909
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T17:51:41.000Z",
+        "description": "第三备用机甲 第1机甲：@zhizhugaisi二机甲：@zhinagoubisi 从今天开始 你是奴仆 我是主人只骂脑残不骂正常人 芝麻人滚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "zhizhugaisi"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "zhinagoubisi"
+              }
+            ]
+          }
+        },
+        "id": "2019106349150277633",
+        "name": "genmpnsl🇺🇸🇮🇱🇫🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029355765362728960/aw31_Jxu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 158,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 737
+        },
+        "username": "Tuzhile",
+        "verified": false
+      }
+    ]
+  }
+}

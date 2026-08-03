@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2061481937185968353",
+    "created_at": "2026-06-01T16:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061481937185968353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1736265610911428608",
+          "start": 3,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061481937185968353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061382937187430830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noname2095_: 微软的服务器真垃圾，我不开VPN时，微软登录不上，因为连接很慢且疑似被GFW干扰，我开VPN之后，微软更登不上了，因为当我把地址设到其他地方后，微软还是一直试图连接中国服务器，然后我的微软商店永远都显示网络未连接，帐号登录也显示出错，最近尤其严…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2061481937185968353",
+        "created_at": "2026-06-01T16:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061481937185968353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1736265610911428608",
+              "start": 3,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061481937185968353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061382937187430830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noname2095_: 微软的服务器真垃圾，我不开VPN时，微软登录不上，因为连接很慢且疑似被GFW干扰，我开VPN之后，微软更登不上了，因为当我把地址设到其他地方后，微软还是一直试图连接中国服务器，然后我的微软商店永远都显示网络未连接，帐号登录也显示出错，最近尤其严…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2061382937187430830",
+        "created_at": "2026-06-01T09:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061382937187430830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061382937187430830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2120,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微软的服务器真垃圾，我不开VPN时，微软登录不上，因为连接很慢且疑似被GFW干扰，我开VPN之后，微软更登不上了，因为当我把地址设到其他地方后，微软还是一直试图连接中国服务器，然后我的微软商店永远都显示网络未连接，帐号登录也显示出错，最近尤其严重，连Minecraft正版账号都无法打开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "真的冷静下来了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "大笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 248,
+          "like_count": 106861,
+          "listed_count": 2,
+          "media_count": 1640,
+          "tweet_count": 17148
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "29元包年千G流量VPN👉🏻：https://t.co/MVeoKpvKXj\n\n🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\n个人账号：https://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=BkiKFzKe",
+                "start": 15,
+                "url": "https://t.co/MVeoKpvKXj"
+              },
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 114,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 91,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 362,
+          "like_count": 4340,
+          "listed_count": 5,
+          "media_count": 308,
+          "tweet_count": 11431
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

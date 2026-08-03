@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2022695929325982201",
+    "created_at": "2026-02-15T12:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T13:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023004444095607056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1159429040878411776",
+          "start": 0,
+          "username": "Vegetable_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023004444095607056",
+    "in_reply_to_user_id": "1159429040878411776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022695929325982201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vegetable_Lee 好诶是Linux（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022695920257896453",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIPOQeakAUX--o.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2022695929325982201",
+        "created_at": "2026-02-15T12:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023004444095607056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1159429040878411776",
+              "start": 0,
+              "username": "Vegetable_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023004444095607056",
+        "in_reply_to_user_id": "1159429040878411776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022695929325982201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vegetable_Lee 好诶是Linux（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022695920257896453"
+          ]
+        },
+        "author_id": "1159429040878411776",
+        "conversation_id": "2022695929325982201",
+        "created_at": "2026-02-14T15:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022695929325982201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c56SIWYQs5",
+              "end": 46,
+              "expanded_url": "https://x.com/Vegetable_Lee/status/2022695929325982201/photo/1",
+              "media_key": "3_2022695920257896453",
+              "start": 23,
+              "url": "https://t.co/c56SIWYQs5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022695929325982201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来上一次推 galgame 已经是一年前了 https://t.co/c56SIWYQs5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 328,
+          "like_count": 89825,
+          "listed_count": 2,
+          "media_count": 1487,
+          "tweet_count": 14622
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-08T11:39:59.000Z",
+        "description": ".",
+        "id": "1159429040878411776",
+        "location": "HangZhou, China",
+        "name": "legends-killer",
+        "pinned_tweet_id": "1819340108317052980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751970383325286400/ncnW-RXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 847,
+          "like_count": 23926,
+          "listed_count": 9,
+          "media_count": 770,
+          "tweet_count": 4697
+        },
+        "username": "Vegetable_Lee",
+        "verified": false
+      }
+    ]
+  }
+}

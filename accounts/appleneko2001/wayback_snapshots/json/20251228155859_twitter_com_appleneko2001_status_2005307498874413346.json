@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005247835210653696"
+      ],
+      "media_source_tweet_id": [
+        "2005247841875394921"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2005307498874413346",
+    "created_at": "2025-12-28T15:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005307498874413346"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "Linus Torvalds",
+          "probability": 0.9722,
+          "start": 29,
+          "type": "Person"
+        },
+        {
+          "end": 75,
+          "normalized_text": "Linux kernel",
+          "probability": 0.8738,
+          "start": 64,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "17484680",
+          "start": 3,
+          "username": "nixcraft"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YxBJmnq5aK",
+          "end": 112,
+          "expanded_url": "https://x.com/nixcraft/status/2005247841875394921/photo/1",
+          "media_key": "3_2005247835210653696",
+          "start": 89,
+          "url": "https://t.co/YxBJmnq5aK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005307498874413346",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005247841875394921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nixcraft: Happy birthday Linus Torvalds, the creator of the Linux kernel and git. 🎂🐧 https://t.co/YxBJmnq5aK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1897,
+        "media_key": "3_2005247835210653696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QSSChaIAA1NV1.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005247835210653696"
+          ],
+          "media_source_tweet_id": [
+            "2005247841875394921"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2005307498874413346",
+        "created_at": "2025-12-28T15:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005307498874413346"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Linus Torvalds",
+              "probability": 0.9722,
+              "start": 29,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Linux kernel",
+              "probability": 0.8738,
+              "start": 64,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "17484680",
+              "start": 3,
+              "username": "nixcraft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxBJmnq5aK",
+              "end": 112,
+              "expanded_url": "https://x.com/nixcraft/status/2005247841875394921/photo/1",
+              "media_key": "3_2005247835210653696",
+              "start": 89,
+              "url": "https://t.co/YxBJmnq5aK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005307498874413346",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005247841875394921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nixcraft: Happy birthday Linus Torvalds, the creator of the Linux kernel and git. 🎂🐧 https://t.co/YxBJmnq5aK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005247835210653696"
+          ]
+        },
+        "author_id": "17484680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2005247841875394921",
+        "created_at": "2025-12-28T12:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005247841875394921"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Linus Torvalds",
+              "probability": 0.9735,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Linux kernel",
+              "probability": 0.9012,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxBJmnq5aK",
+              "end": 98,
+              "expanded_url": "https://x.com/nixcraft/status/2005247841875394921/photo/1",
+              "media_key": "3_2005247835210653696",
+              "start": 75,
+              "url": "https://t.co/YxBJmnq5aK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005247841875394921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 12606,
+          "like_count": 515,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday Linus Torvalds, the creator of the Linux kernel and git. 🎂🐧 https://t.co/YxBJmnq5aK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 272,
+          "like_count": 68187,
+          "listed_count": 2,
+          "media_count": 1324,
+          "tweet_count": 12611
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-19T12:12:37.000Z",
+        "description": "Love Linux/Unix, open source, and programming? Into Sysadmin & DevOps? Follow us! Boost your IT career with daily new tools, apps, and humor ⤵️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyberciti.biz",
+                "end": 23,
+                "expanded_url": "https://www.cyberciti.biz",
+                "start": 0,
+                "url": "https://t.co/n5Tlf9TYiB"
+              }
+            ]
+          }
+        },
+        "id": "17484680",
+        "name": "nixCraft 🐧",
+        "pinned_tweet_id": "1739253408778146081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1209802752819261440/jvir-xNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392617,
+          "following_count": 635,
+          "like_count": 14636,
+          "listed_count": 4334,
+          "media_count": 12371,
+          "tweet_count": 63521
+        },
+        "url": "https://t.co/n5Tlf9TYiB",
+        "username": "nixcraft",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1992442647714353582",
+    "created_at": "2025-11-23T14:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992606705914614172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1077039178599194624",
+          "start": 0,
+          "username": "_daoxuan"
+        },
+        {
+          "end": 19,
+          "id": "248647906",
+          "start": 10,
+          "username": "Jesoooor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992606705914614172",
+    "in_reply_to_user_id": "1077039178599194624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992518869764980776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_daoxuan @Jesoooor 對公司來說是這樣的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_1992518859967102977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bZWKibAAE07qo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1992442647714353582",
+        "created_at": "2025-11-23T14:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992606705914614172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1077039178599194624",
+              "start": 0,
+              "username": "_daoxuan"
+            },
+            {
+              "end": 19,
+              "id": "248647906",
+              "start": 10,
+              "username": "Jesoooor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992606705914614172",
+        "in_reply_to_user_id": "1077039178599194624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992518869764980776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_daoxuan @Jesoooor 對公司來說是這樣的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992518859967102977"
+          ]
+        },
+        "author_id": "1077039178599194624",
+        "conversation_id": "1992442647714353582",
+        "created_at": "2025-11-23T09:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992518869764980776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "248647906",
+              "start": 0,
+              "username": "Jesoooor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cekjudVeuU",
+              "end": 33,
+              "expanded_url": "https://x.com/_daoxuan/status/1992518869764980776/photo/1",
+              "media_key": "3_1992518859967102977",
+              "start": 10,
+              "url": "https://t.co/cekjudVeuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992518869764980776",
+        "in_reply_to_user_id": "248647906",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2914,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992442647714353582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jesoooor https://t.co/cekjudVeuU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 267,
+          "like_count": 65912,
+          "listed_count": 2,
+          "media_count": 1306,
+          "tweet_count": 12363
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-24T03:12:05.000Z",
+        "description": "性别 Ø\n成仁易，成仙难 人道渺渺,仙道茫茫\n六法莲华生悲静，清净不染琉璃身\n寻求者必锲而不舍，寻着必得着，得着必困惑，困惑而后惊悟，惊悟而后统御万物",
+        "id": "1077039178599194624",
+        "name": "HJK",
+        "pinned_tweet_id": "1808772424353394930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1077039471760031746/4GhtK5ZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 2971,
+          "like_count": 3755,
+          "listed_count": 10,
+          "media_count": 768,
+          "tweet_count": 11633
+        },
+        "username": "_daoxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-07T12:49:21.000Z",
+        "description": "写报道，做评测，追偶像，打游戏，总是戴着耳机，收藏模型、唱片和纸星星。早熟过，所以一直没长大。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jesor.me",
+                "end": 23,
+                "expanded_url": "https://jesor.me",
+                "start": 0,
+                "url": "https://t.co/fGkIY8fSl2"
+              }
+            ]
+          }
+        },
+        "id": "248647906",
+        "location": "Mordor",
+        "name": "ᴊᴄ🍉",
+        "pinned_tweet_id": "1211966834947215360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745502845716324352/8yNyDlje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20864,
+          "following_count": 717,
+          "like_count": 13887,
+          "listed_count": 140,
+          "media_count": 3868,
+          "tweet_count": 17757
+        },
+        "url": "https://t.co/fGkIY8fSl2",
+        "username": "Jesoooor",
+        "verified": false
+      }
+    ]
+  }
+}

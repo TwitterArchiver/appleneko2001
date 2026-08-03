@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2055564521167863995",
+    "created_at": "2026-05-16T12:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055632078247800996"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055632078247800996",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055564521167863995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "果然 还是叫着色请求记录器比较好吧 或者 直接就说是DrawOrderStorage"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "the rendering pipeline of my program is improved a bit, now it does storing different state data (it stores uniform data and vertex data start index and the length numbers) when it needed",
+        "height": 883,
+        "media_key": "3_2055564488989089792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbVAwsaIAADMYs.png",
+        "width": 1410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2055564521167863995",
+        "created_at": "2026-05-16T12:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055632078247800996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055632078247800996",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055564521167863995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "果然 还是叫着色请求记录器比较好吧 或者 直接就说是DrawOrderStorage"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055564488989089792"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2055564521167863995",
+        "created_at": "2026-05-16T08:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055564521167863995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tJfrDfcwx",
+              "end": 91,
+              "expanded_url": "https://x.com/appleneko2001/status/2055564521167863995/photo/1",
+              "media_key": "3_2055564488989089792",
+              "start": 68,
+              "url": "https://t.co/9tJfrDfcwx"
+            },
+            {
+              "display_url": "x.com/appleneko2001/…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/appleneko2001/status/2055508075923263779",
+              "start": 92,
+              "url": "https://t.co/svUqXlCJQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055564521167863995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055508075923263779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "排程器好像也没问题了…？\n好像这东西也不应该叫排程器吧…单纯拿来控制什么时候上传uniform data跟追踪顶点数据起点跟结尾用的… https://t.co/9tJfrDfcwx https://t.co/svUqXlCJQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 351,
+          "like_count": 104742,
+          "listed_count": 3,
+          "media_count": 1636,
+          "tweet_count": 16848
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

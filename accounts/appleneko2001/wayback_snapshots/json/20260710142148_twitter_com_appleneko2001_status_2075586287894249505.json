@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2075433346461819291",
+    "created_at": "2026-07-10T14:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075586287894249505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845668678387515392",
+          "start": 0,
+          "username": "dilei114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075586287894249505",
+    "in_reply_to_user_id": "1845668678387515392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075433346461819291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dilei114 RIP…难过…\n为什么…索尼…屠龙者终成恶龙…吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2075425319344066561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1kVPVa0AEP_pF.png",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2075433346461819291",
+        "created_at": "2026-07-10T14:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075586287894249505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845668678387515392",
+              "start": 0,
+              "username": "dilei114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075586287894249505",
+        "in_reply_to_user_id": "1845668678387515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075433346461819291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dilei114 RIP…难过…\n为什么…索尼…屠龙者终成恶龙…吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075425319344066561"
+          ]
+        },
+        "author_id": "1845668678387515392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2075433346461819291",
+        "created_at": "2026-07-10T04:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075433346461819291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1PtdD88Olw",
+              "end": 87,
+              "expanded_url": "https://x.com/dilei114/status/2075433346461819291/photo/1",
+              "media_key": "3_2075425319344066561",
+              "start": 64,
+              "url": "https://t.co/1PtdD88Olw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075433346461819291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1295,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "7月9日，PlayStation官网重要通知页面完成更新，彻底确定2028年起将不再生产任何实体游戏光盘……\n已经结束啦😭😭😭 https://t.co/1PtdD88Olw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 286,
+          "like_count": 115172,
+          "listed_count": 2,
+          "media_count": 1716,
+          "tweet_count": 18074
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:31:27.000Z",
+        "description": "会很友善的对待大家的哟 ✧(≖ ◡ ≖✿)｜偶尔是小男娘 ?丨喜欢cos丨不对线｜无明确意识形态｜拒绝一切极端人｜会尽最大努力避免与任何人发生冲突｜做个萌萌人｜绝对不会主动骂人或人身攻击｜不会因立场不同而屏蔽或辱骂他人｜会屏蔽乱骂人的账号｜可能会出现误屏蔽的情况｜善待每一位能好好说话的推友❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/dilei114",
+                "end": 23,
+                "expanded_url": "https://x.com/dilei114",
+                "start": 0,
+                "url": "https://t.co/9RVm4vTfyq"
+              }
+            ]
+          }
+        },
+        "id": "1845668678387515392",
+        "location": "D.P.R.KOREN",
+        "name": "爆浆地雷😘",
+        "pinned_tweet_id": "2068526850419438001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 667,
+          "like_count": 178197,
+          "listed_count": 4,
+          "media_count": 1075,
+          "tweet_count": 11257
+        },
+        "url": "https://t.co/9RVm4vTfyq",
+        "username": "dilei114",
+        "verified": true
+      }
+    ]
+  }
+}

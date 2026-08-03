@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Pixel",
+          "id": "1045759094756323328",
+          "name": "Google Pixel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1922139052851011917",
+    "created_at": "2025-05-14T14:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T15:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922657254559396096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3018975387",
+          "start": 0,
+          "username": "hanawa_hinata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922657254559396096",
+    "in_reply_to_user_id": "3018975387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922160046592364811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanawa_hinata 準備入手一款Google pixel4 果然還是很喜歡小巧一點的手機"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1922139052851011917",
+        "created_at": "2025-05-14T14:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922657254559396096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3018975387",
+              "start": 0,
+              "username": "hanawa_hinata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922657254559396096",
+        "in_reply_to_user_id": "3018975387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922160046592364811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanawa_hinata 準備入手一款Google pixel4 果然還是很喜歡小巧一點的手機"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3018975387",
+        "conversation_id": "1922139052851011917",
+        "created_at": "2025-05-13T05:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T06:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922160046592364811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922160046592364811",
+        "in_reply_to_user_id": "3018975387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922139052851011917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这什么啊，好丑啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊我要回去啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Pray to Twitter",
+        "name": "鳥頭 aka. DOVE Master 🕊 藍天社群",
+        "pinned_tweet_id": "1922499474988929031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 250,
+          "like_count": 63353,
+          "listed_count": 2,
+          "media_count": 1276,
+          "tweet_count": 12006
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-04T23:58:21.000Z",
+        "description": "心弦之音，余韵寥寥。The founder of @nebula_soft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "nebula_soft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanawahinata.me",
+                "end": 23,
+                "expanded_url": "https://hanawahinata.me",
+                "start": 0,
+                "url": "https://t.co/x0x17r11on"
+              }
+            ]
+          }
+        },
+        "id": "3018975387",
+        "location": "Shandong,China",
+        "name": "日向花和 Hanawa Hinata",
+        "pinned_tweet_id": "1704030566189040009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898942309435338752/mp6dq0rV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13016,
+          "following_count": 1889,
+          "like_count": 124156,
+          "listed_count": 47,
+          "media_count": 6655,
+          "tweet_count": 41985
+        },
+        "url": "https://t.co/x0x17r11on",
+        "username": "hanawa_hinata",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009381172669825026"
+      ],
+      "media_source_tweet_id": [
+        "2009381174612001011"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2009962934815068495",
+    "created_at": "2026-01-10T12:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T13:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009962934815068495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1500989083706920963",
+          "start": 3,
+          "username": "AnaliseDeCalvos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TC5TtfOaeB",
+          "end": 44,
+          "expanded_url": "https://x.com/AnaliseDeCalvos/status/2009381174612001011/photo/1",
+          "media_key": "3_2009381172669825026",
+          "start": 21,
+          "url": "https://t.co/TC5TtfOaeB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009962934815068495",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8614
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009381174612001011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnaliseDeCalvos: https://t.co/TC5TtfOaeB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2009381172669825026",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-LBh8dXwAIaCdf.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009381172669825026"
+          ],
+          "media_source_tweet_id": [
+            "2009381174612001011"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2009962934815068495",
+        "created_at": "2026-01-10T12:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009962934815068495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1500989083706920963",
+              "start": 3,
+              "username": "AnaliseDeCalvos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TC5TtfOaeB",
+              "end": 44,
+              "expanded_url": "https://x.com/AnaliseDeCalvos/status/2009381174612001011/photo/1",
+              "media_key": "3_2009381172669825026",
+              "start": 21,
+              "url": "https://t.co/TC5TtfOaeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009962934815068495",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8614
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009381174612001011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnaliseDeCalvos: https://t.co/TC5TtfOaeB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009381172669825026"
+          ]
+        },
+        "author_id": "1500989083706920963",
+        "conversation_id": "2009381174612001011",
+        "created_at": "2026-01-08T21:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T22:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009381174612001011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TC5TtfOaeB",
+              "end": 23,
+              "expanded_url": "https://x.com/AnaliseDeCalvos/status/2009381174612001011/photo/1",
+              "media_key": "3_2009381172669825026",
+              "start": 0,
+              "url": "https://t.co/TC5TtfOaeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009381174612001011",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2186,
+          "impression_count": 928587,
+          "like_count": 126246,
+          "quote_count": 94,
+          "reply_count": 53,
+          "retweet_count": 8614
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TC5TtfOaeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 281,
+          "like_count": 73555,
+          "listed_count": 2,
+          "media_count": 1368,
+          "tweet_count": 13039
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T00:17:52.000Z",
+        "description": "👨🏻‍🦲 Após a calvície, o que me restou foram os memes",
+        "id": "1500989083706920963",
+        "location": "Estados Calvos Unidos",
+        "name": "Calvo 😔",
+        "pinned_tweet_id": "1521159205666889728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958585970216824832/pJMsfdWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81918,
+          "following_count": 504,
+          "like_count": 4417,
+          "listed_count": 34,
+          "media_count": 3696,
+          "tweet_count": 4980
+        },
+        "username": "AnaliseDeCalvos",
+        "verified": true
+      }
+    ]
+  }
+}

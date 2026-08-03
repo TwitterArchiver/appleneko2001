@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011591869948420096"
+      ],
+      "media_source_tweet_id": [
+        "2011592781647790578"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2011840055149498773",
+    "created_at": "2026-01-15T16:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T17:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011840055149498773"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 31,
+          "tag": "AlternateTimelineMicrosoft"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1133719814",
+          "start": 3,
+          "username": "NekoMichiUBC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hjm8w65UGt",
+          "end": 82,
+          "expanded_url": "https://x.com/NekoMichiUBC/status/2011592781647790578/photo/1",
+          "media_key": "3_2011591869948420096",
+          "start": 59,
+          "url": "https://t.co/Hjm8w65UGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011840055149498773",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 261
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011592781647790578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NekoMichiUBC: Bonus image.\n#AlternateTimelineMicrosoft https://t.co/Hjm8w65UGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "A mockup of a Windows/CopilotOS installation screen with a message that reads \"Support for Windows 11 has ended. In order to protect you from external threats, we have encrypted your PC's hard drive. In order to regain access to your files, you must update to the latest version of CopilotOS. Failure to do so will result in permanent deletion.\" Below the text is a countdown timer.",
+        "height": 1080,
+        "media_key": "3_2011591869948420096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-qcJdlW4AA26ae.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011591869948420096"
+          ],
+          "media_source_tweet_id": [
+            "2011592781647790578"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2011840055149498773",
+        "created_at": "2026-01-15T16:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T17:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011840055149498773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 31,
+              "tag": "AlternateTimelineMicrosoft"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1133719814",
+              "start": 3,
+              "username": "NekoMichiUBC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hjm8w65UGt",
+              "end": 82,
+              "expanded_url": "https://x.com/NekoMichiUBC/status/2011592781647790578/photo/1",
+              "media_key": "3_2011591869948420096",
+              "start": 59,
+              "url": "https://t.co/Hjm8w65UGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011840055149498773",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011592781647790578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NekoMichiUBC: Bonus image.\n#AlternateTimelineMicrosoft https://t.co/Hjm8w65UGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011591869948420096"
+          ]
+        },
+        "author_id": "1133719814",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2011592781647790578",
+        "created_at": "2026-01-15T00:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T01:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011592781647790578"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 13,
+              "tag": "AlternateTimelineMicrosoft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hjm8w65UGt",
+              "end": 64,
+              "expanded_url": "https://x.com/NekoMichiUBC/status/2011592781647790578/photo/1",
+              "media_key": "3_2011591869948420096",
+              "start": 41,
+              "url": "https://t.co/Hjm8w65UGt"
+            },
+            {
+              "display_url": "x.com/NekoMichiUBC/s…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/NekoMichiUBC/status/2011541696002342992",
+              "start": 65,
+              "url": "https://t.co/kymSPxS0Xo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011592781647790578",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 121578,
+          "like_count": 3804,
+          "quote_count": 16,
+          "reply_count": 36,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011541696002342992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Bonus image.\n#AlternateTimelineMicrosoft https://t.co/Hjm8w65UGt https://t.co/kymSPxS0Xo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 294,
+          "like_count": 78618,
+          "listed_count": 2,
+          "media_count": 1394,
+          "tweet_count": 13450
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-30T10:55:43.000Z",
+        "description": "Interdimensional time traveller, showing the world cursed tech products from alternate timelines.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/nekomichi",
+                "end": 23,
+                "expanded_url": "http://youtube.com/nekomichi",
+                "start": 0,
+                "url": "https://t.co/CJPo6uzHId"
+              }
+            ]
+          }
+        },
+        "id": "1133719814",
+        "location": "Dynamic Island",
+        "name": "Michi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576662704500129793/hgF4VbIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4389,
+          "following_count": 433,
+          "like_count": 25925,
+          "listed_count": 20,
+          "media_count": 805,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/CJPo6uzHId",
+        "username": "NekoMichiUBC",
+        "verified": false
+      }
+    ]
+  }
+}

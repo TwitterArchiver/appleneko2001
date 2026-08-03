@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2027527376910119084",
+    "created_at": "2026-02-28T05:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T06:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027621325247033453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739457281794674688",
+          "start": 0,
+          "username": "ZheSuo73324"
+        },
+        {
+          "end": 25,
+          "id": "1929416262989557760",
+          "start": 13,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027621325247033453",
+    "in_reply_to_user_id": "1739457281794674688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027578390400930277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZheSuo73324 @maoxian1527 炒热度的不良人士"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2027527376910119084",
+        "created_at": "2026-02-28T05:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027621325247033453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739457281794674688",
+              "start": 0,
+              "username": "ZheSuo73324"
+            },
+            {
+              "end": 25,
+              "id": "1929416262989557760",
+              "start": 13,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027621325247033453",
+        "in_reply_to_user_id": "1739457281794674688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027578390400930277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZheSuo73324 @maoxian1527 炒热度的不良人士"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739457281794674688",
+        "conversation_id": "2027527376910119084",
+        "created_at": "2026-02-28T02:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027578390400930277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027578390400930277",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027527376910119084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 这人干啥坏事了，这么多人骂她？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 338,
+          "like_count": 93469,
+          "listed_count": 3,
+          "media_count": 1522,
+          "tweet_count": 15208
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T01:25:21.000Z",
+        "description": "专喷各种傻逼，看心情营业。",
+        "id": "1739457281794674688",
+        "name": "红袖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898173728837844993/faTzuy1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 25,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "username": "ZheSuo73324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍｜并不可爱小宅女（猫娘…？｜碎碎念ing… | 顺女｜简体｜ 脾气不好 极讨厌私信 | 看成分互fo｜负能｜ @mao_xian1527 ｜含🍥友跨顺女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "mao_xian1527"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華民國🇹🇼",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2026838426809729196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021082119691534336/-FUI5SF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 262,
+          "like_count": 2748,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1930774999515730298",
+    "created_at": "2025-06-05T23:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T00:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930774999515730298"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "telegram",
+          "probability": 0.7605,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 72,
+          "normalized_text": "discord",
+          "probability": 0.9408,
+          "start": 66,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/vxunderground/…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/vxunderground/status/1930454199717740563",
+          "start": 118,
+          "url": "https://t.co/TsckEBHwKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930774999515730298",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930454199717740563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I'm just stopped using telegram for chatting u know\nBetter go use discord or self hosting if you give me some options https://t.co/TsckEBHwKt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 527,
+        "media_key": "3_1930454152745787392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspZ0u2XIAAi9f6.jpg",
+        "width": 527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1930774999515730298",
+        "created_at": "2025-06-05T23:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T00:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930774999515730298"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "telegram",
+              "probability": 0.7605,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "discord",
+              "probability": 0.9408,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/vxunderground/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/vxunderground/status/1930454199717740563",
+              "start": 118,
+              "url": "https://t.co/TsckEBHwKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930774999515730298",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930454199717740563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'm just stopped using telegram for chatting u know\nBetter go use discord or self hosting if you give me some options https://t.co/TsckEBHwKt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930454152745787392"
+          ]
+        },
+        "author_id": "1158139840866791424",
+        "conversation_id": "1930454199717740563",
+        "created_at": "2025-06-05T02:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930454199717740563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689053928",
+              "start": 5,
+              "username": "telegram"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbFPbD5yUT",
+              "end": 204,
+              "expanded_url": "https://x.com/vxunderground/status/1930454199717740563/photo/1",
+              "media_key": "3_1930454152745787392",
+              "start": 181,
+              "url": "https://t.co/SbFPbD5yUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930454199717740563",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 42841,
+          "like_count": 1738,
+          "quote_count": 5,
+          "reply_count": 81,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "Dear @telegram \n\nYou've randomly banned my channel of over 55,000 subscribers. I have no idea why. We have never violated any of your rules. Please give me my channel back.\n\nThanks https://t.co/SbFPbD5yUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 257,
+          "like_count": 64458,
+          "listed_count": 2,
+          "media_count": 1289,
+          "tweet_count": 12165
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-04T22:17:10.000Z",
+        "description": "The largest collection of malware source code, samples, and papers on the internet.\n\nPassword: infected",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vx-underground.org",
+                "end": 23,
+                "expanded_url": "https://vx-underground.org",
+                "start": 0,
+                "url": "https://t.co/Yn4orDEAhs"
+              }
+            ]
+          }
+        },
+        "id": "1158139840866791424",
+        "location": "International",
+        "name": "vx-underground",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903282052297891840/sMABW3W-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355116,
+          "following_count": 250,
+          "like_count": 11307,
+          "listed_count": 2204,
+          "media_count": 5378,
+          "tweet_count": 16142
+        },
+        "url": "https://t.co/Yn4orDEAhs",
+        "username": "vxunderground",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2015317456441725191",
+    "created_at": "2026-01-25T08:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T09:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015334192591090104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632336255823519744",
+          "start": 0,
+          "username": "y2Kstar___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015334192591090104",
+    "in_reply_to_user_id": "1632336255823519744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015333807889752264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y2Kstar___ 另類的說明了有人用臉書能被簡單開盒……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2015317456441725191",
+        "created_at": "2026-01-25T08:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015334192591090104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632336255823519744",
+              "start": 0,
+              "username": "y2Kstar___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015334192591090104",
+        "in_reply_to_user_id": "1632336255823519744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015333807889752264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2Kstar___ 另類的說明了有人用臉書能被簡單開盒……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632336255823519744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2015317456441725191",
+        "created_at": "2026-01-25T07:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015333807889752264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015333807889752264",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好，我直说，不绕。\n我不会编造具体数值，所以我现在给你的，是从你这个包里“确实存在、可被直接提取的数据本身（原始数据项）”，而不是分类。\n\n这是你这个 Facebook 数据包里真实包含的数据清单（逐项）：\n\n⸻\n\n📌 你的 Facebook 数据（真实数据项清单）\n\n一、账号层数据\n•Facebook 账号唯一数字 ID\n•账号创建日期\n•Accounts Center 关联状态\n•历史密码变更时间记录\n•账号安全设置状态\n•账号权限授权记录\n•通知接收方式设置\n•系统预测语言列表\n\n⸻\n\n二、设备与登录数据\n•设备名称（手机/浏览器标识）\n•设备类型（iOS / Android / Web）\n•设备系统版本\n•最近使用时间\n•是否被标记为可信设备\n•使用频率记录\n\n⸻\n\n三、联系方式数据\n•你填写的邮箱地址\n•你填写的手机号\n•上传过的通讯录联系人数量\n•通讯录上传时间段\n•是否启用通讯录同步\n\n⸻\n\n四、行为记录（逐条）\n•每一次点赞（时间戳）\n•每一次评论（时间戳 + 内容）\n•每一次发帖（时间戳 + 内容）\n•每一次表情反应\n•每一次关注/取消关注\n•每一次页面互动\n\n👉 这些都是“可精确到秒”的时间线数据\n\n⸻\n\n五、广告与商业数据（平台画像核心）\n•你互动过的广告主名称\n•广告主行业分类\n•广告兴趣标签列表\n•广告偏好设置\n•广告来源类型（站内/站外行为）\n\n⸻\n\n六、社交关系数据\n•当前好友列表\n•已删除好友列表\n•关注对象\n•被屏蔽对象\n•被限制对象\n\n⸻\n\n七、内容与媒体\n•你上传的所有照片\n•你上传的所有视频\n•你发布的文本内容\n•被标记的内容\n•内容上传时间\n\n⸻\n\n八、通知与触达方式\n•邮件通知记录\n•推送通知设置\n•系统通知偏好\n•互动触达历史\n\n⸻\n\n九、系统推断数据（你间接拥有）\n•兴趣标签（用于广告）\n•活跃度评分\n•行为预测标签\n•关系强度推断\n•商业价值推断\n\n⸻\n\n十、日志与系统记录\n•设置修改日志\n•权限变更日志\n•安全相关事件记录\n•账号状态变化记录\n\n⸻\n\n⚠️ 重要一句话（很关键）\n\n你这个包里包含的不是“摘要”，而是可以被还原为完整个人行为时间线的原始材料。\n它在法律、取证、隐私、画像分析层面都是有效原始证据级数据。\n\n⸻\n\n如果你下一步想要的是（我可以直接做，不需要你操作）：\n•把所有真实值提取出来（不分类、不解释，只列数据）\n•生成一份完整可读时间线\n•只提取某一天/某段时间\n•或只要广告画像原始值\n\n你直接告诉我一句：\n👉「提取全部真实数据」 / 「只要时间线」 / 「只要广告」\n\n我按你说的继续，不废话。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015333206552100982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 好，我直说，不绕。\n我不会编造具体数值，所以我现在给你的，是从你这个包里“确实存在、可被直接提取的数据本身（原始数据项）”，而不是分类。\n\n这是你这个 Facebook 数据包里真实包含的数据清单（逐项）：\n\n⸻\n\n📌 你的 Facebook 数据（真实数据项清单）\n\n一、账号层数据\n•Facebook 账号唯一数字 ID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 320,
+          "like_count": 84233,
+          "listed_count": 2,
+          "media_count": 1440,
+          "tweet_count": 14046
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "",
+        "id": "1632336255823519744",
+        "name": "y2Kstar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014682593703428099/1Un_6WQR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 424,
+          "like_count": 1254,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1021
+        },
+        "username": "y2Kstar___",
+        "verified": true
+      }
+    ]
+  }
+}

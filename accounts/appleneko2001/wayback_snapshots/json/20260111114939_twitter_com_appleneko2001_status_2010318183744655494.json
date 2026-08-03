@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2010122477704511837",
+    "created_at": "2026-01-11T11:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T12:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010318183744655494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2673647047",
+          "start": 0,
+          "username": "dv_inner"
+        },
+        {
+          "end": 18,
+          "id": "945973020585332736",
+          "start": 10,
+          "username": "_lonedd"
+        },
+        {
+          "end": 25,
+          "id": "16206284",
+          "start": 19,
+          "username": "rekdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010318183744655494",
+    "in_reply_to_user_id": "2673647047",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010317767548014876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dv_inner @_lonedd @rekdt How to usb pass through"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2010122477704511837",
+        "created_at": "2026-01-11T11:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010318183744655494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2673647047",
+              "start": 0,
+              "username": "dv_inner"
+            },
+            {
+              "end": 18,
+              "id": "945973020585332736",
+              "start": 10,
+              "username": "_lonedd"
+            },
+            {
+              "end": 25,
+              "id": "16206284",
+              "start": 19,
+              "username": "rekdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010318183744655494",
+        "in_reply_to_user_id": "2673647047",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010317767548014876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dv_inner @_lonedd @rekdt How to usb pass through"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2673647047",
+        "conversation_id": "2010122477704511837",
+        "created_at": "2026-01-11T11:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010317767548014876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "945973020585332736",
+              "start": 0,
+              "username": "_lonedd"
+            },
+            {
+              "end": 15,
+              "id": "16206284",
+              "start": 9,
+              "username": "rekdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010317767548014876",
+        "in_reply_to_user_id": "945973020585332736",
+        "lang": "sv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010301307027066930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_lonedd @rekdt GPU  passthrough"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 282,
+          "like_count": 74364,
+          "listed_count": 2,
+          "media_count": 1372,
+          "tweet_count": 13091
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-23T12:11:10.000Z",
+        "description": "💀",
+        "id": "2673647047",
+        "name": "Intertwine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492290952777846786/M5i9wx0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 152,
+          "like_count": 49046,
+          "listed_count": 9,
+          "media_count": 28,
+          "tweet_count": 6650
+        },
+        "username": "dv_inner",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-27T11:01:58.000Z",
+        "description": "Only Truth exists on it's own.",
+        "id": "945973020585332736",
+        "location": "Dunyā",
+        "name": "Sabr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833960571026161664/f-GTpgOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 904,
+          "like_count": 22463,
+          "listed_count": 13,
+          "media_count": 146,
+          "tweet_count": 1294
+        },
+        "username": "_lonedd",
+        "verified": true
+      },
+      {
+        "created_at": "2008-09-09T17:47:20.000Z",
+        "description": "// malware de(v)generate\n// sr cybersec leader, megacorp usa\n// ex big tech, else\n// misery @despairware\n// take  sincerely at your own risk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "despairware"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/rekdt",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/rekdt",
+                "start": 0,
+                "url": "https://t.co/gvWOrsYWKt"
+              }
+            ]
+          }
+        },
+        "id": "16206284",
+        "name": "rekdt",
+        "pinned_tweet_id": "1995565932631167165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994892171506577408/FfY9iMSu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12988,
+          "following_count": 789,
+          "like_count": 41781,
+          "listed_count": 62,
+          "media_count": 4268,
+          "tweet_count": 20036
+        },
+        "url": "https://t.co/gvWOrsYWKt",
+        "username": "rekdt",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2063268713609216123",
+    "created_at": "2026-06-07T09:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063557207942447494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        },
+        {
+          "end": 20,
+          "id": "1868701291830206464",
+          "start": 10,
+          "username": "A_Asystem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063557207942447494",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063280686619148759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy @A_Asystem 要是去青岛看的话可能会好点…？\n这个主治医生也确实是不知道怎么对待患者隐私…唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2063268713609216123",
+        "created_at": "2026-06-07T09:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063557207942447494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            },
+            {
+              "end": 20,
+              "id": "1868701291830206464",
+              "start": 10,
+              "username": "A_Asystem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063557207942447494",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063280686619148759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy @A_Asystem 要是去青岛看的话可能会好点…？\n这个主治医生也确实是不知道怎么对待患者隐私…唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2063268713609216123",
+        "created_at": "2026-06-06T15:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063280686619148759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868701291830206464",
+              "start": 0,
+              "username": "A_Asystem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063280686619148759",
+        "in_reply_to_user_id": "1868701291830206464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063268713609216123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_Asystem 感觉千万不要写0d相关的事。。我就是和主治医生说了被多关了一个月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 252,
+          "like_count": 107546,
+          "listed_count": 2,
+          "media_count": 1649,
+          "tweet_count": 17280
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 302,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054557711656964530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 587,
+          "like_count": 11017,
+          "listed_count": 7,
+          "media_count": 124,
+          "tweet_count": 6250
+        },
+        "username": "A_Asystem",
+        "verified": false
+      }
+    ]
+  }
+}

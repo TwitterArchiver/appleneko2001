@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1976007070219633115",
+    "created_at": "2025-10-10T10:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T11:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976589526156943388"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "twitter",
+          "probability": 0.9654,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1201430557915303936",
+          "start": 0,
+          "username": "__theSeyram"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976589526156943388",
+    "in_reply_to_user_id": "1201430557915303936",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976007070219633115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__theSeyram Maybe keep twitter (x) only? 🙃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 377,
+        "media_key": "3_1976007064406081536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wv9KuWQAA2sQU.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1976007070219633115",
+        "created_at": "2025-10-10T10:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976589526156943388"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "twitter",
+              "probability": 0.9654,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1201430557915303936",
+              "start": 0,
+              "username": "__theSeyram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976589526156943388",
+        "in_reply_to_user_id": "1201430557915303936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976007070219633115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__theSeyram Maybe keep twitter (x) only? 🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976007064406081536"
+          ]
+        },
+        "author_id": "1201430557915303936",
+        "conversation_id": "1976007070219633115",
+        "created_at": "2025-10-08T19:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976007070219633115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7vR4M1nmc",
+              "end": 57,
+              "expanded_url": "https://x.com/__theSeyram/status/1976007070219633115/photo/1",
+              "media_key": "3_1976007064406081536",
+              "start": 34,
+              "url": "https://t.co/k7vR4M1nmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976007070219633115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1222,
+          "impression_count": 4089022,
+          "like_count": 33093,
+          "quote_count": 8561,
+          "reply_count": 13935,
+          "retweet_count": 2169
+        },
+        "reply_settings": "everyone",
+        "text": "You must delete 1 app, which one? https://t.co/k7vR4M1nmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 258,
+          "like_count": 65523,
+          "listed_count": 2,
+          "media_count": 1301,
+          "tweet_count": 12312
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-02T09:19:25.000Z",
+        "description": "Photographer | Director | Travel Content Creator | @fcbarcelona ❤️💙. 📩: theseyram1@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "fcbarcelona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/I67_7xLYkT0",
+                "end": 23,
+                "expanded_url": "https://youtu.be/I67_7xLYkT0",
+                "start": 0,
+                "url": "https://t.co/OTJHPSBCiF"
+              }
+            ]
+          }
+        },
+        "id": "1201430557915303936",
+        "location": "Exploring the World",
+        "name": "Seyram",
+        "pinned_tweet_id": "1729576777251463667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667230781243006996/tWe9hter_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147885,
+          "following_count": 4177,
+          "like_count": 69917,
+          "listed_count": 113,
+          "media_count": 1870,
+          "tweet_count": 202830
+        },
+        "url": "https://t.co/OTJHPSBCiF",
+        "username": "__theSeyram",
+        "verified": true
+      }
+    ]
+  }
+}

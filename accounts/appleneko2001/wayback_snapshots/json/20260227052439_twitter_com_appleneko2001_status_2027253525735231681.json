@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027220336841048064"
+      ],
+      "media_source_tweet_id": [
+        "2027220637337763994"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2027253525735231681",
+    "created_at": "2026-02-27T05:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027253525735231681"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Bae-chan",
+          "probability": 0.646,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 95,
+          "normalized_text": "BaelzBrush",
+          "probability": 0.6913,
+          "start": 86,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 85,
+          "tag": "BaelzBrush"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "384987157",
+          "start": 3,
+          "username": "kutataSR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AU8IhXYgku",
+          "end": 120,
+          "expanded_url": "https://x.com/kutataSR/status/2027220637337763994/photo/1",
+          "media_key": "3_2027220336841048064",
+          "start": 97,
+          "url": "https://t.co/AU8IhXYgku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027253525735231681",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027220637337763994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kutataSR: I took part in Bae-chan’s birthday illustration!\nHappy Birthday! 🥳🥳🎉🎉💕\n#BaelzBrush https://t.co/AU8IhXYgku"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_2027220336841048064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIiJ9rbwAAV7zb.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027220336841048064"
+          ],
+          "media_source_tweet_id": [
+            "2027220637337763994"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2027253525735231681",
+        "created_at": "2026-02-27T05:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027253525735231681"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Bae-chan",
+              "probability": 0.646,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "BaelzBrush",
+              "probability": 0.6913,
+              "start": 86,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 85,
+              "tag": "BaelzBrush"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "384987157",
+              "start": 3,
+              "username": "kutataSR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AU8IhXYgku",
+              "end": 120,
+              "expanded_url": "https://x.com/kutataSR/status/2027220637337763994/photo/1",
+              "media_key": "3_2027220336841048064",
+              "start": 97,
+              "url": "https://t.co/AU8IhXYgku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027253525735231681",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027220637337763994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kutataSR: I took part in Bae-chan’s birthday illustration!\nHappy Birthday! 🥳🥳🎉🎉💕\n#BaelzBrush https://t.co/AU8IhXYgku"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027220336841048064"
+          ]
+        },
+        "author_id": "384987157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2027220637337763994",
+        "created_at": "2026-02-27T03:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027220637337763994"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Bae-chan",
+              "probability": 0.4713,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 81,
+              "normalized_text": "BaelzBrush",
+              "probability": 0.632,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 71,
+              "tag": "BaelzBrush"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AU8IhXYgku",
+              "end": 106,
+              "expanded_url": "https://x.com/kutataSR/status/2027220637337763994/photo/1",
+              "media_key": "3_2027220336841048064",
+              "start": 83,
+              "url": "https://t.co/AU8IhXYgku"
+            },
+            {
+              "display_url": "x.com/yayoiken1324/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/yayoiken1324/status/2027195331306500236",
+              "start": 107,
+              "url": "https://t.co/OrZFnXMn4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027220637337763994",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 11589,
+          "like_count": 1017,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027195331306500236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I took part in Bae-chan’s birthday illustration!\nHappy Birthday! 🥳🥳🎉🎉💕\n#BaelzBrush https://t.co/AU8IhXYgku https://t.co/OrZFnXMn4u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 337,
+          "like_count": 93047,
+          "listed_count": 3,
+          "media_count": 1516,
+          "tweet_count": 15127
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-04T17:36:47.000Z",
+        "description": "●Illustrator\n●サークル：WATA★PUNCH\n●Contact : kutata0415@naver.com",
+        "id": "384987157",
+        "name": "Kutata",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804356719130349570/mBB_30Ga_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36438,
+          "following_count": 412,
+          "like_count": 3038,
+          "listed_count": 300,
+          "media_count": 439,
+          "tweet_count": 1696
+        },
+        "username": "kutataSR",
+        "verified": false
+      }
+    ]
+  }
+}

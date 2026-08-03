@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357430100367605760",
+          "name": "UX design"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1935762701243793594",
+    "created_at": "2025-06-21T00:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T01:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936226935560192057"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 81,
+          "normalized_text": "UX",
+          "probability": 0.5656,
+          "start": 80,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1539782277495930880",
+          "start": 0,
+          "username": "fortex451"
+        },
+        {
+          "end": 20,
+          "id": "1807064118366490624",
+          "start": 11,
+          "username": "SLKVinyl"
+        },
+        {
+          "end": 31,
+          "id": "361359918",
+          "start": 21,
+          "username": "theonecid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936226935560192057",
+    "in_reply_to_user_id": "1539782277495930880",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936131902047441278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fortex451 @SLKVinyl @theonecid Lmaooo I got that point ☠️ awwww UI but without UX combined"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357430100367605760",
+              "name": "UX design"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1935762701243793594",
+        "created_at": "2025-06-21T00:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936226935560192057"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "UX",
+              "probability": 0.5656,
+              "start": 80,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1539782277495930880",
+              "start": 0,
+              "username": "fortex451"
+            },
+            {
+              "end": 20,
+              "id": "1807064118366490624",
+              "start": 11,
+              "username": "SLKVinyl"
+            },
+            {
+              "end": 31,
+              "id": "361359918",
+              "start": 21,
+              "username": "theonecid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936226935560192057",
+        "in_reply_to_user_id": "1539782277495930880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936131902047441278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fortex451 @SLKVinyl @theonecid Lmaooo I got that point ☠️ awwww UI but without UX combined"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539782277495930880",
+        "conversation_id": "1935762701243793594",
+        "created_at": "2025-06-20T18:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T19:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936131902047441278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807064118366490624",
+              "start": 0,
+              "username": "SLKVinyl"
+            },
+            {
+              "end": 20,
+              "id": "361359918",
+              "start": 10,
+              "username": "theonecid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936131902047441278",
+        "in_reply_to_user_id": "1807064118366490624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935771929996411158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLKVinyl @theonecid Its called one UI for a reason"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 259,
+          "like_count": 65116,
+          "listed_count": 2,
+          "media_count": 1294,
+          "tweet_count": 12276
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T01:28:30.000Z",
+        "description": "I like tech. (main: s23)",
+        "id": "1539782277495930880",
+        "name": "note10litehype📱‼️",
+        "pinned_tweet_id": "1917697209300083089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747744712188952576/W0NcxBQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 54,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 2191
+        },
+        "username": "fortex451",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:50:49.000Z",
+        "description": "photographer + concept creator/designer 🔰+ digital artist 🔰+ random thingss | I argue about tech and post concepts as a side lmao",
+        "id": "1807064118366490624",
+        "location": "Lumon",
+        "name": "SLK15",
+        "pinned_tweet_id": "1930878860394139733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874851443267739648/yOHkuEyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 304,
+          "like_count": 13809,
+          "listed_count": 2,
+          "media_count": 1138,
+          "tweet_count": 6401
+        },
+        "username": "SLKVinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-24T17:28:51.000Z",
+        "description": "One UI exclusives ✘ App updates ✘ New features ✘ Hot takes 😈",
+        "id": "361359918",
+        "name": "CID",
+        "pinned_tweet_id": "1927710590274834612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598432218136846351/rBOR4cQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27110,
+          "following_count": 992,
+          "like_count": 20377,
+          "listed_count": 155,
+          "media_count": 7042,
+          "tweet_count": 59860
+        },
+        "username": "theonecid",
+        "verified": true
+      }
+    ]
+  }
+}

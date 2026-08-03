@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007160317097439232"
+      ],
+      "media_source_tweet_id": [
+        "2007206516471017875"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007695487106003192",
+    "created_at": "2026-01-04T06:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T07:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007695487106003192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957682612790845440",
+          "start": 3,
+          "username": "Newaysisi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hPzWiBKo6G",
+          "end": 63,
+          "expanded_url": "https://x.com/Newaysisi/status/2007206516471017875/video/1",
+          "media_key": "13_2007160317097439232",
+          "start": 40,
+          "url": "https://t.co/hPzWiBKo6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007695487106003192",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4518
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007206516471017875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Newaysisi: this is very interesting https://t.co/hPzWiBKo6G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24774,
+        "height": 1024,
+        "media_key": "13_2007160317097439232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007160317097439232/img/Ipn6kG2rTxRVKK0X.jpg",
+        "public_metrics": {
+          "view_count": 2910582
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007160317097439232/vid/avc1/320x568/l9Kw0MgDZ9qrTVT3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007160317097439232/vid/avc1/480x852/F88gFD6Omi-6NYxx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007160317097439232/vid/avc1/576x1024/KVUp7fV3W4Y36WPt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007160317097439232/pl/BzOlWJXHLZHQdoN7.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007160317097439232"
+          ],
+          "media_source_tweet_id": [
+            "2007206516471017875"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007695487106003192",
+        "created_at": "2026-01-04T06:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007695487106003192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957682612790845440",
+              "start": 3,
+              "username": "Newaysisi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPzWiBKo6G",
+              "end": 63,
+              "expanded_url": "https://x.com/Newaysisi/status/2007206516471017875/video/1",
+              "media_key": "13_2007160317097439232",
+              "start": 40,
+              "url": "https://t.co/hPzWiBKo6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007695487106003192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4518
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007206516471017875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Newaysisi: this is very interesting https://t.co/hPzWiBKo6G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007160317097439232"
+          ]
+        },
+        "author_id": "1957682612790845440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007206516471017875",
+        "created_at": "2026-01-02T21:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T22:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007206516471017875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPzWiBKo6G",
+              "end": 48,
+              "expanded_url": "https://x.com/Newaysisi/status/2007206516471017875/video/1",
+              "media_key": "13_2007160317097439232",
+              "start": 25,
+              "url": "https://t.co/hPzWiBKo6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007206516471017875",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9178,
+          "impression_count": 4248351,
+          "like_count": 68565,
+          "quote_count": 195,
+          "reply_count": 176,
+          "retweet_count": 4518
+        },
+        "reply_settings": "everyone",
+        "text": "this is very interesting https://t.co/hPzWiBKo6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 275,
+          "like_count": 71466,
+          "listed_count": 2,
+          "media_count": 1349,
+          "tweet_count": 12875
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T05:55:20.000Z",
+        "description": "Welcome, this account contains random content 🫶🏻",
+        "id": "1957682612790845440",
+        "location": "Bandar Lampung, Lampung",
+        "name": "𝖓𝖉𝖆𝖍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965722133474193408/LuT9dvCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3041,
+          "following_count": 1253,
+          "like_count": 14265,
+          "listed_count": 9,
+          "media_count": 513,
+          "tweet_count": 12497
+        },
+        "username": "Newaysisi",
+        "verified": true
+      }
+    ]
+  }
+}

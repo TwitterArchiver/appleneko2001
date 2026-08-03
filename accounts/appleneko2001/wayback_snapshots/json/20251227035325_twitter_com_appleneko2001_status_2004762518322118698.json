@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2004762518322118698",
+    "created_at": "2025-12-27T03:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T04:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004762518322118698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nixcraft/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/nixcraft/status/2004644277859889181",
+          "start": 24,
+          "url": "https://t.co/PCoxN9B2QT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004762518322118698",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004644277859889181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "We're reaching the end😥 https://t.co/PCoxN9B2QT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1487,
+        "media_key": "3_2004644269039255554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HtV3UbgAI8YU8.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2004762518322118698",
+        "created_at": "2025-12-27T03:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004762518322118698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nixcraft/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/nixcraft/status/2004644277859889181",
+              "start": 24,
+              "url": "https://t.co/PCoxN9B2QT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004762518322118698",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004644277859889181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We're reaching the end😥 https://t.co/PCoxN9B2QT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004644269039255554"
+          ]
+        },
+        "author_id": "17484680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2004644277859889181",
+        "created_at": "2025-12-26T20:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T21:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004644277859889181"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Rob Pike",
+              "probability": 0.9417,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "Unix",
+              "probability": 0.6203,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 128,
+              "normalized_text": "AI",
+              "probability": 0.4748,
+              "start": 127,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0kH6QlWiW",
+              "end": 180,
+              "expanded_url": "https://x.com/nixcraft/status/2004644277859889181/photo/1",
+              "media_key": "3_2004644269039255554",
+              "start": 157,
+              "url": "https://t.co/q0kH6QlWiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004644277859889181",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 760,
+          "impression_count": 133519,
+          "like_count": 5538,
+          "quote_count": 23,
+          "reply_count": 71,
+          "retweet_count": 700
+        },
+        "reply_settings": "everyone",
+        "text": "Rob Pike co-creator of Go, Unix veteran, and a pioneer of minimalist and high quality engineering reaction to that unsolicited AI spam or slop is 100% valid https://t.co/q0kH6QlWiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67640,
+          "listed_count": 2,
+          "media_count": 1321,
+          "tweet_count": 12550
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-19T12:12:37.000Z",
+        "description": "Love Linux/Unix, open source, and programming? Into Sysadmin & DevOps? Follow us! Boost your IT career with daily new tools, apps, and humor ⤵️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyberciti.biz",
+                "end": 23,
+                "expanded_url": "https://www.cyberciti.biz",
+                "start": 0,
+                "url": "https://t.co/n5Tlf9TYiB"
+              }
+            ]
+          }
+        },
+        "id": "17484680",
+        "name": "nixCraft 🐧",
+        "pinned_tweet_id": "1739253408778146081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1209802752819261440/jvir-xNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392381,
+          "following_count": 634,
+          "like_count": 14635,
+          "listed_count": 4335,
+          "media_count": 12370,
+          "tweet_count": 63517
+        },
+        "url": "https://t.co/n5Tlf9TYiB",
+        "username": "nixcraft",
+        "verified": false
+      }
+    ]
+  }
+}

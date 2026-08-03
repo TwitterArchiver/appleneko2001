@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2064805814389416189",
+    "created_at": "2026-06-10T20:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T21:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064806613442040073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064806613442040073",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064805814389416189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又是打多字错字的一天…啊这"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2064805814389416189",
+        "created_at": "2026-06-10T20:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064806613442040073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064806613442040073",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064805814389416189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又是打多字错字的一天…啊这"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2064805814389416189",
+        "created_at": "2026-06-10T20:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064805814389416189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/appleneko2001/…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/appleneko2001/status/2063535267823423729",
+              "start": 88,
+              "url": "https://t.co/QylmFsrRnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064805814389416189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063535267823423729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊对 请不要不要误会 咱不是od的\n因为咱（有男友陪同）去找过心理科医生咨询过自己的健康问题 正在按照医瞩服药的阶段 \n（突然想起来有很大误会要声明纠正错误的推主是个笨蛋…） https://t.co/QylmFsrRnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 257,
+          "like_count": 108312,
+          "listed_count": 2,
+          "media_count": 1653,
+          "tweet_count": 17337
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2010396169474838754",
+    "created_at": "2026-01-12T04:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T05:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010568451690262795"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "nixOS",
+          "probability": 0.8329,
+          "start": 49,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "nobara",
+          "probability": 0.714,
+          "start": 60,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "fedora",
+          "probability": 0.8114,
+          "start": 68,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "373078185",
+          "start": 0,
+          "username": "Spice_002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010568451690262795",
+    "in_reply_to_user_id": "373078185",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010529561109500324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spice_002 Whats your distro? I just migrated to nixOS from nobara (fedora based) recently."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2010396169474838754",
+        "created_at": "2026-01-12T04:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010568451690262795"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "nixOS",
+              "probability": 0.8329,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "nobara",
+              "probability": 0.714,
+              "start": 60,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "fedora",
+              "probability": 0.8114,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "373078185",
+              "start": 0,
+              "username": "Spice_002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010568451690262795",
+        "in_reply_to_user_id": "373078185",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010529561109500324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spice_002 Whats your distro? I just migrated to nixOS from nobara (fedora based) recently."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "373078185",
+        "conversation_id": "2010396169474838754",
+        "created_at": "2026-01-12T01:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010529561109500324"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Ubuntu",
+              "probability": 0.9738,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "14429525",
+              "start": 0,
+              "username": "prescott"
+            },
+            {
+              "end": 25,
+              "id": "1315639147248246785",
+              "start": 10,
+              "username": "GithubProjects"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010529561109500324",
+        "in_reply_to_user_id": "14429525",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010488395722621160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@prescott @GithubProjects Ubuntu fucking sucks ass. Choose a better distro."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 282,
+          "like_count": 74987,
+          "listed_count": 2,
+          "media_count": 1373,
+          "tweet_count": 13137
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-13T23:25:00.000Z",
+        "description": "I do stuff sometimes.",
+        "id": "373078185",
+        "name": "黒い楓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/648033871464787968/EMxFo-Qo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 7015,
+          "like_count": 15808,
+          "listed_count": 6,
+          "media_count": 313,
+          "tweet_count": 8840
+        },
+        "username": "Spice_002",
+        "verified": false
+      }
+    ]
+  }
+}

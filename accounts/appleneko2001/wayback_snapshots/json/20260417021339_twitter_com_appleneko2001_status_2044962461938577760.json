@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2044925053242892447",
+    "created_at": "2026-04-17T02:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044962461938577760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "105827779",
+          "start": 0,
+          "username": "mdbhx"
+        },
+        {
+          "end": 15,
+          "id": "1239457591417171973",
+          "start": 7,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044962461938577760",
+    "in_reply_to_user_id": "105827779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044952955892511185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mdbhx @GFWfrog 电报沦为下一个要死掉的平台\n要我说 活该被边缘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2044925053242892447",
+        "created_at": "2026-04-17T02:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044962461938577760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "105827779",
+              "start": 0,
+              "username": "mdbhx"
+            },
+            {
+              "end": 15,
+              "id": "1239457591417171973",
+              "start": 7,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044962461938577760",
+        "in_reply_to_user_id": "105827779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044952955892511185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mdbhx @GFWfrog 电报沦为下一个要死掉的平台\n要我说 活该被边缘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "105827779",
+        "conversation_id": "2044925053242892447",
+        "created_at": "2026-04-17T01:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044952955892511185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044952955892511185",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1164,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044925053242892447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 晚啦，电报被边缘化的命运不可逆转。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 355,
+          "like_count": 101734,
+          "listed_count": 3,
+          "media_count": 1607,
+          "tweet_count": 16404
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-17T16:35:13.000Z",
+        "description": "名字带五星旗、互fo的直接屏蔽。\nISFJ，喜欢看猫猫🐱、看帅哥🥰、看美景以及所有美好的东西。\n支那人，精日，🐱猫派，日本語 🇯🇵 初心者\n台湾🇹🇼独立",
+        "id": "105827779",
+        "name": "美帝 💙💛🌈🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813777994361737216/nn4VDgug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 680,
+          "like_count": 7058,
+          "listed_count": 8,
+          "media_count": 113,
+          "tweet_count": 9940
+        },
+        "username": "mdbhx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/aVPvX0T16B 网页在线投稿 150岁爷习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大传单运动 \n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 107,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 125,
+                "start": 119,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 139,
+                "start": 133,
+                "tag": "大传单运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 33,
+                "expanded_url": "http://gfwbao.com",
+                "start": 10,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 76,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 53,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 105,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 82,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2043170419058819330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261133,
+          "following_count": 2483,
+          "like_count": 126056,
+          "listed_count": 898,
+          "media_count": 7220,
+          "tweet_count": 13746
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

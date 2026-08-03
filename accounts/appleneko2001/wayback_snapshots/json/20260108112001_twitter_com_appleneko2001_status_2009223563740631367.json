@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2008938728660849006",
+    "created_at": "2026-01-08T11:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009223563740631367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1159429040878411776",
+          "start": 0,
+          "username": "Vegetable_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009223563740631367",
+    "in_reply_to_user_id": "1159429040878411776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008938728660849006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vegetable_Lee 有我失敗嗎…家裡斷網我卻沒辦法解決 跟個智障一樣 用手機網路共享卻有事沒事電我 都快變成電子楊永信了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2008938728660849006",
+        "created_at": "2026-01-08T11:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009223563740631367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1159429040878411776",
+              "start": 0,
+              "username": "Vegetable_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009223563740631367",
+        "in_reply_to_user_id": "1159429040878411776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008938728660849006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vegetable_Lee 有我失敗嗎…家裡斷網我卻沒辦法解決 跟個智障一樣 用手機網路共享卻有事沒事電我 都快變成電子楊永信了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1159429040878411776",
+        "conversation_id": "2008938728660849006",
+        "created_at": "2026-01-07T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008938728660849006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008938728660849006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的人生好失败🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 281,
+          "like_count": 72983,
+          "listed_count": 2,
+          "media_count": 1363,
+          "tweet_count": 13004
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-08T11:39:59.000Z",
+        "description": ".",
+        "id": "1159429040878411776",
+        "location": "HangZhou, China",
+        "name": "legends-killer",
+        "pinned_tweet_id": "1819340108317052980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751970383325286400/ncnW-RXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 836,
+          "like_count": 23748,
+          "listed_count": 9,
+          "media_count": 766,
+          "tweet_count": 4651
+        },
+        "username": "Vegetable_Lee",
+        "verified": false
+      }
+    ]
+  }
+}

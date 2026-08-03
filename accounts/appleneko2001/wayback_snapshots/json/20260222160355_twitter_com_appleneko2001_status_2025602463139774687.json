@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2025514069323915493",
+    "created_at": "2026-02-22T16:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025602463139774687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489922079038205954",
+          "start": 0,
+          "username": "YXingxuan"
+        },
+        {
+          "end": 19,
+          "id": "1552213521253150720",
+          "start": 11,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025602463139774687",
+    "in_reply_to_user_id": "1489922079038205954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025601328605741499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YXingxuan @acnekot 主要是 小米的系统太恶心了\n如果没有解锁权咱想都不想买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2025514069323915493",
+        "created_at": "2026-02-22T16:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025602463139774687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489922079038205954",
+              "start": 0,
+              "username": "YXingxuan"
+            },
+            {
+              "end": 19,
+              "id": "1552213521253150720",
+              "start": 11,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025602463139774687",
+        "in_reply_to_user_id": "1489922079038205954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025601328605741499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YXingxuan @acnekot 主要是 小米的系统太恶心了\n如果没有解锁权咱想都不想买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489922079038205954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2025514069323915493",
+        "created_at": "2026-02-22T15:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025601328605741499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 23,
+              "id": "1552213521253150720",
+              "start": 15,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025601328605741499",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025598104888815732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @acnekot 如果能接受苹果，iPad最好，安卓我用着小米也不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 326,
+          "like_count": 91635,
+          "listed_count": 2,
+          "media_count": 1501,
+          "tweet_count": 14888
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T11:21:33.000Z",
+        "description": "NIKONIKONI",
+        "id": "1489922079038205954",
+        "location": "Guangxi",
+        "name": "Yuyuko Xingxuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741033972094910464/AX9iqqik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 72,
+          "like_count": 2770,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 2010
+        },
+        "username": "YXingxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜互关请私信\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 780,
+          "like_count": 80940,
+          "listed_count": 6,
+          "media_count": 2740,
+          "tweet_count": 12739
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

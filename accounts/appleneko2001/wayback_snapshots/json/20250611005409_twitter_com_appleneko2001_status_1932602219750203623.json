@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1932249096045424875",
+    "created_at": "2025-06-11T00:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T01:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932602219750203623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94082134",
+          "start": 0,
+          "username": "davyzhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932602219750203623",
+    "in_reply_to_user_id": "94082134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932249096045424875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@davyzhang 直接docker一統天下不好嗎（\n唉 蘋果就是喜歡把開源軟體再自己改一改 最後叫成是自己的一套東西"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1932249096045424875].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1932249096045424875",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1932249096045424875"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1932249096045424875",
+        "created_at": "2025-06-11T00:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T01:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932602219750203623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94082134",
+              "start": 0,
+              "username": "davyzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932602219750203623",
+        "in_reply_to_user_id": "94082134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932249096045424875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@davyzhang 直接docker一統天下不好嗎（\n唉 蘋果就是喜歡把開源軟體再自己改一改 最後叫成是自己的一套東西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 258,
+          "like_count": 64647,
+          "listed_count": 2,
+          "media_count": 1292,
+          "tweet_count": 12200
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-02T12:46:57.000Z",
+        "description": "Game🎮 Developer/Player\nMaster of none, that is my strength.\nExpert of failure, that is my life.\n为安全锁推|会通过|会回fo|蛋头会被b掉",
+        "id": "94082134",
+        "name": "大胃·张 💪 努力减肥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551056437509365760/V5-EVRfa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 3210,
+          "like_count": 57696,
+          "listed_count": 4,
+          "media_count": 971,
+          "tweet_count": 17283
+        },
+        "username": "davyzhang",
+        "verified": false
+      }
+    ]
+  }
+}

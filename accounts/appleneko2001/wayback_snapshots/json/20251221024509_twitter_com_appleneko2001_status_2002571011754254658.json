@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002068546101161984"
+      ],
+      "media_source_tweet_id": [
+        "2002423752332914751"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403407197669715972",
+          "name": "Indie games"
+        }
+      }
+    ],
+    "conversation_id": "2002571011754254658",
+    "created_at": "2025-12-21T02:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T03:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002571011754254658"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 80,
+          "normalized_text": "screenshotsaturday",
+          "probability": 0.5328,
+          "start": 63,
+          "type": "Other"
+        },
+        {
+          "end": 89,
+          "normalized_text": "gamedev",
+          "probability": 0.6278,
+          "start": 83,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 62,
+          "tag": "screenshotsaturday"
+        },
+        {
+          "end": 90,
+          "start": 82,
+          "tag": "gamedev"
+        },
+        {
+          "end": 100,
+          "start": 91,
+          "tag": "indiedev"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1543890196621627392",
+          "start": 3,
+          "username": "bushsoftware"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1RlZe55vkt",
+          "end": 124,
+          "expanded_url": "https://x.com/bushsoftware/status/2002423752332914751/video/1",
+          "media_key": "13_2002068546101161984",
+          "start": 101,
+          "url": "https://t.co/1RlZe55vkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002571011754254658",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002423752332914751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bushsoftware: testing some more melee combat for my game\n\n#screenshotsaturday #gamedev #indiedev https://t.co/1RlZe55vkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28950,
+        "height": 1080,
+        "media_key": "13_2002068546101161984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002068546101161984/img/6LlwyxbWpmRFSyhk.jpg",
+        "public_metrics": {
+          "view_count": 30708
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002068546101161984/vid/avc1/360x270/sNBqqMT9wD2L-sk4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002068546101161984/vid/avc1/1440x1080/g3ZZ9hiq93feFw9P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002068546101161984/pl/nHr9kOtWZYMI3swB.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002068546101161984/vid/avc1/960x720/H5nCVqZ9BxO5cRsS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002068546101161984/vid/avc1/480x360/i4zlf2dmSBWVyV4L.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002068546101161984"
+          ],
+          "media_source_tweet_id": [
+            "2002423752332914751"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          }
+        ],
+        "conversation_id": "2002571011754254658",
+        "created_at": "2025-12-21T02:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002571011754254658"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 80,
+              "normalized_text": "screenshotsaturday",
+              "probability": 0.5328,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 89,
+              "normalized_text": "gamedev",
+              "probability": 0.6278,
+              "start": 83,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 62,
+              "tag": "screenshotsaturday"
+            },
+            {
+              "end": 90,
+              "start": 82,
+              "tag": "gamedev"
+            },
+            {
+              "end": 100,
+              "start": 91,
+              "tag": "indiedev"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1543890196621627392",
+              "start": 3,
+              "username": "bushsoftware"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RlZe55vkt",
+              "end": 124,
+              "expanded_url": "https://x.com/bushsoftware/status/2002423752332914751/video/1",
+              "media_key": "13_2002068546101161984",
+              "start": 101,
+              "url": "https://t.co/1RlZe55vkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002571011754254658",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002423752332914751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bushsoftware: testing some more melee combat for my game\n\n#screenshotsaturday #gamedev #indiedev https://t.co/1RlZe55vkt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002068546101161984"
+          ]
+        },
+        "author_id": "1543890196621627392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          }
+        ],
+        "conversation_id": "2002423752332914751",
+        "created_at": "2025-12-20T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002423752332914751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "screenshotsaturday",
+              "probability": 0.5482,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "gamedev",
+              "probability": 0.5871,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "indiedev",
+              "probability": 0.5503,
+              "start": 74,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 44,
+              "tag": "screenshotsaturday"
+            },
+            {
+              "end": 72,
+              "start": 64,
+              "tag": "gamedev"
+            },
+            {
+              "end": 82,
+              "start": 73,
+              "tag": "indiedev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RlZe55vkt",
+              "end": 106,
+              "expanded_url": "https://x.com/bushsoftware/status/2002423752332914751/video/1",
+              "media_key": "13_2002068546101161984",
+              "start": 83,
+              "url": "https://t.co/1RlZe55vkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002423752332914751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 57667,
+          "like_count": 875,
+          "quote_count": 7,
+          "reply_count": 33,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "testing some more melee combat for my game\n\n#screenshotsaturday #gamedev #indiedev https://t.co/1RlZe55vkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 269,
+          "like_count": 66298,
+          "listed_count": 2,
+          "media_count": 1314,
+          "tweet_count": 12430
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T09:31:27.000Z",
+        "description": "game developer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/2741610/BR…",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/2741610/BRUTAL_KATANA/",
+                "start": 0,
+                "url": "https://t.co/bCggbo8PZH"
+              }
+            ]
+          }
+        },
+        "id": "1543890196621627392",
+        "location": "Sweden",
+        "name": "Jonathan",
+        "pinned_tweet_id": "1856989284948922386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002063954600718336/5IHUAykG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 116,
+          "like_count": 4820,
+          "listed_count": 11,
+          "media_count": 95,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/bCggbo8PZH",
+        "username": "bushsoftware",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1620068805350420480"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1620534248880095233",
+    "created_at": "2023-01-31T21:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-31T21:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1620534248880095233"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "廣井きくりさん",
+          "probability": 0.3047,
+          "start": 28,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 37,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1032308233",
+          "start": 3,
+          "username": "marumaruru__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/GkpLmjrkCF",
+          "end": 71,
+          "expanded_url": "https://twitter.com/marumaruru__/status/1620076701152837632/photo/1",
+          "media_key": "16_1620068805350420480",
+          "start": 48,
+          "url": "https://t.co/GkpLmjrkCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1620534248880095233",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4736
+    },
+    "referenced_tweets": [
+      {
+        "id": "1620076701152837632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marumaruru__: 絶対に禁酒したくない廣井きくりさん\n #ぼっち・ざ・ろっく https://t.co/GkpLmjrkCF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_1620068805350420480",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Fnuj_raacAAL-Lt.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Fnuj_raacAAL-Lt.mp4"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1620068805350420480"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1620534248880095233",
+        "created_at": "2023-01-31T21:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-31T21:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1620534248880095233"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "廣井きくりさん",
+              "probability": 0.3047,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 37,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1032308233",
+              "start": 3,
+              "username": "marumaruru__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GkpLmjrkCF",
+              "end": 71,
+              "expanded_url": "https://twitter.com/marumaruru__/status/1620076701152837632/photo/1",
+              "media_key": "16_1620068805350420480",
+              "start": 48,
+              "url": "https://t.co/GkpLmjrkCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1620534248880095233",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4736
+        },
+        "referenced_tweets": [
+          {
+            "id": "1620076701152837632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marumaruru__: 絶対に禁酒したくない廣井きくりさん\n #ぼっち・ざ・ろっく https://t.co/GkpLmjrkCF"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1620068805350420480"
+          ]
+        },
+        "author_id": "1032308233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1620076701152837632",
+        "created_at": "2023-01-30T15:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-30T15:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1620076701152837632"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "廣井きくりさん",
+              "probability": 0.3239,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GkpLmjrkCF",
+              "end": 53,
+              "expanded_url": "https://twitter.com/marumaruru__/status/1620076701152837632/photo/1",
+              "media_key": "16_1620068805350420480",
+              "start": 30,
+              "url": "https://t.co/GkpLmjrkCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1620076701152837632",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 868450,
+          "like_count": 33954,
+          "quote_count": 44,
+          "reply_count": 45,
+          "retweet_count": 4736
+        },
+        "reply_settings": "everyone",
+        "text": "絶対に禁酒したくない廣井きくりさん\n #ぼっち・ざ・ろっく https://t.co/GkpLmjrkCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "Data hoarder/osu!\nNO POLITICAL SHITS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "http://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/emKQfkUk0C"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "地球ONLINE v20.23.01",
+        "name": "鳥頭 aka. DOVE Master 🕊 pawoo.net/ @appleneko2001",
+        "pinned_tweet_id": "1609224437701939201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610643966562639874/DmWy6qDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 230,
+          "listed_count": 2,
+          "tweet_count": 11847
+        },
+        "url": "https://t.co/emKQfkUk0C",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-24T09:26:47.000Z",
+        "description": "サークル「藤ノ鳥島」にて活動中/BUMP/ちいかわ/ぼざろ(廣井きくり推し)🍚【skeb】https://t.co/B11k8px7Jm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@marumaruru__",
+                "end": 68,
+                "expanded_url": "https://skeb.jp/@marumaruru__",
+                "start": 45,
+                "url": "https://t.co/B11k8px7Jm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=6849240",
+                "start": 0,
+                "url": "https://t.co/jWYqRjYd4U"
+              }
+            ]
+          }
+        },
+        "id": "1032308233",
+        "location": "自宅",
+        "name": "ふじまる",
+        "pinned_tweet_id": "1613196627069784064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605918351611396096/B92C2qPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10477,
+          "following_count": 448,
+          "listed_count": 145,
+          "tweet_count": 53151
+        },
+        "url": "https://t.co/jWYqRjYd4U",
+        "username": "marumaruru__",
+        "verified": false
+      }
+    ]
+  }
+}

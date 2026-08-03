@@ -1,0 +1,100 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 08 05:04:20 +0000 2022",
+  "display_text_range": [
+    30,
+    114
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 849403074540077056,
+        "id_str": "849403074540077056",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "柏林",
+        "screen_name": "lsaiah_berlin"
+      },
+      {
+        "id": 1317873326623137793,
+        "id_str": "1317873326623137793",
+        "indices": [
+          15,
+          29
+        ],
+        "name": "Android Weekly Update ⚡",
+        "screen_name": "update4weekly"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1501061231708413953,
+  "id_str": "1501061231708413953",
+  "in_reply_to_screen_name": "lsaiah_berlin",
+  "in_reply_to_status_id": 1501043624900902912,
+  "in_reply_to_status_id_str": "1501043624900902912",
+  "in_reply_to_user_id": 849403074540077056,
+  "in_reply_to_user_id_str": "849403074540077056",
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "@lsaiah_berlin @update4weekly 我稍微看了一下關於這個battery percentage widget 要求API 32或者以上 也就是至少Android 12L, Android 13  以及更高",
+  "timestamp_ms": "1646715860665",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Feb 02 17:22:36 +0000 2020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "如果我發瘋了 請記得 我以前 至少有當過一個正常人",
+    "favourites_count": 38641,
+    "follow_request_sent": null,
+    "followers_count": 92,
+    "following": null,
+    "friends_count": 84,
+    "geo_enabled": false,
+    "id": 1224020250733268995,
+    "id_str": "1224020250733268995",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 2,
+    "location": null,
+    "name": "🇺🇦❤🇷🇺 鳥頭 aka. DOVE Master 🕊",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224020250733268995/1646486257",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1499375091695632397/NMOHBFg8_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499375091695632397/NMOHBFg8_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "appleneko2001",
+    "statuses_count": 7113,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

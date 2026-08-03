@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007554649226928129"
+      ],
+      "media_source_tweet_id": [
+        "2007554654780174347"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "@DrDisrespect",
+          "id": "1126213628506427397",
+          "name": "Dr. Disrespect"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "description": "@DrDisrespect",
+          "id": "1126213628506427397",
+          "name": "Dr. Disrespect"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "@DrDisrespect",
+          "id": "1126213628506427397",
+          "name": "Dr. Disrespect"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "136",
+          "name": "Video Game Personality "
+        },
+        "entity": {
+          "description": "@DrDisrespect",
+          "id": "1126213628506427397",
+          "name": "Dr. Disrespect"
+        }
+      }
+    ],
+    "conversation_id": "2007658299169353915",
+    "created_at": "2026-01-04T03:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T04:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007658299169353915"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Dr Disrespect",
+          "probability": 0.6054,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741916934164381696",
+          "start": 3,
+          "username": "Awk20000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A1iDYqzJ2g",
+          "end": 109,
+          "expanded_url": "https://x.com/Awk20000/status/2007554654780174347/photo/1",
+          "media_key": "3_2007554649226928129",
+          "start": 86,
+          "url": "https://t.co/A1iDYqzJ2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007658299169353915",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 712
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007554654780174347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Awk20000: Dr Disrespect changed his profile picture to match his new doppelgänger https://t.co/A1iDYqzJ2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 644,
+        "media_key": "3_2007554649226928129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9xEUSZa4AEG6Cl.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007554649226928129"
+          ],
+          "media_source_tweet_id": [
+            "2007554654780174347"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "@DrDisrespect",
+              "id": "1126213628506427397",
+              "name": "Dr. Disrespect"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "@DrDisrespect",
+              "id": "1126213628506427397",
+              "name": "Dr. Disrespect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "@DrDisrespect",
+              "id": "1126213628506427397",
+              "name": "Dr. Disrespect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "description": "@DrDisrespect",
+              "id": "1126213628506427397",
+              "name": "Dr. Disrespect"
+            }
+          }
+        ],
+        "conversation_id": "2007658299169353915",
+        "created_at": "2026-01-04T03:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T04:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007658299169353915"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Dr Disrespect",
+              "probability": 0.6054,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741916934164381696",
+              "start": 3,
+              "username": "Awk20000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1iDYqzJ2g",
+              "end": 109,
+              "expanded_url": "https://x.com/Awk20000/status/2007554654780174347/photo/1",
+              "media_key": "3_2007554649226928129",
+              "start": 86,
+              "url": "https://t.co/A1iDYqzJ2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007658299169353915",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 712
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007554654780174347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Awk20000: Dr Disrespect changed his profile picture to match his new doppelgänger https://t.co/A1iDYqzJ2g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007554649226928129"
+          ]
+        },
+        "author_id": "1741916934164381696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "@DrDisrespect",
+              "id": "1126213628506427397",
+              "name": "Dr. Disrespect"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "@DrDisrespect",
+              "id": "1126213628506427397",
+              "name": "Dr. Disrespect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "@DrDisrespect",
+              "id": "1126213628506427397",
+              "name": "Dr. Disrespect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "description": "@DrDisrespect",
+              "id": "1126213628506427397",
+              "name": "Dr. Disrespect"
+            }
+          }
+        ],
+        "conversation_id": "2007554654780174347",
+        "created_at": "2026-01-03T20:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T21:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007554654780174347"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Dr Disrespect",
+              "probability": 0.5284,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1iDYqzJ2g",
+              "end": 95,
+              "expanded_url": "https://x.com/Awk20000/status/2007554654780174347/photo/1",
+              "media_key": "3_2007554649226928129",
+              "start": 72,
+              "url": "https://t.co/A1iDYqzJ2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007554654780174347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 464,
+          "impression_count": 311778,
+          "like_count": 17650,
+          "quote_count": 47,
+          "reply_count": 219,
+          "retweet_count": 712
+        },
+        "reply_settings": "everyone",
+        "text": "Dr Disrespect changed his profile picture to match his new doppelgänger https://t.co/A1iDYqzJ2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 274,
+          "like_count": 71313,
+          "listed_count": 2,
+          "media_count": 1349,
+          "tweet_count": 12866
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T20:19:03.000Z",
+        "description": "News For and About Streamers",
+        "id": "1741916934164381696",
+        "name": "yeet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824531581975031808/GIIGDm9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136663,
+          "following_count": 522,
+          "like_count": 64729,
+          "listed_count": 178,
+          "media_count": 12890,
+          "tweet_count": 13544
+        },
+        "username": "Awk20000",
+        "verified": true
+      }
+    ]
+  }
+}

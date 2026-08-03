@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1923433429569331467",
+    "created_at": "2025-05-17T00:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T01:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923529045347565804"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "oneUI",
+          "probability": 0.737,
+          "start": 44,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807064118366490624",
+          "start": 0,
+          "username": "SLKVinyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923529045347565804",
+    "in_reply_to_user_id": "1807064118366490624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923437198608617545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLKVinyl I guess that's why I don't update oneUI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1923433429569331467",
+        "created_at": "2025-05-17T00:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T01:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923529045347565804"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "oneUI",
+              "probability": 0.737,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807064118366490624",
+              "start": 0,
+              "username": "SLKVinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923529045347565804",
+        "in_reply_to_user_id": "1807064118366490624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923437198608617545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLKVinyl I guess that's why I don't update oneUI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807064118366490624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1174344555111469057",
+              "name": "Samsung Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325471",
+              "name": "Best Buy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045298641",
+              "name": "Samsung USA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          }
+        ],
+        "conversation_id": "1923433429569331467",
+        "created_at": "2025-05-16T17:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T18:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923437198608617545"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 79,
+              "normalized_text": "Samsung",
+              "probability": 0.9629,
+              "start": 73,
+              "type": "Organization"
+            },
+            {
+              "end": 135,
+              "normalized_text": "BestBuy",
+              "probability": 0.8084,
+              "start": 129,
+              "type": "Organization"
+            },
+            {
+              "end": 153,
+              "normalized_text": "Samsung",
+              "probability": 0.9557,
+              "start": 147,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1323340932549279744",
+              "start": 0,
+              "username": "BlueElectric05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923437198608617545",
+        "in_reply_to_user_id": "1323340932549279744",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923433429569331467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueElectric05 The software needs to be optimized. This is just typical Samsung slop\n\nEven when you go into retail stores (like BestBuy) to use a Samsung tablet it still does lag like this"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\nGo follow me at bsky instead",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Pray to Twitter",
+        "name": "鳥頭 aka. DOVE Master 🕊 藍天社群",
+        "pinned_tweet_id": "1922499474988929031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 250,
+          "like_count": 63468,
+          "listed_count": 2,
+          "media_count": 1277,
+          "tweet_count": 12032
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:50:49.000Z",
+        "description": "photographer + concept creator/designer 🔰+ digital artist 🔰+ random thingss | Google should fire all their designers.",
+        "id": "1807064118366490624",
+        "name": "SLK15",
+        "pinned_tweet_id": "1888804086184833485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874851443267739648/yOHkuEyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 242,
+          "like_count": 10429,
+          "listed_count": 2,
+          "media_count": 840,
+          "tweet_count": 4526
+        },
+        "username": "SLKVinyl",
+        "verified": false
+      }
+    ]
+  }
+}

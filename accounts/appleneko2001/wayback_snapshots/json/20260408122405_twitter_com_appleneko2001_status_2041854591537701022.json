@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2041780349764804915",
+    "created_at": "2026-04-08T12:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041854591537701022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "997619727680835584",
+          "start": 0,
+          "username": "onliviane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041854591537701022",
+    "in_reply_to_user_id": "997619727680835584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041780711611670530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onliviane 自己手起刀落写一套自己的AI agent（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2041780349764804915",
+        "created_at": "2026-04-08T12:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041854591537701022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "997619727680835584",
+              "start": 0,
+              "username": "onliviane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041854591537701022",
+        "in_reply_to_user_id": "997619727680835584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041780711611670530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onliviane 自己手起刀落写一套自己的AI agent（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "997619727680835584",
+        "conversation_id": "2041780349764804915",
+        "created_at": "2026-04-08T07:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041780711611670530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041780711611670530",
+        "in_reply_to_user_id": "997619727680835584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041780349764804915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人在乎下用不起顶尖模型的人吗🆘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 359,
+          "like_count": 101050,
+          "listed_count": 3,
+          "media_count": 1596,
+          "tweet_count": 16266
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-18T23:27:32.000Z",
+        "description": "我同意接受所有 Cookies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.clickfling.top",
+                "end": 23,
+                "expanded_url": "https://blog.clickfling.top",
+                "start": 0,
+                "url": "https://t.co/rvh4uVqmx7"
+              }
+            ]
+          }
+        },
+        "id": "997619727680835584",
+        "location": "as4134",
+        "name": "onliviane🍃",
+        "pinned_tweet_id": "1221091177971077121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816488086467223552/EY8Ama0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 1607,
+          "like_count": 14611,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/rvh4uVqmx7",
+        "username": "onliviane",
+        "verified": false
+      }
+    ]
+  }
+}

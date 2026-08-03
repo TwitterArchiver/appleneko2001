@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Rie Takahashi (高橋李依)",
+          "id": "1084888996415561730",
+          "name": "Rie Takahashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Rie Takahashi (高橋李依)",
+          "id": "1084888996415561730",
+          "name": "Rie Takahashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rie Takahashi (高橋李依)",
+          "id": "1084888996415561730",
+          "name": "Rie Takahashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2027367128203153870",
+    "created_at": "2026-02-27T12:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027367128203153870"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "Rie Takahashi",
+          "probability": 0.9477,
+          "start": 33,
+          "type": "Person"
+        },
+        {
+          "end": 66,
+          "normalized_text": "Rieri",
+          "probability": 0.4754,
+          "start": 62,
+          "type": "Other"
+        },
+        {
+          "end": 105,
+          "normalized_text": "RieTakahashi",
+          "probability": 0.9342,
+          "start": 94,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 93,
+          "tag": "RieTakahashi"
+        },
+        {
+          "end": 112,
+          "start": 107,
+          "tag": "高橋李依"
+        },
+        {
+          "end": 125,
+          "start": 113,
+          "tag": "高橋李依生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647566099444125698",
+          "start": 3,
+          "username": "seiyuucorner"
+        },
+        {
+          "end": 90,
+          "id": "903342036",
+          "start": 81,
+          "username": "taka8rie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027367128203153870",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4843
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027035934307569755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seiyuucorner: Happy birthday Rie Takahashi! 🎉\n\nLet's wish Rieri all the best @taka8rie \n\n#RieTakahashi #高橋李依 #高橋李依生誕祭2026 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2027035917991731200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCF6bX7a4AANykt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2027367128203153870",
+        "created_at": "2026-02-27T12:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027367128203153870"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Rie Takahashi",
+              "probability": 0.9477,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Rieri",
+              "probability": 0.4754,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "RieTakahashi",
+              "probability": 0.9342,
+              "start": 94,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 93,
+              "tag": "RieTakahashi"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "高橋李依"
+            },
+            {
+              "end": 125,
+              "start": 113,
+              "tag": "高橋李依生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647566099444125698",
+              "start": 3,
+              "username": "seiyuucorner"
+            },
+            {
+              "end": 90,
+              "id": "903342036",
+              "start": 81,
+              "username": "taka8rie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027367128203153870",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4843
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027035934307569755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seiyuucorner: Happy birthday Rie Takahashi! 🎉\n\nLet's wish Rieri all the best @taka8rie \n\n#RieTakahashi #高橋李依 #高橋李依生誕祭2026 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027035917991731200"
+          ]
+        },
+        "author_id": "1647566099444125698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2027035934307569755",
+        "created_at": "2026-02-26T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027035934307569755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Rie Takahashi",
+              "probability": 0.9254,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 48,
+              "normalized_text": "Rieri",
+              "probability": 0.4717,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "RieTakahashi",
+              "probability": 0.8939,
+              "start": 76,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 75,
+              "tag": "RieTakahashi"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "高橋李依"
+            },
+            {
+              "end": 107,
+              "start": 95,
+              "tag": "高橋李依生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 72,
+              "id": "903342036",
+              "start": 63,
+              "username": "taka8rie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HVuAwQF2Y6",
+              "end": 131,
+              "expanded_url": "https://x.com/seiyuucorner/status/2027035934307569755/photo/1",
+              "media_key": "3_2027035917991731200",
+              "start": 108,
+              "url": "https://t.co/HVuAwQF2Y6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027035934307569755",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1883,
+          "impression_count": 489511,
+          "like_count": 27805,
+          "quote_count": 545,
+          "reply_count": 303,
+          "retweet_count": 4843
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday Rie Takahashi! 🎉\n\nLet's wish Rieri all the best @taka8rie \n\n#RieTakahashi #高橋李依 #高橋李依生誕祭2026 https://t.co/HVuAwQF2Y6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 337,
+          "like_count": 93191,
+          "listed_count": 3,
+          "media_count": 1522,
+          "tweet_count": 15174
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T11:42:37.000Z",
+        "description": "Know the voice of your favorite anime! 🎙️\nPart of @animecorner_ac focusing on voice actors.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "animecorner_ac"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seiyuucorner.com",
+                "end": 23,
+                "expanded_url": "https://seiyuucorner.com",
+                "start": 0,
+                "url": "https://t.co/XxVrh1f0RK"
+              }
+            ]
+          }
+        },
+        "id": "1647566099444125698",
+        "name": "Seiyuu Corner",
+        "pinned_tweet_id": "2012357952183955791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647566253274324993/OWPTNvl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84886,
+          "following_count": 725,
+          "like_count": 62,
+          "listed_count": 170,
+          "media_count": 4405,
+          "tweet_count": 5653
+        },
+        "url": "https://t.co/XxVrh1f0RK",
+        "username": "seiyuucorner",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-25T06:38:18.000Z",
+        "description": "高橋李依（たかはしりえ）と申します。声を使った活動をしています。放送中📺 #推しの子 アイ💖 #地獄楽 杠💜 #ムジークタイガー トフィー🐯 #ちびゴジラの逆襲 ちびモスラ🦋 #ニャンちゅうズ ニャびっと🐰／🎥 #この本を盗む者は 春田栞📕 ／#JELEE🪼ぷかり隊／無断転載お控えください🙇‍♀️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 37,
+                "tag": "推しの子"
+              },
+              {
+                "end": 51,
+                "start": 47,
+                "tag": "地獄楽"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "tag": "ムジークタイガー"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "tag": "ちびゴジラの逆襲"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "ニャンちゅうズ"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "tag": "この本を盗む者は"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "tag": "JELEE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/taka8rie",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/taka8rie",
+                "start": 0,
+                "url": "https://t.co/2WzuGWFhhG"
+              }
+            ]
+          }
+        },
+        "id": "903342036",
+        "location": "ナシマホウ界↔マホウ界",
+        "name": "高橋李依",
+        "pinned_tweet_id": "2022263660102705476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761984319386742784/aBdyGIjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115574,
+          "following_count": 1570,
+          "like_count": 9209,
+          "listed_count": 6890,
+          "media_count": 1939,
+          "tweet_count": 19028
+        },
+        "url": "https://t.co/2WzuGWFhhG",
+        "username": "taka8rie",
+        "verified": true
+      }
+    ]
+  }
+}

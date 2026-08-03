@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1924192460621611009",
+    "created_at": "2025-05-18T19:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T20:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924192460621611009"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "touhou",
+          "probability": 0.6529,
+          "start": 5,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Merry_1007/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Merry_1007/status/1923716660395233543",
+          "start": 21,
+          "url": "https://t.co/coAFbTkSxC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924192460621611009",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923716660395233543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Damn touhou hardest🙇 https://t.co/coAFbTkSxC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 131270,
+        "height": 720,
+        "media_key": "13_1923715928203702272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923715928203702272/img/wjy58F8unTApdwtv.jpg",
+        "public_metrics": {
+          "view_count": 326835
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923715928203702272/vid/avc1/480x270/BWt8J30u4Usn4HyJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923715928203702272/vid/avc1/640x360/laxJwziTdFkZnfEx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923715928203702272/vid/avc1/1280x720/9EdhlPYVCwZUk32H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923715928203702272/pl/7DEkPC2y2BmYHtA2.m3u8?v=a18"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1924192460621611009",
+        "created_at": "2025-05-18T19:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T20:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924192460621611009"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "touhou",
+              "probability": 0.6529,
+              "start": 5,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Merry_1007/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Merry_1007/status/1923716660395233543",
+              "start": 21,
+              "url": "https://t.co/coAFbTkSxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924192460621611009",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923716660395233543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Damn touhou hardest🙇 https://t.co/coAFbTkSxC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923715928203702272"
+          ]
+        },
+        "author_id": "1665995749489020928",
+        "conversation_id": "1923716660395233543",
+        "created_at": "2025-05-17T12:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T13:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923716660395233543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HC9Ot0frUs",
+              "end": 67,
+              "expanded_url": "https://x.com/Merry_1007/status/1923716660395233543/video/1",
+              "media_key": "13_1923715928203702272",
+              "start": 44,
+              "url": "https://t.co/HC9Ot0frUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923716660395233543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 809064,
+          "like_count": 729,
+          "quote_count": 36,
+          "reply_count": 12,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "147ミス\n動かし方は完全に適当\nてかそもそもクリアすらさせる気ない置き方してるくね？ https://t.co/HC9Ot0frUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\nGo follow me at bsky instead",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Pray to Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1922499474988929031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 253,
+          "like_count": 63819,
+          "listed_count": 2,
+          "media_count": 1282,
+          "tweet_count": 12073
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T08:15:29.000Z",
+        "description": "いつも眠気と戦ってる人 タメ◎ T³20.1/phi16.46/ユメステ虹レ/ウニ虹レ/雀魂傑2",
+        "id": "1665995749489020928",
+        "location": "テディベア桃FC-1×4(自己べ6-2-0-0)",
+        "name": "Merry",
+        "pinned_tweet_id": "1918228988964815208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902012122902810624/s0bz2TNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 685,
+          "like_count": 27716,
+          "listed_count": 6,
+          "media_count": 3088,
+          "tweet_count": 27390
+        },
+        "username": "Merry_1007",
+        "verified": false
+      }
+    ]
+  }
+}

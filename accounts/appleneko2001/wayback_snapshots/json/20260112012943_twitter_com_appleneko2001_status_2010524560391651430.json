@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2010396169474838754",
+    "created_at": "2026-01-12T01:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T02:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010524560391651430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "13456962",
+          "start": 0,
+          "username": "QuakeyArtista"
+        },
+        {
+          "end": 30,
+          "id": "1315639147248246785",
+          "start": 15,
+          "username": "GithubProjects"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010524560391651430",
+    "in_reply_to_user_id": "13456962",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010495972858892391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuakeyArtista @GithubProjects Some people are too straightforward on it without double thinking thats not their hardware and others are fully responsible to their devices"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2010396169474838754",
+        "created_at": "2026-01-12T01:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010524560391651430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "13456962",
+              "start": 0,
+              "username": "QuakeyArtista"
+            },
+            {
+              "end": 30,
+              "id": "1315639147248246785",
+              "start": 15,
+              "username": "GithubProjects"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010524560391651430",
+        "in_reply_to_user_id": "13456962",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010495972858892391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuakeyArtista @GithubProjects Some people are too straightforward on it without double thinking thats not their hardware and others are fully responsible to their devices"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "13456962",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Vegan",
+              "id": "860145749463506944",
+              "name": "Veganism"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1260985796053487616",
+              "name": "Organic"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2010396169474838754",
+        "created_at": "2026-01-11T23:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T00:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010495972858892391"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Linux",
+              "probability": 0.9639,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1556383886267092992",
+              "start": 0,
+              "username": "Will_of_Europa"
+            },
+            {
+              "end": 31,
+              "id": "1315639147248246785",
+              "start": 16,
+              "username": "GithubProjects"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010495972858892391",
+        "in_reply_to_user_id": "1556383886267092992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010451099082518770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Will_of_Europa @GithubProjects Linux users are like vegan people. You don't have to ask, they'll tell you."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 282,
+          "like_count": 74934,
+          "listed_count": 2,
+          "media_count": 1373,
+          "tweet_count": 13120
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-14T02:51:15.000Z",
+        "description": "",
+        "id": "13456962",
+        "name": "Quakey Artista",
+        "pinned_tweet_id": "1667208910737113088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830607565744664576/pCktPTK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 5,
+          "listed_count": 13,
+          "media_count": 6,
+          "tweet_count": 504
+        },
+        "username": "QuakeyArtista",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T13:03:35.000Z",
+        "description": "We're sharing/showcasing best of @github projects/repos. Follow to stay in loop. Promoting Open-Source Contributions. UNOFFICIAL, but followed by github",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 33,
+                "username": "github"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/githubprojects",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/githubprojects",
+                "start": 0,
+                "url": "https://t.co/ikBlJ8M5oY"
+              }
+            ]
+          }
+        },
+        "id": "1315639147248246785",
+        "location": "San Francisco, CA",
+        "name": "GitHub Projects Community",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679831765744259073/hoVtsOZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270083,
+          "following_count": 62,
+          "like_count": 21329,
+          "listed_count": 1130,
+          "media_count": 3152,
+          "tweet_count": 9527
+        },
+        "url": "https://t.co/ikBlJ8M5oY",
+        "username": "GithubProjects",
+        "verified": true
+      }
+    ]
+  }
+}

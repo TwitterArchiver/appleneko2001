@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011102129721593856"
+      ],
+      "media_source_tweet_id": [
+        "2011124081647661476"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325466",
+          "name": "IBM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026325466",
+          "name": "IBM"
+        }
+      }
+    ],
+    "conversation_id": "2011274827118911785",
+    "created_at": "2026-01-14T03:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T04:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011274827118911785"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "IBM Training Manual",
+          "probability": 0.5962,
+          "start": 20,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "855481986290524160",
+          "start": 3,
+          "username": "historyinmemes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IHAApX9ZEb",
+          "end": 74,
+          "expanded_url": "https://x.com/historyinmemes/status/2011124081647661476/photo/1",
+          "media_key": "3_2011102129721593856",
+          "start": 51,
+          "url": "https://t.co/IHAApX9ZEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011274827118911785",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011124081647661476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @historyinmemes: IBM Training Manual from 1979. https://t.co/IHAApX9ZEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2011102129721593856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-jeu1EWUAAOfs0.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011102129721593856"
+          ],
+          "media_source_tweet_id": [
+            "2011124081647661476"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          }
+        ],
+        "conversation_id": "2011274827118911785",
+        "created_at": "2026-01-14T03:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T04:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011274827118911785"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "IBM Training Manual",
+              "probability": 0.5962,
+              "start": 20,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "855481986290524160",
+              "start": 3,
+              "username": "historyinmemes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHAApX9ZEb",
+              "end": 74,
+              "expanded_url": "https://x.com/historyinmemes/status/2011124081647661476/photo/1",
+              "media_key": "3_2011102129721593856",
+              "start": 51,
+              "url": "https://t.co/IHAApX9ZEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011274827118911785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011124081647661476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @historyinmemes: IBM Training Manual from 1979. https://t.co/IHAApX9ZEb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011102129721593856"
+          ]
+        },
+        "author_id": "855481986290524160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          }
+        ],
+        "conversation_id": "2011124081647661476",
+        "created_at": "2026-01-13T17:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T18:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011124081647661476"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "IBM Training Manual",
+              "probability": 0.6163,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHAApX9ZEb",
+              "end": 54,
+              "expanded_url": "https://x.com/historyinmemes/status/2011124081647661476/photo/1",
+              "media_key": "3_2011102129721593856",
+              "start": 31,
+              "url": "https://t.co/IHAApX9ZEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011124081647661476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1885,
+          "impression_count": 346837,
+          "like_count": 28187,
+          "quote_count": 128,
+          "reply_count": 202,
+          "retweet_count": 4249
+        },
+        "reply_settings": "everyone",
+        "text": "IBM Training Manual from 1979. https://t.co/IHAApX9ZEb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 292,
+          "like_count": 77209,
+          "listed_count": 2,
+          "media_count": 1388,
+          "tweet_count": 13316
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-21T18:02:54.000Z",
+        "description": "Daily history lessons. Education through memes!",
+        "id": "855481986290524160",
+        "name": "Historic Vids",
+        "pinned_tweet_id": "2011095589136797807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648334723725361152/ev7V1230_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6028175,
+          "following_count": 343,
+          "like_count": 4224,
+          "listed_count": 14230,
+          "media_count": 20642,
+          "tweet_count": 25317
+        },
+        "username": "historyinmemes",
+        "verified": true
+      }
+    ]
+  }
+}

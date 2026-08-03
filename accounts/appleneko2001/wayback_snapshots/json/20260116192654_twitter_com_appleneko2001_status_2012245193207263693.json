@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012241891891491204",
+    "created_at": "2026-01-16T19:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T20:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012245193207263693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552213521253150720",
+          "start": 0,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012245193207263693",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012242204266496058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acnekot 嘛 我也就只是抱怨而已 沒有說這個app不好喔\n倒不如說 我很敬佩開發者 有這種大膽的嘗試 我現在幫不上什麼忙 家裡的網路還沒修好 全看明天的結果了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2012241891891491204",
+        "created_at": "2026-01-16T19:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T20:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012245193207263693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012245193207263693",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012242204266496058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 嘛 我也就只是抱怨而已 沒有說這個app不好喔\n倒不如說 我很敬佩開發者 有這種大膽的嘗試 我現在幫不上什麼忙 家裡的網路還沒修好 全看明天的結果了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2012241891891491204",
+        "created_at": "2026-01-16T19:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T20:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012242204266496058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012242204266496058",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012241891891491204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 等它更新只能说是，不过这个软件是开源的，潜力无限）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 300,
+          "like_count": 79673,
+          "listed_count": 2,
+          "media_count": 1402,
+          "tweet_count": 13572
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多可以获取我的联系方式呢w",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 586,
+          "like_count": 68188,
+          "listed_count": 5,
+          "media_count": 2307,
+          "tweet_count": 10318
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

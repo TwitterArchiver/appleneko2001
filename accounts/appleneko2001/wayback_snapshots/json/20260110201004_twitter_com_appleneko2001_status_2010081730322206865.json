@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009972882282295299"
+      ],
+      "media_source_tweet_id": [
+        "2009972905485246501"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596710830081",
+          "name": "Candy/Gum - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Ezaki Glico (江崎グリコ)",
+          "id": "1043151976739954689",
+          "name": "Ezaki Glico (江崎グリコ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2010081730322206865",
+    "created_at": "2026-01-10T20:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T21:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010081730322206865"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "大阪",
+          "probability": 0.9785,
+          "start": 14,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 31,
+          "tag": "あのねジャンプ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1659913874693554176",
+          "start": 3,
+          "username": "fugu0520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhVUsflqQ5",
+          "end": 63,
+          "expanded_url": "https://x.com/fugu0520/status/2009972905485246501/video/1",
+          "media_key": "13_2009972882282295299",
+          "start": 40,
+          "url": "https://t.co/rhVUsflqQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010081730322206865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009972905485246501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fugu0520: 大阪のグリコ前で発見しました！\n\n#あのねジャンプ https://t.co/rhVUsflqQ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4004,
+        "height": 2160,
+        "media_key": "13_2009972882282295299",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009972882282295299/img/vPbEPpY_X0UKZj9c.jpg",
+        "public_metrics": {
+          "view_count": 5738
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009972882282295299/vid/avc1/480x270/Ig1vKsub3aw4UHSW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009972882282295299/vid/avc1/640x360/4VeJs9BRqqxJOIQ4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009972882282295299/vid/avc1/1280x720/rqzqDvpNXgvytZpT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009972882282295299/pl/SUexJeeuBqhs76bJ.m3u8?tag=14"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009972882282295299"
+          ],
+          "media_source_tweet_id": [
+            "2009972905485246501"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596710830081",
+              "name": "Candy/Gum - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Ezaki Glico (江崎グリコ)",
+              "id": "1043151976739954689",
+              "name": "Ezaki Glico (江崎グリコ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2010081730322206865",
+        "created_at": "2026-01-10T20:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T21:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010081730322206865"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "大阪",
+              "probability": 0.9785,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "あのねジャンプ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1659913874693554176",
+              "start": 3,
+              "username": "fugu0520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhVUsflqQ5",
+              "end": 63,
+              "expanded_url": "https://x.com/fugu0520/status/2009972905485246501/video/1",
+              "media_key": "13_2009972882282295299",
+              "start": 40,
+              "url": "https://t.co/rhVUsflqQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010081730322206865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009972905485246501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fugu0520: 大阪のグリコ前で発見しました！\n\n#あのねジャンプ https://t.co/rhVUsflqQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009972882282295299"
+          ]
+        },
+        "author_id": "1659913874693554176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596710830081",
+              "name": "Candy/Gum - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Ezaki Glico (江崎グリコ)",
+              "id": "1043151976739954689",
+              "name": "Ezaki Glico (江崎グリコ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2009972905485246501",
+        "created_at": "2026-01-10T12:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009972905485246501"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "大阪",
+              "probability": 0.9794,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "あのねジャンプ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhVUsflqQ5",
+              "end": 49,
+              "expanded_url": "https://x.com/fugu0520/status/2009972905485246501/video/1",
+              "media_key": "13_2009972882282295299",
+              "start": 26,
+              "url": "https://t.co/rhVUsflqQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009972905485246501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 12863,
+          "like_count": 680,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "大阪のグリコ前で発見しました！\n\n#あのねジャンプ https://t.co/rhVUsflqQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 281,
+          "like_count": 74038,
+          "listed_count": 2,
+          "media_count": 1372,
+          "tweet_count": 13077
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T13:28:08.000Z",
+        "description": "▶︎現在ご依頼受付中です！ご依頼の際は、以下の連絡先のどれかにご連絡下さい！ メール→ fugumovie@gmail.com Dscord→フグ#5673/@Insight_dpt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "Insight_dpt"
+              }
+            ]
+          }
+        },
+        "id": "1659913874693554176",
+        "name": "fugu",
+        "pinned_tweet_id": "1842130741305782457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997451281947107328/TP-xQMGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 73,
+          "like_count": 43,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 153
+        },
+        "username": "fugu0520",
+        "verified": false
+      }
+    ]
+  }
+}

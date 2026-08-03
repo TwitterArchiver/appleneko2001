@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2005926899307196416"
+      ],
+      "media_source_tweet_id": [
+        "2005926924980478049"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006055345349681349",
+    "created_at": "2025-12-30T17:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T18:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006055345349681349"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "skyblock",
+          "probability": 0.8614,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1025545938205470720",
+          "start": 3,
+          "username": "naufaldreamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LL2O5O79JA",
+          "end": 51,
+          "expanded_url": "https://x.com/naufaldreamer/status/2005926924980478049/photo/1",
+          "media_key": "16_2005926899307196416",
+          "start": 28,
+          "url": "https://t.co/LL2O5O79JA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006055345349681349",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1168
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005926924980478049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naufaldreamer: skyblock https://t.co/LL2O5O79JA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "16_2005926899307196416",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G9Z74xabMAA60io.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G9Z74xabMAA60io.mp4"
+          }
+        ],
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2005926899307196416"
+          ],
+          "media_source_tweet_id": [
+            "2005926924980478049"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006055345349681349",
+        "created_at": "2025-12-30T17:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006055345349681349"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "skyblock",
+              "probability": 0.8614,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1025545938205470720",
+              "start": 3,
+              "username": "naufaldreamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LL2O5O79JA",
+              "end": 51,
+              "expanded_url": "https://x.com/naufaldreamer/status/2005926924980478049/photo/1",
+              "media_key": "16_2005926899307196416",
+              "start": 28,
+              "url": "https://t.co/LL2O5O79JA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006055345349681349",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1168
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005926924980478049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naufaldreamer: skyblock https://t.co/LL2O5O79JA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2005926899307196416"
+          ]
+        },
+        "author_id": "1025545938205470720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005926924980478049",
+        "created_at": "2025-12-30T09:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005926924980478049"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "skyblock",
+              "probability": 0.8853,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LL2O5O79JA",
+              "end": 32,
+              "expanded_url": "https://x.com/naufaldreamer/status/2005926924980478049/photo/1",
+              "media_key": "16_2005926899307196416",
+              "start": 9,
+              "url": "https://t.co/LL2O5O79JA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005926924980478049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1087,
+          "impression_count": 99826,
+          "like_count": 10006,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1168
+        },
+        "reply_settings": "everyone",
+        "text": "skyblock https://t.co/LL2O5O79JA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 275,
+          "like_count": 69573,
+          "listed_count": 2,
+          "media_count": 1337,
+          "tweet_count": 12756
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T00:56:20.000Z",
+        "description": "I do 東方 art mostly | commission : open (DM on Twitter or discord 'naufaldreamer' for comms/check pinned) | also on other socials with the same name",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naufaldreamer.carrd.co",
+                "end": 23,
+                "expanded_url": "http://naufaldreamer.carrd.co",
+                "start": 0,
+                "url": "https://t.co/X2KbjEjdTw"
+              }
+            ]
+          }
+        },
+        "id": "1025545938205470720",
+        "location": "the moon/NO-AI usage allowed ",
+        "name": "Naufaldreamer (comms open slot 4/7)",
+        "pinned_tweet_id": "1809807576957440124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502589017203769345/N_FOOSie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29062,
+          "following_count": 535,
+          "like_count": 21120,
+          "listed_count": 138,
+          "media_count": 867,
+          "tweet_count": 13192
+        },
+        "url": "https://t.co/X2KbjEjdTw",
+        "username": "naufaldreamer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929408271829635072"
+      ],
+      "media_source_tweet_id": [
+        "1929408346714472456"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401934144238604294",
+          "name": "Pixel art"
+        }
+      }
+    ],
+    "conversation_id": "1929814869362053164",
+    "created_at": "2025-06-03T08:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T09:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929814869362053164"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "ドット絵"
+        },
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "pixelart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "837275700046393344",
+          "start": 3,
+          "username": "wh_negi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KShWmHNhrU",
+          "end": 52,
+          "expanded_url": "https://x.com/wh_negi/status/1929408346714472456/photo/1",
+          "media_key": "3_1929408271829635072",
+          "start": 29,
+          "url": "https://t.co/KShWmHNhrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929814869362053164",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929408346714472456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wh_negi: #ドット絵 #pixelart https://t.co/KShWmHNhrU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1929408271829635072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsaimc0bEAAw34A.png",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929408271829635072"
+          ],
+          "media_source_tweet_id": [
+            "1929408346714472456"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          }
+        ],
+        "conversation_id": "1929814869362053164",
+        "created_at": "2025-06-03T08:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T09:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929814869362053164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "ドット絵"
+            },
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "pixelart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "837275700046393344",
+              "start": 3,
+              "username": "wh_negi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KShWmHNhrU",
+              "end": 52,
+              "expanded_url": "https://x.com/wh_negi/status/1929408346714472456/photo/1",
+              "media_key": "3_1929408271829635072",
+              "start": 29,
+              "url": "https://t.co/KShWmHNhrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929814869362053164",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929408346714472456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wh_negi: #ドット絵 #pixelart https://t.co/KShWmHNhrU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929408271829635072"
+          ]
+        },
+        "author_id": "837275700046393344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          }
+        ],
+        "conversation_id": "1929408346714472456",
+        "created_at": "2025-06-02T05:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929408346714472456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ドット絵"
+            },
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "pixelart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KShWmHNhrU",
+              "end": 39,
+              "expanded_url": "https://x.com/wh_negi/status/1929408346714472456/photo/1",
+              "media_key": "3_1929408271829635072",
+              "start": 16,
+              "url": "https://t.co/KShWmHNhrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929408346714472456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 27280,
+          "like_count": 961,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "#ドット絵 #pixelart https://t.co/KShWmHNhrU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 257,
+          "like_count": 64387,
+          "listed_count": 2,
+          "media_count": 1288,
+          "tweet_count": 12158
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-02T12:17:37.000Z",
+        "description": "▪ファンタジーとアニメーションとゲーム画面風のドット絵を好んで作ります\n▪配信を稀にします https://t.co/fz2BCDT0jc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/wh_negi",
+                "end": 69,
+                "expanded_url": "http://twitch.tv/wh_negi",
+                "start": 46,
+                "url": "https://t.co/fz2BCDT0jc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh-negi.com",
+                "end": 23,
+                "expanded_url": "http://wh-negi.com",
+                "start": 0,
+                "url": "https://t.co/fOscxkzHDk"
+              }
+            ]
+          }
+        },
+        "id": "837275700046393344",
+        "name": "しろねぎ",
+        "pinned_tweet_id": "1881642896191103381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727582195274100736/6hi7NULr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7642,
+          "following_count": 973,
+          "like_count": 16770,
+          "listed_count": 126,
+          "media_count": 716,
+          "tweet_count": 7525
+        },
+        "url": "https://t.co/fOscxkzHDk",
+        "username": "wh_negi",
+        "verified": false
+      }
+    ]
+  }
+}

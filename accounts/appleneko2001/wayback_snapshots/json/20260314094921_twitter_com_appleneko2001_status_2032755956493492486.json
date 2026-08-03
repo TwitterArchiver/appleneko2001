@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032361714545803266"
+      ],
+      "media_source_tweet_id": [
+        "2032526858701393937"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032755956493492486",
+    "created_at": "2026-03-14T09:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T10:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032755956493492486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1049468067502125062",
+          "start": 3,
+          "username": "S0UND_0F_FUTURE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qatsFgkaTk",
+          "end": 44,
+          "expanded_url": "https://x.com/S0UND_0F_FUTURE/status/2032526858701393937/video/1",
+          "media_key": "13_2032361714545803266",
+          "start": 21,
+          "url": "https://t.co/qatsFgkaTk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032755956493492486",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 400
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032526858701393937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S0UND_0F_FUTURE: https://t.co/qatsFgkaTk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62322,
+        "height": 720,
+        "media_key": "13_2032361714545803266",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032361714545803266/img/K4Lwk4fWlvdpb8VZ.jpg",
+        "public_metrics": {
+          "view_count": 16756
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032361714545803266/vid/avc1/360x270/kk4QZoTsfT0PqFIV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032361714545803266/vid/avc1/480x360/fPDAhAQHz4WGZXNv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032361714545803266/vid/avc1/960x720/3ryC9cDSt7SopayG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032361714545803266/pl/aNYyVmJy6JfImlmP.m3u8?tag=14&v=303"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032361714545803266"
+          ],
+          "media_source_tweet_id": [
+            "2032526858701393937"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032755956493492486",
+        "created_at": "2026-03-14T09:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032755956493492486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1049468067502125062",
+              "start": 3,
+              "username": "S0UND_0F_FUTURE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qatsFgkaTk",
+              "end": 44,
+              "expanded_url": "https://x.com/S0UND_0F_FUTURE/status/2032526858701393937/video/1",
+              "media_key": "13_2032361714545803266",
+              "start": 21,
+              "url": "https://t.co/qatsFgkaTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032755956493492486",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032526858701393937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S0UND_0F_FUTURE: https://t.co/qatsFgkaTk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032361714545803266"
+          ]
+        },
+        "author_id": "1049468067502125062",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032526858701393937",
+        "created_at": "2026-03-13T18:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032526858701393937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qatsFgkaTk",
+              "end": 23,
+              "expanded_url": "https://x.com/S0UND_0F_FUTURE/status/2032526858701393937/video/1",
+              "media_key": "13_2032361714545803266",
+              "start": 0,
+              "url": "https://t.co/qatsFgkaTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032526858701393937",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 415,
+          "impression_count": 33156,
+          "like_count": 2431,
+          "quote_count": 12,
+          "reply_count": 12,
+          "retweet_count": 400
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qatsFgkaTk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2031397929580376199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 360,
+          "like_count": 98713,
+          "listed_count": 3,
+          "media_count": 1569,
+          "tweet_count": 15985
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-09T01:14:20.000Z",
+        "description": "\"𝓜𝓮𝓽𝓪𝓶𝓸𝓻𝓹𝓱𝓸𝓼𝓲𝓼!\"\n\n(fan account, Retry Now takeover)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/JVXQdasg8w",
+                "end": 23,
+                "expanded_url": "https://discord.gg/JVXQdasg8w",
+                "start": 0,
+                "url": "https://t.co/g8oXjPmFpc"
+              }
+            ]
+          }
+        },
+        "id": "1049468067502125062",
+        "location": "𝓦𝓱𝓮𝓻𝓮𝓿𝓮𝓻 𝔂𝓸𝓾 𝓪𝓻𝓮",
+        "name": "𝓗𝓪𝓽𝓼𝓾𝓷𝓮 𝓜𝓲𝓴𝓾 (Retry Now) 💙",
+        "pinned_tweet_id": "2030646971615100954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004826008634228739/Sn5Osy-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8025,
+          "following_count": 613,
+          "like_count": 60211,
+          "listed_count": 19,
+          "media_count": 2990,
+          "tweet_count": 19070
+        },
+        "url": "https://t.co/g8oXjPmFpc",
+        "username": "S0UND_0F_FUTURE",
+        "verified": false
+      }
+    ]
+  }
+}

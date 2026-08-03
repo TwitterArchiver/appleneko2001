@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1645481766226993163",
+          "name": "Swarm"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1645481766226993163",
+          "name": "Swarm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1645491688658411539",
+          "name": "Thriller series"
+        }
+      }
+    ],
+    "conversation_id": "2004251265157796213",
+    "created_at": "2025-12-25T18:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T19:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004251265157796213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1333828755010236418",
+          "start": 3,
+          "username": "FoozleCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004251265157796213",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003535565220982861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoozleCC: Wow - just finished overlaying position based dynamics (PBD) for my enemy swarm and I am LOVING how it is coming together! Fl…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22633,
+        "height": 1080,
+        "media_key": "13_2003533640333213697",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003533640333213697/img/o25a-02cVpJkDXaB.jpg",
+        "public_metrics": {
+          "view_count": 14163
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003533640333213697/vid/avc1/480x270/QDHnKxWqSVaVntTW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003533640333213697/vid/avc1/640x360/pkW8vDc_oNvAnP8u.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003533640333213697/vid/avc1/1280x720/e5VgjQseqcycJbUb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003533640333213697/pl/cMDS4F6yqsDbGb1_.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645491688658411539",
+              "name": "Thriller series"
+            }
+          }
+        ],
+        "conversation_id": "2004251265157796213",
+        "created_at": "2025-12-25T18:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004251265157796213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1333828755010236418",
+              "start": 3,
+              "username": "FoozleCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004251265157796213",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003535565220982861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoozleCC: Wow - just finished overlaying position based dynamics (PBD) for my enemy swarm and I am LOVING how it is coming together! Fl…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003533640333213697"
+          ]
+        },
+        "author_id": "1333828755010236418",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645491688658411539",
+              "name": "Thriller series"
+            }
+          }
+        ],
+        "conversation_id": "2003535565220982861",
+        "created_at": "2025-12-23T18:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T19:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003535565220982861"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "PBD",
+              "probability": 0.4824,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 241,
+              "id": "2247373052",
+              "start": 229,
+              "username": "GDevelopApp"
+            },
+            {
+              "end": 250,
+              "id": "1155898067339501569",
+              "start": 242,
+              "username": "threejs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOEpiJ6BGK",
+              "end": 274,
+              "expanded_url": "https://x.com/FoozleCC/status/2003535565220982861/video/1",
+              "media_key": "13_2003533640333213697",
+              "start": 251,
+              "url": "https://t.co/uOEpiJ6BGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003535565220982861",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 26261,
+          "like_count": 448,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "Wow - just finished overlaying position based dynamics (PBD) for my enemy swarm and I am LOVING how it is coming together! Flow fields update around destroyed terrain. Almost ready to move on to adding projectiles and knockback. @GDevelopApp @threejs https://t.co/uOEpiJ6BGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67321,
+          "listed_count": 2,
+          "media_count": 1319,
+          "tweet_count": 12506
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-01T17:42:18.000Z",
+        "description": "Game developer, YouTuber, and commissioner of game art I share for free under CC0! Grab the art here: https://t.co/HZCOF3bhjW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "foozlecc.itch.io",
+                "end": 125,
+                "expanded_url": "https://foozlecc.itch.io/",
+                "start": 102,
+                "url": "https://t.co/HZCOF3bhjW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/FoozleCC",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/FoozleCC",
+                "start": 0,
+                "url": "https://t.co/7VLgeJv8zw"
+              }
+            ]
+          }
+        },
+        "id": "1333828755010236418",
+        "location": "Milwaukee, WI",
+        "name": "Foozle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640512262476578816/l49JHU6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 216,
+          "like_count": 993,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/7VLgeJv8zw",
+        "username": "FoozleCC",
+        "verified": true
+      }
+    ]
+  }
+}

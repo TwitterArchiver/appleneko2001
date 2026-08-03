@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006381350002262017"
+      ],
+      "media_source_tweet_id": [
+        "2006381353043206632"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      }
+    ],
+    "conversation_id": "2006808166856798557",
+    "created_at": "2026-01-01T19:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T20:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006808166856798557"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "プリコネR"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1776013360242606080",
+          "start": 3,
+          "username": "SAYO_61"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6UJi93jVhs",
+          "end": 43,
+          "expanded_url": "https://x.com/SAYO_61/status/2006381353043206632/photo/1",
+          "media_key": "3_2006381350002262017",
+          "start": 20,
+          "url": "https://t.co/6UJi93jVhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006808166856798557",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006381353043206632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SAYO_61: #プリコネR https://t.co/6UJi93jVhs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006381350002262017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gZNSLagAEOUcD.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006381350002262017"
+          ],
+          "media_source_tweet_id": [
+            "2006381353043206632"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2006808166856798557",
+        "created_at": "2026-01-01T19:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T20:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006808166856798557"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "プリコネR"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776013360242606080",
+              "start": 3,
+              "username": "SAYO_61"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UJi93jVhs",
+              "end": 43,
+              "expanded_url": "https://x.com/SAYO_61/status/2006381353043206632/photo/1",
+              "media_key": "3_2006381350002262017",
+              "start": 20,
+              "url": "https://t.co/6UJi93jVhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006808166856798557",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006381353043206632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SAYO_61: #プリコネR https://t.co/6UJi93jVhs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006381350002262017"
+          ]
+        },
+        "author_id": "1776013360242606080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2006381353043206632",
+        "created_at": "2025-12-31T15:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006381353043206632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "プリコネR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UJi93jVhs",
+              "end": 30,
+              "expanded_url": "https://x.com/SAYO_61/status/2006381353043206632/photo/1",
+              "media_key": "3_2006381350002262017",
+              "start": 7,
+              "url": "https://t.co/6UJi93jVhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006381353043206632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 14540,
+          "like_count": 501,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "#プリコネR https://t.co/6UJi93jVhs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 274,
+          "like_count": 70796,
+          "listed_count": 2,
+          "media_count": 1341,
+          "tweet_count": 12819
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T22:26:16.000Z",
+        "description": "宇宙人\n中文/翻訳機を使う\nプリコネ垢 真那キャル大好き♡（cb）\n❗キャ虐要素❗",
+        "id": "1776013360242606080",
+        "location": "パンダ星",
+        "name": "小夜",
+        "pinned_tweet_id": "1868310666425282849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885292401440546819/Qq0f3tD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 201,
+          "like_count": 11134,
+          "listed_count": 11,
+          "media_count": 117,
+          "tweet_count": 4072
+        },
+        "username": "SAYO_61",
+        "verified": false
+      }
+    ]
+  }
+}

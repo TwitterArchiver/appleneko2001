@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041508088990310400"
+      ],
+      "media_source_tweet_id": [
+        "2041508570018275766"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2042653276412280974",
+    "created_at": "2026-04-10T17:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042653276412280974"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "分享"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "775584756666773504",
+          "start": 3,
+          "username": "xiaokedada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4sUMJHufV",
+          "end": 138,
+          "expanded_url": "https://x.com/xiaokedada/status/2041508570018275766/photo/1",
+          "media_key": "3_2041508088990310400",
+          "start": 115,
+          "url": "https://t.co/C4sUMJHufV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042653276412280974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041508570018275766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaokedada: #分享 一行禁用 macOS Tahoe 版本满地的不明所以的图标，方式是打开终端，执行：\n\ndefaults write -g NSMenuEnableActionImages -bool NO https://t.co/C4sUMJHufV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2041508088990310400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTkymJaoAAKyiX.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041508088990310400"
+          ],
+          "media_source_tweet_id": [
+            "2041508570018275766"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2042653276412280974",
+        "created_at": "2026-04-10T17:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042653276412280974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "分享"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "775584756666773504",
+              "start": 3,
+              "username": "xiaokedada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4sUMJHufV",
+              "end": 138,
+              "expanded_url": "https://x.com/xiaokedada/status/2041508570018275766/photo/1",
+              "media_key": "3_2041508088990310400",
+              "start": 115,
+              "url": "https://t.co/C4sUMJHufV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042653276412280974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041508570018275766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaokedada: #分享 一行禁用 macOS Tahoe 版本满地的不明所以的图标，方式是打开终端，执行：\n\ndefaults write -g NSMenuEnableActionImages -bool NO https://t.co/C4sUMJHufV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041508088990310400"
+          ]
+        },
+        "author_id": "775584756666773504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2041508570018275766",
+        "created_at": "2026-04-07T13:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041508570018275766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "分享"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4sUMJHufV",
+              "end": 122,
+              "expanded_url": "https://x.com/xiaokedada/status/2041508570018275766/photo/1",
+              "media_key": "3_2041508088990310400",
+              "start": 99,
+              "url": "https://t.co/C4sUMJHufV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041508570018275766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 83184,
+          "like_count": 263,
+          "quote_count": 13,
+          "reply_count": 7,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "#分享 一行禁用 macOS Tahoe 版本满地的不明所以的图标，方式是打开终端，执行：\n\ndefaults write -g NSMenuEnableActionImages -bool NO https://t.co/C4sUMJHufV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 358,
+          "like_count": 101317,
+          "listed_count": 3,
+          "media_count": 1599,
+          "tweet_count": 16319
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-13T06:39:50.000Z",
+        "description": "Learning AI, share to learn\n先挣个 2000万\n认识你自己 凡事勿过度 妄立誓则祸近\nMore https://t.co/IoMfdT5u2E, https://t.co/qpSv55ZuTq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dub.sh/nazha",
+                "end": 85,
+                "expanded_url": "https://dub.sh/nazha",
+                "start": 62,
+                "url": "https://t.co/IoMfdT5u2E"
+              },
+              {
+                "display_url": "dub.sh/t.me",
+                "end": 110,
+                "expanded_url": "https://dub.sh/t.me",
+                "start": 87,
+                "url": "https://t.co/qpSv55ZuTq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nazha.co",
+                "end": 23,
+                "expanded_url": "https://www.nazha.co/",
+                "start": 0,
+                "url": "https://t.co/E9Q2fQmJ2Q"
+              }
+            ]
+          }
+        },
+        "id": "775584756666773504",
+        "name": "nazha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025525559095349249/pWG87JQR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5492,
+          "following_count": 290,
+          "like_count": 2856,
+          "listed_count": 117,
+          "media_count": 548,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/E9Q2fQmJ2Q",
+        "username": "xiaokedada",
+        "verified": false
+      }
+    ]
+  }
+}

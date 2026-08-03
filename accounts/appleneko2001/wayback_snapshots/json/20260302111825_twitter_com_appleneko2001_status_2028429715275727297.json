@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028419019230117888"
+      ],
+      "media_source_tweet_id": [
+        "2028419028071657793"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2028429715275727297",
+    "created_at": "2026-03-02T11:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T12:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028429715275727297"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "かやちゃん",
+          "probability": 0.617,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "ミニの日"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "15419245",
+          "start": 3,
+          "username": "hazakura_hinata"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnrInJvhR0",
+          "end": 65,
+          "expanded_url": "https://x.com/hazakura_hinata/status/2028419028071657793/photo/1",
+          "media_key": "3_2028419019230117888",
+          "start": 42,
+          "url": "https://t.co/AnrInJvhR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028429715275727297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028419028071657793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hazakura_hinata: 制服かやちゃん！\n#ミニの日 #イラスト https://t.co/AnrInJvhR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028419019230117888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZkWdjbgAAPRwB.jpg",
+        "width": 1462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028419019230117888"
+          ],
+          "media_source_tweet_id": [
+            "2028419028071657793"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2028429715275727297",
+        "created_at": "2026-03-02T11:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028429715275727297"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "かやちゃん",
+              "probability": 0.617,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "ミニの日"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "15419245",
+              "start": 3,
+              "username": "hazakura_hinata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnrInJvhR0",
+              "end": 65,
+              "expanded_url": "https://x.com/hazakura_hinata/status/2028419028071657793/photo/1",
+              "media_key": "3_2028419019230117888",
+              "start": 42,
+              "url": "https://t.co/AnrInJvhR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028429715275727297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028419028071657793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hazakura_hinata: 制服かやちゃん！\n#ミニの日 #イラスト https://t.co/AnrInJvhR0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028419019230117888"
+          ]
+        },
+        "author_id": "15419245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "2028419028071657793",
+        "created_at": "2026-03-02T10:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028419028071657793"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "かやちゃん",
+              "probability": 0.4985,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "ミニの日"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnrInJvhR0",
+              "end": 44,
+              "expanded_url": "https://x.com/hazakura_hinata/status/2028419028071657793/photo/1",
+              "media_key": "3_2028419019230117888",
+              "start": 21,
+              "url": "https://t.co/AnrInJvhR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028419028071657793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1761,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "制服かやちゃん！\n#ミニの日 #イラスト https://t.co/AnrInJvhR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 345,
+          "like_count": 95122,
+          "listed_count": 3,
+          "media_count": 1544,
+          "tweet_count": 15479
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2008-07-13T21:58:39.000Z",
+        "description": "お絵描きしてます🎨✍サブアカ→@HazakuraHinata FA大歓迎！→#葉桜ひなたArt マシュマロ→https://t.co/DGNWd0IwfZ   FANBOX→ https://t.co/SXaoV65rAd　オリキャラ紹介はハイライトにあります！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 38,
+                "tag": "葉桜ひなたArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "HazakuraHinata"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/ekyfw",
+                "end": 77,
+                "expanded_url": "https://x.gd/ekyfw",
+                "start": 54,
+                "url": "https://t.co/DGNWd0IwfZ"
+              },
+              {
+                "display_url": "hazahina.fanbox.cc",
+                "end": 111,
+                "expanded_url": "https://hazahina.fanbox.cc",
+                "start": 88,
+                "url": "https://t.co/SXaoV65rAd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/85767213",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/85767213",
+                "start": 0,
+                "url": "https://t.co/MfsBQWPU4X"
+              }
+            ]
+          }
+        },
+        "id": "15419245",
+        "location": "LUNALEON",
+        "name": "葉桜ひなた🍡🌸🌱",
+        "pinned_tweet_id": "2025829166906851801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027760782315012097/VXu3dPKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17312,
+          "following_count": 269,
+          "like_count": 80824,
+          "listed_count": 172,
+          "media_count": 513,
+          "tweet_count": 30099
+        },
+        "url": "https://t.co/MfsBQWPU4X",
+        "username": "hazakura_hinata",
+        "verified": true
+      }
+    ]
+  }
+}

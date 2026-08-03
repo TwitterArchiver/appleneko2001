@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2062329284480627111",
+    "created_at": "2026-06-04T00:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062329284480627111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "237243234",
+          "start": 3,
+          "username": "seclink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062329284480627111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061989942352564374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seclink: 建议：新手别滥用 viber coding 。\n\n混用 中国和海外的大模型，viber coding ，我把所有研发坑都踩完了 :\n\n1.  时区问题，中国的大模型看 北京时间 ，美国的大模型看 美国时间 ...\n2.  Error code 到底是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2062329284480627111",
+        "created_at": "2026-06-04T00:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062329284480627111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "237243234",
+              "start": 3,
+              "username": "seclink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062329284480627111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061989942352564374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seclink: 建议：新手别滥用 viber coding 。\n\n混用 中国和海外的大模型，viber coding ，我把所有研发坑都踩完了 :\n\n1.  时区问题，中国的大模型看 北京时间 ，美国的大模型看 美国时间 ...\n2.  Error code 到底是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "237243234",
+        "conversation_id": "2061989942352564374",
+        "created_at": "2026-06-03T01:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061989942352564374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061989942352564374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "建议：新手别滥用 viber coding 。\n\n混用 中国和海外的大模型，viber coding ，我把所有研发坑都踩完了 :\n\n1.  时区问题，中国的大模型看 北京时间 ，美国的大模型看 美国时间 ...\n2.  Error code 到底是 int 类型还是 str 类型， 傻傻分不清.\n3. 软删除 是真的删除还是 标志为 'is_deleted' = true .\n4. 状态码 ( 500 , 400 ... ) 分散在全项目各处都是 ...\n5. 数据库慢查询设置 ， N+1 问题 未考虑 ...\n6. 短信验证码 、 实名认证的防暴力破解 未考虑 ...\n7.  状态机 待会儿 8个状态 ，隔一天就10个状态，再隔一天 7个状态 ...\n8. 同一个业务含义的变量，分不同函数名 或者 不同 变量名来写。\n9. 写了而又不用的函数名。\n10. 不用 ORM ，而是裸用 SQL ，带来 主键 自增长问题 。\n11. 数据库设计了 JsonB ，导致 数据查询 和 数据检索的 困难问题。\n12. 高危严重的水平越权漏洞 和 垂直越权漏洞 泛滥 ...\n\n..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 358,
+          "impression_count": 55807,
+          "like_count": 297,
+          "quote_count": 3,
+          "reply_count": 92,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "建议：新手别滥用 viber coding 。\n\n混用 中国和海外的大模型，viber coding ，我把所有研发坑都踩完了 :\n\n1.  时区问题，中国的大模型看 北京时间 ，美国的大模型看 美国时间 ...\n2.  Error code 到底是 int 类型还是 str 类型， 傻傻分不清.\n3. 软删除 是真的删除还是 标志为 'is_deleted' = true ."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 249,
+          "like_count": 107264,
+          "listed_count": 2,
+          "media_count": 1644,
+          "tweet_count": 17219
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-12T12:04:13.000Z",
+        "description": "找工作、找面试题、改简历、模拟面试。关注：\n创业（冷启动） ｜ 认知心理学｜智能体 ｜ 强化学习\n\nbuilding：https://t.co/A4YmEz90B8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jobleap.cn",
+                "end": 82,
+                "expanded_url": "https://jobleap.cn",
+                "start": 59,
+                "url": "https://t.co/A4YmEz90B8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jobleap.cn",
+                "end": 23,
+                "expanded_url": "https://www.jobleap.cn/",
+                "start": 0,
+                "url": "https://t.co/2H0pxR6NHC"
+              }
+            ]
+          }
+        },
+        "id": "237243234",
+        "location": "san francisco",
+        "name": "Y11",
+        "pinned_tweet_id": "2062108601632870629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709859553414893568/a_eQ9NYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30297,
+          "following_count": 643,
+          "like_count": 21037,
+          "listed_count": 318,
+          "media_count": 1581,
+          "tweet_count": 11314
+        },
+        "url": "https://t.co/2H0pxR6NHC",
+        "username": "seclink",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990375357791481856"
+      ],
+      "media_source_tweet_id": [
+        "1990375363663577333"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "1991021942267330946",
+    "created_at": "2025-11-19T05:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T06:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991021942267330946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1371811612718342145",
+          "start": 3,
+          "username": "nuinui0300"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y6utDU36Ns",
+          "end": 46,
+          "expanded_url": "https://x.com/nuinui0300/status/1990375363663577333/photo/1",
+          "media_key": "3_1990375357791481856",
+          "start": 23,
+          "url": "https://t.co/y6utDU36Ns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991021942267330946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1350
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990375363663577333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nuinui0300: 小さい先生… https://t.co/y6utDU36Ns"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990375357791481856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58716raMAAfbLb.jpg",
+        "width": 1412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990375357791481856"
+          ],
+          "media_source_tweet_id": [
+            "1990375363663577333"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "1991021942267330946",
+        "created_at": "2025-11-19T05:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991021942267330946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1371811612718342145",
+              "start": 3,
+              "username": "nuinui0300"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6utDU36Ns",
+              "end": 46,
+              "expanded_url": "https://x.com/nuinui0300/status/1990375363663577333/photo/1",
+              "media_key": "3_1990375357791481856",
+              "start": 23,
+              "url": "https://t.co/y6utDU36Ns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991021942267330946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1350
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990375363663577333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nuinui0300: 小さい先生… https://t.co/y6utDU36Ns"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990375357791481856"
+          ]
+        },
+        "author_id": "1371811612718342145",
+        "conversation_id": "1990375363663577333",
+        "created_at": "2025-11-17T11:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990375363663577333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6utDU36Ns",
+              "end": 30,
+              "expanded_url": "https://x.com/nuinui0300/status/1990375363663577333/photo/1",
+              "media_key": "3_1990375357791481856",
+              "start": 7,
+              "url": "https://t.co/y6utDU36Ns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990375363663577333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2499,
+          "impression_count": 204400,
+          "like_count": 15113,
+          "quote_count": 34,
+          "reply_count": 65,
+          "retweet_count": 1350
+        },
+        "reply_settings": "everyone",
+        "text": "小さい先生… https://t.co/y6utDU36Ns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 266,
+          "like_count": 65854,
+          "listed_count": 2,
+          "media_count": 1305,
+          "tweet_count": 12353
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-16T13:12:44.000Z",
+        "description": "アークナイツブルーアーカイブ中心にいろいろ描いています FANBOX: https://t.co/1svoFi1b0u PIXIV: https://t.co/BDHLUKQbGd Fantia https://t.co/gmfh508Wfk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nuinui03.fanbox.cc",
+                "end": 59,
+                "expanded_url": "https://nuinui03.fanbox.cc",
+                "start": 36,
+                "url": "https://t.co/1svoFi1b0u"
+              },
+              {
+                "display_url": "pixiv.net/users/20151243",
+                "end": 90,
+                "expanded_url": "https://www.pixiv.net/users/20151243",
+                "start": 67,
+                "url": "https://t.co/BDHLUKQbGd"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/493748",
+                "end": 121,
+                "expanded_url": "https://fantia.jp/fanclubs/493748",
+                "start": 98,
+                "url": "https://t.co/gmfh508Wfk"
+              }
+            ]
+          }
+        },
+        "id": "1371811612718342145",
+        "location": "日本",
+        "name": "ぬい",
+        "pinned_tweet_id": "1967546311122858290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759350279403941888/fqbUJKcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83614,
+          "following_count": 732,
+          "like_count": 22873,
+          "listed_count": 386,
+          "media_count": 596,
+          "tweet_count": 1171
+        },
+        "username": "nuinui0300",
+        "verified": false
+      }
+    ]
+  }
+}

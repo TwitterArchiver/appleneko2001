@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012497983221252096"
+      ],
+      "media_source_tweet_id": [
+        "2012498044747649095"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2012560386009231580",
+    "created_at": "2026-01-17T16:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012560386009231580"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "ブルーアーカイブ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1104378114103103490",
+          "start": 3,
+          "username": "DrElegant5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SkCWXBUD5f",
+          "end": 60,
+          "expanded_url": "https://x.com/DrElegant5/status/2012498044747649095/photo/1",
+          "media_key": "3_2012497983221252096",
+          "start": 37,
+          "url": "https://t.co/SkCWXBUD5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012560386009231580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012498044747649095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrElegant5: プラナ🤍\n#ブルアカ #ブルーアーカイブ https://t.co/SkCWXBUD5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2432,
+        "media_key": "3_2012497983221252096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3UQMkXwAAyGId.jpg",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012497983221252096"
+          ],
+          "media_source_tweet_id": [
+            "2012498044747649095"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2012560386009231580",
+        "created_at": "2026-01-17T16:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012560386009231580"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1104378114103103490",
+              "start": 3,
+              "username": "DrElegant5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkCWXBUD5f",
+              "end": 60,
+              "expanded_url": "https://x.com/DrElegant5/status/2012498044747649095/photo/1",
+              "media_key": "3_2012497983221252096",
+              "start": 37,
+              "url": "https://t.co/SkCWXBUD5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012560386009231580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012498044747649095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrElegant5: プラナ🤍\n#ブルアカ #ブルーアーカイブ https://t.co/SkCWXBUD5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012497983221252096"
+          ]
+        },
+        "author_id": "1104378114103103490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2012498044747649095",
+        "created_at": "2026-01-17T12:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T13:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012498044747649095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkCWXBUD5f",
+              "end": 44,
+              "expanded_url": "https://x.com/DrElegant5/status/2012498044747649095/photo/1",
+              "media_key": "3_2012497983221252096",
+              "start": 21,
+              "url": "https://t.co/SkCWXBUD5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012498044747649095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 6451,
+          "like_count": 966,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "プラナ🤍\n#ブルアカ #ブルーアーカイブ https://t.co/SkCWXBUD5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 302,
+          "like_count": 80122,
+          "listed_count": 2,
+          "media_count": 1409,
+          "tweet_count": 13643
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-09T13:47:15.000Z",
+        "description": "純分享/Sharing Purpose only",
+        "id": "1104378114103103490",
+        "name": "Dr.Elegant",
+        "pinned_tweet_id": "1896534801387298950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900158895752175616/lK0orFfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27804,
+          "following_count": 599,
+          "like_count": 10343,
+          "listed_count": 154,
+          "media_count": 896,
+          "tweet_count": 7072
+        },
+        "username": "DrElegant5",
+        "verified": true
+      }
+    ]
+  }
+}

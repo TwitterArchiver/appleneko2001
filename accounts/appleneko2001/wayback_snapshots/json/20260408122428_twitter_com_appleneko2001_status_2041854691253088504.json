@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2041854691253088504",
+    "created_at": "2026-04-08T12:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041854691253088504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "822329886257790976",
+          "start": 3,
+          "username": "LumidexNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041854691253088504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041523470077727105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LumidexNZ: 现实是妈妈自始自终都不理解你为什么自杀，并把一切过错归咎于你跟着网上的人学坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2041854691253088504",
+        "created_at": "2026-04-08T12:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041854691253088504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "822329886257790976",
+              "start": 3,
+              "username": "LumidexNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041854691253088504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041523470077727105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LumidexNZ: 现实是妈妈自始自终都不理解你为什么自杀，并把一切过错归咎于你跟着网上的人学坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822329886257790976",
+        "conversation_id": "2041523470077727105",
+        "created_at": "2026-04-07T14:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041523470077727105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aureliax17qwq/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/aureliax17qwq/status/2041482534354329785",
+              "start": 40,
+              "url": "https://t.co/0t0rnDxSQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041523470077727105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11595,
+          "like_count": 272,
+          "quote_count": 7,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041482534354329785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现实是妈妈自始自终都不理解你为什么自杀，并把一切过错归咎于你跟着网上的人学坏了 https://t.co/0t0rnDxSQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 359,
+          "like_count": 101051,
+          "listed_count": 3,
+          "media_count": 1596,
+          "tweet_count": 16267
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病挂壁老鼠人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7JDKk"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 616,
+          "like_count": 4761,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/y8BdM7JDKk",
+        "username": "LumidexNZ",
+        "verified": false
+      }
+    ]
+  }
+}

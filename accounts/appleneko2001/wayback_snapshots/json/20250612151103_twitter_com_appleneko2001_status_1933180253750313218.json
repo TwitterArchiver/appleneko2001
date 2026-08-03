@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932994860312899586"
+      ],
+      "media_source_tweet_id": [
+        "1933117079927820622"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "1933180253750313218",
+    "created_at": "2025-06-12T15:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T16:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933180253750313218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "547626375",
+          "start": 3,
+          "username": "yuuhagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Td6UeFL3e2",
+          "end": 38,
+          "expanded_url": "https://x.com/yuuhagi/status/1933117079927820622/photo/1",
+          "media_key": "3_1932994860312899586",
+          "start": 15,
+          "url": "https://t.co/Td6UeFL3e2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933180253750313218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933117079927820622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuuhagi: 朝 https://t.co/Td6UeFL3e2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1932994860312899586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtNglYGbMAIcW1y.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932994860312899586"
+          ],
+          "media_source_tweet_id": [
+            "1933117079927820622"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "1933180253750313218",
+        "created_at": "2025-06-12T15:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T16:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933180253750313218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "547626375",
+              "start": 3,
+              "username": "yuuhagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td6UeFL3e2",
+              "end": 38,
+              "expanded_url": "https://x.com/yuuhagi/status/1933117079927820622/photo/1",
+              "media_key": "3_1932994860312899586",
+              "start": 15,
+              "url": "https://t.co/Td6UeFL3e2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933180253750313218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933117079927820622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuuhagi: 朝 https://t.co/Td6UeFL3e2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932994860312899586"
+          ]
+        },
+        "author_id": "547626375",
+        "conversation_id": "1933117079927820622",
+        "created_at": "2025-06-12T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933117079927820622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td6UeFL3e2",
+              "end": 25,
+              "expanded_url": "https://x.com/yuuhagi/status/1933117079927820622/photo/1",
+              "media_key": "3_1932994860312899586",
+              "start": 2,
+              "url": "https://t.co/Td6UeFL3e2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933117079927820622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2865,
+          "like_count": 334,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "朝 https://t.co/Td6UeFL3e2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 258,
+          "like_count": 64705,
+          "listed_count": 2,
+          "media_count": 1293,
+          "tweet_count": 12209
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-07T11:46:48.000Z",
+        "description": "■田舎でベレー帽とセーラー襟を描いています。■進捗はPawooにアップしてます→ https://t.co/cGIUJkLDDM ファンボ→ https://t.co/MuJTDYtEEq ⚠︎私のイラストをゲームやSNS等のアイコンやヘッダー等や、データベースに使用、加工は控えていただけると幸いです。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pawoo.net/@yuuhagi",
+                "end": 64,
+                "expanded_url": "http://pawoo.net/@yuuhagi",
+                "start": 41,
+                "url": "https://t.co/cGIUJkLDDM"
+              },
+              {
+                "display_url": "yuuhagi.fanbox.cc",
+                "end": 94,
+                "expanded_url": "https://yuuhagi.fanbox.cc",
+                "start": 71,
+                "url": "https://t.co/MuJTDYtEEq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2342360",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/2342360",
+                "start": 0,
+                "url": "https://t.co/rjgWp4QRqY"
+              }
+            ]
+          }
+        },
+        "id": "547626375",
+        "name": "悠萩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1287034373397602305/HRttbPNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24061,
+          "following_count": 255,
+          "like_count": 1069,
+          "listed_count": 306,
+          "media_count": 1334,
+          "tweet_count": 17536
+        },
+        "url": "https://t.co/rjgWp4QRqY",
+        "username": "yuuhagi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2029201636439290100",
+    "created_at": "2026-03-04T14:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T15:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029201636439290100"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "モモイ",
+          "probability": 0.6758,
+          "start": 20,
+          "type": "Person"
+        },
+        {
+          "end": 26,
+          "normalized_text": "ミドリ",
+          "probability": 0.4986,
+          "start": 24,
+          "type": "Person"
+        },
+        {
+          "end": 35,
+          "normalized_text": "緒山",
+          "probability": 0.6154,
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 100,
+          "normalized_text": "モモイ",
+          "probability": 0.4856,
+          "start": 98,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "おにまい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2009905585802891264",
+          "start": 3,
+          "username": "onimai_daisuko"
+        }
+      ],
+      "urls": [
+        {
+          "description": "まひろ「『ミドリ、ぎゅーってして！』 モモイのテンションで抱きつくまひろ。 でも返ってくる抱擁は、ミドリじゃなくて“みはりのお姉ちゃん”のあったかさ。」 Mahiro: “Midori, give me a biiig hug!” Mahiro jumps at her wit",
+          "display_url": "pixiv.net/artworks/14187…",
+          "end": 81,
+          "expanded_url": "https://www.pixiv.net/artworks/141875066",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2028852209073766400/mUgLliBX?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028852209073766400/mUgLliBX?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 58,
+          "status": 200,
+          "title": "モモイとミドリ、でもやっぱり緒山姉妹。",
+          "unwound_url": "https://www.pixiv.net/artworks/141875066",
+          "url": "https://t.co/mX4sjFNDqM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029201636439290100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028852189838684293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onimai_daisuko: モモイとミドリ、でもやっぱり緒山姉妹。 | こうやどうふ好き #おにまい \nhttps://t.co/mX4sjFNDqM \n『ミドリ、ぎゅーってして！』\nモモイのテンションで抱きつくまひろ。\nでも返ってくる抱擁は、ミドリじゃなくて“みは…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2028851708227735552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCft4Rrb0AArzQa.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2029201636439290100",
+        "created_at": "2026-03-04T14:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029201636439290100"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "モモイ",
+              "probability": 0.6758,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 26,
+              "normalized_text": "ミドリ",
+              "probability": 0.4986,
+              "start": 24,
+              "type": "Person"
+            },
+            {
+              "end": 35,
+              "normalized_text": "緒山",
+              "probability": 0.6154,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 100,
+              "normalized_text": "モモイ",
+              "probability": 0.4856,
+              "start": 98,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "おにまい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2009905585802891264",
+              "start": 3,
+              "username": "onimai_daisuko"
+            }
+          ],
+          "urls": [
+            {
+              "description": "まひろ「『ミドリ、ぎゅーってして！』 モモイのテンションで抱きつくまひろ。 でも返ってくる抱擁は、ミドリじゃなくて“みはりのお姉ちゃん”のあったかさ。」 Mahiro: “Midori, give me a biiig hug!” Mahiro jumps at her wit",
+              "display_url": "pixiv.net/artworks/14187…",
+              "end": 81,
+              "expanded_url": "https://www.pixiv.net/artworks/141875066",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2028852209073766400/mUgLliBX?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028852209073766400/mUgLliBX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "モモイとミドリ、でもやっぱり緒山姉妹。",
+              "unwound_url": "https://www.pixiv.net/artworks/141875066",
+              "url": "https://t.co/mX4sjFNDqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029201636439290100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028852189838684293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onimai_daisuko: モモイとミドリ、でもやっぱり緒山姉妹。 | こうやどうふ好き #おにまい \nhttps://t.co/mX4sjFNDqM \n『ミドリ、ぎゅーってして！』\nモモイのテンションで抱きつくまひろ。\nでも返ってくる抱擁は、ミドリじゃなくて“みは…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028851708227735552"
+          ]
+        },
+        "author_id": "2009905585802891264",
+        "conversation_id": "2028852189838684293",
+        "created_at": "2026-03-03T15:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028852189838684293"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "おにまい"
+            }
+          ],
+          "urls": [
+            {
+              "description": "まひろ「『ミドリ、ぎゅーってして！』 モモイのテンションで抱きつくまひろ。 でも返ってくる抱擁は、ミドリじゃなくて“みはりのお姉ちゃん”のあったかさ。」 Mahiro: “Midori, give me a biiig hug!” Mahiro jumps at her wit",
+              "display_url": "pixiv.net/artworks/14187…",
+              "end": 61,
+              "expanded_url": "https://www.pixiv.net/artworks/141875066",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2028852209073766400/mUgLliBX?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028852209073766400/mUgLliBX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "モモイとミドリ、でもやっぱり緒山姉妹。",
+              "unwound_url": "https://www.pixiv.net/artworks/141875066",
+              "url": "https://t.co/mX4sjFNDqM"
+            },
+            {
+              "display_url": "pic.x.com/fTdW3E7OTd",
+              "end": 206,
+              "expanded_url": "https://x.com/onimai_daisuko/status/2028852189838684293/photo/1",
+              "media_key": "3_2028851708227735552",
+              "start": 183,
+              "url": "https://t.co/fTdW3E7OTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028852189838684293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "おにまい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/artworks/14187…",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/artworks/141875066",
+                "start": 38,
+                "url": "https://t.co/WysoZglJV3"
+              }
+            ]
+          },
+          "text": "モモイとミドリ、でもやっぱり緒山姉妹。 | こうやどうふ好き #おにまい \nhttps://t.co/WysoZglJV3 \n『ミドリ、ぎゅーってして！』\nモモイのテンションで抱きつくまひろ。\nでも返ってくる抱擁は、ミドリじゃなくて“みはりのお姉ちゃん”のあったかさ。\n\n“Midori, give me a biiig hug!”\nMahiro jumps at her with full‑on Momoi energy—\nbut the arms that wrap around him aren’t Midori’s at all.\nThey’re warm in that unmistakable big‑sister Mihari way."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 5860,
+          "like_count": 684,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "モモイとミドリ、でもやっぱり緒山姉妹。 | こうやどうふ好き #おにまい \nhttps://t.co/mX4sjFNDqM \n『ミドリ、ぎゅーってして！』\nモモイのテンションで抱きつくまひろ。\nでも返ってくる抱擁は、ミドリじゃなくて“みはりのお姉ちゃん”のあったかさ。\n\n“Midori, give me a biiig hug!”\nMahiro jumps at https://t.co/fTdW3E7OTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 349,
+          "like_count": 96456,
+          "listed_count": 3,
+          "media_count": 1558,
+          "tweet_count": 15667
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:32:26.000Z",
+        "description": "Onii-chan wa Oshimai! is my favorite!\nThe illustrations posted here were created using NAI.\nhttps://t.co/r1NERGJOc4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/11791…",
+                "end": 115,
+                "expanded_url": "https://www.pixiv.net/en/users/117915742",
+                "start": 92,
+                "url": "https://t.co/r1NERGJOc4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8kswjnkkosxjuc…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8kswjnkkosxjucp?t=0Ei54M&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/KlzCEBQqQU"
+              }
+            ]
+          }
+        },
+        "id": "2009905585802891264",
+        "name": "こうやどうふ好き",
+        "pinned_tweet_id": "2021427018727051469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009925861655609344/BG8904dv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 75,
+          "like_count": 1365,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/KlzCEBQqQU",
+        "username": "onimai_daisuko",
+        "verified": true
+      }
+    ]
+  }
+}

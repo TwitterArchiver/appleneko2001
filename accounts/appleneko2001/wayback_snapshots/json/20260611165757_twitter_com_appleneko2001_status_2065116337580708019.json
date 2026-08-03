@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065115450871369728",
+        "3_2065116134945550336"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2065116337580708019",
+    "created_at": "2026-06-11T16:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065116337580708019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/klnqu6dcDB",
+          "end": 53,
+          "expanded_url": "https://x.com/appleneko2001/status/2065116337580708019/photo/1",
+          "media_key": "3_2065115450871369728",
+          "start": 30,
+          "url": "https://t.co/klnqu6dcDB"
+        },
+        {
+          "display_url": "pic.x.com/klnqu6dcDB",
+          "end": 53,
+          "expanded_url": "https://x.com/appleneko2001/status/2065116337580708019/photo/1",
+          "media_key": "3_2065116134945550336",
+          "start": 30,
+          "url": "https://t.co/klnqu6dcDB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065116337580708019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "SDF也很吃浮点精确度的…?\n也可能是咱的实现方式比较烂吧 https://t.co/klnqu6dcDB"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "how the edge looks like if you use medium precision float to SDF based circle (normalised input within range 0.0 to 1.0)",
+        "height": 775,
+        "media_key": "3_2065115450871369728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjDj6Vb0AAHt98.jpg",
+        "width": 1038
+      },
+      {
+        "alt_text": "and how the edge will looks like if you use high precision to float ",
+        "height": 460,
+        "media_key": "3_2065116134945550336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjELutbcAAG4TB.png",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065115450871369728",
+            "3_2065116134945550336"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2065116337580708019",
+        "created_at": "2026-06-11T16:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065116337580708019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/klnqu6dcDB",
+              "end": 53,
+              "expanded_url": "https://x.com/appleneko2001/status/2065116337580708019/photo/1",
+              "media_key": "3_2065115450871369728",
+              "start": 30,
+              "url": "https://t.co/klnqu6dcDB"
+            },
+            {
+              "display_url": "pic.x.com/klnqu6dcDB",
+              "end": 53,
+              "expanded_url": "https://x.com/appleneko2001/status/2065116337580708019/photo/1",
+              "media_key": "3_2065116134945550336",
+              "start": 30,
+              "url": "https://t.co/klnqu6dcDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065116337580708019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "SDF也很吃浮点精确度的…?\n也可能是咱的实现方式比较烂吧 https://t.co/klnqu6dcDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 256,
+          "like_count": 108499,
+          "listed_count": 2,
+          "media_count": 1654,
+          "tweet_count": 17360
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1932057918620541327",
+    "created_at": "2025-06-10T23:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T00:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932583990428643703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "824570238154862594",
+          "start": 0,
+          "username": "Dovahseod"
+        },
+        {
+          "end": 20,
+          "id": "1393598307784527873",
+          "start": 11,
+          "username": "miaobiao"
+        },
+        {
+          "end": 37,
+          "id": "751359726898688000",
+          "start": 21,
+          "username": "RealAkemiHomura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932583990428643703",
+    "in_reply_to_user_id": "824570238154862594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932240726764777647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dovahseod @miaobiao @RealAkemiHomura 這個問題應該是出在是netfx轉譯 \n假如說開發者重新針對dotnet編譯打包遊戲的話可能更好 理論上來說\n但是這樣的話會破壞現有的tmodloader實現 以及部分框架可能功能不通用而需要重寫 畢竟是依賴于xna的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1932057918620541327",
+        "created_at": "2025-06-10T23:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T00:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932583990428643703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "824570238154862594",
+              "start": 0,
+              "username": "Dovahseod"
+            },
+            {
+              "end": 20,
+              "id": "1393598307784527873",
+              "start": 11,
+              "username": "miaobiao"
+            },
+            {
+              "end": 37,
+              "id": "751359726898688000",
+              "start": 21,
+              "username": "RealAkemiHomura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932583990428643703",
+        "in_reply_to_user_id": "824570238154862594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932240726764777647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dovahseod @miaobiao @RealAkemiHomura 這個問題應該是出在是netfx轉譯 \n假如說開發者重新針對dotnet編譯打包遊戲的話可能更好 理論上來說\n但是這樣的話會破壞現有的tmodloader實現 以及部分框架可能功能不通用而需要重寫 畢竟是依賴于xna的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "824570238154862594",
+        "conversation_id": "1932057918620541327",
+        "created_at": "2025-06-10T00:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T01:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932240726764777647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1393598307784527873",
+              "start": 0,
+              "username": "miaobiao"
+            },
+            {
+              "end": 26,
+              "id": "751359726898688000",
+              "start": 10,
+              "username": "RealAkemiHomura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932240726764777647",
+        "in_reply_to_user_id": "1393598307784527873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932083594375336077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaobiao @RealAkemiHomura 泰拉瑞亚集显不都可以玩（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 258,
+          "like_count": 64640,
+          "listed_count": 2,
+          "media_count": 1292,
+          "tweet_count": 12199
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-26T10:50:39.000Z",
+        "description": "Think with your brain, not your smart ass. | Walker #14604 | One of the last SGEers of @Beihang1952 | Alts @FinVulDovah @DrakosChioniou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Beihang1952"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "FinVulDovah"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "DrakosChioniou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "snowderg.gay",
+                "end": 23,
+                "expanded_url": "http://snowderg.gay",
+                "start": 0,
+                "url": "https://t.co/cAfbKidhIT"
+              }
+            ]
+          }
+        },
+        "id": "824570238154862594",
+        "location": "Solstheim",
+        "name": "❄️🐉",
+        "pinned_tweet_id": "1847129936450232582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648553421807714305/c6G8OMXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 786,
+          "like_count": 323599,
+          "listed_count": 9,
+          "media_count": 4255,
+          "tweet_count": 46809
+        },
+        "url": "https://t.co/cAfbKidhIT",
+        "username": "Dovahseod",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T16:05:09.000Z",
+        "description": "@wws0629",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "wws0629"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/miaobiao",
+                "end": 23,
+                "expanded_url": "http://t.me/miaobiao",
+                "start": 0,
+                "url": "https://t.co/XV9JkFXxdV"
+              }
+            ]
+          }
+        },
+        "id": "1393598307784527873",
+        "location": "dustbin",
+        "name": "淼表",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554636918478237696/n1UxPSDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 104,
+          "like_count": 18346,
+          "listed_count": 6,
+          "media_count": 1131,
+          "tweet_count": 8260
+        },
+        "url": "https://t.co/XV9JkFXxdV",
+        "username": "miaobiao",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-08T10:18:13.000Z",
+        "description": "自言自语不受待见的🤡；读书channel https://t.co/bxzb94PVj6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/homura_grand_a…",
+                "end": 44,
+                "expanded_url": "https://t.me/homura_grand_archives",
+                "start": 21,
+                "url": "https://t.co/bxzb94PVj6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "homura.live",
+                "end": 23,
+                "expanded_url": "http://homura.live",
+                "start": 0,
+                "url": "https://t.co/igsRzGmWGY"
+              }
+            ]
+          }
+        },
+        "id": "751359726898688000",
+        "location": "🚪88",
+        "name": "Akemi Homua",
+        "pinned_tweet_id": "1918676201675038989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860270287205679104/Q4XqmQsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5537,
+          "following_count": 644,
+          "like_count": 71847,
+          "listed_count": 34,
+          "media_count": 4967,
+          "tweet_count": 30386
+        },
+        "url": "https://t.co/igsRzGmWGY",
+        "username": "RealAkemiHomura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999991156047052800"
+      ],
+      "media_source_tweet_id": [
+        "1999991164771180998"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      }
+    ],
+    "conversation_id": "2064888007404945621",
+    "created_at": "2026-06-11T01:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T02:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064888007404945621"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 28,
+          "tag": "シェフィ誕生日"
+        },
+        {
+          "end": 43,
+          "start": 37,
+          "tag": "プリコネR"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243677901423144960",
+          "start": 3,
+          "username": "umeco_bucha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/32N5FZH5Et",
+          "end": 67,
+          "expanded_url": "https://x.com/umeco_bucha/status/1999991164771180998/photo/1",
+          "media_key": "3_1999991156047052800",
+          "start": 44,
+          "url": "https://t.co/32N5FZH5Et"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064888007404945621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999991164771180998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umeco_bucha: 手直し再掲ですけども\n#シェフィ誕生日 #プリコネR https://t.co/32N5FZH5Et"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1771,
+        "media_key": "3_1999991156047052800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8FlXCobgAAmBAW.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999991156047052800"
+          ],
+          "media_source_tweet_id": [
+            "1999991164771180998"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2064888007404945621",
+        "created_at": "2026-06-11T01:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064888007404945621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "シェフィ誕生日"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "プリコネR"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243677901423144960",
+              "start": 3,
+              "username": "umeco_bucha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/32N5FZH5Et",
+              "end": 67,
+              "expanded_url": "https://x.com/umeco_bucha/status/1999991164771180998/photo/1",
+              "media_key": "3_1999991156047052800",
+              "start": 44,
+              "url": "https://t.co/32N5FZH5Et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064888007404945621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999991164771180998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umeco_bucha: 手直し再掲ですけども\n#シェフィ誕生日 #プリコネR https://t.co/32N5FZH5Et"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999991156047052800"
+          ]
+        },
+        "author_id": "1243677901423144960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "1999991164771180998",
+        "created_at": "2025-12-13T23:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T00:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999991164771180998"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "シェフィ誕生日"
+            },
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "プリコネR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/32N5FZH5Et",
+              "end": 50,
+              "expanded_url": "https://x.com/umeco_bucha/status/1999991164771180998/photo/1",
+              "media_key": "3_1999991156047052800",
+              "start": 27,
+              "url": "https://t.co/32N5FZH5Et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999991164771180998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 7235,
+          "like_count": 341,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "手直し再掲ですけども\n#シェフィ誕生日 #プリコネR https://t.co/32N5FZH5Et"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 256,
+          "like_count": 108313,
+          "listed_count": 2,
+          "media_count": 1653,
+          "tweet_count": 17340
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T23:15:03.000Z",
+        "description": "ツイ歴＝落書き歴。プリコネ時々ウマたまに突拍子もないやつを好き勝手描いてます。RT多め\nSkeb→https://t.co/TpHqDPEyQJ\nBooth→https://t.co/IGkoUi9rdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@umeco_bucha",
+                "end": 72,
+                "expanded_url": "http://skeb.jp/@umeco_bucha",
+                "start": 49,
+                "url": "https://t.co/TpHqDPEyQJ"
+              },
+              {
+                "display_url": "umekobutya.booth.pm",
+                "end": 102,
+                "expanded_url": "https://umekobutya.booth.pm/",
+                "start": 79,
+                "url": "https://t.co/IGkoUi9rdU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/52106385",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/52106385",
+                "start": 0,
+                "url": "https://t.co/oZc98NoKeG"
+              }
+            ]
+          }
+        },
+        "id": "1243677901423144960",
+        "name": "うめこぶちゃ🍵",
+        "pinned_tweet_id": "2062870937234706839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496419679983656960/QCkwLJqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 763,
+          "like_count": 52189,
+          "listed_count": 67,
+          "media_count": 1291,
+          "tweet_count": 30074
+        },
+        "url": "https://t.co/oZc98NoKeG",
+        "username": "umeco_bucha",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005034707558215680"
+      ],
+      "media_source_tweet_id": [
+        "2005034769898447357"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2005228147915268550",
+    "created_at": "2025-12-28T10:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T11:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005228147915268550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562038858988064768",
+          "start": 3,
+          "username": "TheFigen_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HcCCaBRdFg",
+          "end": 105,
+          "expanded_url": "https://x.com/TheFigen_/status/2005034769898447357/video/1",
+          "media_key": "13_2005034707558215680",
+          "start": 82,
+          "url": "https://t.co/HcCCaBRdFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005228147915268550",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 691
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005034769898447357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheFigen_: Knowing physics is a privilege.\nApplying physics is a superiority. https://t.co/HcCCaBRdFg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42536,
+        "height": 688,
+        "media_key": "13_2005034707558215680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005034707558215680/img/KEKW6Hv-K7fOk15Z.jpg",
+        "public_metrics": {
+          "view_count": 749878
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005034707558215680/vid/avc1/282x270/mKjRjJz046d7HbBS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005034707558215680/vid/avc1/376x360/km_bsqcp-OEHesWj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005034707558215680/vid/avc1/720x688/5bvs_3u1XJMBwh9I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005034707558215680/pl/feshtbepYOL6SdTS.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005034707558215680"
+          ],
+          "media_source_tweet_id": [
+            "2005034769898447357"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2005228147915268550",
+        "created_at": "2025-12-28T10:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005228147915268550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562038858988064768",
+              "start": 3,
+              "username": "TheFigen_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcCCaBRdFg",
+              "end": 105,
+              "expanded_url": "https://x.com/TheFigen_/status/2005034769898447357/video/1",
+              "media_key": "13_2005034707558215680",
+              "start": 82,
+              "url": "https://t.co/HcCCaBRdFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005228147915268550",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 691
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005034769898447357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheFigen_: Knowing physics is a privilege.\nApplying physics is a superiority. https://t.co/HcCCaBRdFg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005034707558215680"
+          ]
+        },
+        "author_id": "1562038858988064768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2005034769898447357",
+        "created_at": "2025-12-27T21:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T22:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005034769898447357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcCCaBRdFg",
+              "end": 90,
+              "expanded_url": "https://x.com/TheFigen_/status/2005034769898447357/video/1",
+              "media_key": "13_2005034707558215680",
+              "start": 67,
+              "url": "https://t.co/HcCCaBRdFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005034769898447357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1456,
+          "impression_count": 702228,
+          "like_count": 8481,
+          "quote_count": 14,
+          "reply_count": 62,
+          "retweet_count": 691
+        },
+        "reply_settings": "everyone",
+        "text": "Knowing physics is a privilege.\nApplying physics is a superiority. https://t.co/HcCCaBRdFg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 272,
+          "like_count": 68063,
+          "listed_count": 2,
+          "media_count": 1323,
+          "tweet_count": 12598
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-23T11:27:52.000Z",
+        "description": "PhD musicology/Teacher/ - Posting positive warm and art and memes content ...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/thefigen/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/thefigen/",
+                "start": 0,
+                "url": "https://t.co/Cp75iLJ8XY"
+              }
+            ]
+          }
+        },
+        "id": "1562038858988064768",
+        "name": "The Figen",
+        "pinned_tweet_id": "2003971442187133072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004754027288899584/rrvHD-qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621697,
+          "following_count": 14,
+          "like_count": 248140,
+          "listed_count": 11659,
+          "media_count": 19489,
+          "tweet_count": 31112
+        },
+        "url": "https://t.co/Cp75iLJ8XY",
+        "username": "TheFigen_",
+        "verified": true
+      }
+    ]
+  }
+}

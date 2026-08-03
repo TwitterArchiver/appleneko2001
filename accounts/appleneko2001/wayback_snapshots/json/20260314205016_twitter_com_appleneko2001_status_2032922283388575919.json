@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025559899284148224"
+      ],
+      "media_source_tweet_id": [
+        "2025597427319980516"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032922283388575919",
+    "created_at": "2026-03-14T20:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T21:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032922283388575919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A84h8RLNzY",
+          "end": 63,
+          "expanded_url": "https://x.com/BI3BXI/status/2025597427319980516/video/1",
+          "media_key": "13_2025559899284148224",
+          "start": 40,
+          "url": "https://t.co/A84h8RLNzY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032922283388575919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 318
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025597427319980516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 【补档】【极客湾】手机游戏性能大横评：厂商作弊太疯狂！ https://t.co/A84h8RLNzY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2163227,
+        "height": 2160,
+        "media_key": "13_2025559899284148224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025559899284148224/img/fMot00pLCQ1q9f2I.jpg",
+        "public_metrics": {
+          "view_count": 77872
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/640x360/SrB0aOaN7KD5iJ-e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/pl/OG0yyh7G4bT-xZMX.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/480x270/KI5QR9q597BQP5kG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/1920x1080/eUf968PTzcOg1zoe.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/3840x2160/1i47TmriqAHyzuSr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/1280x720/DZO_LfgvzIyFgvRo.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "duration_ms": 2163227,
+        "height": 2160,
+        "media_key": "13_2025559899284148224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025559899284148224/img/fMot00pLCQ1q9f2I.jpg",
+        "public_metrics": {
+          "view_count": 77876
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/640x360/SrB0aOaN7KD5iJ-e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/pl/OG0yyh7G4bT-xZMX.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/480x270/KI5QR9q597BQP5kG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/1920x1080/eUf968PTzcOg1zoe.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/3840x2160/1i47TmriqAHyzuSr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025559899284148224/vid/avc1/1280x720/DZO_LfgvzIyFgvRo.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025559899284148224"
+          ],
+          "media_source_tweet_id": [
+            "2025597427319980516"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032922283388575919",
+        "created_at": "2026-03-14T20:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T21:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032922283388575919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A84h8RLNzY",
+              "end": 63,
+              "expanded_url": "https://x.com/BI3BXI/status/2025597427319980516/video/1",
+              "media_key": "13_2025559899284148224",
+              "start": 40,
+              "url": "https://t.co/A84h8RLNzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032922283388575919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 318
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025597427319980516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 【补档】【极客湾】手机游戏性能大横评：厂商作弊太疯狂！ https://t.co/A84h8RLNzY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025559899284148224"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2025597427319980516",
+        "created_at": "2026-02-22T15:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025597427319980516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A84h8RLNzY",
+              "end": 51,
+              "expanded_url": "https://x.com/BI3BXI/status/2025597427319980516/video/1",
+              "media_key": "13_2025559899284148224",
+              "start": 28,
+              "url": "https://t.co/A84h8RLNzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025597427319980516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 867,
+          "impression_count": 221921,
+          "like_count": 2384,
+          "quote_count": 17,
+          "reply_count": 82,
+          "retweet_count": 318
+        },
+        "reply_settings": "everyone",
+        "text": "【补档】【极客湾】手机游戏性能大横评：厂商作弊太疯狂！ https://t.co/A84h8RLNzY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2031397929580376199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 360,
+          "like_count": 98666,
+          "listed_count": 3,
+          "media_count": 1569,
+          "tweet_count": 15986
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Enby｜活人｜Sister @Tennoujinyano｜@yqua_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨（互fo寻回中）",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8234,
+          "following_count": 3621,
+          "like_count": 34090,
+          "listed_count": 20,
+          "media_count": 1964,
+          "tweet_count": 7320
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2002429526945771939",
+    "created_at": "2025-12-20T17:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002429526945771939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hsn8086/status/2001887077542363317",
+          "start": 10,
+          "url": "https://t.co/3RFBuNrBQF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002429526945771939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001887077542363317",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我：偽裝PC瀏覽器 https://t.co/3RFBuNrBQF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2001887068222603264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ghrp3bQAATgQc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2002429526945771939",
+        "created_at": "2025-12-20T17:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002429526945771939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hsn8086/status/2001887077542363317",
+              "start": 10,
+              "url": "https://t.co/3RFBuNrBQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002429526945771939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001887077542363317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我：偽裝PC瀏覽器 https://t.co/3RFBuNrBQF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001887068222603264"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2001887077542363317",
+        "created_at": "2025-12-19T05:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001887077542363317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FufkJt9uGV",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2001887077542363317/photo/1",
+              "media_key": "3_2001887068222603264",
+              "start": 0,
+              "url": "https://t.co/FufkJt9uGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001887077542363317",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 50784,
+          "like_count": 977,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FufkJt9uGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 268,
+          "like_count": 66085,
+          "listed_count": 2,
+          "media_count": 1314,
+          "tweet_count": 12409
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998324648891826176/If0Ie-HK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113293,
+          "following_count": 1012,
+          "like_count": 48472,
+          "listed_count": 253,
+          "media_count": 18062,
+          "tweet_count": 26940
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

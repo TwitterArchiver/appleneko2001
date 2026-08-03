@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2015065410006286452",
+    "created_at": "2026-01-25T15:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015442605396386205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723952779427979264",
+          "start": 0,
+          "username": "QYingzheng6671"
+        },
+        {
+          "end": 28,
+          "id": "20484009",
+          "start": 16,
+          "username": "riverleaf88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015442605396386205",
+    "in_reply_to_user_id": "1723952779427979264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015441198702620737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QYingzheng6671 @riverleaf88 是 但 我希望你沒有低估全球伺服器的數量 有的一些設備 使用的也是linux作業系統 例如說 路由器\n大部分網路基建使用的也都是linux系統 當然也不排除使用bsd的可能 甚至部分企業方案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2015065410006286452",
+        "created_at": "2026-01-25T15:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015442605396386205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723952779427979264",
+              "start": 0,
+              "username": "QYingzheng6671"
+            },
+            {
+              "end": 28,
+              "id": "20484009",
+              "start": 16,
+              "username": "riverleaf88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015442605396386205",
+        "in_reply_to_user_id": "1723952779427979264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015441198702620737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QYingzheng6671 @riverleaf88 是 但 我希望你沒有低估全球伺服器的數量 有的一些設備 使用的也是linux作業系統 例如說 路由器\n大部分網路基建使用的也都是linux系統 當然也不排除使用bsd的可能 甚至部分企業方案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723952779427979264",
+        "conversation_id": "2015065410006286452",
+        "created_at": "2026-01-25T15:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015441198702620737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 27,
+              "id": "20484009",
+              "start": 15,
+              "username": "riverleaf88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015441198702620737",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015425435790659917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @riverleaf88 按照金字塔的逻辑，消费级的产品在数量上一定是高于商用级的，说人话就是，一台服务器烂死也可以给大于1个用户提供服务。不存在服务器数量大于桌面消费级的可能啊。2000个商户，200个用户，这对吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 320,
+          "like_count": 84280,
+          "listed_count": 2,
+          "media_count": 1441,
+          "tweet_count": 14062
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T06:36:04.000Z",
+        "description": "社区网站：1coin点vip\n社区免费AI分析：http://129.226.149.89/\ntg群：feimao006\n草根量化开发者，用爱发光的新手导师。\n使用社区邀请码注册交易所，可免费使用社区开发的相关工具。\n玩美股？有bitget就够了，邀请码6qmx，自动返还50%",
+        "id": "1723952779427979264",
+        "name": "肥猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916514355421794304/_VMtCKXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 164,
+          "like_count": 75,
+          "listed_count": 7,
+          "media_count": 1173,
+          "tweet_count": 4766
+        },
+        "username": "QYingzheng6671",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-10T01:28:58.000Z",
+        "description": "会下厨的产品创作者 \n1. 路图忆 https://t.co/C5fFYUfGJJ\n2. 投影仪计算器 https://t.co/Vsp2BSNDAh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "routory.app",
+                "end": 41,
+                "expanded_url": "https://routory.app",
+                "start": 18,
+                "url": "https://t.co/C5fFYUfGJJ"
+              },
+              {
+                "display_url": "projector.hdrsetup.com",
+                "end": 75,
+                "expanded_url": "https://projector.hdrsetup.com/",
+                "start": 52,
+                "url": "https://t.co/Vsp2BSNDAh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lishun.me",
+                "end": 23,
+                "expanded_url": "https://blog.lishun.me",
+                "start": 0,
+                "url": "https://t.co/9oPAY4PHFr"
+              }
+            ]
+          }
+        },
+        "id": "20484009",
+        "location": "Earth",
+        "name": "River Leaf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596851019316572160/lJmC6W-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24984,
+          "following_count": 1214,
+          "like_count": 20924,
+          "listed_count": 222,
+          "media_count": 1639,
+          "tweet_count": 26457
+        },
+        "url": "https://t.co/9oPAY4PHFr",
+        "username": "riverleaf88",
+        "verified": false
+      }
+    ]
+  }
+}

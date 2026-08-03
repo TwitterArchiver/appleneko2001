@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046924396464680960"
+      ],
+      "media_source_tweet_id": [
+        "2046924487250362455"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2046985113905598595",
+    "created_at": "2026-04-22T16:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046985113905598595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "19390792",
+          "start": 3,
+          "username": "rikak"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EiC0VPBgqT",
+          "end": 43,
+          "expanded_url": "https://x.com/rikak/status/2046924487250362455/photo/1",
+          "media_key": "3_2046924396464680960",
+          "start": 20,
+          "url": "https://t.co/EiC0VPBgqT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046985113905598595",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046924487250362455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rikak: ケモミミメイド♂ https://t.co/EiC0VPBgqT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2046924396464680960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgi5L1bsAASu84.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046924396464680960"
+          ],
+          "media_source_tweet_id": [
+            "2046924487250362455"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2046985113905598595",
+        "created_at": "2026-04-22T16:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046985113905598595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "19390792",
+              "start": 3,
+              "username": "rikak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EiC0VPBgqT",
+              "end": 43,
+              "expanded_url": "https://x.com/rikak/status/2046924487250362455/photo/1",
+              "media_key": "3_2046924396464680960",
+              "start": 20,
+              "url": "https://t.co/EiC0VPBgqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046985113905598595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046924487250362455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rikak: ケモミミメイド♂ https://t.co/EiC0VPBgqT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046924396464680960"
+          ]
+        },
+        "author_id": "19390792",
+        "conversation_id": "2046924487250362455",
+        "created_at": "2026-04-22T12:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046924487250362455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EiC0VPBgqT",
+              "end": 32,
+              "expanded_url": "https://x.com/rikak/status/2046924487250362455/photo/1",
+              "media_key": "3_2046924396464680960",
+              "start": 9,
+              "url": "https://t.co/EiC0VPBgqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046924487250362455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 17041,
+          "like_count": 1343,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "ケモミミメイド♂ https://t.co/EiC0VPBgqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 355,
+          "like_count": 102376,
+          "listed_count": 3,
+          "media_count": 1612,
+          "tweet_count": 16532
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-23T11:39:26.000Z",
+        "description": "漫画家兼イラストレーター。ふわふわのいのちがすき。\nにじさんじ「鈴木勝」画 / 絵師100人展16 / 漫画作画等やっています。\nお仕事のご相談等はサイトに記載のメールまでお願いします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "galvas.net",
+                "end": 23,
+                "expanded_url": "http://galvas.net/",
+                "start": 0,
+                "url": "https://t.co/agFKHj4Zxh"
+              }
+            ]
+          }
+        },
+        "id": "19390792",
+        "name": "神吉李花☪️🐧九州コミティア【F32】",
+        "pinned_tweet_id": "1999742713223328186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503281812013215744/_xjuua10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150793,
+          "following_count": 2801,
+          "like_count": 117912,
+          "listed_count": 1785,
+          "media_count": 9469,
+          "tweet_count": 162447
+        },
+        "url": "https://t.co/agFKHj4Zxh",
+        "username": "rikak",
+        "verified": true
+      }
+    ]
+  }
+}

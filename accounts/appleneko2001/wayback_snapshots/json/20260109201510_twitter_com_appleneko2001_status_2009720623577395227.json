@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009720228427771904"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009257280143806786",
+    "created_at": "2026-01-09T20:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T21:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009720623577395227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4006882761",
+          "start": 0,
+          "username": "dzhohola"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xfbs5xuMrE",
+          "end": 42,
+          "expanded_url": "https://x.com/appleneko2001/status/2009720623577395227/photo/1",
+          "media_key": "3_2009720228427771904",
+          "start": 19,
+          "url": "https://t.co/Xfbs5xuMrE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009720623577395227",
+    "in_reply_to_user_id": "4006882761",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009322169801884043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzhohola maybe no https://t.co/Xfbs5xuMrE"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "neofetch system info",
+        "height": 1440,
+        "media_key": "3_2009720228427771904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-P15llasAAOVSR.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009720228427771904"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009257280143806786",
+        "created_at": "2026-01-09T20:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T21:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009720623577395227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4006882761",
+              "start": 0,
+              "username": "dzhohola"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xfbs5xuMrE",
+              "end": 42,
+              "expanded_url": "https://x.com/appleneko2001/status/2009720623577395227/photo/1",
+              "media_key": "3_2009720228427771904",
+              "start": 19,
+              "url": "https://t.co/Xfbs5xuMrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009720623577395227",
+        "in_reply_to_user_id": "4006882761",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009322169801884043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzhohola maybe no https://t.co/Xfbs5xuMrE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4006882761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2009257280143806786",
+        "created_at": "2026-01-08T17:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009322169801884043"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Linux",
+              "probability": 0.9803,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810488444512337920",
+              "start": 0,
+              "username": "akramcodez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009322169801884043",
+        "in_reply_to_user_id": "1810488444512337920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 86214,
+          "like_count": 26,
+          "quote_count": 8,
+          "reply_count": 40,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009257280143806786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akramcodez The only good thing for Linux is to run a server and nothing else"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 281,
+          "like_count": 73285,
+          "listed_count": 2,
+          "media_count": 1366,
+          "tweet_count": 13022
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-21T04:16:57.000Z",
+        "description": "free Google Calendar personal Butler 👉 https://t.co/rmHj9kTIO3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "calendarflow.dev",
+                "end": 62,
+                "expanded_url": "https://calendarflow.dev/",
+                "start": 39,
+                "url": "https://t.co/rmHj9kTIO3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rostyslav.dev",
+                "end": 23,
+                "expanded_url": "https://www.rostyslav.dev/",
+                "start": 0,
+                "url": "https://t.co/9k7H3hZB0L"
+              }
+            ]
+          }
+        },
+        "id": "4006882761",
+        "location": " Austin, TX",
+        "name": "Rosty",
+        "pinned_tweet_id": "2009121638374363450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003951801423302656/5f18-nW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 432,
+          "like_count": 19752,
+          "listed_count": 15,
+          "media_count": 1146,
+          "tweet_count": 16244
+        },
+        "url": "https://t.co/9k7H3hZB0L",
+        "username": "dzhohola",
+        "verified": true
+      }
+    ]
+  }
+}

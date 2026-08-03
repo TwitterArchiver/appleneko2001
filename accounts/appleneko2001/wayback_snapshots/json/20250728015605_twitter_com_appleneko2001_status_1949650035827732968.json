@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1949430482539614373",
+    "created_at": "2025-07-28T01:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T02:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949650035827732968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94082134",
+          "start": 0,
+          "username": "davyzhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949650035827732968",
+    "in_reply_to_user_id": "94082134",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949648251503714373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@davyzhang 🤣唉"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1949648251503714373].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1949648251503714373",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1949648251503714373"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1949430482539614373",
+        "created_at": "2025-07-28T01:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949650035827732968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94082134",
+              "start": 0,
+              "username": "davyzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949650035827732968",
+        "in_reply_to_user_id": "94082134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949648251503714373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@davyzhang 🤣唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 258,
+          "like_count": 65703,
+          "listed_count": 2,
+          "media_count": 1300,
+          "tweet_count": 12321
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-02T12:46:57.000Z",
+        "description": "Game🎮 Developer/Player\nMaster of none, that is my strength.\nExpert of failure, that is my life.\n为安全锁推|会通过|会回fo|蛋头会被b掉",
+        "id": "94082134",
+        "name": "大胃·张 💪 努力减肥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551056437509365760/V5-EVRfa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 3214,
+          "like_count": 59000,
+          "listed_count": 4,
+          "media_count": 983,
+          "tweet_count": 17667
+        },
+        "username": "davyzhang",
+        "verified": false
+      }
+    ]
+  }
+}

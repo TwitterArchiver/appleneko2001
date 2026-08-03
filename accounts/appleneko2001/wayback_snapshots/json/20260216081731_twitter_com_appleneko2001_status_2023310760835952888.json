@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023310027621310464"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2023310760835952888",
+    "created_at": "2026-02-16T08:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023310760835952888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bDsUJlhUoW",
+          "end": 36,
+          "expanded_url": "https://x.com/appleneko2001/status/2023310760835952888/photo/1",
+          "media_key": "3_2023310027621310464",
+          "start": 13,
+          "url": "https://t.co/bDsUJlhUoW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023310760835952888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "kxk还是一如既往的逆天 https://t.co/bDsUJlhUoW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023310760835952888].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023310760835952888",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023310760835952888"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "someone posted a poll: which rhythm games type do you like:\nscroll-down type (osu!mania, project sekai, etc.)\nclick or fixed on place (osu!std, cytus, etc. i guess)\nlinear move judgement (idk which one it says exactly i didnt understand lol)\nand others options, say it in comments\n\nand kxk answered:\ncame-from-behind type",
+        "height": 478,
+        "media_key": "3_2023310027621310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ9wAraoAA3lQ9.png",
+        "width": 774
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 328,
+          "like_count": 90084,
+          "listed_count": 2,
+          "media_count": 1490,
+          "tweet_count": 14659
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

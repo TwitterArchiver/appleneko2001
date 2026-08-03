@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "TXT (투모로우바이투게더)",
+          "id": "1083397690140971008",
+          "name": "TOMORROW X TOGETHER"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "TXT (투모로우바이투게더)",
+          "id": "1083397690140971008",
+          "name": "TOMORROW X TOGETHER"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TXT (투모로우바이투게더)",
+          "id": "1083397690140971008",
+          "name": "TOMORROW X TOGETHER"
+        }
+      }
+    ],
+    "conversation_id": "2013884654219145386",
+    "created_at": "2026-01-21T08:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T09:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013884654219145386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602320477347000325",
+          "start": 3,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013884654219145386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013598619216289907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landiantech: 如果网站没有 robots.txt 文件，谷歌搜索会直接清除网站的所有搜索结果。这是个反直觉的情况，站长 Adam 分享的谷歌支持文件显示，谷歌爬虫首先会检查网站是否有 robots.txt 文件，如果检测不到则默认当作网站不允许抓取任何内容，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2013598595715403776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_G9QRnXkAA3UZx.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          }
+        ],
+        "conversation_id": "2013884654219145386",
+        "created_at": "2026-01-21T08:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T09:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013884654219145386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602320477347000325",
+              "start": 3,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013884654219145386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013598619216289907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landiantech: 如果网站没有 robots.txt 文件，谷歌搜索会直接清除网站的所有搜索结果。这是个反直觉的情况，站长 Adam 分享的谷歌支持文件显示，谷歌爬虫首先会检查网站是否有 robots.txt 文件，如果检测不到则默认当作网站不允许抓取任何内容，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013598595715403776"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          }
+        ],
+        "conversation_id": "2013598619216289907",
+        "created_at": "2026-01-20T13:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013598619216289907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ourl.co/111584?x",
+              "end": 165,
+              "expanded_url": "https://ourl.co/111584?x",
+              "start": 142,
+              "unwound_url": "https://www.landiannews.com/archives/111584.html?utm_source=x.com&utm_medium=social&utm_campaign=%E5%A6%82%E6%9E%9C%E7%BD%91%E7%AB%99%E6%B2%A1%E6%9C%89robots.txt%E6%96%87%E4%BB%B6+%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E4%BC%9A%E7%9B%B4%E6%8E%A5%E6%B8%85%E9%99%A4%E7%BD%91%E7%AB%99%E6%89%80%E6%9C%89%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C",
+              "url": "https://t.co/8UxN7y8mtv"
+            },
+            {
+              "display_url": "pic.x.com/IYStJCPOi3",
+              "end": 189,
+              "expanded_url": "https://x.com/landiantech/status/2013598619216289907/photo/1",
+              "media_key": "3_2013598595715403776",
+              "start": 166,
+              "url": "https://t.co/IYStJCPOi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013598619216289907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 13459,
+          "like_count": 61,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如果网站没有 robots.txt 文件，谷歌搜索会直接清除网站的所有搜索结果。这是个反直觉的情况，站长 Adam 分享的谷歌支持文件显示，谷歌爬虫首先会检查网站是否有 robots.txt 文件，如果检测不到则默认当作网站不允许抓取任何内容，所以已经收录的内容也会被删除。查看全文：https://t.co/8UxN7y8mtv https://t.co/IYStJCPOi3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 312,
+          "like_count": 81293,
+          "listed_count": 2,
+          "media_count": 1421,
+          "tweet_count": 13807
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31342,
+          "following_count": 643,
+          "like_count": 3863,
+          "listed_count": 253,
+          "media_count": 4592,
+          "tweet_count": 13463
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

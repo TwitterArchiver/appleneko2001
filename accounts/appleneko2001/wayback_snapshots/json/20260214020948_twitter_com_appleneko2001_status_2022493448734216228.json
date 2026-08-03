@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013083901472681985",
+        "3_2013083901468499968",
+        "3_2013083903079153664",
+        "3_2013083901476937728"
+      ],
+      "media_source_tweet_id": [
+        "2013083912915108242",
+        "2013083912915108242",
+        "2013083912915108242",
+        "2013083912915108242"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2022493448734216228",
+    "created_at": "2026-02-14T02:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022493448734216228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1305500169828409345",
+          "start": 3,
+          "username": "seizar_pic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6I0u1Mr3QY",
+          "end": 140,
+          "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+          "media_key": "3_2013083901472681985",
+          "start": 117,
+          "url": "https://t.co/6I0u1Mr3QY"
+        },
+        {
+          "display_url": "pic.x.com/6I0u1Mr3QY",
+          "end": 140,
+          "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+          "media_key": "3_2013083901468499968",
+          "start": 117,
+          "url": "https://t.co/6I0u1Mr3QY"
+        },
+        {
+          "display_url": "pic.x.com/6I0u1Mr3QY",
+          "end": 140,
+          "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+          "media_key": "3_2013083903079153664",
+          "start": 117,
+          "url": "https://t.co/6I0u1Mr3QY"
+        },
+        {
+          "display_url": "pic.x.com/6I0u1Mr3QY",
+          "end": 140,
+          "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+          "media_key": "3_2013083901476937728",
+          "start": 117,
+          "url": "https://t.co/6I0u1Mr3QY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022493448734216228",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013083912915108242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seizar_pic: 新しくフォローしてくれた皆さん。ふぉれすといいます。カメラをもったおおかみとして写真を撮っています📸\nこれまでに撮った自分のお気に入りを貼っておきます！\nいいね、リポスト、リプしてくれると喜びます🐺✨ https://t.co/6I0u1Mr3QY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013083901472681985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_pJIJWMAEj5qC.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2013083901468499968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_pJIIWYAAlTKG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2013083903079153664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_pJOIXAAAecAR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2013083901476937728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_pJIKXIAA6sbZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013083901472681985",
+            "3_2013083901468499968",
+            "3_2013083903079153664",
+            "3_2013083901476937728"
+          ],
+          "media_source_tweet_id": [
+            "2013083912915108242",
+            "2013083912915108242",
+            "2013083912915108242",
+            "2013083912915108242"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2022493448734216228",
+        "created_at": "2026-02-14T02:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022493448734216228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1305500169828409345",
+              "start": 3,
+              "username": "seizar_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6I0u1Mr3QY",
+              "end": 140,
+              "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+              "media_key": "3_2013083901472681985",
+              "start": 117,
+              "url": "https://t.co/6I0u1Mr3QY"
+            },
+            {
+              "display_url": "pic.x.com/6I0u1Mr3QY",
+              "end": 140,
+              "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+              "media_key": "3_2013083901468499968",
+              "start": 117,
+              "url": "https://t.co/6I0u1Mr3QY"
+            },
+            {
+              "display_url": "pic.x.com/6I0u1Mr3QY",
+              "end": 140,
+              "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+              "media_key": "3_2013083903079153664",
+              "start": 117,
+              "url": "https://t.co/6I0u1Mr3QY"
+            },
+            {
+              "display_url": "pic.x.com/6I0u1Mr3QY",
+              "end": 140,
+              "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+              "media_key": "3_2013083901476937728",
+              "start": 117,
+              "url": "https://t.co/6I0u1Mr3QY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022493448734216228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013083912915108242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seizar_pic: 新しくフォローしてくれた皆さん。ふぉれすといいます。カメラをもったおおかみとして写真を撮っています📸\nこれまでに撮った自分のお気に入りを貼っておきます！\nいいね、リポスト、リプしてくれると喜びます🐺✨ https://t.co/6I0u1Mr3QY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013083901472681985",
+            "3_2013083901468499968",
+            "3_2013083903079153664",
+            "3_2013083901476937728"
+          ]
+        },
+        "author_id": "1305500169828409345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2013083912915108242",
+        "created_at": "2026-01-19T02:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013083912915108242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6I0u1Mr3QY",
+              "end": 124,
+              "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+              "media_key": "3_2013083901472681985",
+              "start": 101,
+              "url": "https://t.co/6I0u1Mr3QY"
+            },
+            {
+              "display_url": "pic.x.com/6I0u1Mr3QY",
+              "end": 124,
+              "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+              "media_key": "3_2013083901468499968",
+              "start": 101,
+              "url": "https://t.co/6I0u1Mr3QY"
+            },
+            {
+              "display_url": "pic.x.com/6I0u1Mr3QY",
+              "end": 124,
+              "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+              "media_key": "3_2013083903079153664",
+              "start": 101,
+              "url": "https://t.co/6I0u1Mr3QY"
+            },
+            {
+              "display_url": "pic.x.com/6I0u1Mr3QY",
+              "end": 124,
+              "expanded_url": "https://x.com/seizar_pic/status/2013083912915108242/photo/1",
+              "media_key": "3_2013083901476937728",
+              "start": 101,
+              "url": "https://t.co/6I0u1Mr3QY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013083912915108242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6475,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "新しくフォローしてくれた皆さん。ふぉれすといいます。カメラをもったおおかみとして写真を撮っています📸\nこれまでに撮った自分のお気に入りを貼っておきます！\nいいね、リポスト、リプしてくれると喜びます🐺✨ https://t.co/6I0u1Mr3QY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 326,
+          "like_count": 89503,
+          "listed_count": 2,
+          "media_count": 1486,
+          "tweet_count": 14588
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-14T13:34:39.000Z",
+        "description": "カメラをもったおおかみ。/フォトマスター検定1級 / アイコン→@matcha__ore_p / カメラくれた人→@TanestarP / サブ垢→@rhythmer_seizar ⚠️Do not reupload my picture. Do not use my picture for AI training.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "matcha__ore_p"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "TanestarP"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "rhythmer_seizar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/seizarpic",
+                "end": 23,
+                "expanded_url": "https://lit.link/seizarpic",
+                "start": 0,
+                "url": "https://t.co/B6RMEGN997"
+              }
+            ]
+          }
+        },
+        "id": "1305500169828409345",
+        "location": "よく撮る：お花、風景、星空",
+        "name": "ふぉれす",
+        "pinned_tweet_id": "2010275045722230795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907039099489521664/GXsOKwW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 207,
+          "like_count": 26139,
+          "listed_count": 5,
+          "media_count": 870,
+          "tweet_count": 3532
+        },
+        "url": "https://t.co/B6RMEGN997",
+        "username": "seizar_pic",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1930878798364635136"
+      ],
+      "media_source_tweet_id": [
+        "1930878860394139733"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Design",
+          "id": "847872720331079681",
+          "name": "Design"
+        }
+      }
+    ],
+    "conversation_id": "1931493230979453200",
+    "created_at": "2025-06-07T23:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T00:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931493230979453200"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "OneUI 7",
+          "probability": 0.5883,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807064118366490624",
+          "start": 3,
+          "username": "SLKVinyl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TBV6EMaGTi",
+          "end": 83,
+          "expanded_url": "https://x.com/SLKVinyl/status/1930878860394139733/video/1",
+          "media_key": "13_1930878798364635136",
+          "start": 60,
+          "url": "https://t.co/TBV6EMaGTi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931493230979453200",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930878860394139733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SLKVinyl: OneUI 7’s QS if I was the designer: (concept) https://t.co/TBV6EMaGTi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13266,
+        "height": 900,
+        "media_key": "13_1930878798364635136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930878798364635136/img/DX0_6ZJ6IvrqW2qA.jpg",
+        "public_metrics": {
+          "view_count": 9266
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930878798364635136/vid/avc1/320x400/g2Q0vAKXYc4TVFGd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930878798364635136/vid/avc1/480x600/qo2Ul7omw3pwp2V_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930878798364635136/vid/avc1/720x900/TnavlBJyCRHBT77p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930878798364635136/pl/KxGu27xD0fE_47Sb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930878798364635136"
+          ],
+          "media_source_tweet_id": [
+            "1930878860394139733"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "1931493230979453200",
+        "created_at": "2025-06-07T23:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T00:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931493230979453200"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "OneUI 7",
+              "probability": 0.5883,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807064118366490624",
+              "start": 3,
+              "username": "SLKVinyl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBV6EMaGTi",
+              "end": 83,
+              "expanded_url": "https://x.com/SLKVinyl/status/1930878860394139733/video/1",
+              "media_key": "13_1930878798364635136",
+              "start": 60,
+              "url": "https://t.co/TBV6EMaGTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931493230979453200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930878860394139733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SLKVinyl: OneUI 7’s QS if I was the designer: (concept) https://t.co/TBV6EMaGTi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930878798364635136"
+          ]
+        },
+        "author_id": "1807064118366490624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "1930878860394139733",
+        "created_at": "2025-06-06T06:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T07:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930878860394139733"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "OneUI 7",
+              "probability": 0.6414,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBV6EMaGTi",
+              "end": 69,
+              "expanded_url": "https://x.com/SLKVinyl/status/1930878860394139733/video/1",
+              "media_key": "13_1930878798364635136",
+              "start": 46,
+              "url": "https://t.co/TBV6EMaGTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930878860394139733",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 22944,
+          "like_count": 422,
+          "quote_count": 6,
+          "reply_count": 37,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "OneUI 7’s QS if I was the designer: (concept) https://t.co/TBV6EMaGTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 257,
+          "like_count": 64506,
+          "listed_count": 2,
+          "media_count": 1291,
+          "tweet_count": 12174
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:50:49.000Z",
+        "description": "photographer + concept creator/designer 🔰+ digital artist 🔰+ random thingss | I argue about tech and posts concepts as a side lmao",
+        "id": "1807064118366490624",
+        "location": "Lumon",
+        "name": "SLK15",
+        "pinned_tweet_id": "1930878860394139733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874851443267739648/yOHkuEyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 280,
+          "like_count": 12432,
+          "listed_count": 2,
+          "media_count": 993,
+          "tweet_count": 5666
+        },
+        "username": "SLKVinyl",
+        "verified": false
+      }
+    ]
+  }
+}

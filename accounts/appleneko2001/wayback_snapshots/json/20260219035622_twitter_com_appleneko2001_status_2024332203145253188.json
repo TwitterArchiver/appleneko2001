@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023325409979580418"
+      ],
+      "media_source_tweet_id": [
+        "2024076433321320911"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2024332203145253188",
+    "created_at": "2026-02-19T03:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024332203145253188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1360104033495654403",
+          "start": 3,
+          "username": "jia0kelvin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C1VUGTDq7L",
+          "end": 46,
+          "expanded_url": "https://x.com/jia0kelvin/status/2024076433321320911/photo/1",
+          "media_key": "3_2023325409979580418",
+          "start": 23,
+          "url": "https://t.co/C1VUGTDq7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024332203145253188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024076433321320911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jia0kelvin: 過年只求平靜 https://t.co/C1VUGTDq7L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2023325409979580418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRLvYbawAI0IpA.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023325409979580418"
+          ],
+          "media_source_tweet_id": [
+            "2024076433321320911"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2024332203145253188",
+        "created_at": "2026-02-19T03:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024332203145253188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1360104033495654403",
+              "start": 3,
+              "username": "jia0kelvin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1VUGTDq7L",
+              "end": 46,
+              "expanded_url": "https://x.com/jia0kelvin/status/2024076433321320911/photo/1",
+              "media_key": "3_2023325409979580418",
+              "start": 23,
+              "url": "https://t.co/C1VUGTDq7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024332203145253188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024076433321320911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jia0kelvin: 過年只求平靜 https://t.co/C1VUGTDq7L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023325409979580418"
+          ]
+        },
+        "author_id": "1360104033495654403",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2024076433321320911",
+        "created_at": "2026-02-18T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024076433321320911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1VUGTDq7L",
+              "end": 30,
+              "expanded_url": "https://x.com/jia0kelvin/status/2024076433321320911/photo/1",
+              "media_key": "3_2023325409979580418",
+              "start": 7,
+              "url": "https://t.co/C1VUGTDq7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024076433321320911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11413,
+          "like_count": 863,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "過年只求平靜 https://t.co/C1VUGTDq7L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 327,
+          "like_count": 90841,
+          "listed_count": 2,
+          "media_count": 1496,
+          "tweet_count": 14758
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T05:51:41.000Z",
+        "description": "FB | IG也是@jia0kelvin\n推特講自己的，順便放圖文。\n轉載禁止、轉貼禁止\n聯絡用信箱：patti930626@gmail.com\n\n週邊分享 #加零不只在電線桿下\n🚧各類消息整理，請點帳號連結🚧\n阿宅垢@abengogo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 79,
+                "tag": "加零不只在電線桿下"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "jia0kelvin"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "abengogo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/jia0kelvin",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/jia0kelvin",
+                "start": 0,
+                "url": "https://t.co/m05K8e7dOS"
+              }
+            ]
+          }
+        },
+        "id": "1360104033495654403",
+        "location": "貼圖衣服刊物周邊販售中，可點連結遊覽",
+        "name": "加零在電線桿下🍣新貼圖上架",
+        "pinned_tweet_id": "2003782721609372020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775195190221045761/_zp0PZkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40895,
+          "following_count": 161,
+          "like_count": 21596,
+          "listed_count": 108,
+          "media_count": 1442,
+          "tweet_count": 8260
+        },
+        "url": "https://t.co/m05K8e7dOS",
+        "username": "jia0kelvin",
+        "verified": false
+      }
+    ]
+  }
+}

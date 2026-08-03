@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple Macbook",
+          "id": "972168210182111232",
+          "name": "Apple Macbook"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347257866864873473",
+          "name": "Apple Mac"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2024429776073871740",
+    "created_at": "2026-02-19T10:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T11:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024429776073871740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4825911788",
+          "start": 3,
+          "username": "EZFIX_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024429776073871740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024357081491370350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EZFIX_: 你每天给 MacBook 接上充电器那一下，看似随手“咔嗒”一声，电脑里却有二十多个芯片同时醒来。它们在零点零几秒内完成一轮极严苛的“盘问” 一次谨慎的“谈判” 以及一套精密到可怕的调度。\n我拆完苹果一份 121 页的主板原理图，一条线读到底，想把这件事…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024357075904581632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBf2CPfXUAAuR4R.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2024429776073871740",
+        "created_at": "2026-02-19T10:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024429776073871740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4825911788",
+              "start": 3,
+              "username": "EZFIX_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024429776073871740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024357081491370350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EZFIX_: 你每天给 MacBook 接上充电器那一下，看似随手“咔嗒”一声，电脑里却有二十多个芯片同时醒来。它们在零点零几秒内完成一轮极严苛的“盘问” 一次谨慎的“谈判” 以及一套精密到可怕的调度。\n我拆完苹果一份 121 页的主板原理图，一条线读到底，想把这件事…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024357075904581632"
+          ]
+        },
+        "author_id": "4825911788",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2024357081491370350",
+        "created_at": "2026-02-19T05:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024357081491370350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRaIYks1Ie",
+              "end": 176,
+              "expanded_url": "https://x.com/EZFIX_/status/2024357081491370350/photo/1",
+              "media_key": "3_2024357075904581632",
+              "start": 153,
+              "url": "https://t.co/tRaIYks1Ie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024357081491370350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你每天给 MacBook 接上充电器那一下，看似随手“咔嗒”一声，电脑里却有二十多个芯片同时醒来。它们在零点零几秒内完成一轮极严苛的“盘问” 一次谨慎的“谈判” 以及一套精密到可怕的调度。\n我拆完苹果一份 121 页的主板原理图，一条线读到底，想把这件事讲清楚：你以为你在“充电”其实你是在启动一座城市。\n\n想象你的 MacBook 是一座沉睡的城：屏幕黑、风扇不转（甚至很多机型根本没风扇），安静得像空城。但城最深处永远亮着一盏灯——PP3V8_AON。AON 是 Always On：永远供电。电池只剩 1%，你三天没碰它，这盏灯也得亮着，因为它一灭，城市就不是“睡着”，而是“死了”，连被叫醒的能力都没有。\n\n现在你拿起充电线，MagSafe 也好，USB-C 也好——原理图里这台机器有三个“城门”：两扇 USB-C 大门，一扇 MagSafe 侧门。门有三个，但守门的其实是同一个人：ACE3。\nACE3 是苹果自己设计的芯片，三个口都归他管。每个口旁边还有专属的“翻译官”芯片负责高速信号中继，但钥匙只在 ACE3 手里。\n\n插头刚碰到接口时，注意：这时候还没“充电”。充电器和电脑先做的不是送电，而是对话。接口上的 CC 引脚是通信通道，就像城门对讲机：\n充电器先说：“我来供电，请求接入。”\nACE3 不会立刻开门，他先盘问。这就是 USB-PD 协议握手，本质是一场外交谈判：你能给多少伏？最大多少安？\nACE3拿到答案后还要再算：电池状态、机器功耗、温度传感器读数……算出一个“最优方案”。他永远只拿自己需要的。\n最后 ACE3 回复：“同意接入：20V，电流由我控制，打开 VBUS。”\n城门这才打开。\n\n门开了，但电不会直接冲进电池。20V 高压先到达 PPVBUS——这是外部电力进城的第一站。接下来要经过一条“严密布防的走廊”，走到调度中心：Mandola。\nMandola 是瑞萨的电源管理芯片（RAA489901），像个极精细的管家。她的任务是把外面进来的 20V 变成电池能接受的电压电流。MacBook 里通常是三串锂电池，满电约 11.4V，低电约 9V，20V 直接灌进去会出事，所以 Mandola必须降压、整流、并且精准控制。她用多颗功率 MOSFET 和电感组成降压结构，把“洪水”削成电池要的“涓流”。\n更关键的是：她不是盲干。她通过电流探测（进出电流都测）和电池电压探测，知道每一毫安怎么进、怎么出，并自动完成三段策略：\n电量很低：预充，像给 ICU 输液；\n电量上来：恒流快充；\n接近满电：恒压，电流逐渐变小。\n你什么都不用管。\n\n但 Mandola 头顶有个“市长”盯着她：SMC（系统管理控制器）。SMC 通过 I2C 总线不断问：电压多少？电流多少？温度多少？电池健康度、循环次数怎样？\n温度高就降功率；电池异常就切断；你一边充电一边跑重负载，SMC 还要协调“先保运算”。你看到的电池百分比，也不是电池随口报的，是 SMC 综合电压、电流、温度、历史和老化模型算出来的——所以你有时会觉得电量“跳了一下”，其实是市长在修正预测。\n\n与此同时，城市的供电网也在同步启动。电池与外部电力汇入 PPBUS_AON（城市主动脉），再分流到两颗关键“变电站站长”：SPMU / MPMU（Stowe 双胞胎）。\n一个管小功率模块，一个管大功率“电老虎”（处理器、内存等）。他们从主干取电，通过降压与稳压变出几十条不同电压轨：0.5V、0.78V、0.88V、1.2V、1.8V、3.3V……精度细到小数点后两位。每颗芯片“口味”不同，少一毫伏可能出错，多一毫伏可能烧毁，而这对双胞胎负责把每份“电力餐”按克称好、按秒上桌。\n\n充电过程中还有一些你永远注意不到、但一直醒着的角色：\n负责屏幕供电时序的显示电源管理；\n负责密钥与硬件篡改防护的安全元件；\n甚至还有传感器用于判断你是桌面充电还是塞在背包里——如果散热条件差，SMC 会主动降低充电功率。你以为只是插线，机器其实在拼命保护你。\n\n把这一切按时间线连起来，大概是这样：\n0.00 秒：接口接触，CC 引脚连通，ACE3 被唤醒。\n0.01 秒：ACE3 启动 USB-PD，对充电器“核实身份与能力”。\n0.05 秒：握手完成，ACE3 放行 VBUS，20V 进入。\n0.06 秒：电到 Mandola，开始高频降压与限流。\n0.08 秒：SMC 通过 I2C 确认状态，传感器全面上报。\n0.10 秒：Mandola 稳定进入充电模式；同时 PPBUS_AON 稳定，Stowe 双胞胎拉起几十条电压轨。\n然后，你的屏幕角落出现一个小小的闪电符号 ⚡\n\n你什么都没感觉到。\n但不到一秒，二十多颗芯片完成了完美协作：ACE3管谈判，Mandola 管调度，SMC 管监督，Stowe 管配电，各司其职，互不越界，却把整座城市点亮。\n\n所以下次你随手把充电线往 MacBook 上一拍时，你可以在心里说：\n“我刚刚启动了一座城市。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 48734,
+          "like_count": 541,
+          "quote_count": 16,
+          "reply_count": 34,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "你每天给 MacBook 接上充电器那一下，看似随手“咔嗒”一声，电脑里却有二十多个芯片同时醒来。它们在零点零几秒内完成一轮极严苛的“盘问” 一次谨慎的“谈判” 以及一套精密到可怕的调度。\n我拆完苹果一份 121 页的主板原理图，一条线读到底，想把这件事讲清楚：你以为你在“充电”其实你是在启动一座城市。 https://t.co/tRaIYks1Ie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 327,
+          "like_count": 90999,
+          "listed_count": 2,
+          "media_count": 1497,
+          "tweet_count": 14783
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-28T14:46:22.000Z",
+        "description": "维修店店主 精修 Mac & iPhone iPad   维修服务WeChat: EZFIX_",
+        "id": "4825911788",
+        "location": "中国大陆",
+        "name": "EZFIX",
+        "pinned_tweet_id": "1351093412636856324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1320269221977190401/jy3u_zNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30540,
+          "following_count": 193,
+          "like_count": 2320,
+          "listed_count": 160,
+          "media_count": 722,
+          "tweet_count": 3921
+        },
+        "username": "EZFIX_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      }
+    ],
+    "conversation_id": "2007366532909937067",
+    "created_at": "2026-01-03T08:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T09:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007366532909937067"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Microsoft Paint",
+          "probability": 0.8973,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "PC",
+          "probability": 0.3906,
+          "start": 64,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "470874857",
+          "start": 3,
+          "username": "DistantValhalla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Um2L",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/Um2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007366532909937067",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 572
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007178849864561062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DistantValhalla: Microsoft Paint uninstalled itself from my PC without asking so I went to get it back and HELLO? 😭😭😭 https://t.co/Um2L…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2007178771955113984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rudWcW4AA1CB0.jpg",
+        "width": 1369
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2007366532909937067",
+        "created_at": "2026-01-03T08:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007366532909937067"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Microsoft Paint",
+              "probability": 0.8973,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "PC",
+              "probability": 0.3906,
+              "start": 64,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "470874857",
+              "start": 3,
+              "username": "DistantValhalla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Um2L",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/Um2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007366532909937067",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 572
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007178849864561062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DistantValhalla: Microsoft Paint uninstalled itself from my PC without asking so I went to get it back and HELLO? 😭😭😭 https://t.co/Um2L…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007178771955113984"
+          ]
+        },
+        "author_id": "470874857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2007178849864561062",
+        "created_at": "2026-01-02T19:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T20:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007178849864561062"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Microsoft Paint",
+              "probability": 0.9361,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Um2L2pDfcT",
+              "end": 124,
+              "expanded_url": "https://x.com/DistantValhalla/status/2007178849864561062/photo/1",
+              "media_key": "3_2007178771955113984",
+              "start": 101,
+              "url": "https://t.co/Um2L2pDfcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007178849864561062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 752,
+          "impression_count": 268213,
+          "like_count": 15199,
+          "quote_count": 59,
+          "reply_count": 187,
+          "retweet_count": 572
+        },
+        "reply_settings": "everyone",
+        "text": "Microsoft Paint uninstalled itself from my PC without asking so I went to get it back and HELLO? 😭😭😭 https://t.co/Um2L2pDfcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 274,
+          "like_count": 71165,
+          "listed_count": 2,
+          "media_count": 1343,
+          "tweet_count": 12847
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T07:36:06.000Z",
+        "description": "Cofounder @727pro_pr | Manager @densetsuexe, @MintFantome, @vickyroman_idol, @feebeechanchibi | Translator (A;C/Somnium Files NSFKD/Rance X/Hakuoki SSL, etc.)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "727pro_pr"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "densetsuexe"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "MintFantome"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "vickyroman_idol"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "feebeechanchibi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "abhodgson.com",
+                "end": 23,
+                "expanded_url": "https://www.abhodgson.com/",
+                "start": 0,
+                "url": "https://t.co/AzADZTXDcK"
+              }
+            ]
+          }
+        },
+        "id": "470874857",
+        "location": "PFP: @OrdinaryRizzych",
+        "name": "Andrew 'Steiner' Hodgson🔜MAGFest",
+        "pinned_tweet_id": "1960358810603692463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796512859680770/engQ8ymr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16145,
+          "following_count": 2467,
+          "like_count": 149713,
+          "listed_count": 73,
+          "media_count": 10947,
+          "tweet_count": 65688
+        },
+        "url": "https://t.co/AzADZTXDcK",
+        "username": "DistantValhalla",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2027723634970923087",
+    "created_at": "2026-02-28T15:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027768536375169051"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "Windows 11",
+          "probability": 0.9798,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1200424824",
+          "start": 0,
+          "username": "linkfting"
+        },
+        {
+          "end": 22,
+          "id": "1418784224421847041",
+          "start": 11,
+          "username": "ChenToneGo"
+        },
+        {
+          "end": 33,
+          "id": "1751497892001685504",
+          "start": 23,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027768536375169051",
+    "in_reply_to_user_id": "1200424824",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027765894110163144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linkfting @ChenToneGo @45_206MHz Windows 11 moment"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2027723634970923087",
+        "created_at": "2026-02-28T15:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027768536375169051"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Windows 11",
+              "probability": 0.9798,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1200424824",
+              "start": 0,
+              "username": "linkfting"
+            },
+            {
+              "end": 22,
+              "id": "1418784224421847041",
+              "start": 11,
+              "username": "ChenToneGo"
+            },
+            {
+              "end": 33,
+              "id": "1751497892001685504",
+              "start": 23,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027768536375169051",
+        "in_reply_to_user_id": "1200424824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027765894110163144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linkfting @ChenToneGo @45_206MHz Windows 11 moment"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1200424824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2027723634970923087",
+        "created_at": "2026-02-28T15:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027765894110163144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1418784224421847041",
+              "start": 0,
+              "username": "ChenToneGo"
+            },
+            {
+              "end": 26,
+              "id": "1224020250733268995",
+              "start": 12,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 37,
+              "id": "1751497892001685504",
+              "start": 27,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027765894110163144",
+        "in_reply_to_user_id": "1418784224421847041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027765040712192055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenToneGo @appleneko2001 @45_206MHz windows里塞得到处都是，所谓微软ai slop，新出场笔记本电脑强行将原来是右ctrl的键设为f23唤起copilot极易误触"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 343,
+          "like_count": 94019,
+          "listed_count": 3,
+          "media_count": 1526,
+          "tweet_count": 15286
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-20T10:37:57.000Z",
+        "description": "Copium dealer.\n🪷🪷🪷🪷🪷\n输出秩序",
+        "id": "1200424824",
+        "name": "linkfting.eth",
+        "pinned_tweet_id": "1648609721878974465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884181011098963968/MTizqOfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 7500,
+          "like_count": 1915,
+          "listed_count": 13,
+          "media_count": 240,
+          "tweet_count": 3069
+        },
+        "username": "linkfting",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T04:05:03.000Z",
+        "description": "要麼征服世界，要麼一無所有。",
+        "id": "1418784224421847041",
+        "location": "四海為家",
+        "name": "高振東 고전둥 Levi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021611394907652096/jprSe4L4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 44,
+          "like_count": 2016,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 182
+        },
+        "username": "ChenToneGo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun | 叫我 45 就好啦 | AMAB | gender apathetic | 舞萌痴 | MBTI: ISTP | 里推: @45_206io | 可爱の笨蛋妹妹: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "45_206io"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "Maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009572352519213057/8DgrF8uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 463,
+          "like_count": 28532,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2884
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

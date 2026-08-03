@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059827754380730368"
+      ],
+      "media_source_tweet_id": [
+        "2059827760122781887"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2059984208433652182",
+    "created_at": "2026-05-28T13:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059984208433652182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894704119891611648",
+          "start": 3,
+          "username": "Desolvover"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8DrkgGvAcZ",
+          "end": 44,
+          "expanded_url": "https://x.com/Desolvover/status/2059827760122781887/photo/1",
+          "media_key": "3_2059827754380730368",
+          "start": 21,
+          "url": "https://t.co/8DrkgGvAcZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059984208433652182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059827760122781887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Desolvover: 为啥啊😇 https://t.co/8DrkgGvAcZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059827754380730368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJX6bd5aoAAseak.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059827754380730368"
+          ],
+          "media_source_tweet_id": [
+            "2059827760122781887"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2059984208433652182",
+        "created_at": "2026-05-28T13:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059984208433652182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894704119891611648",
+              "start": 3,
+              "username": "Desolvover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DrkgGvAcZ",
+              "end": 44,
+              "expanded_url": "https://x.com/Desolvover/status/2059827760122781887/photo/1",
+              "media_key": "3_2059827754380730368",
+              "start": 21,
+              "url": "https://t.co/8DrkgGvAcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059984208433652182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059827760122781887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Desolvover: 为啥啊😇 https://t.co/8DrkgGvAcZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059827754380730368"
+          ]
+        },
+        "author_id": "1894704119891611648",
+        "conversation_id": "2059827760122781887",
+        "created_at": "2026-05-28T02:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059827760122781887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DrkgGvAcZ",
+              "end": 28,
+              "expanded_url": "https://x.com/Desolvover/status/2059827760122781887/photo/1",
+              "media_key": "3_2059827754380730368",
+              "start": 5,
+              "url": "https://t.co/8DrkgGvAcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059827760122781887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 95211,
+          "like_count": 159,
+          "quote_count": 1,
+          "reply_count": 73,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "为啥啊😇 https://t.co/8DrkgGvAcZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，正在被修好…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/9bx2JDcXSU"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 352,
+          "like_count": 105954,
+          "listed_count": 4,
+          "media_count": 1638,
+          "tweet_count": 17069
+        },
+        "url": "https://t.co/9bx2JDcXSU",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T11:02:56.000Z",
+        "description": "@Oori_Tvv的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Oori_Tvv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cownow.fun",
+                "end": 23,
+                "expanded_url": "https://cownow.fun",
+                "start": 0,
+                "url": "https://t.co/xVLe3WYS91"
+              }
+            ]
+          }
+        },
+        "id": "1894704119891611648",
+        "location": "在你心里",
+        "name": "姓名不能为空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984744422920372224/JZnF3hlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 109,
+          "like_count": 1005,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/xVLe3WYS91",
+        "username": "Desolvover",
+        "verified": false
+      }
+    ]
+  }
+}

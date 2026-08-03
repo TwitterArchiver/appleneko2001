@@ -1,0 +1,571 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1923729134947110912"
+      ],
+      "media_source_tweet_id": [
+        "1923729407686082610"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "1924151086710960208",
+    "created_at": "2025-05-18T17:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T18:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924151086710960208"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "マイクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1524350705800155137",
+          "start": 3,
+          "username": "Nanachi_334"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YIs9LXcPQY",
+          "end": 60,
+          "expanded_url": "https://x.com/Nanachi_334/status/1923729407686082610/video/1",
+          "media_key": "13_1923729134947110912",
+          "start": 37,
+          "url": "https://t.co/YIs9LXcPQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924151086710960208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2517
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923729407686082610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nanachi_334: エスカレーターを作ったぜ\n\n#マイクラ https://t.co/YIs9LXcPQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17385,
+        "height": 1080,
+        "media_key": "13_1923729134947110912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923729134947110912/img/mFyXHYWCQWeC0Qqb.jpg",
+        "public_metrics": {
+          "view_count": 884581
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923729134947110912/vid/avc1/480x270/rwVmhp7HlsQd2Nlk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923729134947110912/vid/avc1/640x360/_NmcHPRBiyW-kXMa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923729134947110912/vid/avc1/1280x720/9ACzEPhmH7fal8pT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923729134947110912/pl/Bt67Gdjpn5jGj_-a.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923729134947110912"
+          ],
+          "media_source_tweet_id": [
+            "1923729407686082610"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1924151086710960208",
+        "created_at": "2025-05-18T17:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T18:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924151086710960208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "マイクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1524350705800155137",
+              "start": 3,
+              "username": "Nanachi_334"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIs9LXcPQY",
+              "end": 60,
+              "expanded_url": "https://x.com/Nanachi_334/status/1923729407686082610/video/1",
+              "media_key": "13_1923729134947110912",
+              "start": 37,
+              "url": "https://t.co/YIs9LXcPQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924151086710960208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2517
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923729407686082610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nanachi_334: エスカレーターを作ったぜ\n\n#マイクラ https://t.co/YIs9LXcPQY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923729134947110912"
+          ]
+        },
+        "author_id": "1524350705800155137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1923729407686082610",
+        "created_at": "2025-05-17T13:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923729407686082610"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "マイクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIs9LXcPQY",
+              "end": 43,
+              "expanded_url": "https://x.com/Nanachi_334/status/1923729407686082610/video/1",
+              "media_key": "13_1923729134947110912",
+              "start": 20,
+              "url": "https://t.co/YIs9LXcPQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923729407686082610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2915,
+          "impression_count": 2674050,
+          "like_count": 40076,
+          "quote_count": 208,
+          "reply_count": 31,
+          "retweet_count": 2517
+        },
+        "reply_settings": "everyone",
+        "text": "エスカレーターを作ったぜ\n\n#マイクラ https://t.co/YIs9LXcPQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\nGo follow me at bsky instead",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Pray to Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1922499474988929031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 251,
+          "like_count": 63676,
+          "listed_count": 2,
+          "media_count": 1281,
+          "tweet_count": 12058
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T11:30:32.000Z",
+        "description": "工業は止められねえんだ",
+        "id": "1524350705800155137",
+        "location": "Y = -59",
+        "name": "クラフター卿ナナチ",
+        "pinned_tweet_id": "1923729407686082610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907065317597351937/0vhSv_eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 70,
+          "like_count": 6466,
+          "listed_count": 2,
+          "media_count": 1049,
+          "tweet_count": 8391
+        },
+        "username": "Nanachi_334",
+        "verified": false
+      }
+    ]
+  }
+}

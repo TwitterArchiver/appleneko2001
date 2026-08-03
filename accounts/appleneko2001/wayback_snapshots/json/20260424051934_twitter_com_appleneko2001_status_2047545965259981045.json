@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2047525770189578595",
+    "created_at": "2026-04-24T05:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047545965259981045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047545965259981045",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047525770189578595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 这么看确实是有效果的说……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047525758084812800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpF1CcbkAAwL6g.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1356,
+        "media_key": "3_2047525758080626688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpF1CbbsAAihDA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2047525770189578595",
+        "created_at": "2026-04-24T05:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047545965259981045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047545965259981045",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047525770189578595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 这么看确实是有效果的说……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047525758084812800",
+            "3_2047525758080626688"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "conversation_id": "2047525770189578595",
+        "created_at": "2026-04-24T03:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047525770189578595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HIjwBd7VB9",
+              "end": 52,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2047525770189578595/photo/1",
+              "media_key": "3_2047525758084812800",
+              "start": 29,
+              "url": "https://t.co/HIjwBd7VB9"
+            },
+            {
+              "display_url": "pic.x.com/HIjwBd7VB9",
+              "end": 52,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2047525770189578595/photo/1",
+              "media_key": "3_2047525758080626688",
+              "start": 29,
+              "url": "https://t.co/HIjwBd7VB9"
+            },
+            {
+              "display_url": "x.com/mtflee/status/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/mtflee/status/2047478329616560185",
+              "start": 53,
+              "url": "https://t.co/9TT8UOTGCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047525770189578595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 345,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047478329616560185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "142days...\n不要取关我好吗我之前确实很丑... https://t.co/HIjwBd7VB9 https://t.co/9TT8UOTGCs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 355,
+          "like_count": 102696,
+          "listed_count": 3,
+          "media_count": 1614,
+          "tweet_count": 16576
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "恢覆出廠 25.11.18🏳️‍⚧️🍥|香山陰暗女高|粵內勢力|重度抑郁患者|精神支持：保羅喬治|一定會好的吧|好姐姐 @HappyHejsDay | 對象@shixveriya 🥰 |可愛姊妹@shiyaoshiwo |安卓小號 @PG13LD77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "shixveriya"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "shiyaoshiwo"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "PG13LD77"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029097178988425216/wR_-2rgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 1177,
+          "like_count": 5997,
+          "listed_count": 5,
+          "media_count": 349,
+          "tweet_count": 4438
+        },
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

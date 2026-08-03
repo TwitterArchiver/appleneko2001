@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008738054924877824"
+      ],
+      "media_source_tweet_id": [
+        "2008738127641448901"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403407197669715972",
+          "name": "Indie games"
+        }
+      }
+    ],
+    "conversation_id": "2009221697103331750",
+    "created_at": "2026-01-08T11:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009221697103331750"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 59,
+          "tag": "獨立製作"
+        },
+        {
+          "end": 75,
+          "start": 65,
+          "tag": "indiegame"
+        },
+        {
+          "end": 84,
+          "start": 76,
+          "tag": "gamedev"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "923444473429815296",
+          "start": 3,
+          "username": "ryan_94_ryan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vPJiYVK17W",
+          "end": 108,
+          "expanded_url": "https://x.com/ryan_94_ryan/status/2008738127641448901/photo/1",
+          "media_key": "3_2008738054924877824",
+          "start": 85,
+          "url": "https://t.co/vPJiYVK17W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009221697103331750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008738127641448901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ryan_94_ryan: 又是個某天被遊戲廣告打到，下載後被養成戰鬥關卡卡住很燥，只好自己做出來的故事😡\n\n#獨立製作 #indiegame #gamedev https://t.co/vPJiYVK17W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2008738054924877824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-B4nkKbQAAt-8p.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008738054924877824"
+          ],
+          "media_source_tweet_id": [
+            "2008738127641448901"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          }
+        ],
+        "conversation_id": "2009221697103331750",
+        "created_at": "2026-01-08T11:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009221697103331750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "獨立製作"
+            },
+            {
+              "end": 75,
+              "start": 65,
+              "tag": "indiegame"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "gamedev"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "923444473429815296",
+              "start": 3,
+              "username": "ryan_94_ryan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPJiYVK17W",
+              "end": 108,
+              "expanded_url": "https://x.com/ryan_94_ryan/status/2008738127641448901/photo/1",
+              "media_key": "3_2008738054924877824",
+              "start": 85,
+              "url": "https://t.co/vPJiYVK17W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009221697103331750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008738127641448901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ryan_94_ryan: 又是個某天被遊戲廣告打到，下載後被養成戰鬥關卡卡住很燥，只好自己做出來的故事😡\n\n#獨立製作 #indiegame #gamedev https://t.co/vPJiYVK17W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008738054924877824"
+          ]
+        },
+        "author_id": "923444473429815296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          }
+        ],
+        "conversation_id": "2008738127641448901",
+        "created_at": "2026-01-07T03:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T04:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008738127641448901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "獨立製作"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "indiegame"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "gamedev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vPJiYVK17W",
+              "end": 90,
+              "expanded_url": "https://x.com/ryan_94_ryan/status/2008738127641448901/photo/1",
+              "media_key": "3_2008738054924877824",
+              "start": 67,
+              "url": "https://t.co/vPJiYVK17W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008738127641448901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 52811,
+          "like_count": 1613,
+          "quote_count": 9,
+          "reply_count": 32,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "又是個某天被遊戲廣告打到，下載後被養成戰鬥關卡卡住很燥，只好自己做出來的故事😡\n\n#獨立製作 #indiegame #gamedev https://t.co/vPJiYVK17W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 281,
+          "like_count": 72973,
+          "listed_count": 2,
+          "media_count": 1363,
+          "tweet_count": 13000
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-26T07:01:34.000Z",
+        "description": "畫圖肥宅，會做點遊戲。\n圖文作家 | 剪輯師 | 遊戲製作人 | 開台仔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryan94ryan.com",
+                "end": 23,
+                "expanded_url": "http://ryan94ryan.com",
+                "start": 0,
+                "url": "https://t.co/4XpfYnuAzb"
+              }
+            ]
+          }
+        },
+        "id": "923444473429815296",
+        "name": "阿煙🚬做遊戲的",
+        "pinned_tweet_id": "2002227640347078963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911423292700794880/wzLBPeie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3831,
+          "following_count": 533,
+          "like_count": 8617,
+          "listed_count": 14,
+          "media_count": 1186,
+          "tweet_count": 4493
+        },
+        "url": "https://t.co/4XpfYnuAzb",
+        "username": "ryan_94_ryan",
+        "verified": false
+      }
+    ]
+  }
+}

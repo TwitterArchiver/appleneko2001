@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2039761381772460035",
+    "created_at": "2026-04-02T18:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T19:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039778853967872262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3065618342",
+          "start": 0,
+          "username": "discord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039778853967872262",
+    "in_reply_to_user_id": "3065618342",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039761381772460035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@discord Fix your Linux application would more worthy than the \"clappy feed\" update"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11466,
+        "height": 1080,
+        "media_key": "13_2039761116184924160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039761116184924160/img/_yvbN-cAPq2PElVk.jpg",
+        "public_metrics": {
+          "view_count": 268621
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039761116184924160/vid/avc1/720x720/KxYlnQPY8olRvLop.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039761116184924160/vid/avc1/320x320/vE8PlffAcZ8Pxo_n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039761116184924160/pl/5kmc7WomBsWOceHe.m3u8"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039761116184924160/vid/avc1/1080x1080/p97v22CbtMx1ScAn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039761116184924160/vid/avc1/540x540/bIQSdXprZbg2H_oj.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2039761381772460035",
+        "created_at": "2026-04-02T18:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039778853967872262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3065618342",
+              "start": 0,
+              "username": "discord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039778853967872262",
+        "in_reply_to_user_id": "3065618342",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039761381772460035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@discord Fix your Linux application would more worthy than the \"clappy feed\" update"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039761116184924160"
+          ]
+        },
+        "author_id": "3065618342",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2039761381772460035",
+        "created_at": "2026-04-02T17:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039761381772460035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoNGYJI2sV",
+              "end": 36,
+              "expanded_url": "https://x.com/discord/status/2039761381772460035/video/1",
+              "media_key": "13_2039761116184924160",
+              "start": 13,
+              "url": "https://t.co/qoNGYJI2sV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039761381772460035",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2239,
+          "impression_count": 894838,
+          "like_count": 14001,
+          "quote_count": 1102,
+          "reply_count": 1368,
+          "retweet_count": 735
+        },
+        "reply_settings": "everyone",
+        "text": "please enjoy https://t.co/qoNGYJI2sV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 361,
+          "like_count": 100444,
+          "listed_count": 3,
+          "media_count": 1589,
+          "tweet_count": 16173
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-07T01:00:18.000Z",
+        "description": "Where group chat is all fun & games. Need support? Reach us @discord_support",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "discord_support"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com/",
+                "start": 0,
+                "url": "https://t.co/EWXh7hERbq"
+              }
+            ]
+          }
+        },
+        "id": "3065618342",
+        "location": "San Francisco, CA",
+        "name": "Discord",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795851438956204032/rLl5Y48q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4735376,
+          "following_count": 1075,
+          "like_count": 26406,
+          "listed_count": 4688,
+          "media_count": 27043,
+          "tweet_count": 496282
+        },
+        "url": "https://t.co/EWXh7hERbq",
+        "username": "discord",
+        "verified": true
+      }
+    ]
+  }
+}

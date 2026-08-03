@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2013735625048895569",
+    "created_at": "2026-01-22T09:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T10:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014273781741584657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        },
+        {
+          "end": 23,
+          "id": "114934815",
+          "start": 13,
+          "username": "sohbunshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014273781741584657",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013944419611775082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena @sohbunshu 太強了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2013735625048895569",
+        "created_at": "2026-01-22T09:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014273781741584657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            },
+            {
+              "end": 23,
+              "id": "114934815",
+              "start": 13,
+              "username": "sohbunshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014273781741584657",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013944419611775082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena @sohbunshu 太強了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844025283676094464",
+        "conversation_id": "2013735625048895569",
+        "created_at": "2026-01-21T11:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013944419611775082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "114934815",
+              "start": 0,
+              "username": "sohbunshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013944419611775082",
+        "in_reply_to_user_id": "114934815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013735625048895569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sohbunshu 小猫我上电视了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 317,
+          "like_count": 82274,
+          "listed_count": 2,
+          "media_count": 1429,
+          "tweet_count": 13911
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "学识渊博的梗图乐子人， 喜欢写作和AI绘图，INTP科学家人格，来关注我YouTube频道，分享读书心得，一起闲聊，一起成长：https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 86,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 63,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1998413761800200678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960575620469100544/sHlTW3fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9604,
+          "following_count": 3065,
+          "like_count": 9062,
+          "listed_count": 50,
+          "media_count": 5392,
+          "tweet_count": 19310
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-17T02:45:04.000Z",
+        "description": "中国に帰った中国人。日本で創業し東証1部上場を果たした最初の外国人。2005年に引退しその後に帰国",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soubunshu.com",
+                "end": 23,
+                "expanded_url": "http://www.soubunshu.com/",
+                "start": 0,
+                "url": "https://t.co/0MBgCHOs0k"
+              }
+            ]
+          }
+        },
+        "id": "114934815",
+        "location": "北京市海淀区",
+        "name": "宋　文洲",
+        "pinned_tweet_id": "2013735625048895569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712427629511598080/oapq03U9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208028,
+          "following_count": 3536,
+          "like_count": 276,
+          "listed_count": 8087,
+          "media_count": 14453,
+          "tweet_count": 79069
+        },
+        "url": "https://t.co/0MBgCHOs0k",
+        "username": "sohbunshu",
+        "verified": true
+      }
+    ]
+  }
+}

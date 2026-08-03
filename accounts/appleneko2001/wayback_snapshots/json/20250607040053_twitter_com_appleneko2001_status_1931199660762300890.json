@@ -1,0 +1,633 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1930930851120074752"
+      ],
+      "media_source_tweet_id": [
+        "1930931114287444338"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      }
+    ],
+    "conversation_id": "1931199660762300890",
+    "created_at": "2025-06-07T04:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T05:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931199660762300890"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 98,
+          "tag": "blender"
+        },
+        {
+          "end": 112,
+          "start": 107,
+          "tag": "3DCG"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1297791786513862656",
+          "start": 3,
+          "username": "noveldrum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6u71qZVFAP",
+          "end": 136,
+          "expanded_url": "https://x.com/noveldrum/status/1930931114287444338/video/1",
+          "media_key": "13_1930930851120074752",
+          "start": 113,
+          "url": "https://t.co/6u71qZVFAP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931199660762300890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930931114287444338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noveldrum: 線路ジェネレーターをリリースしました！ \nカーブを線路に変換することができます。\n追加アセット無しで、シーンに余計なものを追加せずに使えるのがこだわりポイントです。\n#blender #3DCG https://t.co/6u71qZVFAP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61583,
+        "height": 1080,
+        "media_key": "13_1930930851120074752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930930851120074752/img/h1aewombSvyfKI0D.jpg",
+        "public_metrics": {
+          "view_count": 20817
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930930851120074752/vid/avc1/480x270/U2flsCa1QCIkXaXu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930930851120074752/vid/avc1/640x360/ZrGJ-4Wg5KByrPzk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930930851120074752/vid/avc1/1280x720/5ZCvZDfWzpEyPFNs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930930851120074752/pl/W2WlQverUO0v2_jU.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930930851120074752"
+          ],
+          "media_source_tweet_id": [
+            "1930931114287444338"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "1931199660762300890",
+        "created_at": "2025-06-07T04:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T05:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931199660762300890"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 98,
+              "tag": "blender"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "3DCG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1297791786513862656",
+              "start": 3,
+              "username": "noveldrum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6u71qZVFAP",
+              "end": 136,
+              "expanded_url": "https://x.com/noveldrum/status/1930931114287444338/video/1",
+              "media_key": "13_1930930851120074752",
+              "start": 113,
+              "url": "https://t.co/6u71qZVFAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931199660762300890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930931114287444338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noveldrum: 線路ジェネレーターをリリースしました！ \nカーブを線路に変換することができます。\n追加アセット無しで、シーンに余計なものを追加せずに使えるのがこだわりポイントです。\n#blender #3DCG https://t.co/6u71qZVFAP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930930851120074752"
+          ]
+        },
+        "author_id": "1297791786513862656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "1930931114287444338",
+        "created_at": "2025-06-06T10:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T11:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930931114287444338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 83,
+              "tag": "blender"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "3DCG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6u71qZVFAP",
+              "end": 121,
+              "expanded_url": "https://x.com/noveldrum/status/1930931114287444338/video/1",
+              "media_key": "13_1930930851120074752",
+              "start": 98,
+              "url": "https://t.co/6u71qZVFAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930931114287444338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 585,
+          "impression_count": 52425,
+          "like_count": 1470,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "線路ジェネレーターをリリースしました！ \nカーブを線路に変換することができます。\n追加アセット無しで、シーンに余計なものを追加せずに使えるのがこだわりポイントです。\n#blender #3DCG https://t.co/6u71qZVFAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 257,
+          "like_count": 64484,
+          "listed_count": 2,
+          "media_count": 1290,
+          "tweet_count": 12169
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T07:04:28.000Z",
+        "description": "フリーランスの3DCGアーティスト、ライター、自主制作アニメーション制作中、脚本絵コンテ勉強中、VFX-JAPAN2023優秀賞受賞。\n【得意なこと】blender、マテリアルノード、ジオメトリノード、Ae、背景、撮影、イラスト、フォトバッシュ、写真、ドラム。　\n【やりたいこと】アニメ監督、脚本、絵コンテ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "noveldrum.com",
+                "end": 23,
+                "expanded_url": "https://noveldrum.com/",
+                "start": 0,
+                "url": "https://t.co/jjHOcyKe1h"
+              }
+            ]
+          }
+        },
+        "id": "1297791786513862656",
+        "location": "東京/Tokyo/日本/JPN",
+        "name": "藤田将",
+        "pinned_tweet_id": "1708419605608468635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760545911984537600/smHAfqsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25523,
+          "following_count": 8936,
+          "like_count": 33377,
+          "listed_count": 339,
+          "media_count": 917,
+          "tweet_count": 3022
+        },
+        "url": "https://t.co/jjHOcyKe1h",
+        "username": "noveldrum",
+        "verified": false
+      }
+    ]
+  }
+}

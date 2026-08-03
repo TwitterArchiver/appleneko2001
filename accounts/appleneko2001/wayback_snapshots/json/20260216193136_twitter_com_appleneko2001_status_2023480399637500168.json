@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2023357283577864381",
+    "created_at": "2026-02-16T19:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T20:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023480399637500168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "888465715266809856",
+          "start": 0,
+          "username": "rxliuli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023480399637500168",
+    "in_reply_to_user_id": "888465715266809856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023357283577864381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rxliuli 只能说推特自动审核还有待提升……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2030,
+        "media_key": "3_2023356534554783744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRoDEgacAA8oYC.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2023357283577864381",
+        "created_at": "2026-02-16T19:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T20:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023480399637500168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "888465715266809856",
+              "start": 0,
+              "username": "rxliuli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023480399637500168",
+        "in_reply_to_user_id": "888465715266809856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023357283577864381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rxliuli 只能说推特自动审核还有待提升……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023356534554783744"
+          ]
+        },
+        "author_id": "888465715266809856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2023357283577864381",
+        "created_at": "2026-02-16T11:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023357283577864381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i5cYOaQWUs",
+              "end": 108,
+              "expanded_url": "https://x.com/rxliuli/status/2023357283577864381/photo/1",
+              "media_key": "3_2023356534554783744",
+              "start": 85,
+              "url": "https://t.co/i5cYOaQWUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023357283577864381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4369,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚扫描得到了 219.6k 中文 Spam 账户，嗯，只能说这类账号 Twitter 真的该清理一下了，特征极其明显，甚至不需要分析传播图谱，只是硬规则扫描就唾手可得 https://t.co/i5cYOaQWUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 327,
+          "like_count": 90258,
+          "listed_count": 2,
+          "media_count": 1490,
+          "tweet_count": 14683
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-21T18:28:28.000Z",
+        "description": "我喜欢用编程和写作作为工具来创造有趣的事物。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rxliuli.com",
+                "end": 23,
+                "expanded_url": "https://rxliuli.com",
+                "start": 0,
+                "url": "https://t.co/Y5wC0UU1Ts"
+              }
+            ]
+          }
+        },
+        "id": "888465715266809856",
+        "location": "Hangzhou",
+        "name": "琉璃",
+        "pinned_tweet_id": "2006966006229643318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001692238020296704/0M8h3Gwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 417,
+          "like_count": 2384,
+          "listed_count": 21,
+          "media_count": 3454,
+          "tweet_count": 14049
+        },
+        "url": "https://t.co/Y5wC0UU1Ts",
+        "username": "rxliuli",
+        "verified": false
+      }
+    ]
+  }
+}

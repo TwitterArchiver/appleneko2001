@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2061877172336545855",
+    "created_at": "2026-06-02T18:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061877172336545855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942136939735560192",
+          "start": 3,
+          "username": "picxis63594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061877172336545855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058066434790744316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @picxis63594: 无任何精神疾病，被迫入院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2061877172336545855",
+        "created_at": "2026-06-02T18:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061877172336545855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942136939735560192",
+              "start": 3,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061877172336545855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058066434790744316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @picxis63594: 无任何精神疾病，被迫入院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2058066434790744316",
+        "created_at": "2026-05-23T06:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058066434790744316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/picxis63594/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/picxis63594/status/2058060164159463509",
+              "start": 13,
+              "url": "https://t.co/rKB7gadHBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058066434790744316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2345,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058060164159463509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无任何精神疾病，被迫入院 https://t.co/rKB7gadHBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 246,
+          "like_count": 107078,
+          "listed_count": 2,
+          "media_count": 1644,
+          "tweet_count": 17182
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "我的身姿很曼妙",
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "SubDrone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056641418433826816/eoLLRBCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 252,
+          "like_count": 223,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 163
+        },
+        "username": "picxis63594",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2001476089370099712"
+      ],
+      "media_source_tweet_id": [
+        "2001476097653780506"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2001592748718330362",
+    "created_at": "2025-12-18T09:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T10:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001592748718330362"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Sushi",
+          "probability": 0.7048,
+          "start": 31,
+          "type": "Other"
+        },
+        {
+          "end": 45,
+          "normalized_text": "Anime",
+          "probability": 0.6881,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1777649042056527872",
+          "start": 3,
+          "username": "JolteonWeb3"
+        },
+        {
+          "end": 30,
+          "id": "1038150281794646017",
+          "start": 17,
+          "username": "earthcurated"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AhpkXFvkRe",
+          "end": 72,
+          "expanded_url": "https://x.com/JolteonWeb3/status/2001476097653780506/photo/1",
+          "media_key": "16_2001476089370099712",
+          "start": 49,
+          "url": "https://t.co/AhpkXFvkRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001592748718330362",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001476097653780506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JolteonWeb3: @earthcurated Sushi and Anime 😍 https://t.co/AhpkXFvkRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "16_2001476089370099712",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8ar5iVXwAAHsnJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8ar5iVXwAAHsnJ.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2001476089370099712"
+          ],
+          "media_source_tweet_id": [
+            "2001476097653780506"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2001592748718330362",
+        "created_at": "2025-12-18T09:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001592748718330362"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Sushi",
+              "probability": 0.7048,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Anime",
+              "probability": 0.6881,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1777649042056527872",
+              "start": 3,
+              "username": "JolteonWeb3"
+            },
+            {
+              "end": 30,
+              "id": "1038150281794646017",
+              "start": 17,
+              "username": "earthcurated"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhpkXFvkRe",
+              "end": 72,
+              "expanded_url": "https://x.com/JolteonWeb3/status/2001476097653780506/photo/1",
+              "media_key": "16_2001476089370099712",
+              "start": 49,
+              "url": "https://t.co/AhpkXFvkRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001592748718330362",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001476097653780506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JolteonWeb3: @earthcurated Sushi and Anime 😍 https://t.co/AhpkXFvkRe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2001476089370099712"
+          ]
+        },
+        "author_id": "1777649042056527872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2001294507510251562",
+        "created_at": "2025-12-18T02:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T03:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001476097653780506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1038150281794646017",
+              "start": 0,
+              "username": "earthcurated"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhpkXFvkRe",
+              "end": 55,
+              "expanded_url": "https://x.com/JolteonWeb3/status/2001476097653780506/photo/1",
+              "media_key": "16_2001476089370099712",
+              "start": 32,
+              "url": "https://t.co/AhpkXFvkRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001476097653780506",
+        "in_reply_to_user_id": "1038150281794646017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 64774,
+          "like_count": 225,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001294507510251562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@earthcurated Sushi and Anime 😍 https://t.co/AhpkXFvkRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 268,
+          "like_count": 66019,
+          "listed_count": 2,
+          "media_count": 1313,
+          "tweet_count": 12393
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T10:45:57.000Z",
+        "description": "just a guy that wont give up 💪 | Gaming Addict 🎮| Content Creator 👑@Tessera_PE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "Tessera_PE"
+              }
+            ]
+          }
+        },
+        "id": "1777649042056527872",
+        "name": "Tox242 🇵🇹",
+        "pinned_tweet_id": "2001036096340422658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993261002930937857/nrvnwdZj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 3064,
+          "like_count": 18371,
+          "listed_count": 4,
+          "media_count": 2000,
+          "tweet_count": 9400
+        },
+        "username": "JolteonWeb3",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-07T19:41:29.000Z",
+        "description": "Featuring stunning High Definition content curated by the world's greatest photographers and Artists",
+        "id": "1038150281794646017",
+        "name": "Earth",
+        "pinned_tweet_id": "2001294507510251562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590966054800564225/3hZ1EhAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063699,
+          "following_count": 45244,
+          "like_count": 53421,
+          "listed_count": 2844,
+          "media_count": 11452,
+          "tweet_count": 22796
+        },
+        "username": "earthcurated",
+        "verified": true
+      }
+    ]
+  }
+}

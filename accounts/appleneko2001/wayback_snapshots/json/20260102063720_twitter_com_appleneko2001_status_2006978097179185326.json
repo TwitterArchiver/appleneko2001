@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2006756248084189397",
+    "created_at": "2026-01-02T06:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T07:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006978097179185326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "107450096",
+          "start": 0,
+          "username": "dulanxi"
+        },
+        {
+          "end": 17,
+          "id": "12643262",
+          "start": 9,
+          "username": "choicky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006978097179185326",
+    "in_reply_to_user_id": "107450096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006857900892024892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dulanxi @choicky 有時候平台的問題確實是……不知道說什麼好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2006756248084189397",
+        "created_at": "2026-01-02T06:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006978097179185326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "107450096",
+              "start": 0,
+              "username": "dulanxi"
+            },
+            {
+              "end": 17,
+              "id": "12643262",
+              "start": 9,
+              "username": "choicky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006978097179185326",
+        "in_reply_to_user_id": "107450096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006857900892024892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dulanxi @choicky 有時候平台的問題確實是……不知道說什麼好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "107450096",
+        "conversation_id": "2006756248084189397",
+        "created_at": "2026-01-01T22:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T23:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006857900892024892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "12643262",
+              "start": 0,
+              "username": "choicky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006857900892024892",
+        "in_reply_to_user_id": "12643262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2560,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006756248084189397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choicky 虽然csdn本身奇烂无比，但还真的能找到很偏门的解决办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 274,
+          "like_count": 70846,
+          "listed_count": 2,
+          "media_count": 1341,
+          "tweet_count": 12823
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-22T16:05:51.000Z",
+        "description": "Across the GFW ！Go…Freedom！",
+        "id": "107450096",
+        "location": "Shanghai,China ",
+        "name": "Lante",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1238488115834015749/TLyBOHkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 230,
+          "like_count": 7788,
+          "listed_count": 10,
+          "media_count": 190,
+          "tweet_count": 8000
+        },
+        "username": "dulanxi",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-24T15:41:59.000Z",
+        "description": "律师，专注于互联网、数据合规、知识产权与环境保护。Dokuwiki、Wiki.JS 程序的首批志愿翻译人员。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tesla.cn/referral/33681",
+                "end": 23,
+                "expanded_url": "https://www.tesla.cn/referral/33681",
+                "start": 0,
+                "url": "https://t.co/4hDzvCPGf3"
+              }
+            ]
+          }
+        },
+        "id": "12643262",
+        "location": "Shenzhen, China.",
+        "name": "Choicky",
+        "pinned_tweet_id": "1995114504573587524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1415106581935521792/QMW9cgcN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9537,
+          "following_count": 3484,
+          "like_count": 15830,
+          "listed_count": 111,
+          "media_count": 1922,
+          "tweet_count": 50485
+        },
+        "url": "https://t.co/4hDzvCPGf3",
+        "username": "choicky",
+        "verified": true
+      }
+    ]
+  }
+}

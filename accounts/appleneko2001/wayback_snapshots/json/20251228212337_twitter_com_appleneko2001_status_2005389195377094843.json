@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2005389195377094843",
+    "created_at": "2025-12-28T21:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T22:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005389195377094843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51904755",
+          "start": 3,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005389195377094843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005101722939879512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Morris_LT: 有创伤的人，内在混乱且没有安全感的人，他是没有办法好好赚钱，并完成自我提升的，哪怕有很大的野心，也没有办法行动起来，总是一再的拖延，然后最终放弃计划。因为心理学上有一个很残酷的事实，那就是创伤会破坏一个人的执行力。你并不是真的懒，而是大脑长期的处于…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2005389195377094843",
+        "created_at": "2025-12-28T21:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T22:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005389195377094843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51904755",
+              "start": 3,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005389195377094843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005101722939879512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Morris_LT: 有创伤的人，内在混乱且没有安全感的人，他是没有办法好好赚钱，并完成自我提升的，哪怕有很大的野心，也没有办法行动起来，总是一再的拖延，然后最终放弃计划。因为心理学上有一个很残酷的事实，那就是创伤会破坏一个人的执行力。你并不是真的懒，而是大脑长期的处于…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51904755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2005101722939879512",
+        "created_at": "2025-12-28T02:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T03:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005101722939879512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005101722939879512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有创伤的人，内在混乱且没有安全感的人，他是没有办法好好赚钱，并完成自我提升的，哪怕有很大的野心，也没有办法行动起来，总是一再的拖延，然后最终放弃计划。因为心理学上有一个很残酷的事实，那就是创伤会破坏一个人的执行力。你并不是真的懒，而是大脑长期的处于防御模式。在这个模式之下，你的首要任务是生存，而不是发展，任何需要持续付出并延迟回报的事情，例如赚钱、创业、学习，甚至是健身等等，都会被你的大脑视作危险不安全，所以很多人想了很多，却迟迟不肯开始，一开始就想一步到位，立刻看到结果。一旦感受一点挫败就会全盘否定，你的拖延并不是因为你真的没有准备好，而是因为你太害怕失败了。\n\n你太害怕失败这件事情，会再一次激发你的创伤。可问题就在于，当你太想要成功，当你太想急着证明你自己的时候，现实中有一点点挫败都会让你的系统全盘崩溃，导致你越来越不敢重新开始。真正能够专注做事，持续成长的人并不是因为他们多么有天赋，多么有能力，而是因为他们的内在状态是安全的。安全感并不是想明白的，而是通过一件一件小事慢慢建立的。所以试着给自己树立一些小的目标，按部就班的去完成它们，让你的大脑慢慢的感受到安全。当你的内在是稳定的，你的行动力才能跟得上步伐。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 41690,
+          "like_count": 700,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "有创伤的人，内在混乱且没有安全感的人，他是没有办法好好赚钱，并完成自我提升的，哪怕有很大的野心，也没有办法行动起来，总是一再的拖延，然后最终放弃计划。因为心理学上有一个很残酷的事实，那就是创伤会破坏一个人的执行力。你并不是真的懒，而是大脑长期的处于防御模式。在这个模式之下，你的首"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 273,
+          "like_count": 68489,
+          "listed_count": 2,
+          "media_count": 1325,
+          "tweet_count": 12634
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "1993488404248691100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175012,
+          "following_count": 412,
+          "like_count": 51973,
+          "listed_count": 999,
+          "media_count": 7005,
+          "tweet_count": 70631
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

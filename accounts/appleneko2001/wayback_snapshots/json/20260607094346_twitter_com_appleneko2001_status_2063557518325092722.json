@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061026646459912192"
+      ],
+      "media_source_tweet_id": [
+        "2061028109856690378"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2063557518325092722",
+    "created_at": "2026-06-07T09:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063557518325092722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1571748493555040261",
+          "start": 3,
+          "username": "HAIYU_haiyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/76DPgJX0Bk",
+          "end": 84,
+          "expanded_url": "https://x.com/HAIYU_haiyu/status/2061028109856690378/photo/1",
+          "media_key": "3_2061026646459912192",
+          "start": 61,
+          "url": "https://t.co/76DPgJX0Bk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063557518325092722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061028109856690378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HAIYU_haiyu: 哦哦…还是画了…不好意思……\n好表情？小孩下手没轻没重的让让她吧😘\n（⚠カグヤチ🐰🐙） https://t.co/76DPgJX0Bk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063557518325092722].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063557518325092722",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063557518325092722"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3878,
+        "media_key": "3_2061026646459912192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo80K7bkAANVPN.jpg",
+        "width": 2980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061026646459912192"
+          ]
+        },
+        "author_id": "1571748493555040261",
+        "conversation_id": "2061028109856690378",
+        "created_at": "2026-05-31T10:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061028109856690378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76DPgJX0Bk",
+              "end": 67,
+              "expanded_url": "https://x.com/HAIYU_haiyu/status/2061028109856690378/photo/1",
+              "media_key": "3_2061026646459912192",
+              "start": 44,
+              "url": "https://t.co/76DPgJX0Bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061028109856690378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 607,
+          "impression_count": 31064,
+          "like_count": 3977,
+          "quote_count": 11,
+          "reply_count": 19,
+          "retweet_count": 486
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦…还是画了…不好意思……\n好表情？小孩下手没轻没重的让让她吧😘\n（⚠カグヤチ🐰🐙） https://t.co/76DPgJX0Bk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 252,
+          "like_count": 107552,
+          "listed_count": 2,
+          "media_count": 1649,
+          "tweet_count": 17281
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T06:30:28.000Z",
+        "description": "＝海与\n中文/日本語（機械翻訳併用）\n请不要无授权转载，ai🚫。GL大欢迎。\n大部分时间只能依靠点赞表达喜爱与感谢，谢谢大家的点赞和评论！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/85138vovxxvh72…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/85138vovxxvh72u?t=sbqigQ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/la21j4xr3M"
+              }
+            ]
+          }
+        },
+        "id": "1571748493555040261",
+        "name": "海与_HaiYu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795482600255201280/IRu_okSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13894,
+          "following_count": 134,
+          "like_count": 2253,
+          "listed_count": 50,
+          "media_count": 111,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/la21j4xr3M",
+        "username": "HAIYU_haiyu",
+        "verified": false
+      }
+    ]
+  }
+}

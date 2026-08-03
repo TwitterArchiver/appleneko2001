@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929493460421312512"
+      ],
+      "media_source_tweet_id": [
+        "1929493508848537778"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1929692845809504689",
+    "created_at": "2025-06-03T00:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T01:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929692845809504689"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "喜多ちゃん",
+          "probability": 0.8464,
+          "start": 44,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "ぼっち・ざ・ろっく"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "喜多郁代"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820829847339601920",
+          "start": 3,
+          "username": "sara927_kita421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ycPplhvPQT",
+          "end": 89,
+          "expanded_url": "https://x.com/sara927_kita421/status/1929493508848537778/photo/1",
+          "media_key": "3_1929493460421312512",
+          "start": 66,
+          "url": "https://t.co/ycPplhvPQT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929692845809504689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929493508848537778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sara927_kita421: #ぼっち・ざ・ろっく #喜多郁代　 \n休憩中の喜多ちゃん\nタップすると全画面で見れます。 https://t.co/ycPplhvPQT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_1929493460421312512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbwFFDaAAAjEXo.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929493460421312512"
+          ],
+          "media_source_tweet_id": [
+            "1929493508848537778"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1929692845809504689",
+        "created_at": "2025-06-03T00:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T01:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929692845809504689"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "喜多ちゃん",
+              "probability": 0.8464,
+              "start": 44,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "ぼっち・ざ・ろっく"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "喜多郁代"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1820829847339601920",
+              "start": 3,
+              "username": "sara927_kita421"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycPplhvPQT",
+              "end": 89,
+              "expanded_url": "https://x.com/sara927_kita421/status/1929493508848537778/photo/1",
+              "media_key": "3_1929493460421312512",
+              "start": 66,
+              "url": "https://t.co/ycPplhvPQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929692845809504689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929493508848537778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sara927_kita421: #ぼっち・ざ・ろっく #喜多郁代　 \n休憩中の喜多ちゃん\nタップすると全画面で見れます。 https://t.co/ycPplhvPQT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929493460421312512"
+          ]
+        },
+        "author_id": "1820829847339601920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1929493508848537778",
+        "created_at": "2025-06-02T11:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929493508848537778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ぼっち・ざ・ろっく"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "喜多郁代"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycPplhvPQT",
+              "end": 68,
+              "expanded_url": "https://x.com/sara927_kita421/status/1929493508848537778/photo/1",
+              "media_key": "3_1929493460421312512",
+              "start": 45,
+              "url": "https://t.co/ycPplhvPQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929493508848537778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 34695,
+          "like_count": 2141,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "#ぼっち・ざ・ろっく #喜多郁代　 \n休憩中の喜多ちゃん\nタップすると全画面で見れます。 https://t.co/ycPplhvPQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 257,
+          "like_count": 64354,
+          "listed_count": 2,
+          "media_count": 1288,
+          "tweet_count": 12156
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T14:30:52.000Z",
+        "description": "ぼっち・ざ・ろっくが大好きなしがない陰キャ高校三年生です！\n最推しは喜多ちゃん！\nぼざろ以外のアニメも見るけど基本的にぼざろや日常メインのツイートをしていきます！\nデジタルイラスト初心者です。\nソシャゲ→ぷにぷに/モンスト/にゃんこ/ポケポケ\nサブ垢→ @sara_sabu0927\n相棒→ @FUJISUNSUII",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 127,
+                "username": "sara_sabu0927"
+              },
+              {
+                "end": 158,
+                "start": 146,
+                "username": "FUJISUNSUII"
+              }
+            ]
+          }
+        },
+        "id": "1820829847339601920",
+        "location": "極東",
+        "name": "さら",
+        "pinned_tweet_id": "1894687156507209918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920253066831667200/f5qXsUOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 734,
+          "like_count": 23032,
+          "listed_count": 7,
+          "media_count": 1320,
+          "tweet_count": 21372
+        },
+        "username": "sara927_kita421",
+        "verified": false
+      }
+    ]
+  }
+}

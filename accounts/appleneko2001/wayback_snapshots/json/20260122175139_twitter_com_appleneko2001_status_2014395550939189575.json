@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014246162837164032"
+      ],
+      "media_source_tweet_id": [
+        "2014274589644222491"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cooking Actions",
+          "id": "846770344681627649",
+          "name": "Cooking"
+        }
+      }
+    ],
+    "conversation_id": "2014395550939189575",
+    "created_at": "2026-01-22T17:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014395550939189575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "57277380",
+          "start": 3,
+          "username": "watakokyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AjVxS3NuHi",
+          "end": 47,
+          "expanded_url": "https://x.com/watakokyu/status/2014274589644222491/photo/1",
+          "media_key": "3_2014246162837164032",
+          "start": 24,
+          "url": "https://t.co/AjVxS3NuHi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014395550939189575",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 495
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014274589644222491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @watakokyu: Cooking！ https://t.co/AjVxS3NuHi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2014246162837164032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QKNpIaUAAEu6J.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014246162837164032"
+          ],
+          "media_source_tweet_id": [
+            "2014274589644222491"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2014395550939189575",
+        "created_at": "2026-01-22T17:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014395550939189575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "57277380",
+              "start": 3,
+              "username": "watakokyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjVxS3NuHi",
+              "end": 47,
+              "expanded_url": "https://x.com/watakokyu/status/2014274589644222491/photo/1",
+              "media_key": "3_2014246162837164032",
+              "start": 24,
+              "url": "https://t.co/AjVxS3NuHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014395550939189575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 495
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014274589644222491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @watakokyu: Cooking！ https://t.co/AjVxS3NuHi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014246162837164032"
+          ]
+        },
+        "author_id": "57277380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2014274589644222491",
+        "created_at": "2026-01-22T09:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014274589644222491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjVxS3NuHi",
+              "end": 32,
+              "expanded_url": "https://x.com/watakokyu/status/2014274589644222491/photo/1",
+              "media_key": "3_2014246162837164032",
+              "start": 9,
+              "url": "https://t.co/AjVxS3NuHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014274589644222491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 601,
+          "impression_count": 60155,
+          "like_count": 5507,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 495
+        },
+        "reply_settings": "everyone",
+        "text": "Cooking！ https://t.co/AjVxS3NuHi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 316,
+          "like_count": 82424,
+          "listed_count": 2,
+          "media_count": 1430,
+          "tweet_count": 13927
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-16T08:05:26.000Z",
+        "description": "イラストレーター //  詳細⇒https://t.co/nf6mTUV3mq　✉ wabetto@gmail.com\npixiv  https://t.co/McS4kQAmjY\nFANBOX https://t.co/JYmEVqTXRy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/watakokyu",
+                "end": 39,
+                "expanded_url": "http://lit.link/watakokyu",
+                "start": 16,
+                "url": "https://t.co/nf6mTUV3mq"
+              },
+              {
+                "display_url": "pixiv.net/users/298647",
+                "end": 90,
+                "expanded_url": "http://pixiv.net/users/298647",
+                "start": 67,
+                "url": "https://t.co/McS4kQAmjY"
+              },
+              {
+                "display_url": "watakokyu.fanbox.cc",
+                "end": 121,
+                "expanded_url": "http://watakokyu.fanbox.cc",
+                "start": 98,
+                "url": "https://t.co/JYmEVqTXRy"
+              }
+            ]
+          }
+        },
+        "id": "57277380",
+        "location": "関東",
+        "name": "渡コキュー",
+        "pinned_tweet_id": "2005234804477079964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952571145619951617/6gZs5wG3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35571,
+          "following_count": 390,
+          "like_count": 1093,
+          "listed_count": 358,
+          "media_count": 538,
+          "tweet_count": 5171
+        },
+        "username": "watakokyu",
+        "verified": false
+      }
+    ]
+  }
+}

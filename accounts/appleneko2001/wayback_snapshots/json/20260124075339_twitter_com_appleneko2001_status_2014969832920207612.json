@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2014969832920207612",
+    "created_at": "2026-01-24T07:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014969832920207612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660598418409127937",
+          "start": 3,
+          "username": "GitHub_Daily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/bHIP",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/bHIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014969832920207612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014601493597573216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GitHub_Daily: 遇到一段加密文本，不知道用的什么加密方式，手动尝试各种解密方法太费时间。\n\n刚好在 GitHub 上看到 Ciphey 这个自动化解密工具，输入密文就能自动识别加密类型并解密，大多数情况下 3 秒内搞定。… https://t.co/bHIP…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5280,
+        "height": 544,
+        "media_key": "13_2014363349275062272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014363349275062272/img/Nl_z03YWjIGhmgD5.jpg",
+        "public_metrics": {
+          "view_count": 8441
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014363349275062272/vid/avc1/320x336/Lzu7wC5HS2Q6OdQD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014363349275062272/vid/avc1/516x542/yw9rxb8BQlnmmPto.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014363349275062272/pl/1mQclAK2w-8amZwc.m3u8"
+          }
+        ],
+        "width": 517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2014969832920207612",
+        "created_at": "2026-01-24T07:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014969832920207612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660598418409127937",
+              "start": 3,
+              "username": "GitHub_Daily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/bHIP",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/bHIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014969832920207612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014601493597573216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GitHub_Daily: 遇到一段加密文本，不知道用的什么加密方式，手动尝试各种解密方法太费时间。\n\n刚好在 GitHub 上看到 Ciphey 这个自动化解密工具，输入密文就能自动识别加密类型并解密，大多数情况下 3 秒内搞定。… https://t.co/bHIP…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014363349275062272"
+          ]
+        },
+        "author_id": "1660598418409127937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2014601493597573216",
+        "created_at": "2026-01-23T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014601493597573216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHIP84jDUs",
+              "end": 126,
+              "expanded_url": "https://x.com/GitHub_Daily/status/2014601493597573216/video/1",
+              "media_key": "13_2014363349275062272",
+              "start": 103,
+              "url": "https://t.co/bHIP84jDUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014601493597573216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/bee-san/Ciphey",
+                "end": 186,
+                "expanded_url": "http://github.com/bee-san/Ciphey",
+                "start": 163,
+                "url": "https://t.co/c2YO3s2m9E"
+              }
+            ]
+          },
+          "text": "遇到一段加密文本，不知道用的什么加密方式，手动尝试各种解密方法太费时间。\n\n刚好在 GitHub 上看到 Ciphey 这个自动化解密工具，输入密文就能自动识别加密类型并解密，大多数情况下 3 秒内搞定。\n\n基于自定义的人工智能模块和自然语言处理，能自动判断加密方式和识别明文，无需我们事先知道任何加密信息。\n\nGitHub：https://t.co/c2YO3s2m9E\n\n支持 50 多种加密和编码方式，包括二进制、摩斯密码、Base64、凯撒密码、维吉尼亚密码、XOR 加密等经典和现代加密方式，还支持哈希识别。\n\n底层用 C++ 编写，速度很快。提供命令行工具，也可以作为 Python 库导入到自己的项目中使用，支持 Windows、Linux 和 macOS 系统。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 19684,
+          "like_count": 294,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "遇到一段加密文本，不知道用的什么加密方式，手动尝试各种解密方法太费时间。\n\n刚好在 GitHub 上看到 Ciphey 这个自动化解密工具，输入密文就能自动识别加密类型并解密，大多数情况下 3 秒内搞定。 https://t.co/bHIP84jDUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 319,
+          "like_count": 83401,
+          "listed_count": 2,
+          "media_count": 1436,
+          "tweet_count": 14000
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T10:48:49.000Z",
+        "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GitHubDaily/Gi…",
+                "end": 23,
+                "expanded_url": "https://github.com/GitHubDaily/GitHubDaily",
+                "start": 0,
+                "url": "https://t.co/Ij83s4tlm9"
+              }
+            ]
+          }
+        },
+        "id": "1660598418409127937",
+        "name": "GitHubDaily",
+        "pinned_tweet_id": "2013553515856335087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65559,
+          "following_count": 161,
+          "like_count": 39,
+          "listed_count": 651,
+          "media_count": 1830,
+          "tweet_count": 1860
+        },
+        "url": "https://t.co/Ij83s4tlm9",
+        "username": "GitHub_Daily",
+        "verified": true
+      }
+    ]
+  }
+}

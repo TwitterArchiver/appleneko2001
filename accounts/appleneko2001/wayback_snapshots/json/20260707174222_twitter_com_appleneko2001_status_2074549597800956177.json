@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073786284917805056"
+      ],
+      "media_source_tweet_id": [
+        "2073786289716179216"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2074549597800956177",
+    "created_at": "2026-07-07T17:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074549597800956177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1877905664519118848",
+          "start": 3,
+          "username": "lightblue_snake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/acTSrYOfZA",
+          "end": 48,
+          "expanded_url": "https://x.com/lightblue_snake/status/2073786289716179216/photo/1",
+          "media_key": "3_2073786284917805056",
+          "start": 25,
+          "url": "https://t.co/acTSrYOfZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074549597800956177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 982
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073786289716179216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lightblue_snake: 死神🩵 https://t.co/acTSrYOfZA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1027,
+        "media_key": "3_2073786284917805056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeRo4SaUAAQhk_.jpg",
+        "width": 773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073786284917805056"
+          ],
+          "media_source_tweet_id": [
+            "2073786289716179216"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2074549597800956177",
+        "created_at": "2026-07-07T17:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074549597800956177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1877905664519118848",
+              "start": 3,
+              "username": "lightblue_snake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/acTSrYOfZA",
+              "end": 48,
+              "expanded_url": "https://x.com/lightblue_snake/status/2073786289716179216/photo/1",
+              "media_key": "3_2073786284917805056",
+              "start": 25,
+              "url": "https://t.co/acTSrYOfZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074549597800956177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 982
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073786289716179216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lightblue_snake: 死神🩵 https://t.co/acTSrYOfZA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073786284917805056"
+          ]
+        },
+        "author_id": "1877905664519118848",
+        "conversation_id": "2073786289716179216",
+        "created_at": "2026-07-05T15:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073786289716179216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/acTSrYOfZA",
+              "end": 27,
+              "expanded_url": "https://x.com/lightblue_snake/status/2073786289716179216/photo/1",
+              "media_key": "3_2073786284917805056",
+              "start": 4,
+              "url": "https://t.co/acTSrYOfZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073786289716179216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1989,
+          "impression_count": 264323,
+          "like_count": 14326,
+          "quote_count": 24,
+          "reply_count": 17,
+          "retweet_count": 982
+        },
+        "reply_settings": "everyone",
+        "text": "死神🩵 https://t.co/acTSrYOfZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 285,
+          "like_count": 114679,
+          "listed_count": 2,
+          "media_count": 1707,
+          "tweet_count": 17992
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T02:29:44.000Z",
+        "description": "カル渚大好きマン/20↑\nウェブボ📦⇨https://t.co/R0RXahADHD\n🔞垢⇨@redwing_devil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "redwing_devil"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/1o7xshr5d…",
+                "end": 42,
+                "expanded_url": "https://wavebox.me/wave/1o7xshr5d0tcgznc/",
+                "start": 19,
+                "url": "https://t.co/R0RXahADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chocopino",
+                "end": 23,
+                "expanded_url": "https://lit.link/chocopino",
+                "start": 0,
+                "url": "https://t.co/izA1prKJuW"
+              }
+            ]
+          }
+        },
+        "id": "1877905664519118848",
+        "name": "PINO(ピノ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054530201489702912/Bz0hjq-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 45,
+          "like_count": 3024,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/izA1prKJuW",
+        "username": "lightblue_snake",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046167083533099008"
+      ],
+      "media_source_tweet_id": [
+        "2046167085953278454"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      }
+    ],
+    "conversation_id": "2046552680815083798",
+    "created_at": "2026-04-21T11:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046552680815083798"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "プリコネR"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1770980001749618688",
+          "start": 3,
+          "username": "kamekame432"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bZv0sELtDz",
+          "end": 57,
+          "expanded_url": "https://x.com/kamekame432/status/2046167085953278454/photo/1",
+          "media_key": "3_2046167083533099008",
+          "start": 34,
+          "url": "https://t.co/bZv0sELtDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046552680815083798",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046167085953278454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamekame432: 猫ブラシゲームパロ\n#プリコネR https://t.co/bZv0sELtDz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_2046167083533099008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVyHxUWYAAhqcR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046167083533099008"
+          ],
+          "media_source_tweet_id": [
+            "2046167085953278454"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2046552680815083798",
+        "created_at": "2026-04-21T11:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046552680815083798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "プリコネR"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770980001749618688",
+              "start": 3,
+              "username": "kamekame432"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZv0sELtDz",
+              "end": 57,
+              "expanded_url": "https://x.com/kamekame432/status/2046167085953278454/photo/1",
+              "media_key": "3_2046167083533099008",
+              "start": 34,
+              "url": "https://t.co/bZv0sELtDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046552680815083798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046167085953278454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamekame432: 猫ブラシゲームパロ\n#プリコネR https://t.co/bZv0sELtDz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046167083533099008"
+          ]
+        },
+        "author_id": "1770980001749618688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2046167085953278454",
+        "created_at": "2026-04-20T10:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046167085953278454"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "プリコネR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZv0sELtDz",
+              "end": 40,
+              "expanded_url": "https://x.com/kamekame432/status/2046167085953278454/photo/1",
+              "media_key": "3_2046167083533099008",
+              "start": 17,
+              "url": "https://t.co/bZv0sELtDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046167085953278454",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 24435,
+          "like_count": 1183,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "猫ブラシゲームパロ\n#プリコネR https://t.co/bZv0sELtDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 356,
+          "like_count": 102067,
+          "listed_count": 3,
+          "media_count": 1610,
+          "tweet_count": 16494
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T01:05:16.000Z",
+        "description": "主にプリコネのAIイラストをpixivに投稿しています。 使用ツール:stable diffusion 日課: ・19時くらいにXに2次創作の画像（最近は主に漫画)を上げる(健全) ・2次創作のほぼ🔞なやつを作成してPixivに上げる https://t.co/qkCZCBG4qF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/24316440",
+                "end": 141,
+                "expanded_url": "https://www.pixiv.net/users/24316440",
+                "start": 118,
+                "url": "https://t.co/qkCZCBG4qF"
+              }
+            ]
+          }
+        },
+        "id": "1770980001749618688",
+        "name": "かめ",
+        "pinned_tweet_id": "2001227516506464729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770980193953566720/N1FqjQgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10904,
+          "following_count": 1381,
+          "like_count": 46621,
+          "listed_count": 59,
+          "media_count": 1035,
+          "tweet_count": 3251
+        },
+        "username": "kamekame432",
+        "verified": true
+      }
+    ]
+  }
+}

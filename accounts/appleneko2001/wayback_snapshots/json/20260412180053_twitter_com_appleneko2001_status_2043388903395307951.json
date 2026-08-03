@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2043388903395307951",
+    "created_at": "2026-04-12T18:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043388903395307951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "851718396014022656",
+          "start": 3,
+          "username": "kotudeau"
+        },
+        {
+          "end": 21,
+          "id": "1573206509625876481",
+          "start": 14,
+          "username": "syhily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043388903395307951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043180258975989767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotudeau: @syhily 現在知道青少年去精神科門診，醫生為何會對著父母罵了\n\n小孩上輩子是造了什麼孽才落到你家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2043388903395307951",
+        "created_at": "2026-04-12T18:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043388903395307951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "851718396014022656",
+              "start": 3,
+              "username": "kotudeau"
+            },
+            {
+              "end": 21,
+              "id": "1573206509625876481",
+              "start": 14,
+              "username": "syhily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043388903395307951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043180258975989767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotudeau: @syhily 現在知道青少年去精神科門診，醫生為何會對著父母罵了\n\n小孩上輩子是造了什麼孽才落到你家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "851718396014022656",
+        "conversation_id": "2042940480271610180",
+        "created_at": "2026-04-12T04:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043180258975989767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1573206509625876481",
+              "start": 0,
+              "username": "syhily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043180258975989767",
+        "in_reply_to_user_id": "1573206509625876481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042940480271610180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syhily 現在知道青少年去精神科門診，醫生為何會對著父母罵了\n\n小孩上輩子是造了什麼孽才落到你家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 358,
+          "like_count": 101405,
+          "listed_count": 3,
+          "media_count": 1602,
+          "tweet_count": 16337
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-11T08:47:44.000Z",
+        "description": "地獄に落ちてもかまわん、ナチスチャイナに戻るまい/ナチスチャイナで生まれた事実を否定するつもりはない/Qu'un sang impur abreuve nos sillons",
+        "id": "851718396014022656",
+        "name": "Pain MAX",
+        "pinned_tweet_id": "1075980326051053568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025221724141449216/v-v32IZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 206,
+          "like_count": 6236,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 540
+        },
+        "username": "kotudeau",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T07:04:02.000Z",
+        "description": "#INTP-T @ApacheFlink の貢献者。Java、Go、Scala、Kotlin、ECMAScript、Python、Lua その他 6 つのプログラム言語でコーディング。読書が唯一の娯楽。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "INTP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.me",
+                "end": 23,
+                "expanded_url": "https://yufan.me",
+                "start": 0,
+                "url": "https://t.co/GxDZqZtWFB"
+              }
+            ]
+          }
+        },
+        "id": "1573206509625876481",
+        "location": "テイワット",
+        "name": "Yufan Sheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011084413967482887/Kx4wh-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28777,
+          "following_count": 896,
+          "like_count": 5713,
+          "listed_count": 176,
+          "media_count": 2368,
+          "tweet_count": 10244
+        },
+        "url": "https://t.co/GxDZqZtWFB",
+        "username": "syhily",
+        "verified": false
+      }
+    ]
+  }
+}

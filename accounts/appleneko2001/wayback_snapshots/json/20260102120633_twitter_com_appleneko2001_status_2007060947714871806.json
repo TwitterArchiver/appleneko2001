@@ -1,0 +1,800 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2007060947714871806",
+    "created_at": "2026-01-02T12:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T13:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007060947714871806"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 32,
+          "start": 20,
+          "tag": "BlueArchive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1631316634223939586",
+          "start": 3,
+          "username": "ben404yg"
+        }
+      ],
+      "urls": [
+        {
+          "description": "I've opened a shop. Come take a look!",
+          "display_url": "ko-fi.com/bentu404/shop/…",
+          "end": 88,
+          "expanded_url": "https://ko-fi.com/bentu404/shop/bluearchive",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2006932495485534208/OhAyJ4h6?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2006932495485534208/OhAyJ4h6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "乱涂乱画BEN's Shop is Open!",
+          "unwound_url": "https://ko-fi.com/bentu404/shop/bluearchive",
+          "url": "https://t.co/vAK7IUwPU1"
+        },
+        {
+          "description": "Check out 乱涂乱画BEN's latest products - thanks for your support!",
+          "display_url": "vgen.co/ben404yg/shop",
+          "end": 117,
+          "expanded_url": "https://vgen.co/ben404yg/shop",
+          "start": 94,
+          "status": 200,
+          "title": "乱涂乱画BEN's VGen Shop | @ben404yg",
+          "unwound_url": "https://vgen.co/ben404yg/shop",
+          "url": "https://t.co/OaKlrjSog1"
+        },
+        {
+          "display_url": "t.co/cbGndZNU",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/cbGndZNU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007060947714871806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006935375185600668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ben404yg: #ブルアカ #BlueArchive \n小鳥遊ホシノのマウスポインター\nDowload👇\nko-fi：https://t.co/vAK7IUwPU1\nvgen：https://t.co/OaKlrjSog1 https://t.co/cbGndZNU…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "16_2006933082105131008",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G9oPAUbbMAAAQ9f.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G9oPAUbbMAAAQ9f.mp4"
+          }
+        ],
+        "width": 1326
+      },
+      {
+        "height": 1074,
+        "media_key": "16_2006933201764429824",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G9oPHSMbMAAYLAj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G9oPHSMbMAAYLAj.mp4"
+          }
+        ],
+        "width": 1326
+      },
+      {
+        "height": 1074,
+        "media_key": "16_2006933242855960579",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G9oPJrRaMAMXJi1.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G9oPJrRaMAMXJi1.mp4"
+          }
+        ],
+        "width": 1326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2007060947714871806",
+        "created_at": "2026-01-02T12:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007060947714871806"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "BlueArchive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1631316634223939586",
+              "start": 3,
+              "username": "ben404yg"
+            }
+          ],
+          "urls": [
+            {
+              "description": "I've opened a shop. Come take a look!",
+              "display_url": "ko-fi.com/bentu404/shop/…",
+              "end": 88,
+              "expanded_url": "https://ko-fi.com/bentu404/shop/bluearchive",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2006932495485534208/OhAyJ4h6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006932495485534208/OhAyJ4h6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "乱涂乱画BEN's Shop is Open!",
+              "unwound_url": "https://ko-fi.com/bentu404/shop/bluearchive",
+              "url": "https://t.co/vAK7IUwPU1"
+            },
+            {
+              "description": "Check out 乱涂乱画BEN's latest products - thanks for your support!",
+              "display_url": "vgen.co/ben404yg/shop",
+              "end": 117,
+              "expanded_url": "https://vgen.co/ben404yg/shop",
+              "start": 94,
+              "status": 200,
+              "title": "乱涂乱画BEN's VGen Shop | @ben404yg",
+              "unwound_url": "https://vgen.co/ben404yg/shop",
+              "url": "https://t.co/OaKlrjSog1"
+            },
+            {
+              "display_url": "t.co/cbGndZNU",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/cbGndZNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007060947714871806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006935375185600668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ben404yg: #ブルアカ #BlueArchive \n小鳥遊ホシノのマウスポインター\nDowload👇\nko-fi：https://t.co/vAK7IUwPU1\nvgen：https://t.co/OaKlrjSog1 https://t.co/cbGndZNU…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2006933082105131008",
+            "16_2006933201764429824",
+            "16_2006933242855960579"
+          ]
+        },
+        "author_id": "1631316634223939586",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2006935375185600668",
+        "created_at": "2026-01-02T03:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T04:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006935375185600668"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 18,
+              "start": 6,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "description": "I've opened a shop. Come take a look!",
+              "display_url": "ko-fi.com/bentu404/shop/…",
+              "end": 74,
+              "expanded_url": "https://ko-fi.com/bentu404/shop/bluearchive",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2006932495485534208/OhAyJ4h6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006932495485534208/OhAyJ4h6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "乱涂乱画BEN's Shop is Open!",
+              "unwound_url": "https://ko-fi.com/bentu404/shop/bluearchive",
+              "url": "https://t.co/vAK7IUwPU1"
+            },
+            {
+              "description": "Check out 乱涂乱画BEN's latest products - thanks for your support!",
+              "display_url": "vgen.co/ben404yg/shop",
+              "end": 103,
+              "expanded_url": "https://vgen.co/ben404yg/shop",
+              "start": 80,
+              "status": 200,
+              "title": "乱涂乱画BEN's VGen Shop | @ben404yg",
+              "unwound_url": "https://vgen.co/ben404yg/shop",
+              "url": "https://t.co/OaKlrjSog1"
+            },
+            {
+              "display_url": "pic.x.com/cbGndZNUjO",
+              "end": 127,
+              "expanded_url": "https://x.com/ben404yg/status/2006935375185600668/photo/1",
+              "media_key": "16_2006933082105131008",
+              "start": 104,
+              "url": "https://t.co/cbGndZNUjO"
+            },
+            {
+              "display_url": "pic.x.com/cbGndZNUjO",
+              "end": 127,
+              "expanded_url": "https://x.com/ben404yg/status/2006935375185600668/photo/1",
+              "media_key": "16_2006933201764429824",
+              "start": 104,
+              "url": "https://t.co/cbGndZNUjO"
+            },
+            {
+              "display_url": "pic.x.com/cbGndZNUjO",
+              "end": 127,
+              "expanded_url": "https://x.com/ben404yg/status/2006935375185600668/photo/1",
+              "media_key": "16_2006933242855960579",
+              "start": 104,
+              "url": "https://t.co/cbGndZNUjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006935375185600668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 503,
+          "impression_count": 26218,
+          "like_count": 1211,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "#ブルアカ #BlueArchive \n小鳥遊ホシノのマウスポインター\nDowload👇\nko-fi：https://t.co/vAK7IUwPU1\nvgen：https://t.co/OaKlrjSog1 https://t.co/cbGndZNUjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 274,
+          "like_count": 70971,
+          "listed_count": 2,
+          "media_count": 1342,
+          "tweet_count": 12834
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T15:32:57.000Z",
+        "description": "🇨🇳\n会画点像素画。\nvgen （约稿、commissions）：https://t.co/ifBNTIIVeC\npixiv：https://t.co/YBmrwEFmYR\nko-fi：https://t.co/i4xqWHX6x8\nbsky：@ben404yg\nb站、米画师同名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 122,
+                "username": "ben404yg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/ben404yg",
+                "end": 56,
+                "expanded_url": "http://vgen.co/ben404yg",
+                "start": 33,
+                "url": "https://t.co/ifBNTIIVeC"
+              },
+              {
+                "display_url": "pixiv.net/users/16588440",
+                "end": 86,
+                "expanded_url": "http://pixiv.net/users/16588440",
+                "start": 63,
+                "url": "https://t.co/YBmrwEFmYR"
+              },
+              {
+                "display_url": "ko-fi.com/bentu404",
+                "end": 116,
+                "expanded_url": "http://ko-fi.com/bentu404",
+                "start": 93,
+                "url": "https://t.co/i4xqWHX6x8"
+              }
+            ]
+          }
+        },
+        "id": "1631316634223939586",
+        "location": "中国",
+        "name": "乱涂乱画BEN",
+        "pinned_tweet_id": "1772161699350470933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811230122542047232/jut9oqQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44260,
+          "following_count": 1153,
+          "like_count": 5923,
+          "listed_count": 102,
+          "media_count": 894,
+          "tweet_count": 4914
+        },
+        "username": "ben404yg",
+        "verified": true
+      }
+    ]
+  }
+}

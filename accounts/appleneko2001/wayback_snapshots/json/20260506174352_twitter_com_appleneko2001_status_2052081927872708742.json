@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2052012404968714613",
+    "created_at": "2026-05-06T17:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052081927872708742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1840097341086543874",
+          "start": 0,
+          "username": "XChatScout"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052081927872708742",
+    "in_reply_to_user_id": "1840097341086543874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052070927954051290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XChatScout 怎么会有这么恶心的摄象头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2052012404968714613",
+        "created_at": "2026-05-06T17:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052081927872708742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1840097341086543874",
+              "start": 0,
+              "username": "XChatScout"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052081927872708742",
+        "in_reply_to_user_id": "1840097341086543874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052070927954051290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XChatScout 怎么会有这么恶心的摄象头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840097341086543874",
+        "conversation_id": "2052012404968714613",
+        "created_at": "2026-05-06T17:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052070927954051290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xchatscout/sta…",
+              "end": 40,
+              "expanded_url": "https://x.com/xchatscout/status/2052070751608668620?s=46",
+              "start": 17,
+              "url": "https://t.co/29kIdPlLke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052070927954051290",
+        "in_reply_to_user_id": "1840097341086543874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12743,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052070751608668620",
+            "type": "quoted"
+          },
+          {
+            "id": "2052012404968714613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比起这个光明正大的拍 这个真阴险 https://t.co/29kIdPlLke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 358,
+          "like_count": 103636,
+          "listed_count": 3,
+          "media_count": 1628,
+          "tweet_count": 16709
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T18:32:54.000Z",
+        "description": "每天都在加油｜项目投研分析｜数据可视化｜奇怪人类调研所｜开源项目研究｜美股｜每日内容分享",
+        "id": "1840097341086543874",
+        "name": "一",
+        "pinned_tweet_id": "2052012404968714613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045121359500746752/3sXZrWnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4422,
+          "following_count": 2412,
+          "like_count": 5145,
+          "listed_count": 8,
+          "media_count": 221,
+          "tweet_count": 5728
+        },
+        "username": "XChatScout",
+        "verified": true
+      }
+    ]
+  }
+}

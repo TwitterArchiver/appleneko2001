@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934062813535952896"
+      ],
+      "media_source_tweet_id": [
+        "1934083450748674250"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "1934554221392875725",
+    "created_at": "2025-06-16T10:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T11:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934554221392875725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2835757940",
+          "start": 3,
+          "username": "gorumosu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d9sHoH9kI1",
+          "end": 41,
+          "expanded_url": "https://x.com/gorumosu/status/1934083450748674250/photo/1",
+          "media_key": "3_1934062813535952896",
+          "start": 18,
+          "url": "https://t.co/d9sHoH9kI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934554221392875725",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1674
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934083450748674250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gorumosu: GBC https://t.co/d9sHoH9kI1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1934062813535952896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtcr4b4aYAAqj8s.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934062813535952896"
+          ],
+          "media_source_tweet_id": [
+            "1934083450748674250"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "1934554221392875725",
+        "created_at": "2025-06-16T10:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T11:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934554221392875725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2835757940",
+              "start": 3,
+              "username": "gorumosu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d9sHoH9kI1",
+              "end": 41,
+              "expanded_url": "https://x.com/gorumosu/status/1934083450748674250/photo/1",
+              "media_key": "3_1934062813535952896",
+              "start": 18,
+              "url": "https://t.co/d9sHoH9kI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934554221392875725",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1674
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934083450748674250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gorumosu: GBC https://t.co/d9sHoH9kI1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934062813535952896"
+          ]
+        },
+        "author_id": "2835757940",
+        "conversation_id": "1934083450748674250",
+        "created_at": "2025-06-15T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934083450748674250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d9sHoH9kI1",
+              "end": 27,
+              "expanded_url": "https://x.com/gorumosu/status/1934083450748674250/photo/1",
+              "media_key": "3_1934062813535952896",
+              "start": 4,
+              "url": "https://t.co/d9sHoH9kI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934083450748674250",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 723,
+          "impression_count": 158854,
+          "like_count": 9198,
+          "quote_count": 18,
+          "reply_count": 23,
+          "retweet_count": 1674
+        },
+        "reply_settings": "everyone",
+        "text": "GBC https://t.co/d9sHoH9kI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 259,
+          "like_count": 64870,
+          "listed_count": 2,
+          "media_count": 1293,
+          "tweet_count": 12240
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-30T06:51:03.000Z",
+        "description": "ガールズバンドクライの二次創作イラストを描いてます　ギャグ漫画が多めです　🦔仁菜推し🦔",
+        "id": "2835757940",
+        "location": "嘘みたいな馬鹿みたいなどうしようもない僕らの街",
+        "name": "ごるもす",
+        "pinned_tweet_id": "1928375842473717853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918087587090317312/hDvTjB-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6725,
+          "following_count": 179,
+          "like_count": 13655,
+          "listed_count": 43,
+          "media_count": 309,
+          "tweet_count": 8903
+        },
+        "username": "gorumosu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046566716176805888"
+      ],
+      "media_source_tweet_id": [
+        "2046566718768902268"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2046808190449508608",
+    "created_at": "2026-04-22T04:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046808190449508608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "940903737660391425",
+          "start": 3,
+          "username": "morisoba1213"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJjtmCO013",
+          "end": 52,
+          "expanded_url": "https://x.com/morisoba1213/status/2046566718768902268/photo/1",
+          "media_key": "3_2046566716176805888",
+          "start": 29,
+          "url": "https://t.co/aJjtmCO013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046808190449508608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046566718768902268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @morisoba1213: 私だけが見られる表情 https://t.co/aJjtmCO013"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046808190449508608].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046808190449508608",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046808190449508608"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046566716176805888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbdlc7bMAAKEbA.jpg",
+        "width": 1463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046566716176805888"
+          ]
+        },
+        "author_id": "940903737660391425",
+        "conversation_id": "2046566718768902268",
+        "created_at": "2026-04-21T12:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046566718768902268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJjtmCO013",
+              "end": 34,
+              "expanded_url": "https://x.com/morisoba1213/status/2046566718768902268/photo/1",
+              "media_key": "3_2046566716176805888",
+              "start": 11,
+              "url": "https://t.co/aJjtmCO013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046566718768902268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 15819,
+          "like_count": 1700,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "私だけが見られる表情 https://t.co/aJjtmCO013"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 356,
+          "like_count": 102165,
+          "listed_count": 3,
+          "media_count": 1611,
+          "tweet_count": 16506
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-13T11:18:26.000Z",
+        "description": "絵を描くのと百合と薔薇が好き\nフォローやふぁぼ、RT本当にありがとうございます！！\n\n自作発言・無断転載、使用・AI学習等はお控えいただけますと幸いです\nskeb【https://t.co/ZXIyUvwYrV】\npixiv【https://t.co/hDk1FZenJ1】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@morisoba1213",
+                "end": 105,
+                "expanded_url": "http://skeb.jp/@morisoba1213",
+                "start": 82,
+                "url": "https://t.co/ZXIyUvwYrV"
+              },
+              {
+                "display_url": "pixiv.net/users/6798622",
+                "end": 136,
+                "expanded_url": "https://pixiv.net/users/6798622",
+                "start": 113,
+                "url": "https://t.co/hDk1FZenJ1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanme.link/@morisoba1213",
+                "end": 23,
+                "expanded_url": "https://fanme.link/@morisoba1213",
+                "start": 0,
+                "url": "https://t.co/5jA4ORvNuW"
+              }
+            ]
+          }
+        },
+        "id": "940903737660391425",
+        "name": "💫藤城まつり💫",
+        "pinned_tweet_id": "1932395723720655060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460300731748339712/npH1ta7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45339,
+          "following_count": 207,
+          "like_count": 52131,
+          "listed_count": 418,
+          "media_count": 1098,
+          "tweet_count": 12988
+        },
+        "url": "https://t.co/5jA4ORvNuW",
+        "username": "morisoba1213",
+        "verified": true
+      }
+    ]
+  }
+}

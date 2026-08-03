@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Pixel",
+          "id": "1045759094756323328",
+          "name": "Google Pixel"
+        }
+      }
+    ],
+    "conversation_id": "2017590822204805507",
+    "created_at": "2026-02-01T17:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T18:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018010092516581738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018010092516581738",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017590822204805507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 咱為了小手機的手感 買過多親3U 也買過谷歌pixel4…甚至買了索尼xz2c…現在用著索尼…但是手機偶爾還是會lag 而且也有部分功能缺失…大公司好喜歡製造大手機…好難受喵…（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2017590638741712896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__r_wxacAAXU2p.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          }
+        ],
+        "conversation_id": "2017590822204805507",
+        "created_at": "2026-02-01T17:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T18:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018010092516581738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018010092516581738",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017590822204805507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 咱為了小手機的手感 買過多親3U 也買過谷歌pixel4…甚至買了索尼xz2c…現在用著索尼…但是手機偶爾還是會lag 而且也有部分功能缺失…大公司好喜歡製造大手機…好難受喵…（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017590638741712896"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017590822204805507",
+        "created_at": "2026-01-31T13:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017590822204805507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KtNAUe2E3",
+              "end": 50,
+              "expanded_url": "https://x.com/mwdxj29477/status/2017590822204805507/photo/1",
+              "media_key": "3_2017590638741712896",
+              "start": 27,
+              "url": "https://t.co/5KtNAUe2E3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017590822204805507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的烦这个6.55英寸啊啊啊，这么大，谁握着舒服 ? https://t.co/5KtNAUe2E3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 320,
+          "like_count": 86465,
+          "listed_count": 2,
+          "media_count": 1460,
+          "tweet_count": 14219
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "翻车顺男/出厂日期:11.13.2011/01.28.2026🍥翻车…可能吧...仅仅只是体验/喜欢xnn xyn/INFP-T/欢迎互fo~/初二牲/家长几乎放养我/161cm  50kg/坐标湖北/社恐/Minecraft玩家/民國派🇹🇼/繁中&简中/\nQQ&B站:私信加/TG:「mwdxj」(随机换头像)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "ROC/东湖北「汉川城」",
+        "name": "MWdxj_🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012764703894671360/6Pvt_xDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 361,
+          "like_count": 4003,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

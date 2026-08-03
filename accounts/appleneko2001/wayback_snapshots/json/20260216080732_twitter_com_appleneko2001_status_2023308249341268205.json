@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022950937564975104"
+      ],
+      "media_source_tweet_id": [
+        "2022951028262605089"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2023308249341268205",
+    "created_at": "2026-02-16T08:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023308249341268205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1271579725",
+          "start": 3,
+          "username": "kakusatou_3333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Qhjr4tJ6b",
+          "end": 43,
+          "expanded_url": "https://x.com/kakusatou_3333/status/2022951028262605089/photo/1",
+          "media_key": "3_2022950937564975104",
+          "start": 20,
+          "url": "https://t.co/1Qhjr4tJ6b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023308249341268205",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022951028262605089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakusatou_3333: https://t.co/1Qhjr4tJ6b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1982,
+        "media_key": "3_2022950937564975104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL3KN-akAATuNr.jpg",
+        "width": 1326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022950937564975104"
+          ],
+          "media_source_tweet_id": [
+            "2022951028262605089"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2023308249341268205",
+        "created_at": "2026-02-16T08:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023308249341268205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1271579725",
+              "start": 3,
+              "username": "kakusatou_3333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Qhjr4tJ6b",
+              "end": 43,
+              "expanded_url": "https://x.com/kakusatou_3333/status/2022951028262605089/photo/1",
+              "media_key": "3_2022950937564975104",
+              "start": 20,
+              "url": "https://t.co/1Qhjr4tJ6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023308249341268205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022951028262605089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakusatou_3333: https://t.co/1Qhjr4tJ6b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022950937564975104"
+          ]
+        },
+        "author_id": "1271579725",
+        "conversation_id": "2022951028262605089",
+        "created_at": "2026-02-15T08:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022951028262605089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Qhjr4tJ6b",
+              "end": 23,
+              "expanded_url": "https://x.com/kakusatou_3333/status/2022951028262605089/photo/1",
+              "media_key": "3_2022950937564975104",
+              "start": 0,
+              "url": "https://t.co/1Qhjr4tJ6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022951028262605089",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 421,
+          "impression_count": 35483,
+          "like_count": 4068,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1Qhjr4tJ6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 328,
+          "like_count": 90060,
+          "listed_count": 2,
+          "media_count": 1489,
+          "tweet_count": 14654
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-16T06:21:44.000Z",
+        "description": "猫耳の女の子を描きます Mail：kakusatou.3333@gmail.com グッズ：https://t.co/bYakUzPr6K LINEスタンプ：https://t.co/oeZRxJ9K1Q FA：#かくさとう家のねこ 無断転載・AI学習禁止",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 106,
+                "tag": "かくさとう家のねこ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kakusatou.booth.pm",
+                "end": 69,
+                "expanded_url": "http://kakusatou.booth.pm",
+                "start": 46,
+                "url": "https://t.co/bYakUzPr6K"
+              },
+              {
+                "display_url": "line.me/S/shop/sticker…",
+                "end": 102,
+                "expanded_url": "https://line.me/S/shop/sticker/author/2877657",
+                "start": 79,
+                "url": "https://t.co/oeZRxJ9K1Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/kakusatou_33…",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/kakusatou_3333",
+                "start": 0,
+                "url": "https://t.co/k8q8YP8kbE"
+              }
+            ]
+          }
+        },
+        "id": "1271579725",
+        "name": "かくさとう",
+        "pinned_tweet_id": "1681979463494701056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743533107662532608/axR2Kf9k_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94283,
+          "following_count": 149,
+          "like_count": 14484,
+          "listed_count": 851,
+          "media_count": 813,
+          "tweet_count": 27081
+        },
+        "url": "https://t.co/k8q8YP8kbE",
+        "username": "kakusatou_3333",
+        "verified": false
+      }
+    ]
+  }
+}

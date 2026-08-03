@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2011179415015653732",
+    "created_at": "2026-01-13T20:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T21:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011179415015653732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1472913337",
+          "start": 3,
+          "username": "sandyue"
+        },
+        {
+          "end": 19,
+          "id": "1588829429333037056",
+          "start": 13,
+          "username": "435hz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011179415015653732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010891041071829346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sandyue: @435hz 反过来说也成立： 你一直忍让，别人就试探出了你的软弱； 你一直沉默，别人就默认了你的顺从。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2011179415015653732",
+        "created_at": "2026-01-13T20:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T21:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011179415015653732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1472913337",
+              "start": 3,
+              "username": "sandyue"
+            },
+            {
+              "end": 19,
+              "id": "1588829429333037056",
+              "start": 13,
+              "username": "435hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011179415015653732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010891041071829346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sandyue: @435hz 反过来说也成立： 你一直忍让，别人就试探出了你的软弱； 你一直沉默，别人就默认了你的顺从。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472913337",
+        "conversation_id": "2010890541270196568",
+        "created_at": "2026-01-13T01:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T02:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010891041071829346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1588829429333037056",
+              "start": 0,
+              "username": "435hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010891041071829346",
+        "in_reply_to_user_id": "1588829429333037056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1378,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010890541270196568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@435hz 反过来说也成立： 你一直忍让，别人就试探出了你的软弱； 你一直沉默，别人就默认了你的顺从。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 288,
+          "like_count": 77025,
+          "listed_count": 2,
+          "media_count": 1386,
+          "tweet_count": 13308
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-31T19:22:33.000Z",
+        "description": "YOU ONLY LIVE ONCE! 请关注我，我会及时回关。please follow me, I will follow back.",
+        "id": "1472913337",
+        "location": "San Francisco, CA",
+        "name": "sandyue",
+        "pinned_tweet_id": "2009755706065551704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1311890857805541376/oHxgD9Pr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 1968,
+          "like_count": 786,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 8478
+        },
+        "username": "sandyue",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-05T09:44:16.000Z",
+        "description": "三角眼观天下，覆船口吞乾坤。\n天纵英才，献忠回来。\n仅在X有账号，其它平台不是本人。",
+        "id": "1588829429333037056",
+        "name": "章工",
+        "pinned_tweet_id": "2010603149204090934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591818969236717569/q95i8uvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114398,
+          "following_count": 88,
+          "like_count": 6419,
+          "listed_count": 673,
+          "media_count": 2148,
+          "tweet_count": 18515
+        },
+        "username": "435hz",
+        "verified": false
+      }
+    ]
+  }
+}

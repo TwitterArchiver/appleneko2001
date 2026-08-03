@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2054128725869150660",
+    "created_at": "2026-05-12T09:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054128970308948325"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054128970308948325",
+    "in_reply_to_user_id": "1224020250733268995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054128725869150660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结局我已经接受了 但 果然还是有点小委屈吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2054128725869150660",
+        "created_at": "2026-05-12T09:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054128970308948325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054128970308948325",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054128725869150660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结局我已经接受了 但 果然还是有点小委屈吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2054128725869150660",
+        "created_at": "2026-05-12T09:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054128725869150660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/appleneko2001/…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/appleneko2001/status/2028384120863351169",
+              "start": 101,
+              "url": "https://t.co/c8MqVtsup8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054128725869150660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028384120863351169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "附加：这手机有时候收不到信号 连我的第一台4G小手机多亲3u都不如…同一个地点 这台索尼都很不稳定 商家的那句话我到现在还蒙在鼓里 能用…？那确实是很能用了 真误事 不是我阅读有问题就是商家在刻意隐瞒 https://t.co/c8MqVtsup8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 356,
+          "like_count": 104247,
+          "listed_count": 3,
+          "media_count": 1630,
+          "tweet_count": 16775
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

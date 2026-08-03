@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059954653719314432"
+      ],
+      "media_source_tweet_id": [
+        "2059954681288511823"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2059991417095860509",
+    "created_at": "2026-05-28T13:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059991417095860509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "63962330",
+          "start": 3,
+          "username": "akazawared"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5KwgX1L1CF",
+          "end": 58,
+          "expanded_url": "https://x.com/akazawared/status/2059954681288511823/photo/1",
+          "media_key": "3_2059954653719314432",
+          "start": 35,
+          "url": "https://t.co/5KwgX1L1CF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059991417095860509",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059954681288511823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akazawared: 次に描くかわいそかわいいエルフの漫画 https://t.co/5KwgX1L1CF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059991417095860509].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059991417095860509",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059991417095860509"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2059954653719314432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZt1-xaQAA5npy.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059954653719314432"
+          ]
+        },
+        "author_id": "63962330",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          }
+        ],
+        "conversation_id": "2059954681288511823",
+        "created_at": "2026-05-28T11:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059954681288511823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KwgX1L1CF",
+              "end": 42,
+              "expanded_url": "https://x.com/akazawared/status/2059954681288511823/photo/1",
+              "media_key": "3_2059954653719314432",
+              "start": 19,
+              "url": "https://t.co/5KwgX1L1CF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059954681288511823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 11128,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "次に描くかわいそかわいいエルフの漫画 https://t.co/5KwgX1L1CF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，正在被修好…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/9bx2JDcXSU"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 352,
+          "like_count": 106043,
+          "listed_count": 4,
+          "media_count": 1638,
+          "tweet_count": 17079
+        },
+        "url": "https://t.co/9bx2JDcXSU",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-08T13:05:11.000Z",
+        "description": "DL【https://t.co/45ycxTFMoA】\nFA【https://t.co/A0wIb7jPow】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dlaf.jp/maniax/dlaf/=/…",
+                "end": 26,
+                "expanded_url": "https://dlaf.jp/maniax/dlaf/=/t/s/link/work/aid/sslot/id/RJ285255.html",
+                "start": 3,
+                "url": "https://t.co/45ycxTFMoA"
+              },
+              {
+                "display_url": "dmm.co.jp/dc/doujin/-/li…",
+                "end": 54,
+                "expanded_url": "https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74752/sort=total_sales/",
+                "start": 31,
+                "url": "https://t.co/A0wIb7jPow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/akazawared",
+                "end": 23,
+                "expanded_url": "https://lit.link/akazawared",
+                "start": 0,
+                "url": "https://t.co/1nVIqU3NTr"
+              }
+            ]
+          }
+        },
+        "id": "63962330",
+        "location": "小さいのと大きいのを描くセンシティブ漫画描き",
+        "name": "あかざわRED🍆総集編DL版5月31日発売 COMITIA156 と09a",
+        "pinned_tweet_id": "2057050409202810931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918325026711060480/hNUe3wNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183863,
+          "following_count": 4174,
+          "like_count": 30451,
+          "listed_count": 2322,
+          "media_count": 510,
+          "tweet_count": 53925
+        },
+        "url": "https://t.co/1nVIqU3NTr",
+        "username": "akazawared",
+        "verified": true
+      }
+    ]
+  }
+}

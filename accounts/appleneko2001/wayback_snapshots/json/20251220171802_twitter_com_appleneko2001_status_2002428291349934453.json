@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002031496476119041"
+      ],
+      "media_source_tweet_id": [
+        "2002031502616646114"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Barbecues and Grilling",
+          "id": "858037909219192833",
+          "name": "Grilling"
+        }
+      }
+    ],
+    "conversation_id": "2002428291349934453",
+    "created_at": "2025-12-20T17:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002428291349934453"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "北海道",
+          "probability": 0.6803,
+          "start": 12,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "288288177",
+          "start": 3,
+          "username": "YanKMW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a23vpN0DZ2",
+          "end": 47,
+          "expanded_url": "https://x.com/YanKMW/status/2002031502616646114/photo/1",
+          "media_key": "3_2002031496476119041",
+          "start": 24,
+          "url": "https://t.co/a23vpN0DZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002428291349934453",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002031502616646114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YanKMW: 北海道焼肉インスタンス https://t.co/a23vpN0DZ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2002031496476119041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ilCfCaUAEcAyV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002031496476119041"
+          ],
+          "media_source_tweet_id": [
+            "2002031502616646114"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Barbecues and Grilling",
+              "id": "858037909219192833",
+              "name": "Grilling"
+            }
+          }
+        ],
+        "conversation_id": "2002428291349934453",
+        "created_at": "2025-12-20T17:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002428291349934453"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "北海道",
+              "probability": 0.6803,
+              "start": 12,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "288288177",
+              "start": 3,
+              "username": "YanKMW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a23vpN0DZ2",
+              "end": 47,
+              "expanded_url": "https://x.com/YanKMW/status/2002031502616646114/photo/1",
+              "media_key": "3_2002031496476119041",
+              "start": 24,
+              "url": "https://t.co/a23vpN0DZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002428291349934453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002031502616646114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YanKMW: 北海道焼肉インスタンス https://t.co/a23vpN0DZ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002031496476119041"
+          ]
+        },
+        "author_id": "288288177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Barbecues and Grilling",
+              "id": "858037909219192833",
+              "name": "Grilling"
+            }
+          }
+        ],
+        "conversation_id": "2002031502616646114",
+        "created_at": "2025-12-19T15:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002031502616646114"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "北海道",
+              "probability": 0.7002,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a23vpN0DZ2",
+              "end": 35,
+              "expanded_url": "https://x.com/YanKMW/status/2002031502616646114/photo/1",
+              "media_key": "3_2002031496476119041",
+              "start": 12,
+              "url": "https://t.co/a23vpN0DZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002031502616646114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 451,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北海道焼肉インスタンス https://t.co/a23vpN0DZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 268,
+          "like_count": 66070,
+          "listed_count": 2,
+          "media_count": 1314,
+          "tweet_count": 12406
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-26T15:46:50.000Z",
+        "description": "映像制作｜Unity Technical Artist｜Motion Design｜VJ\n🤍💙🤍💙🤍💙🤍💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yankmw",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yankmw",
+                "start": 0,
+                "url": "https://t.co/dL2xi8ZgDr"
+              }
+            ]
+          }
+        },
+        "id": "288288177",
+        "location": "台湾 / 🐋 / 北海道",
+        "name": "(っ◔◡◔)っ 𝙔𝙖𝙣-𝙆",
+        "pinned_tweet_id": "1013022246577713153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1211563164094980097/OjZYAsYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4755,
+          "following_count": 6638,
+          "like_count": 135796,
+          "listed_count": 41,
+          "media_count": 569,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/dL2xi8ZgDr",
+        "username": "YanKMW",
+        "verified": true
+      }
+    ]
+  }
+}

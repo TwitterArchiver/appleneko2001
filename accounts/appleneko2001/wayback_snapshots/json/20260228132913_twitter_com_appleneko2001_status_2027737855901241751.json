@@ -1,0 +1,912 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1287576891545681921",
+          "name": "Yu-Gi-Oh! Trading Card Game"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1108732957936644096",
+          "name": "YU-GI-OH!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1108732957936644096",
+          "name": "YU-GI-OH!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1148209292060741632",
+          "name": "Trading card games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287576891545681921",
+          "name": "Yu-Gi-Oh! Trading Card Game"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      }
+    ],
+    "conversation_id": "2027737855901241751",
+    "created_at": "2026-02-28T13:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027737855901241751"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 69,
+          "normalized_text": "風霊使いウィン",
+          "probability": 0.3293,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "618646265",
+          "start": 3,
+          "username": "YuGiOh_OCG_INFO"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Subtitles available in English, Korean, and Chinese (Simplified and Traditional). Please select your preferred language from the subtitles settings of the vi...",
+          "display_url": "youtu.be/vfMhRx6CuzE",
+          "end": 124,
+          "expanded_url": "https://youtu.be/vfMhRx6CuzE",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2025855543018188800/ingLszJf?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2025855543018188800/ingLszJf?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 101,
+          "status": 200,
+          "title": "【公式アニメ】 精霊術の使い手Ⅰ「水霊使いエリア」/ Spirit Charmers I: “Eria the Water Charmer”",
+          "unwound_url": "https://www.youtube.com/watch?v=vfMhRx6CuzE&feature=youtu.be",
+          "url": "https://t.co/6783HQSd9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027737855901241751",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027715418157174898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuGiOh_OCG_INFO: ◤￣￣￣￣￣￣￣￣￣￣￣\n\n✲*｡　精霊術の使い手　*｡✲\n登場キャラクターから\n「風霊使いウィン」の\nアニメ設定画を公開‼️\n\n🎦ご視聴ページはこちら\n【Ⅰ】https://t.co/6783HQSd9A\n【Ⅱ】https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2026583770636365826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_fM7xaMAIXlWU.jpg",
+        "width": 1596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1287576891545681921",
+              "name": "Yu-Gi-Oh! Trading Card Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1108732957936644096",
+              "name": "YU-GI-OH!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1108732957936644096",
+              "name": "YU-GI-OH!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1148209292060741632",
+              "name": "Trading card games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287576891545681921",
+              "name": "Yu-Gi-Oh! Trading Card Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "2027737855901241751",
+        "created_at": "2026-02-28T13:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027737855901241751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "風霊使いウィン",
+              "probability": 0.3293,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "618646265",
+              "start": 3,
+              "username": "YuGiOh_OCG_INFO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Subtitles available in English, Korean, and Chinese (Simplified and Traditional). Please select your preferred language from the subtitles settings of the vi...",
+              "display_url": "youtu.be/vfMhRx6CuzE",
+              "end": 124,
+              "expanded_url": "https://youtu.be/vfMhRx6CuzE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2025855543018188800/ingLszJf?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025855543018188800/ingLszJf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "【公式アニメ】 精霊術の使い手Ⅰ「水霊使いエリア」/ Spirit Charmers I: “Eria the Water Charmer”",
+              "unwound_url": "https://www.youtube.com/watch?v=vfMhRx6CuzE&feature=youtu.be",
+              "url": "https://t.co/6783HQSd9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027737855901241751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027715418157174898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuGiOh_OCG_INFO: ◤￣￣￣￣￣￣￣￣￣￣￣\n\n✲*｡　精霊術の使い手　*｡✲\n登場キャラクターから\n「風霊使いウィン」の\nアニメ設定画を公開‼️\n\n🎦ご視聴ページはこちら\n【Ⅰ】https://t.co/6783HQSd9A\n【Ⅱ】https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026583770636365826"
+          ]
+        },
+        "author_id": "618646265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1287576891545681921",
+              "name": "Yu-Gi-Oh! Trading Card Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1108732957936644096",
+              "name": "YU-GI-OH!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1108732957936644096",
+              "name": "YU-GI-OH!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1148209292060741632",
+              "name": "Trading card games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287576891545681921",
+              "name": "Yu-Gi-Oh! Trading Card Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "2027715418157174898",
+        "created_at": "2026-02-28T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027715418157174898"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "風霊使いウィン",
+              "probability": 0.3669,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 168,
+              "start": 158,
+              "tag": "遊戯王クロニクルズ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Subtitles available in English, Korean, and Chinese (Simplified and Traditional). Please select your preferred language from the subtitles settings of the vi...",
+              "display_url": "youtu.be/vfMhRx6CuzE",
+              "end": 103,
+              "expanded_url": "https://youtu.be/vfMhRx6CuzE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2025855543018188800/ingLszJf?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025855543018188800/ingLszJf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "【公式アニメ】 精霊術の使い手Ⅰ「水霊使いエリア」/ Spirit Charmers I: “Eria the Water Charmer”",
+              "unwound_url": "https://www.youtube.com/watch?v=vfMhRx6CuzE&feature=youtu.be",
+              "url": "https://t.co/6783HQSd9A"
+            },
+            {
+              "description": "Subtitles available in English, Korean, and Chinese (Simplified and Traditional). Please select your preferred language from the subtitles settings of the vi...",
+              "display_url": "youtu.be/5k9X2XG7__4",
+              "end": 130,
+              "expanded_url": "https://youtu.be/5k9X2XG7__4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2025547566264598529/gdIbngak?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025547566264598529/gdIbngak?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "【公式アニメ】 精霊術の使い手Ⅱ「火霊使いヒータ」/ Spirit Charmers II: “Hiita the Fire Charmer”",
+              "unwound_url": "https://www.youtube.com/watch?v=5k9X2XG7__4&feature=youtu.be",
+              "url": "https://t.co/O4icSVfIrj"
+            },
+            {
+              "description": "Subtitles available in English, Korean, and Chinese (Simplified and Traditional). Please select your preferred language from the subtitles settings of the vi...",
+              "display_url": "youtu.be/TTIZ_uDAASs",
+              "end": 157,
+              "expanded_url": "https://youtu.be/TTIZ_uDAASs",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2027337976645033984/iB9wXzh2?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027337976645033984/iB9wXzh2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 134,
+              "status": 200,
+              "title": "【公式アニメ】 精霊術の使い手Ⅲ「風霊使いウィン」/ Spirit Charmers III: “Wynn the Wind Charmer”",
+              "unwound_url": "https://www.youtube.com/watch?v=TTIZ_uDAASs&feature=youtu.be",
+              "url": "https://t.co/f49JHDx8SX"
+            },
+            {
+              "display_url": "pic.x.com/fPtTN4RHaj",
+              "end": 205,
+              "expanded_url": "https://x.com/YuGiOh_OCG_INFO/status/2027715418157174898/photo/1",
+              "media_key": "3_2026583770636365826",
+              "start": 182,
+              "url": "https://t.co/fPtTN4RHaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027715418157174898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 39092,
+          "like_count": 1015,
+          "quote_count": 16,
+          "reply_count": 6,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "◤￣￣￣￣￣￣￣￣￣￣￣\n\n✲*｡　精霊術の使い手　*｡✲\n登場キャラクターから\n「風霊使いウィン」の\nアニメ設定画を公開‼️\n\n🎦ご視聴ページはこちら\n【Ⅰ】https://t.co/6783HQSd9A\n【Ⅱ】https://t.co/O4icSVfIrj\n【Ⅲ】https://t.co/f49JHDx8SX\n#遊戯王クロニクルズ\n＿＿＿＿＿＿＿＿＿＿＿◢ https://t.co/fPtTN4RHaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 340,
+          "like_count": 93728,
+          "listed_count": 3,
+          "media_count": 1524,
+          "tweet_count": 15250
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-26T02:27:28.000Z",
+        "description": "遊戯王OCGの商品やイベント等の最新情報をお知らせする遊戯王OCG公式アカウントです。※本アカウントではご質問などにはお応えしておりません。※商品・サービスのお問い合わせ→https://t.co/t5466jBVbv\n※当社SNS利用方針→https://t.co/oBr1O4OXWO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "konami.jp/3nJNipg",
+                "end": 109,
+                "expanded_url": "https://konami.jp/3nJNipg",
+                "start": 86,
+                "url": "https://t.co/t5466jBVbv"
+              },
+              {
+                "display_url": "konami.jp/3iV7XCY",
+                "end": 144,
+                "expanded_url": "https://konami.jp/3iV7XCY",
+                "start": 121,
+                "url": "https://t.co/oBr1O4OXWO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yugioh-card.com/japan/",
+                "end": 23,
+                "expanded_url": "http://www.yugioh-card.com/japan/",
+                "start": 0,
+                "url": "https://t.co/yoe1lkUY2Z"
+              }
+            ]
+          }
+        },
+        "id": "618646265",
+        "name": "【公式】遊戯王OCG",
+        "pinned_tweet_id": "2026492345756299338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245136873783037952/ZrtvgPpN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523122,
+          "following_count": 170,
+          "like_count": 3,
+          "listed_count": 3000,
+          "media_count": 115967,
+          "tweet_count": 135857
+        },
+        "url": "https://t.co/yoe1lkUY2Z",
+        "username": "YuGiOh_OCG_INFO",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2009100586449596773",
+    "created_at": "2026-01-08T11:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009218746876088786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1988647634689720320",
+          "start": 0,
+          "username": "sorasirokotyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009218746876088786",
+    "in_reply_to_user_id": "1988647634689720320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009100586449596773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sorasirokotyan 有…discord群組嗎…？或者不是騰訊公司的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2009100586449596773",
+        "created_at": "2026-01-08T11:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009218746876088786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1988647634689720320",
+              "start": 0,
+              "username": "sorasirokotyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009218746876088786",
+        "in_reply_to_user_id": "1988647634689720320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009100586449596773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sorasirokotyan 有…discord群組嗎…？或者不是騰訊公司的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988647634689720320",
+        "conversation_id": "2009100586449596773",
+        "created_at": "2026-01-08T03:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T04:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009100586449596773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009100586449596773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家說 咱要不要也建個QQ小群呢 如果建群有沒有想進群的 可以給咱的評論區留個言 說一下意見嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 281,
+          "like_count": 72916,
+          "listed_count": 2,
+          "media_count": 1363,
+          "tweet_count": 12995
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T16:38:48.000Z",
+        "description": "08年坐標廣東/身高158 體重47kg/空白子無證不含糖🍥 不係跨 係友跨順男🏳️‍⚧️(絕不翻車 /政治🚫🚫🚫/咱只是把推特當朋友圈玩的普通高校生 阿Sir求放過 多謝\n最も好きな空去ちゃん：@chaikh222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "chaikh222"
+              }
+            ]
+          }
+        },
+        "id": "1988647634689720320",
+        "location": "Twitter の インターネット",
+        "name": "空白子ちゃん~Official🍥",
+        "pinned_tweet_id": "2005335783075647982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006721661530443776/isO_W5KF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 376,
+          "like_count": 1964,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 336
+        },
+        "username": "sorasirokotyan",
+        "verified": false
+      }
+    ]
+  }
+}

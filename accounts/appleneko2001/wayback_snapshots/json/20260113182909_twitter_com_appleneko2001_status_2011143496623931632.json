@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Chrome",
+          "id": "10052778493",
+          "name": "Google Chrome"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2010810307887976911",
+    "created_at": "2026-01-13T18:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T19:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011143496623931632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Private and secure Android browser with support for browser extensions. - jqssun/android-helium-browser",
+          "display_url": "github.com/jqssun/android…",
+          "end": 37,
+          "expanded_url": "https://github.com/jqssun/android-helium-browser/releases",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2011143501120225286/U2r2WrRQ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2011143501120225286/U2r2WrRQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "Releases · jqssun/android-helium-browser",
+          "unwound_url": "https://github.com/jqssun/android-helium-browser/releases",
+          "url": "https://t.co/XQgTOHaP1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011143496623931632",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011142408403300597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 https://t.co/XQgTOHaP1f\n我自己也下載了一個安裝使用 因為是最近看到Helium 在電腦上面使用 至於手機上的版本我也是借著這個機會看了一下 在這之前我用的是自己修補的jQuarks, Fennec以及Google chrome"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2010810307887976911",
+        "created_at": "2026-01-13T18:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T19:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011143496623931632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Private and secure Android browser with support for browser extensions. - jqssun/android-helium-browser",
+              "display_url": "github.com/jqssun/android…",
+              "end": 37,
+              "expanded_url": "https://github.com/jqssun/android-helium-browser/releases",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2011143501120225286/U2r2WrRQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011143501120225286/U2r2WrRQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "Releases · jqssun/android-helium-browser",
+              "unwound_url": "https://github.com/jqssun/android-helium-browser/releases",
+              "url": "https://t.co/XQgTOHaP1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011143496623931632",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011142408403300597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 https://t.co/XQgTOHaP1f\n我自己也下載了一個安裝使用 因為是最近看到Helium 在電腦上面使用 至於手機上的版本我也是借著這個機會看了一下 在這之前我用的是自己修補的jQuarks, Fennec以及Google chrome"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830775691375218688",
+        "conversation_id": "2010810307887976911",
+        "created_at": "2026-01-13T18:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T19:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011142408403300597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011142408403300597",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011070134425682185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 那有Helium嘛我下个试试（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 288,
+          "like_count": 76875,
+          "listed_count": 2,
+          "media_count": 1386,
+          "tweet_count": 13291
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo喵~😺｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜中焦 中抑｜喜欢可可爱爱的事物捏🥰｜随心记录日常(随机负能量 慎入)💤｜看我的帖不喜勿喷，喷我也要发😋｜小@luo_240110",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "luo_240110"
+              }
+            ]
+          }
+        },
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2008910689658966299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 512,
+          "like_count": 1892,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 5264
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

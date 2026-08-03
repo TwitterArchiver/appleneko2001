@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1263237723713724416",
+          "name": "Speedrunning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263237723713724416",
+          "name": "Speedrunning"
+        }
+      }
+    ],
+    "conversation_id": "1971219002614779991",
+    "created_at": "2025-12-05T03:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996778575219871929"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "speedrun quest",
+          "probability": 0.85,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "90243660",
+          "start": 0,
+          "username": "hugo_branquelo"
+        },
+        {
+          "end": 25,
+          "id": "1747207068279345152",
+          "start": 16,
+          "username": "abeto_co"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996778575219871929",
+    "in_reply_to_user_id": "90243660",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971444010393927762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hugo_branquelo @abeto_co speedrun quest mentioned (?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 108942,
+        "height": 1080,
+        "media_key": "13_1971443259005165569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971443259005165569/img/r8A3Op1A22J_WiwD.jpg",
+        "public_metrics": {
+          "view_count": 12218
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971443259005165569/vid/avc1/480x270/UmkwhuqAY1FaCsCy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971443259005165569/vid/avc1/640x360/XVvtItiulzT_nkCo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971443259005165569/vid/avc1/1280x720/MP5WTemWG-4hmVOZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971443259005165569/pl/uhVRkAPkBzxyyWPb.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1263237723713724416",
+              "name": "Speedrunning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263237723713724416",
+              "name": "Speedrunning"
+            }
+          }
+        ],
+        "conversation_id": "1971219002614779991",
+        "created_at": "2025-12-05T03:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996778575219871929"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "speedrun quest",
+              "probability": 0.85,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "90243660",
+              "start": 0,
+              "username": "hugo_branquelo"
+            },
+            {
+              "end": 25,
+              "id": "1747207068279345152",
+              "start": 16,
+              "username": "abeto_co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996778575219871929",
+        "in_reply_to_user_id": "90243660",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971444010393927762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hugo_branquelo @abeto_co speedrun quest mentioned (?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971443259005165569"
+          ]
+        },
+        "author_id": "90243660",
+        "conversation_id": "1971219002614779991",
+        "created_at": "2025-09-26T05:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T06:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971444010393927762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1747207068279345152",
+              "start": 0,
+              "username": "abeto_co"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ha8oEgE8H0",
+              "end": 113,
+              "expanded_url": "https://x.com/hugo_branquelo/status/1971444010393927762/video/1",
+              "media_key": "13_1971443259005165569",
+              "start": 90,
+              "url": "https://t.co/Ha8oEgE8H0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971444010393927762",
+        "in_reply_to_user_id": "1747207068279345152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 21242,
+          "like_count": 580,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971219002614779991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abeto_co The game was short, but it was fun and trying to climb places was fun too haha! https://t.co/Ha8oEgE8H0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 268,
+          "like_count": 65993,
+          "listed_count": 2,
+          "media_count": 1311,
+          "tweet_count": 12379
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-15T20:43:20.000Z",
+        "description": "Artista 3D, Game Designer, Level Designer e Co-Fundador no estúdio Atomic Nuggets\nhttps://t.co/h5yaE0wc8c\nhttps://t.co/R5AptK16Rl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/AtomNugget",
+                "end": 105,
+                "expanded_url": "https://twitter.com/AtomNugget",
+                "start": 82,
+                "url": "https://t.co/h5yaE0wc8c"
+              },
+              {
+                "display_url": "store.steampowered.com/app/2709700/Fl…",
+                "end": 129,
+                "expanded_url": "https://store.steampowered.com/app/2709700/Flob",
+                "start": 106,
+                "url": "https://t.co/R5AptK16Rl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "branquelo.itch.io",
+                "end": 23,
+                "expanded_url": "https://branquelo.itch.io",
+                "start": 0,
+                "url": "https://t.co/ThnDnjoKYs"
+              }
+            ]
+          }
+        },
+        "id": "90243660",
+        "name": "Branquelo",
+        "pinned_tweet_id": "1295926849881755648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799990714576646145/bojGpiJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 1127,
+          "like_count": 60989,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 7108
+        },
+        "url": "https://t.co/ThnDnjoKYs",
+        "username": "hugo_branquelo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T10:40:51.000Z",
+        "description": "Technical art, interactive experiences and the occasional game. - hi@abeto.co",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "abeto.co",
+                "end": 23,
+                "expanded_url": "https://abeto.co",
+                "start": 0,
+                "url": "https://t.co/Yuv3eNJc80"
+              }
+            ]
+          }
+        },
+        "id": "1747207068279345152",
+        "location": "Global",
+        "name": "abeto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800894605405147136/dChXII7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6447,
+          "following_count": 3,
+          "like_count": 525,
+          "listed_count": 44,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/Yuv3eNJc80",
+        "username": "abeto_co",
+        "verified": false
+      }
+    ]
+  }
+}

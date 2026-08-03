@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2066713214457446451",
+    "created_at": "2026-06-16T15:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066906738645950965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1158139840866791424",
+          "start": 0,
+          "username": "vxunderground"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066906738645950965",
+    "in_reply_to_user_id": "1158139840866791424",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066713214457446451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vxunderground Found the clues that windows are actually is Linux \nWindows uses \"file\" to do something that not just files do\nLinux uses \"file\" to do something that not just files do\n\n (jk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2066713214457446451",
+        "created_at": "2026-06-16T15:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066906738645950965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1158139840866791424",
+              "start": 0,
+              "username": "vxunderground"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066906738645950965",
+        "in_reply_to_user_id": "1158139840866791424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066713214457446451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vxunderground Found the clues that windows are actually is Linux \nWindows uses \"file\" to do something that not just files do\nLinux uses \"file\" to do something that not just files do\n\n (jk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158139840866791424",
+        "conversation_id": "2066713214457446451",
+        "created_at": "2026-06-16T02:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066713214457446451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066713214457446451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Tired of noobs complaining the WINAPI for malware development is weird. It's not.\n\nHow do you create a file?\nThe CreateFile function.\n\nHow do you open a file for reading?\nThe CreateFile function.\n\nHow do you open a file for writing?\nThe CreateFile function.\n\nHow do you get a handle to a directory?\nThe CreateFile function.\n\nHow do delete a file?\nThe CreateFile function.\n\nHow do you get access to a physical disk?\nThe CreateFile function.\n\nHow do you get access to a file stream?\nThe CreateFile function.\n\nHow do you get access to the console buffer?\nThe CreateFile function.\n\nHow do you get access to pipes?\nThe CreateFile function.\n\nHow do you perform interprocess communication?\nThe CreateFile function.\n\nJust make sure you use the appropriate version of CreateFile (CreateFileA for ANSI, or CreateFileW for wide characters).\n\nAlternatively, you can use CreateFile2 which is the same as CreateFile except the parameters are passed as a data structure named CREATEFILE2_EXTENDED_PARAMETERS. However, be aware CreateFile2 only works on Windows 8 and above and designed more or less for programs running from the Windows app store.\n\nAlternatively, alternatively, you could use CreateFile3 which is nearly identical to CreateFile2 except it uses the CREATEFILE3_EXTENDED_PARAMETERS structure and is more or less designed for sandboxed packaged applications. However, be aware CreateFile3 only works on Windows11 24H2 and above.\n\nIt's shrimple, honestly."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 63579,
+          "like_count": 1825,
+          "quote_count": 9,
+          "reply_count": 57,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "Tired of noobs complaining the WINAPI for malware development is weird. It's not.\n\nHow do you create a file?\nThe CreateFile function.\n\nHow do you open a file for reading?\nThe CreateFile function.\n\nHow do you open a file for writing?\nThe CreateFile function.\n\nHow do you get a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak EN/RU📖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 260,
+          "like_count": 109578,
+          "listed_count": 2,
+          "media_count": 1660,
+          "tweet_count": 17464
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-04T22:17:10.000Z",
+        "description": "The largest collection of malware source code, samples, and papers on the internet.\n\nPassword: infected",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vx-underground.org",
+                "end": 23,
+                "expanded_url": "https://vx-underground.org",
+                "start": 0,
+                "url": "https://t.co/Yn4orDEAhs"
+              }
+            ]
+          }
+        },
+        "id": "1158139840866791424",
+        "location": "International",
+        "name": "vx-underground",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903282052297891840/sMABW3W-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438619,
+          "following_count": 359,
+          "like_count": 19765,
+          "listed_count": 2535,
+          "media_count": 7405,
+          "tweet_count": 23853
+        },
+        "url": "https://t.co/Yn4orDEAhs",
+        "username": "vxunderground",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2078620885125300659",
+    "created_at": "2026-07-18T23:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T00:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078620885125300659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/appleneko2001/…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/appleneko2001/status/2078295211051294935",
+          "start": 91,
+          "url": "https://t.co/2qTX4RMUvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078620885125300659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078295211051294935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充：\n1. 这个功能在英文下叫做Zen mode\n2. 想要改宽度可以在先固定标签页列表（Ctrl + S 或者macOS下是Cmd + S）改完过后再解除固定 就会使用新的宽度 https://t.co/2qTX4RMUvZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2078620885125300659",
+        "created_at": "2026-07-18T23:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078620885125300659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/appleneko2001/…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/appleneko2001/status/2078295211051294935",
+              "start": 91,
+              "url": "https://t.co/2qTX4RMUvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078620885125300659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078295211051294935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充：\n1. 这个功能在英文下叫做Zen mode\n2. 想要改宽度可以在先固定标签页列表（Ctrl + S 或者macOS下是Cmd + S）改完过后再解除固定 就会使用新的宽度 https://t.co/2qTX4RMUvZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2078295211051294935",
+        "created_at": "2026-07-18T01:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078295211051294935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/appleneko2001/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/appleneko2001/status/2077307812078817591",
+              "start": 85,
+              "url": "https://t.co/HHjEITh68Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078295211051294935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077307812078817591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过有一个缺点…就是如果不小心从标签页中拖出来的话想放回去有些麻烦…需要至少确保那个窗口的标签页清单是展开状态 然后马上再把标签页拖回去…但除此之外还是挺有用又好玩的（ https://t.co/HHjEITh68Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/9bx2JDcXSU"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 289,
+          "like_count": 116248,
+          "listed_count": 2,
+          "media_count": 1738,
+          "tweet_count": 18258
+        },
+        "url": "https://t.co/9bx2JDcXSU",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

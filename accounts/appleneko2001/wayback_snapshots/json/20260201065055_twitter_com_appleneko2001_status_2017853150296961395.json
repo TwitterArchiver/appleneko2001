@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2017853150296961395",
+    "created_at": "2026-02-01T06:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T07:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017853150296961395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QingQ77/status…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/QingQ77/status/2017514417416769813",
+          "start": 88,
+          "url": "https://t.co/akdAvp7w5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017853150296961395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017514417416769813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能最好的辦法就是加入英文聊天室……跟其他說英文的人聊天……不會英文也沒關係 用機器翻譯 以及中英字典……wiktionary我用的比較多 偶爾沒有的單詞我會直接google https://t.co/akdAvp7w5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25108,
+        "height": 1080,
+        "media_key": "13_2017514168870703106",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017514168870703106/img/TATKrXByotTFaloy.jpg",
+        "public_metrics": {
+          "view_count": 87720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017514168870703106/vid/avc1/640x360/Oicp8WWnqO0IgBIM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017514168870703106/vid/avc1/1280x720/f10a1L0kwVyXuqg9.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017514168870703106/vid/avc1/480x270/6tmrMvOb8yjJuY9c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017514168870703106/pl/HXco_KGEfbo8h16U.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017514168870703106/vid/avc1/1920x1080/MnFOkNor1azWNanH.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2017853150296961395",
+        "created_at": "2026-02-01T06:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017853150296961395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QingQ77/status…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/QingQ77/status/2017514417416769813",
+              "start": 88,
+              "url": "https://t.co/akdAvp7w5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017853150296961395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017514417416769813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能最好的辦法就是加入英文聊天室……跟其他說英文的人聊天……不會英文也沒關係 用機器翻譯 以及中英字典……wiktionary我用的比較多 偶爾沒有的單詞我會直接google https://t.co/akdAvp7w5l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017514168870703106"
+          ]
+        },
+        "author_id": "1998006140286935041",
+        "conversation_id": "2017514417416769813",
+        "created_at": "2026-01-31T08:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017514417416769813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtJ79DHGLU",
+              "end": 49,
+              "expanded_url": "https://x.com/QingQ77/status/2017514417416769813/video/1",
+              "media_key": "13_2017514168870703106",
+              "start": 26,
+              "url": "https://t.co/GtJ79DHGLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017514417416769813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 772,
+          "impression_count": 164895,
+          "like_count": 1339,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "还真有人按照 Dan Koe 大神的教程来改变人生 https://t.co/GtJ79DHGLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 314,
+          "like_count": 86216,
+          "listed_count": 2,
+          "media_count": 1457,
+          "tweet_count": 14186
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T12:26:15.000Z",
+        "description": "✨不要等待 | 🌱持续创作 | 👨‍💻分享互动 | 🔋快版Geek |",
+        "id": "1998006140286935041",
+        "name": "Geek Lite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 308,
+          "like_count": 145,
+          "listed_count": 23,
+          "media_count": 361,
+          "tweet_count": 514
+        },
+        "username": "QingQ77",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2028497659066204613",
+    "created_at": "2026-03-03T00:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T01:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028628894404989024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551500275424186368",
+          "start": 0,
+          "username": "Zhangjianuo7"
+        },
+        {
+          "end": 21,
+          "id": "50683",
+          "start": 14,
+          "username": "dingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028628894404989024",
+    "in_reply_to_user_id": "1551500275424186368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028622281984065558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhangjianuo7 @dingyi 啊这"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2028497659066204613",
+        "created_at": "2026-03-03T00:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028628894404989024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551500275424186368",
+              "start": 0,
+              "username": "Zhangjianuo7"
+            },
+            {
+              "end": 21,
+              "id": "50683",
+              "start": 14,
+              "username": "dingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028628894404989024",
+        "in_reply_to_user_id": "1551500275424186368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028622281984065558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhangjianuo7 @dingyi 啊这"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551500275424186368",
+        "conversation_id": "2028497659066204613",
+        "created_at": "2026-03-03T00:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028622281984065558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "50683",
+              "start": 0,
+              "username": "dingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028622281984065558",
+        "in_reply_to_user_id": "50683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028497659066204613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingyi 你的盘有坏块。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 346,
+          "like_count": 95615,
+          "listed_count": 3,
+          "media_count": 1548,
+          "tweet_count": 15548
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T09:31:14.000Z",
+        "description": "和平友爱友好交往\n爱国爱党，非极左或极右 毛选、共产党宣言、资本论已读\n沙勒/夏莱跨国优秀教师\njianuozhang76@gmail.com\n星粉、摩粉，搞机的来互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/TCKw7Xf1oy"
+              }
+            ]
+          }
+        },
+        "id": "1551500275424186368",
+        "location": "八宝州",
+        "name": "酷安今天倒闭了没🇨🇳",
+        "pinned_tweet_id": "1884978106483826741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986436905022726144/G0R0cYGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 640,
+          "like_count": 2519,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 2823
+        },
+        "url": "https://t.co/TCKw7Xf1oy",
+        "username": "Zhangjianuo7",
+        "verified": false
+      },
+      {
+        "created_at": "2006-12-08T15:10:12.000Z",
+        "description": "https://t.co/q1JG1yCzdb ‣ https://t.co/uHtq1Z3Kus ‣ https://t.co/6rJeVpe1pD ‣ https://t.co/cP6NQ3keo5\n\nPromote your product  ‣ dingyi@me.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "quaily.com/dingyi",
+                "end": 23,
+                "expanded_url": "http://quaily.com/dingyi",
+                "start": 0,
+                "url": "https://t.co/q1JG1yCzdb"
+              },
+              {
+                "display_url": "news.dex.group",
+                "end": 49,
+                "expanded_url": "http://news.dex.group",
+                "start": 26,
+                "url": "https://t.co/uHtq1Z3Kus"
+              },
+              {
+                "display_url": "saaspick.dev",
+                "end": 75,
+                "expanded_url": "http://saaspick.dev",
+                "start": 52,
+                "url": "https://t.co/6rJeVpe1pD"
+              },
+              {
+                "display_url": "topfeed.xyz",
+                "end": 101,
+                "expanded_url": "http://topfeed.xyz",
+                "start": 78,
+                "url": "https://t.co/cP6NQ3keo5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ding.one",
+                "end": 23,
+                "expanded_url": "http://ding.one",
+                "start": 0,
+                "url": "https://t.co/cf71jdxlkm"
+              }
+            ]
+          }
+        },
+        "id": "50683",
+        "location": "Remote",
+        "name": "Ding",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144979,
+          "following_count": 4824,
+          "like_count": 2527,
+          "listed_count": 653,
+          "media_count": 2539,
+          "tweet_count": 58719
+        },
+        "url": "https://t.co/cf71jdxlkm",
+        "username": "dingyi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2069788502796247354",
+    "created_at": "2026-06-24T14:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069788502796247354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/okxchinese/sta…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/okxchinese/status/2069697040070894046",
+          "start": 69,
+          "url": "https://t.co/nuRigRibfX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069788502796247354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069697040070894046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好家伙 两个不同的S 第二个看起来应该不是英语字母的S\n我以为之前有人碰瓷I (大写i)跟l (小写L)就已经够高超了 没想到还有高手… https://t.co/nuRigRibfX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2069678310842609664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLj5dUUasAAaYSk.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2069788502796247354",
+        "created_at": "2026-06-24T14:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069788502796247354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/okxchinese/sta…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/okxchinese/status/2069697040070894046",
+              "start": 69,
+              "url": "https://t.co/nuRigRibfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069788502796247354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069697040070894046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好家伙 两个不同的S 第二个看起来应该不是英语字母的S\n我以为之前有人碰瓷I (大写i)跟l (小写L)就已经够高超了 没想到还有高手… https://t.co/nuRigRibfX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069678310842609664"
+          ]
+        },
+        "author_id": "1461224994705649671",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2069697040070894046",
+        "created_at": "2026-06-24T08:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069697040070894046"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 70,
+              "tag": "OKX安全小剧场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n50DcYWAYL",
+              "end": 125,
+              "expanded_url": "https://x.com/okxchinese/status/2069697040070894046/photo/1",
+              "media_key": "3_2069678310842609664",
+              "start": 102,
+              "url": "https://t.co/n50DcYWAYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069697040070894046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 45739,
+          "like_count": 263,
+          "quote_count": 5,
+          "reply_count": 431,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "🎬以下两个 Token 名称，你能找出区别吗？\n\n· USDT\n· UЅDT\n\n看仔细！一个是你的钱，一个是骗子的饵。评论区留下你的答案， #OKX安全小剧场 为答对的朋友送上30枚正版USDT x5~ https://t.co/n50DcYWAYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "pinned_tweet_id": "2069259860060103005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 272,
+          "like_count": 111488,
+          "listed_count": 2,
+          "media_count": 1679,
+          "tweet_count": 17661
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-18T06:49:35.000Z",
+        "description": "全球领先的加密资产交易平台和Web3平台｜@mancity @mclarenf1 赞助商\n注册领奖励：https://t.co/WUckrWaDMh\nOKX中文社交媒体：https://t.co/LXGDuDmAdk\n*某些产品服务或推广活动不适用于部分地区",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "mancity"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "mclarenf1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/ul/6CngT5?chan…",
+                "end": 74,
+                "expanded_url": "https://www.okx.com/ul/6CngT5?channelId=TWITTERCN",
+                "start": 51,
+                "url": "https://t.co/WUckrWaDMh"
+              },
+              {
+                "display_url": "linktr.ee/okxchinese",
+                "end": 108,
+                "expanded_url": "https://linktr.ee/okxchinese",
+                "start": 85,
+                "url": "https://t.co/LXGDuDmAdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okx.com/ul/6CngT5?chan…",
+                "end": 23,
+                "expanded_url": "https://www.okx.com/ul/6CngT5?channelId=TWITTERCN",
+                "start": 0,
+                "url": "https://t.co/WUckrWaDMh"
+              }
+            ]
+          }
+        },
+        "id": "1461224994705649671",
+        "name": "OKX中文",
+        "pinned_tweet_id": "2069038045467431307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004404711307575296/w6OwQ4Ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712338,
+          "following_count": 367,
+          "like_count": 7555,
+          "listed_count": 1742,
+          "media_count": 6537,
+          "tweet_count": 15502
+        },
+        "url": "https://t.co/WUckrWaDMh",
+        "username": "okxchinese",
+        "verified": true
+      }
+    ]
+  }
+}

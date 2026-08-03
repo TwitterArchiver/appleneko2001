@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046606219834712065"
+      ],
+      "media_source_tweet_id": [
+        "2046606225669009822"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2046970965926842784",
+    "created_at": "2026-04-22T15:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046970965926842784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592843318928764929",
+          "start": 3,
+          "username": "toma_ocg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V31YwJs6vk",
+          "end": 85,
+          "expanded_url": "https://x.com/toma_ocg/status/2046606225669009822/photo/1",
+          "media_key": "3_2046606219834712065",
+          "start": 62,
+          "url": "https://t.co/V31YwJs6vk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046970965926842784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046606225669009822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toma_ocg: 過去に描いたこのイラスト、創作の教祖キャルちゃんを今回の覚醒キャルちゃんでリメイクしてもいいな https://t.co/V31YwJs6vk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2046606219834712065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcBg3haYAEssFA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046606219834712065"
+          ],
+          "media_source_tweet_id": [
+            "2046606225669009822"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2046970965926842784",
+        "created_at": "2026-04-22T15:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046970965926842784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592843318928764929",
+              "start": 3,
+              "username": "toma_ocg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V31YwJs6vk",
+              "end": 85,
+              "expanded_url": "https://x.com/toma_ocg/status/2046606225669009822/photo/1",
+              "media_key": "3_2046606219834712065",
+              "start": 62,
+              "url": "https://t.co/V31YwJs6vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046970965926842784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046606225669009822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toma_ocg: 過去に描いたこのイラスト、創作の教祖キャルちゃんを今回の覚醒キャルちゃんでリメイクしてもいいな https://t.co/V31YwJs6vk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046606219834712065"
+          ]
+        },
+        "author_id": "1592843318928764929",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2046606225669009822",
+        "created_at": "2026-04-21T15:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046606225669009822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V31YwJs6vk",
+              "end": 71,
+              "expanded_url": "https://x.com/toma_ocg/status/2046606225669009822/photo/1",
+              "media_key": "3_2046606219834712065",
+              "start": 48,
+              "url": "https://t.co/V31YwJs6vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046606225669009822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3563,
+          "like_count": 263,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "過去に描いたこのイラスト、創作の教祖キャルちゃんを今回の覚醒キャルちゃんでリメイクしてもいいな https://t.co/V31YwJs6vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 355,
+          "like_count": 102296,
+          "listed_count": 3,
+          "media_count": 1611,
+          "tweet_count": 16524
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T11:33:42.000Z",
+        "description": "とまりです。OCG描くよBOOTH https://t.co/qACZFjRifk skeb→ https://t.co/UTibE5Fu40",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tomari0409.booth.pm/items/5237054",
+                "end": 41,
+                "expanded_url": "https://tomari0409.booth.pm/items/5237054",
+                "start": 18,
+                "url": "https://t.co/qACZFjRifk"
+              },
+              {
+                "display_url": "skeb.jp/@toma_ocg",
+                "end": 71,
+                "expanded_url": "https://skeb.jp/@toma_ocg",
+                "start": 48,
+                "url": "https://t.co/UTibE5Fu40"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/hz/wishlist/ls/KRPY7SSFMIX1?ref_=wl_sharenGrFjg6MOEuzptGrLTZc46z",
+                "start": 0,
+                "url": "https://t.co/ob0q63n1rP"
+              }
+            ]
+          }
+        },
+        "id": "1592843318928764929",
+        "location": "福岡",
+        "name": "白上とまり",
+        "pinned_tweet_id": "1979182376409534949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753287777897336832/SKxpjp1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 78,
+          "like_count": 4726,
+          "listed_count": 23,
+          "media_count": 299,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/ob0q63n1rP",
+        "username": "toma_ocg",
+        "verified": false
+      }
+    ]
+  }
+}

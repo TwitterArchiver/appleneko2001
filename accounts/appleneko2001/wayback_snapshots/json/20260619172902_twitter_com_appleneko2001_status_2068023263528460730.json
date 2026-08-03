@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      }
+    ],
+    "conversation_id": "2068023263528460730",
+    "created_at": "2026-06-19T17:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068023263528460730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "859564291",
+          "start": 3,
+          "username": "konomi_150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068023263528460730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068018713866142133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @konomi_150: 梅雨入ってから体が気圧に反応しすぎて体調ぐずぐずすぎる… すっきり作業させてくれ〜〜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2068023263528460730",
+        "created_at": "2026-06-19T17:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068023263528460730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "859564291",
+              "start": 3,
+              "username": "konomi_150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068023263528460730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068018713866142133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @konomi_150: 梅雨入ってから体が気圧に反応しすぎて体調ぐずぐずすぎる… すっきり作業させてくれ〜〜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "859564291",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2068018713866142133",
+        "created_at": "2026-06-19T17:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068018713866142133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068018713866142133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "梅雨入ってから体が気圧に反応しすぎて体調ぐずぐずすぎる… すっきり作業させてくれ〜〜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星🍭",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 264,
+          "like_count": 110263,
+          "listed_count": 2,
+          "media_count": 1667,
+          "tweet_count": 17529
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-03T11:42:24.000Z",
+        "description": "女の子を描いてます。 笑顔の女の子が大好きです。Skeb https://t.co/94b5aKW25e FANBOX https://t.co/2DHOyfVv1W ご連絡はDMかharu.sgr12@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@konomi_150",
+                "end": 52,
+                "expanded_url": "http://skeb.jp/@konomi_150",
+                "start": 29,
+                "url": "https://t.co/94b5aKW25e"
+              },
+              {
+                "display_url": "konomi-150.fanbox.cc",
+                "end": 83,
+                "expanded_url": "http://konomi-150.fanbox.cc",
+                "start": 60,
+                "url": "https://t.co/2DHOyfVv1W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gi-pt.com/main/wishlist/…",
+                "end": 23,
+                "expanded_url": "https://gi-pt.com/main/wishlist/fan-view/3a122df6-b8fa-35cd-d735-3ea286927ffd",
+                "start": 0,
+                "url": "https://t.co/Ev5BWuiNeV"
+              }
+            ]
+          }
+        },
+        "id": "859564291",
+        "location": "金髪が好き。",
+        "name": "はる🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715854456389296128/2VjALpAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39708,
+          "following_count": 129,
+          "like_count": 42204,
+          "listed_count": 326,
+          "media_count": 1771,
+          "tweet_count": 37262
+        },
+        "url": "https://t.co/Ev5BWuiNeV",
+        "username": "konomi_150",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "JavaScript",
+          "id": "898659750950207489",
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "conversation_id": "1932946733169881338",
+    "created_at": "2025-06-11T23:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T00:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932946733169881338"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 102,
+          "normalized_text": "JavaScript",
+          "probability": 0.9165,
+          "start": 93,
+          "type": "Other"
+        },
+        {
+          "end": 112,
+          "normalized_text": "WebGL",
+          "probability": 0.565,
+          "start": 108,
+          "type": "Other"
+        },
+        {
+          "end": 127,
+          "normalized_text": "HTML",
+          "probability": 0.7803,
+          "start": 124,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "129432698",
+          "start": 3,
+          "username": "bbssppllvv"
+        },
+        {
+          "end": 52,
+          "id": "380749300",
+          "start": 46,
+          "username": "Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932946733169881338",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 788
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932325303273271727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbssppllvv: It’s 3AM and I just recreated @Apple  Liquid Metal  right in the browser. No JavaScript. No WebGL. Just raw HTML + CSS.\n\nLe…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12300,
+        "height": 1360,
+        "media_key": "13_1932324435576471552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932324435576471552/img/JJRoWIA-l82AELCy.jpg",
+        "public_metrics": {
+          "view_count": 456835
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932324435576471552/pl/DNDT5RIyqiWX0Oie.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932324435576471552/vid/avc1/724x360/U7GNe2oN3-7c72rc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932324435576471552/vid/avc1/1448x720/XHtFZsvhY61pa6uI.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932324435576471552/vid/avc1/2736x1360/M0_8qa9jJ9YrjPy3.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932324435576471552/vid/avc1/542x270/Q5JHuwE_W801itSx.mp4"
+          }
+        ],
+        "width": 2736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "1932946733169881338",
+        "created_at": "2025-06-11T23:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T00:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932946733169881338"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "JavaScript",
+              "probability": 0.9165,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 112,
+              "normalized_text": "WebGL",
+              "probability": 0.565,
+              "start": 108,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "HTML",
+              "probability": 0.7803,
+              "start": 124,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "129432698",
+              "start": 3,
+              "username": "bbssppllvv"
+            },
+            {
+              "end": 52,
+              "id": "380749300",
+              "start": 46,
+              "username": "Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932946733169881338",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 788
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932325303273271727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbssppllvv: It’s 3AM and I just recreated @Apple  Liquid Metal  right in the browser. No JavaScript. No WebGL. Just raw HTML + CSS.\n\nLe…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932324435576471552"
+          ]
+        },
+        "author_id": "129432698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "1932325303273271727",
+        "created_at": "2025-06-10T06:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T07:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932325303273271727"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "Liquid Metal",
+              "probability": 0.517,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "JavaScript",
+              "probability": 0.9345,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "WebGL",
+              "probability": 0.5651,
+              "start": 92,
+              "type": "Other"
+            },
+            {
+              "end": 117,
+              "normalized_text": "HTML + CSS",
+              "probability": 0.6161,
+              "start": 108,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 36,
+              "id": "380749300",
+              "start": 30,
+              "username": "Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3ebqWjk1l",
+              "end": 177,
+              "expanded_url": "https://x.com/bbssppllvv/status/1932325303273271727/video/1",
+              "media_key": "13_1932324435576471552",
+              "start": 154,
+              "url": "https://t.co/m3ebqWjk1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932325303273271727",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7308,
+          "impression_count": 1136401,
+          "like_count": 14851,
+          "quote_count": 161,
+          "reply_count": 467,
+          "retweet_count": 788
+        },
+        "reply_settings": "everyone",
+        "text": "It’s 3AM and I just recreated @Apple  Liquid Metal  right in the browser. No JavaScript. No WebGL. Just raw HTML + CSS.\n\nLet me know if you want the code https://t.co/m3ebqWjk1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 258,
+          "like_count": 64668,
+          "listed_count": 2,
+          "media_count": 1292,
+          "tweet_count": 12203
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-04T07:45:48.000Z",
+        "description": "Just trying to build good things. Design+Code+AI. Founder of @referodesign — it's like Pinterest but for product designers (200K+ users)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "referodesign"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "refero.design",
+                "end": 23,
+                "expanded_url": "https://refero.design/",
+                "start": 0,
+                "url": "https://t.co/9typPCe9XB"
+              }
+            ]
+          }
+        },
+        "id": "129432698",
+        "location": "Barcelona",
+        "name": "Mike Bespalov",
+        "pinned_tweet_id": "1856056940096586090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805654237667307520/MJKYUp6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7341,
+          "following_count": 430,
+          "like_count": 7724,
+          "listed_count": 102,
+          "media_count": 129,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/9typPCe9XB",
+        "username": "bbssppllvv",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rwvgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rwvgY"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "location": "Cupertino, CA",
+        "name": "Apple",
+        "pinned_tweet_id": "1930730065542959384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9881212,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 14963,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Apple",
+        "verified": true
+      }
+    ]
+  }
+}

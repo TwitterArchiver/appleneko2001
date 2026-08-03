@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2075313202272084261",
+    "created_at": "2026-07-10T03:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075428231243612650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        },
+        {
+          "end": 24,
+          "id": "1811384610749874176",
+          "start": 15,
+          "username": "wgddking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075428231243612650",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075387622575505683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 @wgddking esu啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2075313202272084261",
+        "created_at": "2026-07-10T03:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075428231243612650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            },
+            {
+              "end": 24,
+              "id": "1811384610749874176",
+              "start": 15,
+              "username": "wgddking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075428231243612650",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075387622575505683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 @wgddking esu啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198058443620353",
+        "conversation_id": "2075313202272084261",
+        "created_at": "2026-07-10T01:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075387622575505683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811384610749874176",
+              "start": 0,
+              "username": "wgddking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075387622575505683",
+        "in_reply_to_user_id": "1811384610749874176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1141,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075313202272084261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wgddking esu啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 285,
+          "like_count": 115123,
+          "listed_count": 2,
+          "media_count": 1714,
+          "tweet_count": 18063
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 或者给我发发邮件：114514@automous.lol 打赏地址（bsc/bep20）：0x30B9D214e5f9E935D934040dc13Aa1c1abD8296a 我先在这里放一堆申必emoji：🇹🇼🇭🇰🏳️‍⚧️🏳️‍🌈🍥🇦🇶🇧🇿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇳🇫🍥",
+        "pinned_tweet_id": "2067883740177821740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075088473640636416/qUpLrboB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 125,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1244
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "__所有键证内容均已删除__",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（祥压抑）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 84,
+          "like_count": 1542,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      }
+    ]
+  }
+}

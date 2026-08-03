@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006668601244131329"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2006668811626234027",
+    "created_at": "2026-01-01T10:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T11:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006668811626234027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PM0ekioOLS",
+          "end": 58,
+          "expanded_url": "https://x.com/appleneko2001/status/2006668811626234027/photo/1",
+          "media_key": "3_2006668601244131329",
+          "start": 35,
+          "url": "https://t.co/PM0ekioOLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006668811626234027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "nvidia驅動程式安裝好了（\n我都不用另外寫offload腳本了（ https://t.co/PM0ekioOLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "partial glxinfo with nvidia-offload in nixos",
+        "height": 895,
+        "media_key": "3_2006668601244131329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kedgcWIAE0jE1.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006668601244131329"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2006668811626234027",
+        "created_at": "2026-01-01T10:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006668811626234027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PM0ekioOLS",
+              "end": 58,
+              "expanded_url": "https://x.com/appleneko2001/status/2006668811626234027/photo/1",
+              "media_key": "3_2006668601244131329",
+              "start": 35,
+              "url": "https://t.co/PM0ekioOLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006668811626234027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "nvidia驅動程式安裝好了（\n我都不用另外寫offload腳本了（ https://t.co/PM0ekioOLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 275,
+          "like_count": 70560,
+          "listed_count": 2,
+          "media_count": 1341,
+          "tweet_count": 12809
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

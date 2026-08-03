@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004614430802190337"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2004516381375828458",
+    "created_at": "2025-12-26T18:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T19:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004614494354632808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "848545753207144448",
+          "start": 0,
+          "username": "Gunda0071"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iQd4Bmes1T",
+          "end": 116,
+          "expanded_url": "https://x.com/appleneko2001/status/2004614494354632808/photo/1",
+          "media_key": "3_2004614430802190337",
+          "start": 93,
+          "url": "https://t.co/iQd4Bmes1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004614494354632808",
+    "in_reply_to_user_id": "848545753207144448",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004516381375828458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gunda0071 this game is soo long have no update and no idea what developer is busying with 🫤 https://t.co/iQd4Bmes1T"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "my playtime and last player on steam of this game",
+        "height": 85,
+        "media_key": "3_2004614430802190337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HSNDOWIAEUVb8.png",
+        "width": 356
+      },
+      {
+        "duration_ms": 39500,
+        "height": 720,
+        "media_key": "13_2004516290422296577",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004516290422296577/img/vIKAmTsQsM59WdpF.jpg",
+        "public_metrics": {
+          "view_count": 36281
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004516290422296577/vid/avc1/480x270/d_t-IdlLDAqAqhF1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004516290422296577/vid/avc1/640x360/qjX8tsSaVr9M51jX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004516290422296577/vid/avc1/1280x720/pb3JuatiHvp8r7Uz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004516290422296577/pl/gaAOfFOv1S8jnhys.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004614430802190337"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2004516381375828458",
+        "created_at": "2025-12-26T18:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004614494354632808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "848545753207144448",
+              "start": 0,
+              "username": "Gunda0071"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQd4Bmes1T",
+              "end": 116,
+              "expanded_url": "https://x.com/appleneko2001/status/2004614494354632808/photo/1",
+              "media_key": "3_2004614430802190337",
+              "start": 93,
+              "url": "https://t.co/iQd4Bmes1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004614494354632808",
+        "in_reply_to_user_id": "848545753207144448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004516381375828458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gunda0071 this game is soo long have no update and no idea what developer is busying with 🫤 https://t.co/iQd4Bmes1T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004516290422296577"
+          ]
+        },
+        "author_id": "848545753207144448",
+        "conversation_id": "2004516381375828458",
+        "created_at": "2025-12-26T11:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T12:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004516381375828458"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "シロナちゃん",
+              "probability": 0.6202,
+              "start": 55,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZD88F6kTzj",
+              "end": 163,
+              "expanded_url": "https://x.com/Gunda0071/status/2004516381375828458/video/1",
+              "media_key": "13_2004516290422296577",
+              "start": 140,
+              "url": "https://t.co/ZD88F6kTzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004516381375828458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 453,
+          "impression_count": 59039,
+          "like_count": 815,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "神のソフリョすぎて定期的に撮った動画見返してしまうMicroSStepでも特に好きな戦闘不能後のけぞりボイスのシロナちゃん集\n主人公の相棒で裏方のショップキャラでありながらしっかりプレイアブル化予定で制作されてたからこんなボイスまであるの本当に良い\n君の実装ずっと待ち続けるよ… https://t.co/ZD88F6kTzj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 271,
+          "like_count": 67580,
+          "listed_count": 2,
+          "media_count": 1321,
+          "tweet_count": 12543
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-02T14:40:47.000Z",
+        "description": "ゲーム作品の戦闘不能モーション・ボイスを好む鹿 日陰の蟹→ https://t.co/Q1W5Qfsu7F 雑多→https://t.co/yc9vtA1tyH ようつべ→ https://t.co/2TX3hDAtY4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/WhiteCrab0071",
+                "end": 53,
+                "expanded_url": "https://x.com/WhiteCrab0071",
+                "start": 30,
+                "url": "https://t.co/Q1W5Qfsu7F"
+              },
+              {
+                "display_url": "x.com/mochimochideer",
+                "end": 80,
+                "expanded_url": "http://x.com/mochimochideer",
+                "start": 57,
+                "url": "https://t.co/yc9vtA1tyH"
+              },
+              {
+                "display_url": "youtube.com/channel/UCtaws…",
+                "end": 110,
+                "expanded_url": "https://youtube.com/channel/UCtawshfqm-uAHIh-1qlo8hA?si=H5EBea7ZZK2Ddp4W",
+                "start": 87,
+                "url": "https://t.co/2TX3hDAtY4"
+              }
+            ]
+          }
+        },
+        "id": "848545753207144448",
+        "location": "雪が綺麗な土地",
+        "name": "グンダ🦌WhiteDeer007🦌ダング",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1077509856687316992/1JHPWhJi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9991,
+          "following_count": 250,
+          "like_count": 74857,
+          "listed_count": 23,
+          "media_count": 3520,
+          "tweet_count": 19382
+        },
+        "username": "Gunda0071",
+        "verified": false
+      }
+    ]
+  }
+}

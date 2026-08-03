@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Mozilla",
+          "id": "10052778505",
+          "name": "Mozilla"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      }
+    ],
+    "conversation_id": "2011745533359243439",
+    "created_at": "2026-01-16T10:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T11:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012105561844715890"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Mozilla",
+          "probability": 0.7945,
+          "start": 33,
+          "type": "Organization"
+        },
+        {
+          "end": 82,
+          "normalized_text": "Firefox",
+          "probability": 0.9531,
+          "start": 76,
+          "type": "Other"
+        },
+        {
+          "end": 104,
+          "normalized_text": "helium",
+          "probability": 0.5121,
+          "start": 99,
+          "type": "Other"
+        },
+        {
+          "end": 127,
+          "normalized_text": "chromium",
+          "probability": 0.4901,
+          "start": 120,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368763168936386565",
+          "start": 0,
+          "username": "choehau_alen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012105561844715890",
+    "in_reply_to_user_id": "1368763168936386565",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012100873485484320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choehau_alen any thoughts about Mozilla changed their privacy policy?\nalso Firefox is slower than helium and ungoogled chromium on my machine"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Mozilla",
+              "id": "10052778505",
+              "name": "Mozilla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2011745533359243439",
+        "created_at": "2026-01-16T10:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012105561844715890"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Mozilla",
+              "probability": 0.7945,
+              "start": 33,
+              "type": "Organization"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Firefox",
+              "probability": 0.9531,
+              "start": 76,
+              "type": "Other"
+            },
+            {
+              "end": 104,
+              "normalized_text": "helium",
+              "probability": 0.5121,
+              "start": 99,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "chromium",
+              "probability": 0.4901,
+              "start": 120,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368763168936386565",
+              "start": 0,
+              "username": "choehau_alen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012105561844715890",
+        "in_reply_to_user_id": "1368763168936386565",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012100873485484320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choehau_alen any thoughts about Mozilla changed their privacy policy?\nalso Firefox is slower than helium and ungoogled chromium on my machine"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368763168936386565",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2011745533359243439",
+        "created_at": "2026-01-16T09:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T10:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012100873485484320"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Helium",
+              "probability": 0.9002,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "firefox",
+              "probability": 0.5595,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012100873485484320",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011857859873587221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 Helium is great tbh\nBut idk i like using firefox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 297,
+          "like_count": 79322,
+          "listed_count": 2,
+          "media_count": 1400,
+          "tweet_count": 13541
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T03:19:23.000Z",
+        "description": "ChoeHa-U (소니 알렌)  🇻🇦, introverted, One UI Expert, prompt eng, I am G•NUSMAS.",
+        "id": "1368763168936386565",
+        "location": "예수의 자녀",
+        "name": "Ara Song",
+        "pinned_tweet_id": "2011764555337302329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007761082849607681/T8DYL1uW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8739,
+          "following_count": 1467,
+          "like_count": 128906,
+          "listed_count": 16,
+          "media_count": 13501,
+          "tweet_count": 79646
+        },
+        "username": "choehau_alen",
+        "verified": false
+      }
+    ]
+  }
+}

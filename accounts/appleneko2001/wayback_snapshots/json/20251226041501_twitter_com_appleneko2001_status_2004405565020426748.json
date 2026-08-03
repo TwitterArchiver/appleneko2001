@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2004405565020426748",
+    "created_at": "2025-12-26T04:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T05:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004405565020426748"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "zed",
+          "probability": 0.7161,
+          "start": 7,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/marckohlbrugge…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/marckohlbrugge/status/2004120066024161636",
+          "start": 12,
+          "url": "https://t.co/fVi882EAHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004405565020426748",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004120066024161636",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Wut is zed? https://t.co/fVi882EAHF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2004120006519672843",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AQhxPb0AsopKo.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2004405565020426748",
+        "created_at": "2025-12-26T04:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004405565020426748"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "zed",
+              "probability": 0.7161,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/marckohlbrugge…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/marckohlbrugge/status/2004120066024161636",
+              "start": 12,
+              "url": "https://t.co/fVi882EAHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004405565020426748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004120066024161636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Wut is zed? https://t.co/fVi882EAHF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004120006519672843"
+          ]
+        },
+        "author_id": "641633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004120066024161636",
+        "created_at": "2025-12-25T09:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004120066024161636"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "IDEs",
+              "probability": 0.5401,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b73BTpNll7",
+              "end": 51,
+              "expanded_url": "https://x.com/marckohlbrugge/status/2004120066024161636/photo/1",
+              "media_key": "3_2004120006519672843",
+              "start": 28,
+              "url": "https://t.co/b73BTpNll7"
+            },
+            {
+              "display_url": "x.com/marckohlbrugge…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/marckohlbrugge/status/2004107156900270243",
+              "start": 52,
+              "url": "https://t.co/tFQIo3DWCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004120066024161636",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 100456,
+          "like_count": 67,
+          "quote_count": 13,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004107156900270243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "What is happening to IDEs ? https://t.co/b73BTpNll7 https://t.co/tFQIo3DWCn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67442,
+          "listed_count": 2,
+          "media_count": 1319,
+          "tweet_count": 12521
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2007-01-15T23:55:33.000Z",
+        "description": "🚧 https://t.co/aMZ4K3a24s 🏠 https://t.co/1KH3Ex4dcT 🤑 https://t.co/z2G662TXrN 🐴 https://t.co/80DsPhFw6c 🚀 https://t.co/sxmNUGTr0X 💎 https://t.co/Mz8Z7MkY3H 📣 https://t.co/oPODwYDwSS 💻 https://t.co/7vViQvjS0J 📸 https://t.co/NJnFBXCkML #️⃣ https://t.co/6qUnpK7nRx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wip.co",
+                "end": 25,
+                "expanded_url": "http://wip.co",
+                "start": 2,
+                "url": "https://t.co/aMZ4K3a24s"
+              },
+              {
+                "display_url": "roomai.com",
+                "end": 51,
+                "expanded_url": "http://roomai.com",
+                "start": 28,
+                "url": "https://t.co/1KH3Ex4dcT"
+              },
+              {
+                "display_url": "highscore.money",
+                "end": 77,
+                "expanded_url": "http://highscore.money",
+                "start": 54,
+                "url": "https://t.co/z2G662TXrN"
+              },
+              {
+                "display_url": "handle.horse",
+                "end": 103,
+                "expanded_url": "http://handle.horse",
+                "start": 80,
+                "url": "https://t.co/80DsPhFw6c"
+              },
+              {
+                "display_url": "betalist.com",
+                "end": 129,
+                "expanded_url": "http://betalist.com",
+                "start": 106,
+                "url": "https://t.co/sxmNUGTr0X"
+              },
+              {
+                "display_url": "traits.xyz",
+                "end": 155,
+                "expanded_url": "http://traits.xyz",
+                "start": 132,
+                "url": "https://t.co/Mz8Z7MkY3H"
+              },
+              {
+                "display_url": "submit.co",
+                "end": 181,
+                "expanded_url": "http://submit.co",
+                "start": 158,
+                "url": "https://t.co/oPODwYDwSS"
+              },
+              {
+                "display_url": "startup.com",
+                "end": 207,
+                "expanded_url": "http://startup.com",
+                "start": 184,
+                "url": "https://t.co/7vViQvjS0J"
+              },
+              {
+                "display_url": "yay.camera",
+                "end": 233,
+                "expanded_url": "http://yay.camera",
+                "start": 210,
+                "url": "https://t.co/NJnFBXCkML"
+              },
+              {
+                "display_url": "buildinpublic.com",
+                "end": 261,
+                "expanded_url": "http://buildinpublic.com",
+                "start": 238,
+                "url": "https://t.co/6qUnpK7nRx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wip.co/@marc",
+                "end": 23,
+                "expanded_url": "https://wip.co/@marc",
+                "start": 0,
+                "url": "https://t.co/QVn818RKxY"
+              }
+            ]
+          }
+        },
+        "id": "641633",
+        "name": "Marc Köhlbrugge",
+        "pinned_tweet_id": "1929960137000923311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857124042433572864/iMivVaYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76142,
+          "following_count": 737,
+          "like_count": 33853,
+          "listed_count": 1264,
+          "media_count": 4518,
+          "tweet_count": 47344
+        },
+        "url": "https://t.co/QVn818RKxY",
+        "username": "marckohlbrugge",
+        "verified": true
+      }
+    ]
+  }
+}

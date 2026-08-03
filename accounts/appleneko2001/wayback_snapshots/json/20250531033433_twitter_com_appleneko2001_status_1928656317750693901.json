@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928136361137065984"
+      ],
+      "media_source_tweet_id": [
+        "1928144646129021200"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "1928656317750693901",
+    "created_at": "2025-05-31T03:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T04:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928656317750693901"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "Armin Hofmann",
+          "probability": 0.9657,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1182696780",
+          "start": 3,
+          "username": "BockJakob"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v19zOJuIKs",
+          "end": 122,
+          "expanded_url": "https://x.com/BockJakob/status/1928144646129021200/video/1",
+          "media_key": "13_1928136361137065984",
+          "start": 99,
+          "url": "https://t.co/v19zOJuIKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928656317750693901",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928144646129021200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BockJakob: \"Finished\" my Armin Hofmann inspired design exploration tool. Only works on desktop https://t.co/v19zOJuIKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23552,
+        "height": 1080,
+        "media_key": "13_1928136361137065984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928136361137065984/img/IaIk14BUxd4Zb98p.jpg",
+        "public_metrics": {
+          "view_count": 40458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928136361137065984/vid/avc1/480x270/LaywswG1Ja0rjLHg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928136361137065984/vid/avc1/640x360/AVxRtQDmXiQhr3Ik.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928136361137065984/vid/avc1/1280x720/UTE0SSP2Bv2oCNC3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928136361137065984/pl/13chlavMy8jglzNP.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928136361137065984"
+          ],
+          "media_source_tweet_id": [
+            "1928144646129021200"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "1928656317750693901",
+        "created_at": "2025-05-31T03:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928656317750693901"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Armin Hofmann",
+              "probability": 0.9657,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1182696780",
+              "start": 3,
+              "username": "BockJakob"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v19zOJuIKs",
+              "end": 122,
+              "expanded_url": "https://x.com/BockJakob/status/1928144646129021200/video/1",
+              "media_key": "13_1928136361137065984",
+              "start": 99,
+              "url": "https://t.co/v19zOJuIKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928656317750693901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928144646129021200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BockJakob: \"Finished\" my Armin Hofmann inspired design exploration tool. Only works on desktop https://t.co/v19zOJuIKs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928136361137065984"
+          ]
+        },
+        "author_id": "1182696780",
+        "conversation_id": "1928144646129021200",
+        "created_at": "2025-05-29T17:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T18:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928144646129021200"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Armin Hofmann",
+              "probability": 0.9665,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v19zOJuIKs",
+              "end": 107,
+              "expanded_url": "https://x.com/BockJakob/status/1928144646129021200/video/1",
+              "media_key": "13_1928136361137065984",
+              "start": 84,
+              "url": "https://t.co/v19zOJuIKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928144646129021200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1994,
+          "impression_count": 94533,
+          "like_count": 2949,
+          "quote_count": 8,
+          "reply_count": 38,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "\"Finished\" my Armin Hofmann inspired design exploration tool. Only works on desktop https://t.co/v19zOJuIKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\nGo follow me at bsky instead",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1922499474988929031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 253,
+          "like_count": 64020,
+          "listed_count": 2,
+          "media_count": 1286,
+          "tweet_count": 12109
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-15T14:01:15.000Z",
+        "description": "i try to make cool pictures using computers\nhttps://t.co/7KV8r5eY6A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/vanity_ibex/",
+                "end": 67,
+                "expanded_url": "https://www.instagram.com/vanity_ibex/",
+                "start": 44,
+                "url": "https://t.co/7KV8r5eY6A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vanity-ibex.xyz",
+                "end": 23,
+                "expanded_url": "https://vanity-ibex.xyz",
+                "start": 0,
+                "url": "https://t.co/3giSumbrcq"
+              }
+            ]
+          }
+        },
+        "id": "1182696780",
+        "name": "vanity_ibex",
+        "pinned_tweet_id": "1917303233300816137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802464618624798720/gVjyuPHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 192,
+          "like_count": 2802,
+          "listed_count": 12,
+          "media_count": 28,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/3giSumbrcq",
+        "username": "BockJakob",
+        "verified": false
+      }
+    ]
+  }
+}

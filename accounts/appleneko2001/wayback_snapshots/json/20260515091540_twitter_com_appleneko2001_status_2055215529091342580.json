@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2055215529091342580",
+    "created_at": "2026-05-15T09:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055215529091342580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1668486373639356416",
+          "start": 3,
+          "username": "NullEnderWither"
+        },
+        {
+          "end": 30,
+          "id": "2010265966152953859",
+          "start": 21,
+          "username": "66donk66"
+        },
+        {
+          "end": 39,
+          "id": "1552213521253150720",
+          "start": 31,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055215529091342580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054665375502217349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NullEnderWither: @66donk66 @acnekot 我也要卖经验修补吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2055215529091342580",
+        "created_at": "2026-05-15T09:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055215529091342580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1668486373639356416",
+              "start": 3,
+              "username": "NullEnderWither"
+            },
+            {
+              "end": 30,
+              "id": "2010265966152953859",
+              "start": 21,
+              "username": "66donk66"
+            },
+            {
+              "end": 39,
+              "id": "1552213521253150720",
+              "start": 31,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055215529091342580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054665375502217349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NullEnderWither: @66donk66 @acnekot 我也要卖经验修补吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668486373639356416",
+        "conversation_id": "2054463460327719329",
+        "created_at": "2026-05-13T20:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T21:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054665375502217349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2010265966152953859",
+              "start": 0,
+              "username": "66donk66"
+            },
+            {
+              "end": 18,
+              "id": "1552213521253150720",
+              "start": 10,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054665375502217349",
+        "in_reply_to_user_id": "2010265966152953859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054593617717789128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@66donk66 @acnekot 我也要卖经验修补吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 352,
+          "like_count": 104537,
+          "listed_count": 4,
+          "media_count": 1631,
+          "tweet_count": 16817
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T05:12:12.000Z",
+        "description": "陆鳐LuLu单推人\nThe world is another dream.",
+        "id": "1668486373639356416",
+        "location": "夜之城 VA-11酒馆",
+        "name": "凋谢归零的末路者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894455228914651136/JdtJkdSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 31,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 50
+        },
+        "username": "NullEnderWither",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T08:23:42.000Z",
+        "description": "",
+        "id": "2010265966152953859",
+        "name": "donk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010266534036598784/rH62Z0xH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 195,
+          "like_count": 4123,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "66donk66",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 797,
+          "like_count": 92061,
+          "listed_count": 7,
+          "media_count": 3843,
+          "tweet_count": 16308
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

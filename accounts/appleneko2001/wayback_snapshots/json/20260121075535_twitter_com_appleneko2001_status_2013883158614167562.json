@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2013883158614167562",
+    "created_at": "2026-01-21T07:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013883158614167562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883485930302078976",
+          "start": 3,
+          "username": "DaiDeng13712"
+        },
+        {
+          "end": 34,
+          "id": "1880947236462616576",
+          "start": 18,
+          "username": "RuthanneSo92628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013883158614167562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013273998289784873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DaiDeng13712: @RuthanneSo92628 任何上網的設備都可能有後門或是被破解，不用就拔電源或是斷網。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2013883158614167562",
+        "created_at": "2026-01-21T07:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013883158614167562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883485930302078976",
+              "start": 3,
+              "username": "DaiDeng13712"
+            },
+            {
+              "end": 34,
+              "id": "1880947236462616576",
+              "start": 18,
+              "username": "RuthanneSo92628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013883158614167562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013273998289784873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DaiDeng13712: @RuthanneSo92628 任何上網的設備都可能有後門或是被破解，不用就拔電源或是斷網。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883485930302078976",
+        "conversation_id": "2013247664692097421",
+        "created_at": "2026-01-19T15:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013273998289784873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947236462616576",
+              "start": 0,
+              "username": "RuthanneSo92628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013273998289784873",
+        "in_reply_to_user_id": "1880947236462616576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33026,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013247664692097421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuthanneSo92628 任何上網的設備都可能有後門或是被破解，不用就拔電源或是斷網。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 312,
+          "like_count": 81257,
+          "listed_count": 2,
+          "media_count": 1421,
+          "tweet_count": 13805
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T12:03:44.000Z",
+        "description": "享受慾望 遠離詐騙",
+        "id": "1883485930302078976",
+        "name": "後德在露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012010098751913988/PSJeY0ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 17,
+          "like_count": 5865,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 408
+        },
+        "username": "DaiDeng13712",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:54.000Z",
+        "description": "就不介绍了，都是自家人，就一个目的分享无聊的日常生活，寻找聊得来的搭子，全高中最沙雕的女人，有公的让我撩一下？（有🚪可验）",
+        "id": "1880947236462616576",
+        "name": "奥特之母",
+        "pinned_tweet_id": "2013247664692097421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905696285153460224/Adq5QrZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64293,
+          "following_count": 0,
+          "like_count": 89,
+          "listed_count": 88,
+          "media_count": 314,
+          "tweet_count": 1453
+        },
+        "username": "RuthanneSo92628",
+        "verified": false
+      }
+    ]
+  }
+}

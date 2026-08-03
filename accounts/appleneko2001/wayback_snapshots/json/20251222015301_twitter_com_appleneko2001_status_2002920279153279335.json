@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002731579295305728"
+      ],
+      "media_source_tweet_id": [
+        "2002731590934581740"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2002920279153279335",
+    "created_at": "2025-12-22T01:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T02:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002920279153279335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1631862412373823491",
+          "start": 3,
+          "username": "p1ct0a1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X3IrRldfQi",
+          "end": 36,
+          "expanded_url": "https://x.com/p1ct0a1/status/2002731590934581740/photo/1",
+          "media_key": "3_2002731579295305728",
+          "start": 13,
+          "url": "https://t.co/X3IrRldfQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002920279153279335",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002731590934581740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p1ct0a1: https://t.co/X3IrRldfQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2002731579295305728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8shwqxakAA4n5M.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002731579295305728"
+          ],
+          "media_source_tweet_id": [
+            "2002731590934581740"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2002920279153279335",
+        "created_at": "2025-12-22T01:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002920279153279335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1631862412373823491",
+              "start": 3,
+              "username": "p1ct0a1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3IrRldfQi",
+              "end": 36,
+              "expanded_url": "https://x.com/p1ct0a1/status/2002731590934581740/photo/1",
+              "media_key": "3_2002731579295305728",
+              "start": 13,
+              "url": "https://t.co/X3IrRldfQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002920279153279335",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002731590934581740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p1ct0a1: https://t.co/X3IrRldfQi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002731579295305728"
+          ]
+        },
+        "author_id": "1631862412373823491",
+        "conversation_id": "2002731590934581740",
+        "created_at": "2025-12-21T13:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002731590934581740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3IrRldfQi",
+              "end": 23,
+              "expanded_url": "https://x.com/p1ct0a1/status/2002731590934581740/photo/1",
+              "media_key": "3_2002731579295305728",
+              "start": 0,
+              "url": "https://t.co/X3IrRldfQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002731590934581740",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1348,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X3IrRldfQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 66505,
+          "listed_count": 2,
+          "media_count": 1316,
+          "tweet_count": 12448
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T03:41:38.000Z",
+        "description": "⚠️Warning!! : All of these images were generated by AI.⚠️ / \n🐊退廃ちゃん ー 'Decadence-chan' is a persona centered on the theme of decadence.🐊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suzuri.jp/Pictoai/produc…",
+                "end": 23,
+                "expanded_url": "https://suzuri.jp/Pictoai/products?utm_source=twitter&utm_medium=social&utm_campaign=shop_share",
+                "start": 0,
+                "url": "https://t.co/FSqESEafef"
+              }
+            ]
+          }
+        },
+        "id": "1631862412373823491",
+        "location": "#退廃ちゃん",
+        "name": "退廃ちゃん（仮）",
+        "pinned_tweet_id": "1896934617569243499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963209918053498880/yekQiExs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25122,
+          "following_count": 2442,
+          "like_count": 62345,
+          "listed_count": 200,
+          "media_count": 4794,
+          "tweet_count": 10427
+        },
+        "url": "https://t.co/FSqESEafef",
+        "username": "p1ct0a1",
+        "verified": true
+      }
+    ]
+  }
+}

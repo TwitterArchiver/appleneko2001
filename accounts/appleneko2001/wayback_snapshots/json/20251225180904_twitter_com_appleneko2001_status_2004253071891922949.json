@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004135544830545929"
+      ],
+      "media_source_tweet_id": [
+        "2004135595497738707"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2004253071891922949",
+    "created_at": "2025-12-25T18:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T19:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004253071891922949"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 14,
+          "tag": "ブルーアーカイブ"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1422902835205660675",
+          "start": 3,
+          "username": "suta0822"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yl88biIJU4",
+          "end": 60,
+          "expanded_url": "https://x.com/suta0822/status/2004135595497738707/photo/1",
+          "media_key": "3_2004135544830545929",
+          "start": 37,
+          "url": "https://t.co/Yl88biIJU4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004253071891922949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 500
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004135595497738707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suta0822: #ブルーアーカイブ #ブルアカ\n\nﾅﾂ~~~ https://t.co/Yl88biIJU4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004135544830545929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AeqN9b0AkXc60.jpg",
+        "width": 1443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004135544830545929"
+          ],
+          "media_source_tweet_id": [
+            "2004135595497738707"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2004253071891922949",
+        "created_at": "2025-12-25T18:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004253071891922949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "ブルーアーカイブ"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1422902835205660675",
+              "start": 3,
+              "username": "suta0822"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl88biIJU4",
+              "end": 60,
+              "expanded_url": "https://x.com/suta0822/status/2004135595497738707/photo/1",
+              "media_key": "3_2004135544830545929",
+              "start": 37,
+              "url": "https://t.co/Yl88biIJU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004253071891922949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 500
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004135595497738707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suta0822: #ブルーアーカイブ #ブルアカ\n\nﾅﾂ~~~ https://t.co/Yl88biIJU4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004135544830545929"
+          ]
+        },
+        "author_id": "1422902835205660675",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          }
+        ],
+        "conversation_id": "2004135595497738707",
+        "created_at": "2025-12-25T10:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T11:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004135595497738707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "ブルーアーカイブ"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl88biIJU4",
+              "end": 46,
+              "expanded_url": "https://x.com/suta0822/status/2004135595497738707/photo/1",
+              "media_key": "3_2004135544830545929",
+              "start": 23,
+              "url": "https://t.co/Yl88biIJU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004135595497738707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 405,
+          "impression_count": 35995,
+          "like_count": 3405,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 500
+        },
+        "reply_settings": "everyone",
+        "text": "#ブルーアーカイブ #ブルアカ\n\nﾅﾂ~~~ https://t.co/Yl88biIJU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67360,
+          "listed_count": 2,
+          "media_count": 1319,
+          "tweet_count": 12513
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T12:51:04.000Z",
+        "description": "■お題箱(気軽にどうぞ～)   https://t.co/DFd2cKFNS9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/suta0822",
+                "end": 39,
+                "expanded_url": "http://odaibako.net/u/suta0822",
+                "start": 16,
+                "url": "https://t.co/DFd2cKFNS9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/90077146",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/90077146",
+                "start": 0,
+                "url": "https://t.co/oa8ygjLu1j"
+              }
+            ]
+          }
+        },
+        "id": "1422902835205660675",
+        "location": "僕は二度とキメ顔なんてしない。僕はキメ顔でそう言った。",
+        "name": "すた0822 🎨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785733176301924357/_BeblHWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18666,
+          "following_count": 391,
+          "like_count": 3816,
+          "listed_count": 168,
+          "media_count": 75,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/oa8ygjLu1j",
+        "username": "suta0822",
+        "verified": false
+      }
+    ]
+  }
+}

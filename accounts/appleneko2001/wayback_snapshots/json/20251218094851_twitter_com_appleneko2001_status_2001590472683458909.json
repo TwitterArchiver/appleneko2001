@@ -1,0 +1,925 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2001590472683458909",
+    "created_at": "2025-12-18T09:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T10:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001590472683458909"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Windows",
+          "probability": 0.9651,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 52,
+          "normalized_text": "Pro",
+          "probability": 0.4391,
+          "start": 50,
+          "type": "Product"
+        },
+        {
+          "end": 70,
+          "normalized_text": "Linux",
+          "probability": 0.936,
+          "start": 66,
+          "type": "Other"
+        },
+        {
+          "end": 112,
+          "normalized_text": "FIrefox",
+          "probability": 0.8327,
+          "start": 106,
+          "type": "Other"
+        },
+        {
+          "end": 119,
+          "normalized_text": "AI",
+          "probability": 0.5698,
+          "start": 118,
+          "type": "Other"
+        },
+        {
+          "end": 139,
+          "normalized_text": "Install",
+          "probability": 0.5241,
+          "start": 133,
+          "type": "Other"
+        },
+        {
+          "end": 146,
+          "normalized_text": "Helium",
+          "probability": 0.7994,
+          "start": 141,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1331269556262735873",
+          "start": 3,
+          "username": "Taeyai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001590472683458909",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 883
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001222862808695069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Taeyai_: &gt;Windows gave me 1 AI on my Win10 Pro\n&gt;Install Linux as dual boot\n&gt;Customize it\n&gt;FIrefox now AI Browser\n&gt;Install Helium\n&gt;every…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61333,
+        "height": 1080,
+        "media_key": "13_2001222533593620480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001222533593620480/img/Jiwb137zvYcq9vJ_.jpg",
+        "public_metrics": {
+          "view_count": 230636
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001222533593620480/vid/avc1/480x270/6-CpidpwbZTeH685.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001222533593620480/vid/avc1/640x360/KncAvKNjAfJkTgEX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001222533593620480/vid/avc1/1280x720/E1amaSWaq0MVwZZc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001222533593620480/pl/nQiRKY9CSjOglr0i.m3u8?tag=14&v=804"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2001590472683458909",
+        "created_at": "2025-12-18T09:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001590472683458909"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Windows",
+              "probability": 0.9651,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Pro",
+              "probability": 0.4391,
+              "start": 50,
+              "type": "Product"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Linux",
+              "probability": 0.936,
+              "start": 66,
+              "type": "Other"
+            },
+            {
+              "end": 112,
+              "normalized_text": "FIrefox",
+              "probability": 0.8327,
+              "start": 106,
+              "type": "Other"
+            },
+            {
+              "end": 119,
+              "normalized_text": "AI",
+              "probability": 0.5698,
+              "start": 118,
+              "type": "Other"
+            },
+            {
+              "end": 139,
+              "normalized_text": "Install",
+              "probability": 0.5241,
+              "start": 133,
+              "type": "Other"
+            },
+            {
+              "end": 146,
+              "normalized_text": "Helium",
+              "probability": 0.7994,
+              "start": 141,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1331269556262735873",
+              "start": 3,
+              "username": "Taeyai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001590472683458909",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 883
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001222862808695069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Taeyai_: &gt;Windows gave me 1 AI on my Win10 Pro\n&gt;Install Linux as dual boot\n&gt;Customize it\n&gt;FIrefox now AI Browser\n&gt;Install Helium\n&gt;every…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001222533593620480"
+          ]
+        },
+        "author_id": "1331269556262735873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2001222862808695069",
+        "created_at": "2025-12-17T09:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T10:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001222862808695069"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Windows",
+              "probability": 0.972,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Win10 Pro",
+              "probability": 0.486,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Linux",
+              "probability": 0.9476,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "FIrefox",
+              "probability": 0.8689,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "AI Browser",
+              "probability": 0.4776,
+              "start": 105,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": "Install",
+              "probability": 0.6616,
+              "start": 120,
+              "type": "Other"
+            },
+            {
+              "end": 133,
+              "normalized_text": "Helium",
+              "probability": 0.8747,
+              "start": 128,
+              "type": "Other"
+            },
+            {
+              "end": 184,
+              "normalized_text": "Windows",
+              "probability": 0.9454,
+              "start": 178,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/POMozds6AA",
+              "end": 253,
+              "expanded_url": "https://x.com/Taeyai_/status/2001222862808695069/video/1",
+              "media_key": "13_2001222533593620480",
+              "start": 230,
+              "url": "https://t.co/POMozds6AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001222862808695069",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8193,
+          "impression_count": 442259,
+          "like_count": 14837,
+          "quote_count": 57,
+          "reply_count": 123,
+          "retweet_count": 883
+        },
+        "reply_settings": "everyone",
+        "text": "&gt;Windows gave me 1 AI on my Win10 Pro\n&gt;Install Linux as dual boot\n&gt;Customize it\n&gt;FIrefox now AI Browser\n&gt;Install Helium\n&gt;everything run so fast and better than Windows\n&gt;Happy with it\n&gt;Become my main OS now https://t.co/POMozds6AA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 268,
+          "like_count": 65997,
+          "listed_count": 2,
+          "media_count": 1313,
+          "tweet_count": 12386
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T16:12:59.000Z",
+        "description": "➤ Programmer 💻 | Game Dev 🎮 | Creator of Cyber Sensation  |\nFounder of @TheSillician |\nShe/Her🏳️‍⚧️✨| Age:19 | My Wife: @KimiriChan 💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "TheSillician"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "KimiriChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taeyai.straw.page",
+                "end": 23,
+                "expanded_url": "https://taeyai.straw.page",
+                "start": 0,
+                "url": "https://t.co/vfVN7L5Jws"
+              }
+            ]
+          }
+        },
+        "id": "1331269556262735873",
+        "location": "Thailand",
+        "name": "✦𝙏𝙖𝙚𝙔𝙖𝙞✦",
+        "pinned_tweet_id": "1817454297799676058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939892199237599232/akCTlJUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45823,
+          "following_count": 626,
+          "like_count": 34501,
+          "listed_count": 59,
+          "media_count": 3956,
+          "tweet_count": 21968
+        },
+        "url": "https://t.co/vfVN7L5Jws",
+        "username": "Taeyai_",
+        "verified": false
+      }
+    ]
+  }
+}

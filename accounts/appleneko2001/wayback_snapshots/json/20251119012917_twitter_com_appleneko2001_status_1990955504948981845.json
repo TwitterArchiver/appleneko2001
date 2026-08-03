@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "1990624976505090331",
+    "created_at": "2025-11-19T01:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T02:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990955504948981845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "806615749",
+          "start": 0,
+          "username": "Ch_Kudla"
+        },
+        {
+          "end": 19,
+          "id": "4108090865",
+          "start": 10,
+          "username": "cqcqcqdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990955504948981845",
+    "in_reply_to_user_id": "806615749",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990690070299627952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ch_Kudla @cqcqcqdx it is if you compare it in the whole windows family\nbut it changes if you only compare between them, i choose win10"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1990624976505090331",
+        "created_at": "2025-11-19T01:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T02:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990955504948981845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "806615749",
+              "start": 0,
+              "username": "Ch_Kudla"
+            },
+            {
+              "end": 19,
+              "id": "4108090865",
+              "start": 10,
+              "username": "cqcqcqdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990955504948981845",
+        "in_reply_to_user_id": "806615749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990690070299627952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ch_Kudla @cqcqcqdx it is if you compare it in the whole windows family\nbut it changes if you only compare between them, i choose win10"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "806615749",
+        "conversation_id": "1990624976505090331",
+        "created_at": "2025-11-18T07:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990690070299627952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4108090865",
+              "start": 0,
+              "username": "cqcqcqdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990690070299627952",
+        "in_reply_to_user_id": "4108090865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 544,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990624976505090331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cqcqcqdx Win 10 /11 that bad?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 266,
+          "like_count": 65658,
+          "listed_count": 2,
+          "media_count": 1305,
+          "tweet_count": 12339
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-06T11:28:08.000Z",
+        "description": "Me doing stuffs here : \n\nhttps://t.co/RaxSVWTg4t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "itsmyself1.wordpress.com",
+                "end": 48,
+                "expanded_url": "https://itsmyself1.wordpress.com/",
+                "start": 25,
+                "url": "https://t.co/RaxSVWTg4t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Ch_Hosabettu?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Ch_Hosabettu?si=9hhIO-n-aEFYj9D-",
+                "start": 0,
+                "url": "https://t.co/rHcRXM0H6S"
+              }
+            ]
+          }
+        },
+        "id": "806615749",
+        "location": "ನಮ್ಮ ಕುಡ್ಲ, IXE, IND",
+        "name": "Chethan Kudla",
+        "pinned_tweet_id": "1913223660258934898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906327558364532736/AaQFHKgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 744,
+          "like_count": 51570,
+          "listed_count": 4,
+          "media_count": 1076,
+          "tweet_count": 19609
+        },
+        "url": "https://t.co/rHcRXM0H6S",
+        "username": "Ch_Kudla",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-03T23:56:38.000Z",
+        "description": "Radio operator, hobbyist. WN8OVD 1973 Novice, KB8NTY 1992 Extra Class, CU in the pileups!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qrz.com/db/KB8NTY",
+                "end": 23,
+                "expanded_url": "https://www.qrz.com/db/KB8NTY",
+                "start": 0,
+                "url": "https://t.co/ZnvgamZkDd"
+              }
+            ]
+          }
+        },
+        "id": "4108090865",
+        "location": "Twinsburg, OH",
+        "name": "RossRadio",
+        "pinned_tweet_id": "1984660883952336920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/661697472889233408/jYGtLU7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15252,
+          "following_count": 141,
+          "like_count": 72250,
+          "listed_count": 198,
+          "media_count": 18938,
+          "tweet_count": 52561
+        },
+        "url": "https://t.co/ZnvgamZkDd",
+        "username": "cqcqcqdx",
+        "verified": true
+      }
+    ]
+  }
+}

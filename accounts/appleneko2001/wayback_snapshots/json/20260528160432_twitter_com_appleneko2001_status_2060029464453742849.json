@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2060020410117476460",
+    "created_at": "2026-05-28T16:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060029464453742849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797120101419999232",
+          "start": 0,
+          "username": "YMKxxxxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060029464453742849",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060027854684061932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMKxxxxxxxx 这里没有热水 有的只有冷漠 以及无尽的情绪黑洞\n请妳不要注视我太久 可能会被影响喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2060020410117476460",
+        "created_at": "2026-05-28T16:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060029464453742849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060029464453742849",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060027854684061932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 这里没有热水 有的只有冷漠 以及无尽的情绪黑洞\n请妳不要注视我太久 可能会被影响喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2060020410117476460",
+        "created_at": "2026-05-28T15:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060027854684061932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060027854684061932",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060027396108218689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 一个账号而已，怎么样都不能定义你呀，快去倒杯热水，给肚子暖暖\n（抱紧紧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情绪黑洞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "情绪黑洞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 306,
+          "like_count": 106059,
+          "listed_count": 2,
+          "media_count": 1639,
+          "tweet_count": 17085
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花、花花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "梦花 𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 655,
+          "like_count": 8577,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

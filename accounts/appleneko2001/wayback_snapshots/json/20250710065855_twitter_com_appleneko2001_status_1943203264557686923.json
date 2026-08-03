@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1943121383871123479",
+    "created_at": "2025-07-10T06:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T07:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943203264557686923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94082134",
+          "start": 0,
+          "username": "davyzhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943203264557686923",
+    "in_reply_to_user_id": "94082134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943202461084455243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@davyzhang 唬人是一方面 但另一方面我自己試著寫過LLM AI agent 效果一點都不滿意 偶爾有幾個高光時刻 本地的那更是基本上沒有一點用…感覺還是因為沒有知識庫以及該有的思考邏輯導致的\n總之 現階段 就是一個對科研人員有用的工具 對用戶是好玩的玩具罷了 我是對LLM悲觀的 如果要做到全能"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1943202461084455243].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1943202461084455243",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1943202461084455243"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1943121383871123479",
+        "created_at": "2025-07-10T06:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T07:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943203264557686923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94082134",
+              "start": 0,
+              "username": "davyzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943203264557686923",
+        "in_reply_to_user_id": "94082134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943202461084455243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@davyzhang 唬人是一方面 但另一方面我自己試著寫過LLM AI agent 效果一點都不滿意 偶爾有幾個高光時刻 本地的那更是基本上沒有一點用…感覺還是因為沒有知識庫以及該有的思考邏輯導致的\n總之 現階段 就是一個對科研人員有用的工具 對用戶是好玩的玩具罷了 我是對LLM悲觀的 如果要做到全能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 259,
+          "like_count": 65590,
+          "listed_count": 2,
+          "media_count": 1297,
+          "tweet_count": 12307
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-02T12:46:57.000Z",
+        "description": "Game🎮 Developer/Player\nMaster of none, that is my strength.\nExpert of failure, that is my life.\n为安全锁推|会通过|会回fo|蛋头会被b掉",
+        "id": "94082134",
+        "name": "大胃·张 💪 努力减肥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551056437509365760/V5-EVRfa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 3217,
+          "like_count": 58480,
+          "listed_count": 4,
+          "media_count": 980,
+          "tweet_count": 17563
+        },
+        "username": "davyzhang",
+        "verified": false
+      }
+    ]
+  }
+}

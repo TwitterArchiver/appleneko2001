@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1990845327406977066",
+    "created_at": "2025-11-18T23:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T00:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990932100443197890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1388769316145745922",
+          "start": 0,
+          "username": "ryuxei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990932100443197890",
+    "in_reply_to_user_id": "1388769316145745922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990845327406977066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryuxei kubernetes好玩嗎……？只會docker compose的我感覺好難理解……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1990845318037188608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DnRNBbMAAAtYV.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1990845327406977066",
+        "created_at": "2025-11-18T23:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T00:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990932100443197890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1388769316145745922",
+              "start": 0,
+              "username": "ryuxei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990932100443197890",
+        "in_reply_to_user_id": "1388769316145745922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990845327406977066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryuxei kubernetes好玩嗎……？只會docker compose的我感覺好難理解……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990845318037188608"
+          ]
+        },
+        "author_id": "1388769316145745922",
+        "conversation_id": "1990845327406977066",
+        "created_at": "2025-11-18T18:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990845327406977066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzhZ3GT9F6",
+              "end": 50,
+              "expanded_url": "https://x.com/ryuxei/status/1990845327406977066/photo/1",
+              "media_key": "3_1990845318037188608",
+              "start": 27,
+              "url": "https://t.co/TzhZ3GT9F6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990845327406977066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凌晨 2 点\n\n乖巧安静地等待 k8s 集群升级完成 https://t.co/TzhZ3GT9F6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 266,
+          "like_count": 65551,
+          "listed_count": 2,
+          "media_count": 1303,
+          "tweet_count": 12321
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T08:16:30.000Z",
+        "description": "26 • en/中文 • @ucl cs • devops & cloud infra @habbyfun • 今年在努力变得更强💪 • nice to meet you!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 13,
+                "username": "ucl"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "habbyfun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ryuxeii",
+                "end": 23,
+                "expanded_url": "https://t.me/ryuxeii",
+                "start": 0,
+                "url": "https://t.co/E1UldtyuYv"
+              }
+            ]
+          }
+        },
+        "id": "1388769316145745922",
+        "location": "🌟 beijing 北京, china",
+        "name": "ｒｙｕ 龙龙 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949622830259449857/nTvxIcez_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 69,
+          "like_count": 28791,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/E1UldtyuYv",
+        "username": "ryuxei",
+        "verified": false
+      }
+    ]
+  }
+}

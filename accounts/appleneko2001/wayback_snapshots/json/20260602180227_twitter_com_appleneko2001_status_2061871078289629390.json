@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Microsoft - AI",
+          "id": "10050907865",
+          "name": "Microsoft - AI"
+        }
+      }
+    ],
+    "conversation_id": "2061871078289629390",
+    "created_at": "2026-06-02T18:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061871078289629390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1178773799287885825",
+          "start": 3,
+          "username": "NewsWire_US"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061871078289629390",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061442426217103615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewsWire_US: Microsoft Bans Claude Code After AI Costs More Than The Humans It Replaced"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          }
+        ],
+        "conversation_id": "2061871078289629390",
+        "created_at": "2026-06-02T18:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061871078289629390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1178773799287885825",
+              "start": 3,
+              "username": "NewsWire_US"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061871078289629390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061442426217103615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NewsWire_US: Microsoft Bans Claude Code After AI Costs More Than The Humans It Replaced"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1178773799287885825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          }
+        ],
+        "conversation_id": "2061442426217103615",
+        "created_at": "2026-06-01T13:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061442426217103615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061442426217103615",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1992,
+          "impression_count": 4570348,
+          "like_count": 22079,
+          "quote_count": 1002,
+          "reply_count": 381,
+          "retweet_count": 2118
+        },
+        "reply_settings": "everyone",
+        "text": "Microsoft Bans Claude Code After AI Costs More Than The Humans It Replaced"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "小笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 246,
+          "like_count": 107061,
+          "listed_count": 2,
+          "media_count": 1643,
+          "tweet_count": 17177
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-30T20:49:40.000Z",
+        "description": "U.S. and world news. Turn on notifications 🔔",
+        "id": "1178773799287885825",
+        "location": "Washington, D.C.",
+        "name": "NewsWire",
+        "pinned_tweet_id": "2061569492728066407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820825737982517248/yDHyolRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151519,
+          "following_count": 206,
+          "like_count": 1520,
+          "listed_count": 1527,
+          "media_count": 2699,
+          "tweet_count": 22758
+        },
+        "username": "NewsWire_US",
+        "verified": true
+      }
+    ]
+  }
+}

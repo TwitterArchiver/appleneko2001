@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2021956361723293760",
+    "created_at": "2026-02-13T02:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022137664452088020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV"
+        },
+        {
+          "end": 19,
+          "id": "1515290827454439426",
+          "start": 11,
+          "username": "FuncSir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022137664452088020",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022136711401418762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV @FuncSir Arch 其实有点 我不知道\n感觉有点太麻烦了\n倒是希望如果SteamOS也可以用诸如nixos那样的可用配置文件部署环境的话那简直是太强了\n声明式部署是我见到过最方便的一个功能 没有之一 还能快速部署其他需要安装系统的电脑上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2021956361723293760",
+        "created_at": "2026-02-13T02:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022137664452088020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV"
+            },
+            {
+              "end": 19,
+              "id": "1515290827454439426",
+              "start": 11,
+              "username": "FuncSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022137664452088020",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022136711401418762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV @FuncSir Arch 其实有点 我不知道\n感觉有点太麻烦了\n倒是希望如果SteamOS也可以用诸如nixos那样的可用配置文件部署环境的话那简直是太强了\n声明式部署是我见到过最方便的一个功能 没有之一 还能快速部署其他需要安装系统的电脑上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2021956361723293760",
+        "created_at": "2026-02-13T02:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022136711401418762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 23,
+              "id": "1515290827454439426",
+              "start": 15,
+              "username": "FuncSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022136711401418762",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022135085756268838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @FuncSir 叹，这个担忧很合理\n关于适应其它os的话，steamos/arch其实可以考虑，steamos甚至还兼容少数有反作弊的软件（或者说，反作弊软件有兼容steamos）\n如果只是希望一个类似windows的桌面体验的话 Cynun推荐Kubuntu或者Fedora+kde，现在自己就在用后者(然而xwl输入法一类的破事有时还不如niri那些极简环境x)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 325,
+          "like_count": 88967,
+          "listed_count": 2,
+          "media_count": 1485,
+          "tweet_count": 14507
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "抱抱鱼 | 计算机用户| 虚弱的无定形类人智能体 | HFAutism,部分精神和心理疾病可能会影响其发言内容；遭遇异常状态请小心处理。",
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "Cynun VIIV",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 1151,
+          "like_count": 29803,
+          "listed_count": 7,
+          "media_count": 143,
+          "tweet_count": 4914
+        },
+        "username": "CynunVIIV",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T11:28:13.000Z",
+        "description": "println!(\"Hello!\");",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vioxt.eu.org",
+                "end": 23,
+                "expanded_url": "http://vioxt.eu.org",
+                "start": 0,
+                "url": "https://t.co/DGPCc9sVCE"
+              }
+            ]
+          }
+        },
+        "id": "1515290827454439426",
+        "location": "Earth",
+        "name": "FunctionSir",
+        "pinned_tweet_id": "1756343396824658173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515291015145398273/Ip8NFdrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2148,
+          "like_count": 3619,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/DGPCc9sVCE",
+        "username": "FuncSir",
+        "verified": false
+      }
+    ]
+  }
+}

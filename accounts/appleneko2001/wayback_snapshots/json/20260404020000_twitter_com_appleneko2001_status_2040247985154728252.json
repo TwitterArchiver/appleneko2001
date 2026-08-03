@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2040247985154728252",
+    "created_at": "2026-04-04T02:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T03:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040247985154728252"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "AtoZ練習法"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909864906100555777",
+          "start": 3,
+          "username": "HaruXHop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/dhelder",
+          "end": 139,
+          "expanded_url": "https://x.com/dhelder",
+          "start": 125,
+          "url": "https://t.co/d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040247985154728252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040189600086237648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaruXHop: おはようございます\n昨日、無事 #AtoZ練習法 を完走できました！\nえらい自分！\n\n折角なので、イラストを描いていたときの思い出とか、想いとかを出せる場を設けいたいなと思います\n\n皆さんは、どの子の思い入れありますか？ https://t.co/d…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2040065138993348608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_Eb2hbQAAmGtA.jpg",
+        "width": 2425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2040247985154728252",
+        "created_at": "2026-04-04T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040247985154728252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "AtoZ練習法"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909864906100555777",
+              "start": 3,
+              "username": "HaruXHop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dhelder",
+              "end": 139,
+              "expanded_url": "https://x.com/dhelder",
+              "start": 125,
+              "url": "https://t.co/d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040247985154728252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040189600086237648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaruXHop: おはようございます\n昨日、無事 #AtoZ練習法 を完走できました！\nえらい自分！\n\n折角なので、イラストを描いていたときの思い出とか、想いとかを出せる場を設けいたいなと思います\n\n皆さんは、どの子の思い入れありますか？ https://t.co/d…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040065138993348608"
+          ]
+        },
+        "author_id": "1909864906100555777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2040189600086237648",
+        "created_at": "2026-04-03T22:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040189600086237648"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "AtoZ練習法"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfKBQcEVsb",
+              "end": 134,
+              "expanded_url": "https://x.com/HaruXHop/status/2040189600086237648/photo/1",
+              "media_key": "3_2040065138993348608",
+              "start": 111,
+              "url": "https://t.co/dfKBQcEVsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040189600086237648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 159,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます\n昨日、無事 #AtoZ練習法 を完走できました！\nえらい自分！\n\n折角なので、イラストを描いていたときの思い出とか、想いとかを出せる場を設けいたいなと思います\n\n皆さんは、どの子の思い入れありますか？ https://t.co/dfKBQcEVsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2039380301445832973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 362,
+          "like_count": 100511,
+          "listed_count": 3,
+          "media_count": 1589,
+          "tweet_count": 16179
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T07:04:24.000Z",
+        "description": "趣味で絵を描いています。オリジナルの女の子イラスト、たまに二次創作（ほぼ原神）を描いてます。季節を感じるイラストをメインに、皆さまの心へ届けば嬉しいです(*'▽')\nイラストの無断使用転載は禁止です⚠️\n\npixiv：https://t.co/O5StZj8qak",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/12297396",
+                "end": 132,
+                "expanded_url": "https://www.pixiv.net/users/12297396",
+                "start": 109,
+                "url": "https://t.co/O5StZj8qak"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "haruxhop.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://haruxhop.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/tpBITpky3g"
+              }
+            ]
+          }
+        },
+        "id": "1909864906100555777",
+        "location": "真ん中あたり",
+        "name": "ハルほっぷ",
+        "pinned_tweet_id": "2038030372433195490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998898184542896128/5h_Iuor6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 369,
+          "like_count": 15402,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/tpBITpky3g",
+        "username": "HaruXHop",
+        "verified": false
+      }
+    ]
+  }
+}

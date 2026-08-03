@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2011881462942015670",
+    "created_at": "2026-01-15T19:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T20:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011881462942015670"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "VM",
+          "probability": 0.7247,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "kernel",
+          "probability": 0.6108,
+          "start": 61,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/DarkWebInforme…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/DarkWebInformer/status/2011610819604463926",
+          "start": 118,
+          "url": "https://t.co/TVaEknmU44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011881462942015670",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011610819604463926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Why we don't just put windows into the VM?\nOnline games with kernel level anticheat: NO WE CAN ONLY RUN IN WINDOWS!!! https://t.co/TVaEknmU44"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_2011609770013442057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-qsbYhbQAkMeSQ.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2011881462942015670",
+        "created_at": "2026-01-15T19:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T20:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011881462942015670"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "VM",
+              "probability": 0.7247,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "kernel",
+              "probability": 0.6108,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/DarkWebInforme…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/DarkWebInformer/status/2011610819604463926",
+              "start": 118,
+              "url": "https://t.co/TVaEknmU44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011881462942015670",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011610819604463926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Why we don't just put windows into the VM?\nOnline games with kernel level anticheat: NO WE CAN ONLY RUN IN WINDOWS!!! https://t.co/TVaEknmU44"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011609770013442057"
+          ]
+        },
+        "author_id": "1697387633247150081",
+        "conversation_id": "2011610819604463926",
+        "created_at": "2026-01-15T01:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T02:23:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011610130828444087",
+          "2011610819604463926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Kernel Information Disclosure . Contribute to nu1lptr0/CVE-2025-53136 development by creating an account on GitHub.",
+              "display_url": "github.com/nu1lptr0/CVE-2…",
+              "end": 116,
+              "expanded_url": "https://github.com/nu1lptr0/CVE-2025-53136",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2011056587885182976/GdYqwTpf?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011056587885182976/GdYqwTpf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 93,
+              "status": 200,
+              "title": "GitHub - nu1lptr0/CVE-2025-53136: Kernel Information Disclosure",
+              "unwound_url": "https://github.com/nu1lptr0/CVE-2025-53136",
+              "url": "https://t.co/BsdDZyeiy8"
+            },
+            {
+              "display_url": "pic.x.com/ScxLen4m50",
+              "end": 181,
+              "expanded_url": "https://x.com/DarkWebInformer/status/2011610819604463926/photo/1",
+              "media_key": "3_2011609770013442057",
+              "start": 158,
+              "url": "https://t.co/ScxLen4m50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011610819604463926",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 19070,
+          "like_count": 228,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "❗️CVE-2025-53136: Windows Kernel Information Disclosure through Race condition\n\nPoC/Exploit: https://t.co/BsdDZyeiy8\n\nCVSS: 5.5\nCVE Published: Aug 12th, 2025 https://t.co/ScxLen4m50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 294,
+          "like_count": 78845,
+          "listed_count": 2,
+          "media_count": 1394,
+          "tweet_count": 13473
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T23:15:37.000Z",
+        "description": "Providing intel from the Dark Web, Deep Web, & Clearnet: Breaches, Ransomware, Darknet Markets, Threats, Exploits, & more. X Intel Bot: @DarkWebIntelBot.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "DarkWebIntelBot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "darkwebinformer.com",
+                "end": 23,
+                "expanded_url": "https://darkwebinformer.com",
+                "start": 0,
+                "url": "https://t.co/B0k9yrjzJN"
+              }
+            ]
+          }
+        },
+        "id": "1697387633247150081",
+        "location": "Telegram: t.me/SliceForLife 🔪",
+        "name": "Dark Web Informer",
+        "pinned_tweet_id": "1998546770859798576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009060350524641280/UJllMGZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149004,
+          "following_count": 65,
+          "like_count": 26424,
+          "listed_count": 815,
+          "media_count": 11084,
+          "tweet_count": 27790
+        },
+        "url": "https://t.co/B0k9yrjzJN",
+        "username": "DarkWebInformer",
+        "verified": true
+      }
+    ]
+  }
+}

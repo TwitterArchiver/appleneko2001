@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026738409",
+          "name": "Sony"
+        }
+      }
+    ],
+    "conversation_id": "1979767707349512573",
+    "created_at": "2025-10-20T19:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T20:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980355300264931604"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "Sony",
+          "probability": 0.6627,
+          "start": 13,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1571428991449567233",
+          "start": 0,
+          "username": "lakshyalark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980355300264931604",
+    "in_reply_to_user_id": "1571428991449567233",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979767707349512573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lakshyalark Sony\nDon't tell me why \nNo one of the pics mentioned are barely well"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1949,
+        "media_key": "3_1979767566127026176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mMHLTXUAA6erB.jpg",
+        "width": 3464
+      },
+      {
+        "height": 1949,
+        "media_key": "3_1979767566164697088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mMHLcWIAANf0b.jpg",
+        "width": 3464
+      },
+      {
+        "height": 1949,
+        "media_key": "3_1979767565682356224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mMHJpWMAA2nCT.jpg",
+        "width": 3464
+      },
+      {
+        "height": 1949,
+        "media_key": "3_1979767565653069824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mMHJiXUAAb5Ta.jpg",
+        "width": 3464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "1979767707349512573",
+        "created_at": "2025-10-20T19:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T20:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980355300264931604"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Sony",
+              "probability": 0.6627,
+              "start": 13,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1571428991449567233",
+              "start": 0,
+              "username": "lakshyalark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980355300264931604",
+        "in_reply_to_user_id": "1571428991449567233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979767707349512573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lakshyalark Sony\nDon't tell me why \nNo one of the pics mentioned are barely well"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979767566127026176",
+            "3_1979767566164697088",
+            "3_1979767565682356224",
+            "3_1979767565653069824"
+          ]
+        },
+        "author_id": "1571428991449567233",
+        "conversation_id": "1979767707349512573",
+        "created_at": "2025-10-19T04:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979767707349512573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mkHyUnKrL",
+              "end": 51,
+              "expanded_url": "https://x.com/lakshyalark/status/1979767707349512573/photo/1",
+              "media_key": "3_1979767566127026176",
+              "start": 28,
+              "url": "https://t.co/4mkHyUnKrL"
+            },
+            {
+              "display_url": "pic.x.com/4mkHyUnKrL",
+              "end": 51,
+              "expanded_url": "https://x.com/lakshyalark/status/1979767707349512573/photo/1",
+              "media_key": "3_1979767566164697088",
+              "start": 28,
+              "url": "https://t.co/4mkHyUnKrL"
+            },
+            {
+              "display_url": "pic.x.com/4mkHyUnKrL",
+              "end": 51,
+              "expanded_url": "https://x.com/lakshyalark/status/1979767707349512573/photo/1",
+              "media_key": "3_1979767565682356224",
+              "start": 28,
+              "url": "https://t.co/4mkHyUnKrL"
+            },
+            {
+              "display_url": "pic.x.com/4mkHyUnKrL",
+              "end": 51,
+              "expanded_url": "https://x.com/lakshyalark/status/1979767707349512573/photo/1",
+              "media_key": "3_1979767565653069824",
+              "start": 28,
+              "url": "https://t.co/4mkHyUnKrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979767707349512573",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 67824,
+          "like_count": 919,
+          "quote_count": 20,
+          "reply_count": 344,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "Who’s best at optimization? https://t.co/4mkHyUnKrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 264,
+          "like_count": 65545,
+          "listed_count": 2,
+          "media_count": 1302,
+          "tweet_count": 12313
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T09:20:57.000Z",
+        "description": "Student | Interested in Tech | Learning",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lakshyalark/?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lakshyalark/?igsh=MTd6Z3I1aWR2aXY3Mg%3D%3D",
+                "start": 0,
+                "url": "https://t.co/XLrEWav96X"
+              }
+            ]
+          }
+        },
+        "id": "1571428991449567233",
+        "name": "Lakshya Lark",
+        "pinned_tweet_id": "1941355025546215549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672603197440163841/gGOrKaQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 1056,
+          "like_count": 105382,
+          "listed_count": 18,
+          "media_count": 5376,
+          "tweet_count": 38389
+        },
+        "url": "https://t.co/XLrEWav96X",
+        "username": "lakshyalark",
+        "verified": true
+      }
+    ]
+  }
+}

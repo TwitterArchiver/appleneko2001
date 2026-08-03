@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google - AI",
+          "id": "10050907858",
+          "name": "Google - AI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Chrome",
+          "id": "10052778493",
+          "name": "Google Chrome"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2007679382928928948",
+    "created_at": "2026-01-14T23:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T00:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011575517372432395"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 75,
+          "normalized_text": "Google chrome",
+          "probability": 0.8707,
+          "start": 63,
+          "type": "Other"
+        },
+        {
+          "end": 117,
+          "normalized_text": "Google",
+          "probability": 0.5444,
+          "start": 112,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1537732086664159232",
+          "start": 0,
+          "username": "IntpJoestar"
+        },
+        {
+          "end": 28,
+          "id": "1431326433318670340",
+          "start": 13,
+          "username": "joshuafhiggins"
+        },
+        {
+          "end": 43,
+          "id": "1893389048393408513",
+          "start": 29,
+          "username": "heliumbrowser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011575517372432395",
+    "in_reply_to_user_id": "1537732086664159232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008035017772150951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IntpJoestar @joshuafhiggins @heliumbrowser You can simply use Google chrome for that its easiest solution \nThe Google sync thing is proprietary part of the software"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google - AI",
+              "id": "10050907858",
+              "name": "Google - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2007679382928928948",
+        "created_at": "2026-01-14T23:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T00:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011575517372432395"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Google chrome",
+              "probability": 0.8707,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 117,
+              "normalized_text": "Google",
+              "probability": 0.5444,
+              "start": 112,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1537732086664159232",
+              "start": 0,
+              "username": "IntpJoestar"
+            },
+            {
+              "end": 28,
+              "id": "1431326433318670340",
+              "start": 13,
+              "username": "joshuafhiggins"
+            },
+            {
+              "end": 43,
+              "id": "1893389048393408513",
+              "start": 29,
+              "username": "heliumbrowser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011575517372432395",
+        "in_reply_to_user_id": "1537732086664159232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008035017772150951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IntpJoestar @joshuafhiggins @heliumbrowser You can simply use Google chrome for that its easiest solution \nThe Google sync thing is proprietary part of the software"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537732086664159232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2007679382928928948",
+        "created_at": "2026-01-05T04:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008035017772150951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 116,
+              "normalized_text": "YouTube",
+              "probability": 0.9649,
+              "start": 110,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": "Gmail",
+              "probability": 0.8886,
+              "start": 122,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1431326433318670340",
+              "start": 0,
+              "username": "joshuafhiggins"
+            },
+            {
+              "end": 30,
+              "id": "1893389048393408513",
+              "start": 16,
+              "username": "heliumbrowser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008035017772150951",
+        "in_reply_to_user_id": "1431326433318670340",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007990173402059134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joshuafhiggins @heliumbrowser I wasn't talking about the privacy, i meant the ecosystem itself... Like using YouTube and Gmail without logging in each time."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 294,
+          "like_count": 78185,
+          "listed_count": 2,
+          "media_count": 1393,
+          "tweet_count": 13410
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T09:41:32.000Z",
+        "description": "RESPECT SHOULD BE EARNED NOT TAKEN\n • Networks Engineer | JoJo is the peak of fiction •       \nI'll be waiting for you... On the beach.",
+        "id": "1537732086664159232",
+        "location": "Silent Hill",
+        "name": "𝑴𝒐𝒉𝒂𝒎𝒎𝒆𝒅 ︎𝑨𝒍𝒂𝒓𝒊𝒇𝒚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995186636133441536/NLzvnM6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 215,
+          "like_count": 14892,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 118
+        },
+        "username": "IntpJoestar",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T18:43:31.000Z",
+        "description": "",
+        "id": "1431326433318670340",
+        "name": "Joshua Higgins",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997096441299296256/7N2czV0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 50,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "joshuafhiggins",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T19:55:34.000Z",
+        "description": "The web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise.\n\nFully open source, by @imputnet.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 137,
+                "username": "imputnet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "helium.computer",
+                "end": 23,
+                "expanded_url": "https://helium.computer/",
+                "start": 0,
+                "url": "https://t.co/JEurq40fCr"
+              }
+            ]
+          }
+        },
+        "id": "1893389048393408513",
+        "name": "Helium",
+        "pinned_tweet_id": "1971117905002758381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966048573386084352/w1-yJqYe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13301,
+          "following_count": 1,
+          "like_count": 507,
+          "listed_count": 46,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/JEurq40fCr",
+        "username": "heliumbrowser",
+        "verified": false
+      }
+    ]
+  }
+}

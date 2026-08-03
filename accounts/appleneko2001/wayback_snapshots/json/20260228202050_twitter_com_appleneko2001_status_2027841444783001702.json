@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027693777637580800"
+      ],
+      "media_source_tweet_id": [
+        "2027693784050634894"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2027841444783001702",
+    "created_at": "2026-02-28T20:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T21:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027841444783001702"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2370073645",
+          "start": 3,
+          "username": "13_ikari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wTiAYyQL4",
+          "end": 54,
+          "expanded_url": "https://x.com/13_ikari/status/2027693784050634894/photo/1",
+          "media_key": "3_2027693777637580800",
+          "start": 31,
+          "url": "https://t.co/9wTiAYyQL4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027841444783001702",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027693784050634894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13_ikari: #今月描いた絵を晒そう\nこちら！ https://t.co/9wTiAYyQL4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2027693777637580800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPQv2FboAAEHjq.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027693777637580800"
+          ],
+          "media_source_tweet_id": [
+            "2027693784050634894"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027841444783001702",
+        "created_at": "2026-02-28T20:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T21:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027841444783001702"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2370073645",
+              "start": 3,
+              "username": "13_ikari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wTiAYyQL4",
+              "end": 54,
+              "expanded_url": "https://x.com/13_ikari/status/2027693784050634894/photo/1",
+              "media_key": "3_2027693777637580800",
+              "start": 31,
+              "url": "https://t.co/9wTiAYyQL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027841444783001702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027693784050634894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13_ikari: #今月描いた絵を晒そう\nこちら！ https://t.co/9wTiAYyQL4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027693777637580800"
+          ]
+        },
+        "author_id": "2370073645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027693784050634894",
+        "created_at": "2026-02-28T10:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027693784050634894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wTiAYyQL4",
+              "end": 40,
+              "expanded_url": "https://x.com/13_ikari/status/2027693784050634894/photo/1",
+              "media_key": "3_2027693777637580800",
+              "start": 17,
+              "url": "https://t.co/9wTiAYyQL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027693784050634894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 7375,
+          "like_count": 572,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "#今月描いた絵を晒そう\nこちら！ https://t.co/9wTiAYyQL4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 344,
+          "like_count": 94514,
+          "listed_count": 3,
+          "media_count": 1533,
+          "tweet_count": 15359
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-03T08:11:49.000Z",
+        "description": "イラストレーター▶︎企業様個人様問わずお仕事募集中 ▶︎初音ミクカレンダー￤Z/X￤萌王￤Vtuberデザイン,グッズ・動画イラスト￤背景など　▶︎ご依頼はHPよりどうぞ！https://t.co/UdT5tndTMD ▶︎skeb https://t.co/fSHTf79ueU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ikari13.com",
+                "end": 109,
+                "expanded_url": "https://ikari13.com/",
+                "start": 86,
+                "url": "https://t.co/UdT5tndTMD"
+              },
+              {
+                "display_url": "skeb.jp/@13_ikari",
+                "end": 140,
+                "expanded_url": "https://skeb.jp/@13_ikari",
+                "start": 117,
+                "url": "https://t.co/fSHTf79ueU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=9394640",
+                "start": 0,
+                "url": "https://t.co/efJmkua8IK"
+              }
+            ]
+          }
+        },
+        "id": "2370073645",
+        "name": "いかり",
+        "pinned_tweet_id": "2007723678751219912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/792683103210790912/CS72Afym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46416,
+          "following_count": 1338,
+          "like_count": 26515,
+          "listed_count": 696,
+          "media_count": 1510,
+          "tweet_count": 20672
+        },
+        "url": "https://t.co/efJmkua8IK",
+        "username": "13_ikari",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009487979891609601"
+      ],
+      "media_source_tweet_id": [
+        "2009488041874977001"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2010095717415825917",
+    "created_at": "2026-01-10T21:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T22:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010095717415825917"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 44,
+          "tag": "あのねジャンプ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "957250794495000584",
+          "start": 3,
+          "username": "PIKASONIC_ofc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSJYaZcMPZ",
+          "end": 88,
+          "expanded_url": "https://x.com/PIKASONIC_ofc/status/2009488041874977001/video/1",
+          "media_key": "13_2009487979891609601",
+          "start": 65,
+          "url": "https://t.co/YSJYaZcMPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010095717415825917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1630
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009488041874977001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PIKASONIC_ofc: これも置いとくね！ぜひ写真差し替えてやってみて~\n#あのねジャンプ　タグつけたら見に行く！ https://t.co/YSJYaZcMPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15700,
+        "height": 1080,
+        "media_key": "13_2009487979891609601",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009487979891609601/img/ebeftnDoCohHPzfN.jpg",
+        "public_metrics": {
+          "view_count": 143114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009487979891609601/vid/avc1/1280x720/wsOyZIn8r5wxYh-P.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009487979891609601/vid/avc1/640x360/d3tpi4UDOatJsFxM.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009487979891609601/vid/avc1/480x270/eyD1iR_IoRk_3H4a.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009487979891609601/vid/avc1/1920x1080/O2z9ZSs8Cq9Ie5qJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009487979891609601/pl/K4J2EG7eOs3zhIVw.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009487979891609601"
+          ],
+          "media_source_tweet_id": [
+            "2009488041874977001"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2010095717415825917",
+        "created_at": "2026-01-10T21:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T22:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010095717415825917"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "あのねジャンプ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "957250794495000584",
+              "start": 3,
+              "username": "PIKASONIC_ofc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSJYaZcMPZ",
+              "end": 88,
+              "expanded_url": "https://x.com/PIKASONIC_ofc/status/2009488041874977001/video/1",
+              "media_key": "13_2009487979891609601",
+              "start": 65,
+              "url": "https://t.co/YSJYaZcMPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010095717415825917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1630
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009488041874977001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PIKASONIC_ofc: これも置いとくね！ぜひ写真差し替えてやってみて~\n#あのねジャンプ　タグつけたら見に行く！ https://t.co/YSJYaZcMPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009487979891609601"
+          ]
+        },
+        "author_id": "957250794495000584",
+        "conversation_id": "2009488041874977001",
+        "created_at": "2026-01-09T04:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T05:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009488041874977001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "あのねジャンプ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSJYaZcMPZ",
+              "end": 69,
+              "expanded_url": "https://x.com/PIKASONIC_ofc/status/2009488041874977001/video/1",
+              "media_key": "13_2009487979891609601",
+              "start": 46,
+              "url": "https://t.co/YSJYaZcMPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009488041874977001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4707,
+          "impression_count": 299819,
+          "like_count": 15535,
+          "quote_count": 56,
+          "reply_count": 20,
+          "retweet_count": 1630
+        },
+        "reply_settings": "everyone",
+        "text": "これも置いとくね！ぜひ写真差し替えてやってみて~\n#あのねジャンプ　タグつけたら見に行く！ https://t.co/YSJYaZcMPZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 281,
+          "like_count": 73967,
+          "listed_count": 2,
+          "media_count": 1371,
+          "tweet_count": 13075
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-27T13:55:49.000Z",
+        "description": "音楽ユニット「ナナツカゼ @nanatsukaze_ofc 」のメンバー(作曲、編曲)info@pikasonicmusic.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "nanatsukaze_ofc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=M-IayQ…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=M-IayQIR0XA",
+                "start": 0,
+                "url": "https://t.co/VSOmeymoEX"
+              }
+            ]
+          }
+        },
+        "id": "957250794495000584",
+        "location": "Vice City",
+        "name": "PIKASONIC",
+        "pinned_tweet_id": "2009085439148507565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943099866474782720/kq4RUlWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33257,
+          "following_count": 546,
+          "like_count": 9545,
+          "listed_count": 109,
+          "media_count": 849,
+          "tweet_count": 3467
+        },
+        "url": "https://t.co/VSOmeymoEX",
+        "username": "PIKASONIC_ofc",
+        "verified": true
+      }
+    ]
+  }
+}

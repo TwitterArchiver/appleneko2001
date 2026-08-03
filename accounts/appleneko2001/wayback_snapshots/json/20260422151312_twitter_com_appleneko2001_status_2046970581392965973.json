@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046796636404469760"
+      ],
+      "media_source_tweet_id": [
+        "2046798102523412976"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "「よ（4）い夫婦（22）」の日",
+          "id": "1492247184409968640",
+          "name": "Good Couple Day (Apr (JP))"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "「よ（4）い夫婦（22）」の日",
+          "id": "1492247184409968640",
+          "name": "Good Couple Day (Apr (JP))"
+        }
+      }
+    ],
+    "conversation_id": "2046970581392965973",
+    "created_at": "2026-04-22T15:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046970581392965973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "67233396",
+          "start": 3,
+          "username": "fujimatakuya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbTujLCDMn",
+          "end": 48,
+          "expanded_url": "https://x.com/fujimatakuya/status/2046798102523412976/photo/1",
+          "media_key": "3_2046796636404469760",
+          "start": 25,
+          "url": "https://t.co/jbTujLCDMn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046970581392965973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2885
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046798102523412976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fujimatakuya: よい夫婦の日 https://t.co/jbTujLCDMn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1198,
+        "media_key": "3_2046796636404469760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeuskhaUAAC2cd.jpg",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046796636404469760"
+          ],
+          "media_source_tweet_id": [
+            "2046798102523412976"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "「よ（4）い夫婦（22）」の日",
+              "id": "1492247184409968640",
+              "name": "Good Couple Day (Apr (JP))"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "「よ（4）い夫婦（22）」の日",
+              "id": "1492247184409968640",
+              "name": "Good Couple Day (Apr (JP))"
+            }
+          }
+        ],
+        "conversation_id": "2046970581392965973",
+        "created_at": "2026-04-22T15:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046970581392965973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "67233396",
+              "start": 3,
+              "username": "fujimatakuya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbTujLCDMn",
+              "end": 48,
+              "expanded_url": "https://x.com/fujimatakuya/status/2046798102523412976/photo/1",
+              "media_key": "3_2046796636404469760",
+              "start": 25,
+              "url": "https://t.co/jbTujLCDMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046970581392965973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2885
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046798102523412976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fujimatakuya: よい夫婦の日 https://t.co/jbTujLCDMn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046796636404469760"
+          ]
+        },
+        "author_id": "67233396",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "「よ（4）い夫婦（22）」の日",
+              "id": "1492247184409968640",
+              "name": "Good Couple Day (Apr (JP))"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "「よ（4）い夫婦（22）」の日",
+              "id": "1492247184409968640",
+              "name": "Good Couple Day (Apr (JP))"
+            }
+          }
+        ],
+        "conversation_id": "2046798102523412976",
+        "created_at": "2026-04-22T03:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046798102523412976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbTujLCDMn",
+              "end": 30,
+              "expanded_url": "https://x.com/fujimatakuya/status/2046798102523412976/photo/1",
+              "media_key": "3_2046796636404469760",
+              "start": 7,
+              "url": "https://t.co/jbTujLCDMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046798102523412976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2417,
+          "impression_count": 209963,
+          "like_count": 19701,
+          "quote_count": 13,
+          "reply_count": 76,
+          "retweet_count": 2885
+        },
+        "reply_settings": "everyone",
+        "text": "よい夫婦の日 https://t.co/jbTujLCDMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 355,
+          "like_count": 102283,
+          "listed_count": 3,
+          "media_count": 1611,
+          "tweet_count": 16523
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-20T05:00:32.000Z",
+        "description": "イラストレーター\n■アニメキャラ原案▶HIGHSPEED Étoile┃戦翼のシグルドリーヴァ┃魔法少女リリカルなのはViVid┃アイナナ ここな\n■イラスト▶各種TCG┃FGO概念礼装┃補講男子\n■漫画▶たくあかっ！┃スパイスしたいな。\n■FANBOX▶https://t.co/v6SCzkitBN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/P3q8vcW",
+                "end": 151,
+                "expanded_url": "http://onl.la/P3q8vcW",
+                "start": 128,
+                "url": "https://t.co/v6SCzkitBN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fujimatakuya.com",
+                "end": 23,
+                "expanded_url": "http://fujimatakuya.com/",
+                "start": 0,
+                "url": "https://t.co/BXQNBVjJWv"
+              }
+            ]
+          }
+        },
+        "id": "67233396",
+        "location": "お仕事の相談▶fujimaya040@hotmail.com",
+        "name": "藤真拓哉",
+        "pinned_tweet_id": "2006380062229291479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766327127996297216/9Waxebvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331208,
+          "following_count": 80183,
+          "like_count": 2022,
+          "listed_count": 4937,
+          "media_count": 16575,
+          "tweet_count": 76181
+        },
+        "url": "https://t.co/BXQNBVjJWv",
+        "username": "fujimatakuya",
+        "verified": true
+      }
+    ]
+  }
+}

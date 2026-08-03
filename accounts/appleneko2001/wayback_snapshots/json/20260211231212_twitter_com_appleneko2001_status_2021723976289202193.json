@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021717038243495936",
+        "3_2021717038235103233",
+        "3_2021717038226714624"
+      ],
+      "media_source_tweet_id": [
+        "2021717045499613670",
+        "2021717045499613670",
+        "2021717045499613670"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2021723976289202193",
+    "created_at": "2026-02-11T23:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T00:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021723976289202193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1366404965703450625",
+          "start": 3,
+          "username": "zurikishi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KtB8Q824Mh",
+          "end": 43,
+          "expanded_url": "https://x.com/zurikishi/status/2021717045499613670/photo/1",
+          "media_key": "3_2021717038243495936",
+          "start": 20,
+          "url": "https://t.co/KtB8Q824Mh"
+        },
+        {
+          "display_url": "pic.x.com/KtB8Q824Mh",
+          "end": 43,
+          "expanded_url": "https://x.com/zurikishi/status/2021717045499613670/photo/1",
+          "media_key": "3_2021717038235103233",
+          "start": 20,
+          "url": "https://t.co/KtB8Q824Mh"
+        },
+        {
+          "display_url": "pic.x.com/KtB8Q824Mh",
+          "end": 43,
+          "expanded_url": "https://x.com/zurikishi/status/2021717045499613670/photo/1",
+          "media_key": "3_2021717038226714624",
+          "start": 20,
+          "url": "https://t.co/KtB8Q824Mh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021723976289202193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021717045499613670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zurikishi: もちつき https://t.co/KtB8Q824Mh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021723976289202193].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021723976289202193",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021723976289202193"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021717038243495936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6U70zbwAAljl2.jpg",
+        "width": 1446
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021717038235103233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6U70xbsAE6iab.jpg",
+        "width": 1446
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021717038226714624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6U70vbsAA3aNX.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021717038243495936",
+            "3_2021717038235103233",
+            "3_2021717038226714624"
+          ]
+        },
+        "author_id": "1366404965703450625",
+        "conversation_id": "2021717045499613670",
+        "created_at": "2026-02-11T22:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T23:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021717045499613670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtB8Q824Mh",
+              "end": 28,
+              "expanded_url": "https://x.com/zurikishi/status/2021717045499613670/photo/1",
+              "media_key": "3_2021717038243495936",
+              "start": 5,
+              "url": "https://t.co/KtB8Q824Mh"
+            },
+            {
+              "display_url": "pic.x.com/KtB8Q824Mh",
+              "end": 28,
+              "expanded_url": "https://x.com/zurikishi/status/2021717045499613670/photo/1",
+              "media_key": "3_2021717038235103233",
+              "start": 5,
+              "url": "https://t.co/KtB8Q824Mh"
+            },
+            {
+              "display_url": "pic.x.com/KtB8Q824Mh",
+              "end": 28,
+              "expanded_url": "https://x.com/zurikishi/status/2021717045499613670/photo/1",
+              "media_key": "3_2021717038226714624",
+              "start": 5,
+              "url": "https://t.co/KtB8Q824Mh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021717045499613670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3596,
+          "like_count": 267,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "もちつき https://t.co/KtB8Q824Mh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 325,
+          "like_count": 88714,
+          "listed_count": 2,
+          "media_count": 1481,
+          "tweet_count": 14450
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T15:08:35.000Z",
+        "description": "新人漫画家⚔ヤンマガ『社長と酒と星』連載中⚔️ファンボックスhttps://t.co/zQnHAPuYz2 サブ垢@kenzenkishi連載中作品のマガポケ→https://t.co/QroclUIp1a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "kenzenkishi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zurikisi.fanbox.cc",
+                "end": 53,
+                "expanded_url": "https://zurikisi.fanbox.cc/",
+                "start": 30,
+                "url": "https://t.co/zQnHAPuYz2"
+              },
+              {
+                "display_url": "pocket.shonenmagazine.com/title/02818/ep…",
+                "end": 103,
+                "expanded_url": "https://pocket.shonenmagazine.com/title/02818/episode/416711",
+                "start": 80,
+                "url": "https://t.co/QroclUIp1a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dlsite.com/maniax-touch/c…",
+                "end": 23,
+                "expanded_url": "https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG74765.html",
+                "start": 0,
+                "url": "https://t.co/VXsoPPY1oW"
+              }
+            ]
+          }
+        },
+        "id": "1366404965703450625",
+        "location": "dlsite",
+        "name": "ずり騎士@ﾔﾝﾏｶﾞ単行本④巻2月6日発売！",
+        "pinned_tweet_id": "2012470142257553717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644298180044144640/oCPnZ4Wk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598455,
+          "following_count": 3716,
+          "like_count": 21269,
+          "listed_count": 2726,
+          "media_count": 4486,
+          "tweet_count": 28744
+        },
+        "url": "https://t.co/VXsoPPY1oW",
+        "username": "zurikishi",
+        "verified": true
+      }
+    ]
+  }
+}

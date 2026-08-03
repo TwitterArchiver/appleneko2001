@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2014006443712954593",
+    "created_at": "2026-01-22T08:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T09:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014260261134217237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1508319011200651267",
+          "start": 0,
+          "username": "lamte15072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014260261134217237",
+    "in_reply_to_user_id": "1508319011200651267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014006443712954593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lamte15072 好誒ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_2014006439510237184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MwL6JbYAAwWw5.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2014006443712954593",
+        "created_at": "2026-01-22T08:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014260261134217237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1508319011200651267",
+              "start": 0,
+              "username": "lamte15072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014260261134217237",
+        "in_reply_to_user_id": "1508319011200651267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014006443712954593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lamte15072 好誒ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014006439510237184"
+          ]
+        },
+        "author_id": "1508319011200651267",
+        "conversation_id": "2014006443712954593",
+        "created_at": "2026-01-21T16:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014006443712954593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hn51eCSfY1",
+              "end": 27,
+              "expanded_url": "https://x.com/lamte15072/status/2014006443712954593/photo/1",
+              "media_key": "3_2014006439510237184",
+              "start": 4,
+              "url": "https://t.co/hn51eCSfY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014006443712954593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考完啦 https://t.co/hn51eCSfY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 317,
+          "like_count": 82043,
+          "listed_count": 2,
+          "media_count": 1428,
+          "tweet_count": 13892
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T05:44:22.000Z",
+        "description": "绿/女/学生/soyorinlove @Ave_Nagasaki \n         梦酱@Melody221B_\n江咪@GlunekiKCA\n https://t.co/hKaNWlryF2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Ave_Nagasaki"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Melody221B_"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "GlunekiKCA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lamte15072",
+                "end": 96,
+                "expanded_url": "https://ngl.link/lamte15072",
+                "start": 73,
+                "url": "https://t.co/hKaNWlryF2"
+              }
+            ]
+          }
+        },
+        "id": "1508319011200651267",
+        "location": "花咲川高中",
+        "name": "苏绿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010068941172023296/e3a9FnvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 1795,
+          "like_count": 28989,
+          "listed_count": 10,
+          "media_count": 259,
+          "tweet_count": 2596
+        },
+        "username": "lamte15072",
+        "verified": false
+      }
+    ]
+  }
+}

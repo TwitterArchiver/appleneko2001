@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079759999920996352"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      }
+    ],
+    "conversation_id": "2079761018906107961",
+    "created_at": "2026-07-22T02:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079761018906107961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8kDUyTf4cq",
+          "end": 102,
+          "expanded_url": "https://x.com/appleneko2001/status/2079761018906107961/photo/1",
+          "media_key": "3_2079759999920996352",
+          "start": 79,
+          "url": "https://t.co/8kDUyTf4cq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079761018906107961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是…firefox跟chromium在布局设计的处理上也有些差别的吗…\n相同的页面结构 firefox的话 不会多出下一列标志 但chromium会这样… https://t.co/8kDUyTf4cq"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "user-select behaviour comparison between firefox (left half) and chromium (right half). same DOM, same selections, different results\n\ntheres a detail, if you select all <span>s in firefox they won't contain additional next line, but chromium does... idk why",
+        "height": 1121,
+        "media_key": "3_2079759999920996352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzKs21bgAAjaJH.jpg",
+        "width": 1331
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079759999920996352"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2079761018906107961",
+        "created_at": "2026-07-22T02:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079761018906107961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kDUyTf4cq",
+              "end": 102,
+              "expanded_url": "https://x.com/appleneko2001/status/2079761018906107961/photo/1",
+              "media_key": "3_2079759999920996352",
+              "start": 79,
+              "url": "https://t.co/8kDUyTf4cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079761018906107961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是…firefox跟chromium在布局设计的处理上也有些差别的吗…\n相同的页面结构 firefox的话 不会多出下一列标志 但chromium会这样… https://t.co/8kDUyTf4cq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/dKxqwJUidE"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋夜星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 289,
+          "like_count": 116485,
+          "listed_count": 2,
+          "media_count": 1745,
+          "tweet_count": 18293
+        },
+        "url": "https://t.co/dKxqwJUidE",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

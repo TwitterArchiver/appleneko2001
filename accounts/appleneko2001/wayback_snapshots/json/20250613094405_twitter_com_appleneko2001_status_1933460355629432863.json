@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1932854428379619702",
+    "created_at": "2025-06-13T09:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T10:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933460355629432863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1232978921596915714",
+          "start": 0,
+          "username": "Ttkouhe"
+        },
+        {
+          "end": 21,
+          "id": "1573399256836309009",
+          "start": 9,
+          "username": "kimmonismus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933460355629432863",
+    "in_reply_to_user_id": "1232978921596915714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932854428379619702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttkouhe @kimmonismus 好久不見（\n最近怎麼樣？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1932854428379619702",
+        "created_at": "2025-06-13T09:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T10:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933460355629432863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1232978921596915714",
+              "start": 0,
+              "username": "Ttkouhe"
+            },
+            {
+              "end": 21,
+              "id": "1573399256836309009",
+              "start": 9,
+              "username": "kimmonismus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933460355629432863",
+        "in_reply_to_user_id": "1232978921596915714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932854428379619702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttkouhe @kimmonismus 好久不見（\n最近怎麼樣？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1232978921596915714",
+        "conversation_id": "1932854428379619702",
+        "created_at": "2025-06-11T17:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T18:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932854428379619702"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "doubao",
+              "probability": 0.7662,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Doubao",
+              "probability": 0.6961,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "Doubao",
+              "probability": 0.7192,
+              "start": 102,
+              "type": "Other"
+            },
+            {
+              "end": 156,
+              "normalized_text": "Doubao",
+              "probability": 0.7099,
+              "start": 151,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1573399256836309009",
+              "start": 0,
+              "username": "kimmonismus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932854428379619702",
+        "in_reply_to_user_id": "1573399256836309009",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@kimmonismus Hi check this new model by doubao:\n# Doubao-Seed-1.6-thinking\n- visual, tool use,think\n# Doubao-Seed-1.6\n- visual, tool use, auto think\n# Doubao-Seed-1.6-flash\n- visual, tool use, think fast"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 258,
+          "like_count": 64786,
+          "listed_count": 2,
+          "media_count": 1293,
+          "tweet_count": 12223
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T10:41:31.000Z",
+        "description": "kou on twitter",
+        "id": "1232978921596915714",
+        "location": "二次元",
+        "name": "kou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1237176787248926720/ikUALf2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 76,
+          "like_count": 4926,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 381
+        },
+        "username": "Ttkouhe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T19:50:04.000Z",
+        "description": "‼️https://t.co/jHMmImmI5I\n  // (🔜e/acc) // https://t.co/OrLXYxgZGn // @apples_jimmy 🍎 simp/ Mail 📧 » kimmonismus@proton.me «//💻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "apples_jimmy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/kimmonismus",
+                "end": 25,
+                "expanded_url": "https://linktr.ee/kimmonismus",
+                "start": 2,
+                "url": "https://t.co/jHMmImmI5I"
+              },
+              {
+                "display_url": "buymeacoffee.com/Kimmonismus",
+                "end": 66,
+                "expanded_url": "http://buymeacoffee.com/Kimmonismus",
+                "start": 43,
+                "url": "https://t.co/OrLXYxgZGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "getsuperintel.com",
+                "end": 23,
+                "expanded_url": "https://getsuperintel.com",
+                "start": 0,
+                "url": "https://t.co/QaaY1wN9Tq"
+              }
+            ]
+          }
+        },
+        "id": "1573399256836309009",
+        "location": "Germany",
+        "name": "Chubby♨️",
+        "pinned_tweet_id": "1932864343882019062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728327996375719936/RW7VBJfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75924,
+          "following_count": 2329,
+          "like_count": 37762,
+          "listed_count": 1297,
+          "media_count": 4992,
+          "tweet_count": 28073
+        },
+        "url": "https://t.co/QaaY1wN9Tq",
+        "username": "kimmonismus",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2005010848486654119",
+    "created_at": "2025-12-28T08:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T09:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005187890498949526"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "fedora",
+          "probability": 0.9221,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 40,
+          "normalized_text": "fedora forks",
+          "probability": 0.7296,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "832450619327791104",
+          "start": 0,
+          "username": "andres_vidoza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005187890498949526",
+    "in_reply_to_user_id": "832450619327791104",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005010848486654119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andres_vidoza use fedora or fedora forks instead\nalso check processor power level"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005010843386175488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9M6vTLW4AAxmbR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005010843365199872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9M6vTGW0AA4NdV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2005010848486654119",
+        "created_at": "2025-12-28T08:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005187890498949526"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "fedora",
+              "probability": 0.9221,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "fedora forks",
+              "probability": 0.7296,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "832450619327791104",
+              "start": 0,
+              "username": "andres_vidoza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005187890498949526",
+        "in_reply_to_user_id": "832450619327791104",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005010848486654119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andres_vidoza use fedora or fedora forks instead\nalso check processor power level"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005010843386175488",
+            "3_2005010843365199872"
+          ]
+        },
+        "author_id": "832450619327791104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2005010848486654119",
+        "created_at": "2025-12-27T20:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T21:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005010848486654119"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Linux",
+              "probability": 0.9493,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "PopOS",
+              "probability": 0.9075,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3etXG8jLn1",
+              "end": 98,
+              "expanded_url": "https://x.com/andres_vidoza/status/2005010848486654119/photo/1",
+              "media_key": "3_2005010843386175488",
+              "start": 75,
+              "url": "https://t.co/3etXG8jLn1"
+            },
+            {
+              "display_url": "pic.x.com/3etXG8jLn1",
+              "end": 98,
+              "expanded_url": "https://x.com/andres_vidoza/status/2005010848486654119/photo/1",
+              "media_key": "3_2005010843365199872",
+              "start": 75,
+              "url": "https://t.co/3etXG8jLn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005010848486654119",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 142066,
+          "like_count": 1496,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Day 40 with Linux: I was told PopOS is the worst for battery optimization. https://t.co/3etXG8jLn1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67844,
+          "listed_count": 2,
+          "media_count": 1321,
+          "tweet_count": 12570
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-17T04:44:28.000Z",
+        "description": "Telling a story with tech. | 📩 andresvidoza@ankestudio.ca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/andresvidoza",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/andresvidoza",
+                "start": 0,
+                "url": "https://t.co/PwctiHgGMQ"
+              }
+            ]
+          }
+        },
+        "id": "832450619327791104",
+        "location": "Montréal 🇨🇦",
+        "name": "Andres Vidoza",
+        "pinned_tweet_id": "1911419634349129942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1201342473773223937/zPg-2uWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56655,
+          "following_count": 194,
+          "like_count": 16873,
+          "listed_count": 123,
+          "media_count": 2059,
+          "tweet_count": 8245
+        },
+        "url": "https://t.co/PwctiHgGMQ",
+        "username": "andres_vidoza",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "1928414186209489111",
+    "created_at": "2025-06-01T03:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T04:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929013905684132100"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "xiaomi",
+          "probability": 0.7406,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "hyperos",
+          "probability": 0.8432,
+          "start": 56,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1571428532571586568",
+          "start": 0,
+          "username": "thatjoshguy69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929013905684132100",
+    "in_reply_to_user_id": "1571428532571586568",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928414186209489111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thatjoshguy69 Damn nowadays xiaomi modern devices with hyperos is so hard to get unlocked bootloader how did you pass that? Does it easy to get it or pretty hard?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1928414183156023296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMae37XAAAvGuM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "1928414186209489111",
+        "created_at": "2025-06-01T03:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T04:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929013905684132100"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "xiaomi",
+              "probability": 0.7406,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "hyperos",
+              "probability": 0.8432,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1571428532571586568",
+              "start": 0,
+              "username": "thatjoshguy69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929013905684132100",
+        "in_reply_to_user_id": "1571428532571586568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928414186209489111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thatjoshguy69 Damn nowadays xiaomi modern devices with hyperos is so hard to get unlocked bootloader how did you pass that? Does it easy to get it or pretty hard?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928414183156023296"
+          ]
+        },
+        "author_id": "1571428532571586568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1336313466894761986",
+              "name": "Xiaomi Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1928414186209489111",
+        "created_at": "2025-05-30T11:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T12:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928414186209489111"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Android 16",
+              "probability": 0.8476,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Beta 1",
+              "probability": 0.5612,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Xiaomi Pad 6",
+              "probability": 0.6165,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9zQhwcCfR",
+              "end": 91,
+              "expanded_url": "https://x.com/thatjoshguy69/status/1928414186209489111/photo/1",
+              "media_key": "3_1928414183156023296",
+              "start": 68,
+              "url": "https://t.co/H9zQhwcCfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928414186209489111",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 33133,
+          "like_count": 592,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Ladies and gentlemen, Android 16 QPR1 Beta 1 on the Xiaomi Pad 6! 🔥 https://t.co/H9zQhwcCfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 256,
+          "like_count": 64096,
+          "listed_count": 2,
+          "media_count": 1287,
+          "tweet_count": 12121
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T09:19:03.000Z",
+        "description": "17 | Graphic and UI Designer | Writer at @sammygurus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "sammygurus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thatjoshguy.me",
+                "end": 23,
+                "expanded_url": "http://thatjoshguy.me",
+                "start": 0,
+                "url": "https://t.co/4SvJjjUhF3"
+              }
+            ]
+          }
+        },
+        "id": "1571428532571586568",
+        "name": "That Josh Guy",
+        "pinned_tweet_id": "1779477017856991473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874398144881963008/SbraX3VX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 1155,
+          "like_count": 132929,
+          "listed_count": 14,
+          "media_count": 4613,
+          "tweet_count": 38028
+        },
+        "url": "https://t.co/4SvJjjUhF3",
+        "username": "thatjoshguy69",
+        "verified": true
+      }
+    ]
+  }
+}

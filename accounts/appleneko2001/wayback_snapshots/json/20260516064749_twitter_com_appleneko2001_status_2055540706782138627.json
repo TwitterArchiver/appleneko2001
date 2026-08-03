@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2055540706782138627",
+    "created_at": "2026-05-16T06:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055540706782138627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786479809647869952",
+          "start": 3,
+          "username": "skywind3000"
+        },
+        {
+          "end": 29,
+          "id": "188330055",
+          "start": 17,
+          "username": "cherylnatsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055540706782138627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055533559180566769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skywind3000: @cherylnatsu 内存这么贵，还用 electron 这种电子垃圾做桌面应用，等同于犯罪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2055540706782138627",
+        "created_at": "2026-05-16T06:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055540706782138627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786479809647869952",
+              "start": 3,
+              "username": "skywind3000"
+            },
+            {
+              "end": 29,
+              "id": "188330055",
+              "start": 17,
+              "username": "cherylnatsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055540706782138627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055533559180566769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skywind3000: @cherylnatsu 内存这么贵，还用 electron 这种电子垃圾做桌面应用，等同于犯罪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786479809647869952",
+        "conversation_id": "2055517580207816898",
+        "created_at": "2026-05-16T06:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055533559180566769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "188330055",
+              "start": 0,
+              "username": "cherylnatsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055533559180566769",
+        "in_reply_to_user_id": "188330055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055517580207816898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cherylnatsu 内存这么贵，还用 electron 这种电子垃圾做桌面应用，等同于犯罪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 352,
+          "like_count": 104721,
+          "listed_count": 3,
+          "media_count": 1633,
+          "tweet_count": 16840
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/UQNrDmhScr"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27597,
+          "following_count": 344,
+          "like_count": 8083,
+          "listed_count": 218,
+          "media_count": 1241,
+          "tweet_count": 9402
+        },
+        "url": "https://t.co/UQNrDmhScr",
+        "username": "skywind3000",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-08T13:43:45.000Z",
+        "description": "苹果产品相关话题优秀X友（前身为推友）",
+        "id": "188330055",
+        "name": "夏雨婷",
+        "pinned_tweet_id": "1853041525141217601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909990228821250049/60ODW_Qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17997,
+          "following_count": 4366,
+          "like_count": 9430,
+          "listed_count": 140,
+          "media_count": 965,
+          "tweet_count": 55277
+        },
+        "username": "cherylnatsu",
+        "verified": false
+      }
+    ]
+  }
+}

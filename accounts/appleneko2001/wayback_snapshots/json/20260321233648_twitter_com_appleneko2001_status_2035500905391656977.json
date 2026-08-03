@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2035500905391656977",
+    "created_at": "2026-03-21T23:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T00:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035500905391656977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KKaWSB/status/…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/KKaWSB/status/2035229996973805785",
+          "start": 93,
+          "url": "https://t.co/avuO9MMaRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035500905391656977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035229996973805785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结论：很不情愿！\n活该再被骂个一两年才从良吗？微软\n为什么搞到最后我也开始不敢用outlook了？甚至让我开始想自建email？好好反省一下吧（\n而且 降低RAM使用这事还有待长期观察 https://t.co/avuO9MMaRZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2035229577430306816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6WhH8aEAAjF3u.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2035500905391656977",
+        "created_at": "2026-03-21T23:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T00:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035500905391656977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KKaWSB/status/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/KKaWSB/status/2035229996973805785",
+              "start": 93,
+              "url": "https://t.co/avuO9MMaRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035500905391656977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035229996973805785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结论：很不情愿！\n活该再被骂个一两年才从良吗？微软\n为什么搞到最后我也开始不敢用outlook了？甚至让我开始想自建email？好好反省一下吧（\n而且 降低RAM使用这事还有待长期观察 https://t.co/avuO9MMaRZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035229577430306816"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2035229996973805785",
+        "created_at": "2026-03-21T05:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035229996973805785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7x6IXCltcv",
+              "end": 198,
+              "expanded_url": "https://x.com/KKaWSB/status/2035229996973805785/photo/1",
+              "media_key": "3_2035229577430306816",
+              "start": 175,
+              "url": "https://t.co/7x6IXCltcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035229996973805785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "微软服软了。\n\nWindows 11声誉跌到谷底后，执行副总裁Pavan Davuluri发布长文《Our commitment to Windows quality》，几乎是一封没有道歉的道歉信。\n\n核心改动：\n\n1）Copilot踩刹车。从Notepad、Photos、Snipping Tool、Widgets中移除AI入口。不再到处塞按钮。\n\n2）广告收敛。开始菜单推荐栏广告减少，甚至可以完全关掉。\n\n3）任务栏终于能移了。上下左右随便放，右键直接设置。Windows 10时代的基本功能，花了四年才还回来。\n\n4）Windows Update不再流氓。可以跳过、可以延后、可以关机不装更新。强制重启减少。\n\n5）内存占用下降。低配机器跑得动，高配机器也受益。\n\n6）文件资源管理器修bug。启动更快、闪烁更少、导航更顺。\n\n首批改进3月和4月进Insider，全年逐步铺开。\n\nEngadget的标题写得最狠：\"在你们太多人威胁要换Linux之后。\"\n\n用户骂了四年，微软终于听进去了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 177825,
+          "like_count": 633,
+          "quote_count": 25,
+          "reply_count": 127,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "微软服软了。\n\nWindows 11声誉跌到谷底后，执行副总裁Pavan Davuluri发布长文《Our commitment to Windows quality》，几乎是一封没有道歉的道歉信。\n\n核心改动：\n\n1）Copilot踩刹车。从Notepad、Photos、Snipping Tool、Widgets中移除AI入口。不再到处塞按钮。 https://t.co/7x6IXCltcv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2031397929580376199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 361,
+          "like_count": 99535,
+          "listed_count": 3,
+          "media_count": 1575,
+          "tweet_count": 16078
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观 | 招募工程师（可兼职）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 23,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 0,
+                "url": "https://t.co/QsTW1lrCWR"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70837,
+          "following_count": 2825,
+          "like_count": 9009,
+          "listed_count": 611,
+          "media_count": 5031,
+          "tweet_count": 10471
+        },
+        "url": "https://t.co/QsTW1lrCWR",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

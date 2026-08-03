@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2071236592929509411",
+    "created_at": "2026-06-28T14:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071236592929509411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "786174501427957761",
+          "start": 3,
+          "username": "amiaoapp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071236592929509411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070743216786444315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amiaoapp: 如果这类项目继续发展下去，“手机”这个概念可能真的会消失。我们未来用的，可能根本不是“手机”，而是“运行在云上的 Android 实例”。\n\ndocker-android 做了一件很反常识的事：把完整 Android 系统，直接塞进 Docker 容…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2070743146175266816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzB65DaAAAD8fv.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2071236592929509411",
+        "created_at": "2026-06-28T14:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071236592929509411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "786174501427957761",
+              "start": 3,
+              "username": "amiaoapp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071236592929509411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070743216786444315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amiaoapp: 如果这类项目继续发展下去，“手机”这个概念可能真的会消失。我们未来用的，可能根本不是“手机”，而是“运行在云上的 Android 实例”。\n\ndocker-android 做了一件很反常识的事：把完整 Android 系统，直接塞进 Docker 容…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070743146175266816"
+          ]
+        },
+        "author_id": "786174501427957761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2070743216786444315",
+        "created_at": "2026-06-27T05:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070743216786444315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5qSZPtEYH",
+              "end": 204,
+              "expanded_url": "https://x.com/amiaoapp/status/2070743216786444315/photo/1",
+              "media_key": "3_2070743146175266816",
+              "start": 181,
+              "url": "https://t.co/o5qSZPtEYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070743216786444315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 517,
+                "start": 509,
+                "tag": "Android"
+              },
+              {
+                "end": 525,
+                "start": 518,
+                "tag": "Docker"
+              },
+              {
+                "end": 530,
+                "start": 526,
+                "tag": "云计算"
+              },
+              {
+                "end": 534,
+                "start": 531,
+                "tag": "开源"
+              },
+              {
+                "end": 540,
+                "start": 535,
+                "tag": "技术思考"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/HQarroum/docke…",
+                "end": 508,
+                "expanded_url": "https://github.com/HQarroum/docker-android",
+                "start": 485,
+                "url": "https://t.co/ljoI11o0v4"
+              }
+            ]
+          },
+          "text": "如果这类项目继续发展下去，“手机”这个概念可能真的会消失。我们未来用的，可能根本不是“手机”，而是“运行在云上的 Android 实例”。\n\ndocker-android 做了一件很反常识的事：把完整 Android 系统，直接塞进 Docker 容器里运行。\n\n不是简化版，不是模拟器壳子，而是：👉 Android Emulator + ADB + QEMU + libvirt 的完整组合\n\n结果一个“手机环境”，变成了一个可以部署的服务。\n\n更夸张的是它的体积：Android API 33：约 1.97GB，API 28：约 1.46GB，极限精简后：138MB\n\n一个“手机操作系统”，可以小到接近一个轻量服务镜像。\n它带来的变化不是技术，而是定义层面的：\n👉 Android 不再绑定设备\n👉 手机不再是“硬件形态”\n👉 操作系统开始变成“云端服务”\n\n你甚至可以在服务器上直接：\n跑 Android App\n做自动化批量测试\n远程控制 UI\n构建虚拟设备集群\n\n真正值得讨论的是这一点👇\n当手机系统可以被容器化部署，那“手机厂商”的护城河还剩什么？\n\n🗂 https://t.co/ljoI11o0v4\n#Android #Docker #云计算 #开源 #技术思考"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 434,
+          "impression_count": 39457,
+          "like_count": 346,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "如果这类项目继续发展下去，“手机”这个概念可能真的会消失。我们未来用的，可能根本不是“手机”，而是“运行在云上的 Android 实例”。\n\ndocker-android 做了一件很反常识的事：把完整 Android 系统，直接塞进 Docker 容器里运行。\n\n不是简化版，不是模拟器壳子，而是：👉 Android Emulator + ADB + QEMU https://t.co/o5qSZPtEYH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👩 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "pinned_tweet_id": "2069259860060103005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 277,
+          "like_count": 112305,
+          "listed_count": 2,
+          "media_count": 1692,
+          "tweet_count": 17749
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-12T11:59:42.000Z",
+        "description": "分享软件资源，APP发烧友，AI技能技巧收集学习ING，ERP程序员\n电报频道：https://t.co/XvgNXMZzNM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/amiaoapp",
+                "end": 63,
+                "expanded_url": "https://t.me/amiaoapp",
+                "start": 40,
+                "url": "https://t.co/XvgNXMZzNM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amiao.app",
+                "end": 23,
+                "expanded_url": "https://amiao.app",
+                "start": 0,
+                "url": "https://t.co/kSncc6pe0Y"
+              }
+            ]
+          }
+        },
+        "id": "786174501427957761",
+        "location": "防失联👉🏻",
+        "name": "APP喵",
+        "pinned_tweet_id": "2056553472062107773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636188090942517249/clmLhuF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6052,
+          "following_count": 71,
+          "like_count": 357,
+          "listed_count": 30,
+          "media_count": 1435,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/kSncc6pe0Y",
+        "username": "amiaoapp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2007479891370164264",
+    "created_at": "2026-01-05T02:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T03:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007997929437688075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1330775450667270145",
+          "start": 0,
+          "username": "ihaveican"
+        },
+        {
+          "end": 23,
+          "id": "4186756573",
+          "start": 11,
+          "username": "ttttinyfish"
+        },
+        {
+          "end": 36,
+          "id": "1910811254509494274",
+          "start": 24,
+          "username": "corndogjpn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007997929437688075",
+    "in_reply_to_user_id": "1330775450667270145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007807989139603823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ihaveican @ttttinyfish @corndogjpn2 我確實是偶爾踩過幾次 先不說KDE桌面環境在不穩定的狀況下是多麼的折磨 NVIDIA 這家伙也是不安好心 不會寫驅動程式  最主要的是 有的發行版它提供的包 功能不一定是全的\n最近換到nixOS了 狀況好很多 但也出現了一些以前沒見到過的問題"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2007479891370164264",
+        "created_at": "2026-01-05T02:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007997929437688075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1330775450667270145",
+              "start": 0,
+              "username": "ihaveican"
+            },
+            {
+              "end": 23,
+              "id": "4186756573",
+              "start": 11,
+              "username": "ttttinyfish"
+            },
+            {
+              "end": 36,
+              "id": "1910811254509494274",
+              "start": 24,
+              "username": "corndogjpn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007997929437688075",
+        "in_reply_to_user_id": "1330775450667270145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007807989139603823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ihaveican @ttttinyfish @corndogjpn2 我確實是偶爾踩過幾次 先不說KDE桌面環境在不穩定的狀況下是多麼的折磨 NVIDIA 這家伙也是不安好心 不會寫驅動程式  最主要的是 有的發行版它提供的包 功能不一定是全的\n最近換到nixOS了 狀況好很多 但也出現了一些以前沒見到過的問題"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330775450667270145",
+        "conversation_id": "2007479891370164264",
+        "created_at": "2026-01-04T13:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007807989139603823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4186756573",
+              "start": 0,
+              "username": "ttttinyfish"
+            },
+            {
+              "end": 25,
+              "id": "1910811254509494274",
+              "start": 13,
+              "username": "corndogjpn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007807989139603823",
+        "in_reply_to_user_id": "4186756573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007751556532461773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttinyfish @corndogjpn2 竟然现在还有人说稳定性，踩bug圣体吗，我是很难踩到bug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 275,
+          "like_count": 71681,
+          "listed_count": 2,
+          "media_count": 1351,
+          "tweet_count": 12899
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-23T07:29:55.000Z",
+        "description": "人民不需要自由，这是最好的年代!",
+        "id": "1330775450667270145",
+        "name": "ihaveican",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1330775760794095617/D6AVr_aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 257,
+          "like_count": 437,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 1277
+        },
+        "username": "ihaveican",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-10T04:50:41.000Z",
+        "description": "只要你爱谐音梗，我们就是好朋友\n#退堂鼓鼓手 #投资理财苦手 #公路车新手  #86五笔爱好者",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "退堂鼓鼓手"
+              },
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "投资理财苦手"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "公路车新手"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "86五笔爱好者"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ttttinyfish.github.io",
+                "end": 23,
+                "expanded_url": "http://ttttinyfish.github.io",
+                "start": 0,
+                "url": "https://t.co/gCGpaZpK1W"
+              }
+            ]
+          }
+        },
+        "id": "4186756573",
+        "name": "鱼网恢恢",
+        "pinned_tweet_id": "1959484965072273742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004502765721296896/u_mROgjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 400,
+          "like_count": 40842,
+          "listed_count": 7,
+          "media_count": 455,
+          "tweet_count": 9847
+        },
+        "url": "https://t.co/gCGpaZpK1W",
+        "username": "ttttinyfish",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T21:44:57.000Z",
+        "description": "シャンハイHDD・千葉県民・都内社畜",
+        "id": "1910811254509494274",
+        "location": "Tokyo",
+        "name": "リョウ・老梁玉米",
+        "pinned_tweet_id": "1992806940934889950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980870937298743296/Pf7hz9-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2935,
+          "following_count": 110,
+          "like_count": 603,
+          "listed_count": 16,
+          "media_count": 183,
+          "tweet_count": 1408
+        },
+        "username": "corndogjpn2",
+        "verified": false
+      }
+    ]
+  }
+}

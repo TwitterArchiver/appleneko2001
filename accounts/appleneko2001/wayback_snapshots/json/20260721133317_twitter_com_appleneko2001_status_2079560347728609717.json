@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079184005795315712"
+      ],
+      "media_source_tweet_id": [
+        "2079184017950380292"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2079560347728609717",
+    "created_at": "2026-07-21T13:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079560347728609717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        },
+        {
+          "end": 26,
+          "id": "1751497892001685504",
+          "start": 16,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwur8ZEaGi",
+          "end": 53,
+          "expanded_url": "https://x.com/__fanqie__/status/2079184017950380292/photo/1",
+          "media_key": "3_2079184005795315712",
+          "start": 30,
+          "url": "https://t.co/kwur8ZEaGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079560347728609717",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079184017950380292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: @45_206MHz 神了 https://t.co/kwur8ZEaGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1884,
+        "media_key": "3_2079184005795315712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq-1lgagAA-GbL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079184005795315712"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2079141081841860972",
+        "created_at": "2026-07-20T12:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079184017950380292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwur8ZEaGi",
+              "end": 37,
+              "expanded_url": "https://x.com/__fanqie__/status/2079184017950380292/photo/1",
+              "media_key": "3_2079184005795315712",
+              "start": 14,
+              "url": "https://t.co/kwur8ZEaGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079184017950380292",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 748,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079141081841860972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 神了 https://t.co/kwur8ZEaGi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079184005795315712"
+          ],
+          "media_source_tweet_id": [
+            "2079184017950380292"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2079560347728609717",
+        "created_at": "2026-07-21T13:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079560347728609717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            },
+            {
+              "end": 26,
+              "id": "1751497892001685504",
+              "start": 16,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwur8ZEaGi",
+              "end": 53,
+              "expanded_url": "https://x.com/__fanqie__/status/2079184017950380292/photo/1",
+              "media_key": "3_2079184005795315712",
+              "start": 30,
+              "url": "https://t.co/kwur8ZEaGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079560347728609717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079184017950380292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: @45_206MHz 神了 https://t.co/kwur8ZEaGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/dKxqwJUidE"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋夜星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 288,
+          "like_count": 116419,
+          "listed_count": 2,
+          "media_count": 1742,
+          "tweet_count": 18277
+        },
+        "url": "https://t.co/dKxqwJUidE",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2077018352132968707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11369,
+          "following_count": 2812,
+          "like_count": 1610,
+          "listed_count": 25,
+          "media_count": 2314,
+          "tweet_count": 11042
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2076918385678676330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 498,
+          "like_count": 38224,
+          "listed_count": 2,
+          "media_count": 954,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

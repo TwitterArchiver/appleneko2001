@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990346447762714624"
+      ],
+      "media_source_tweet_id": [
+        "1990346455580844486"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1990966122443911291",
+    "created_at": "2025-11-19T02:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T03:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990966122443911291"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "844767528408666113",
+          "start": 3,
+          "username": "yoru_nine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5rTIOGVpSu",
+          "end": 60,
+          "expanded_url": "https://x.com/yoru_nine/status/1990346455580844486/photo/1",
+          "media_key": "3_1990346447762714624",
+          "start": 37,
+          "url": "https://t.co/5rTIOGVpSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990966122443911291",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1035
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990346455580844486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoru_nine: 仲良しゲーム開発部✨️🎮️✨️ #ブルアカ https://t.co/5rTIOGVpSu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_1990346447762714624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58hjIbbcAAl2c7.png",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990346447762714624"
+          ],
+          "media_source_tweet_id": [
+            "1990346455580844486"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1990966122443911291",
+        "created_at": "2025-11-19T02:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T03:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990966122443911291"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "844767528408666113",
+              "start": 3,
+              "username": "yoru_nine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rTIOGVpSu",
+              "end": 60,
+              "expanded_url": "https://x.com/yoru_nine/status/1990346455580844486/photo/1",
+              "media_key": "3_1990346447762714624",
+              "start": 37,
+              "url": "https://t.co/5rTIOGVpSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990966122443911291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1035
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990346455580844486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoru_nine: 仲良しゲーム開発部✨️🎮️✨️ #ブルアカ https://t.co/5rTIOGVpSu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990346447762714624"
+          ]
+        },
+        "author_id": "844767528408666113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          }
+        ],
+        "conversation_id": "1990346455580844486",
+        "created_at": "2025-11-17T09:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990346455580844486"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rTIOGVpSu",
+              "end": 45,
+              "expanded_url": "https://x.com/yoru_nine/status/1990346455580844486/photo/1",
+              "media_key": "3_1990346447762714624",
+              "start": 22,
+              "url": "https://t.co/5rTIOGVpSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990346455580844486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 591,
+          "impression_count": 113348,
+          "like_count": 5711,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 1035
+        },
+        "reply_settings": "everyone",
+        "text": "仲良しゲーム開発部✨️🎮️✨️ #ブルアカ https://t.co/5rTIOGVpSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 266,
+          "like_count": 65820,
+          "listed_count": 2,
+          "media_count": 1305,
+          "tweet_count": 12350
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-23T04:27:28.000Z",
+        "description": "姉妹百合が大好きな絵描き✨😋✨　\nFANBOX🏠https://t.co/X8yRVIIsU0\nskeb🎨https://t.co/h8RC6l8tBA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yorunine.fanbox.cc",
+                "end": 47,
+                "expanded_url": "https://yorunine.fanbox.cc",
+                "start": 24,
+                "url": "https://t.co/X8yRVIIsU0"
+              },
+              {
+                "display_url": "skeb.jp/@yoru_nine",
+                "end": 76,
+                "expanded_url": "http://skeb.jp/@yoru_nine",
+                "start": 53,
+                "url": "https://t.co/h8RC6l8tBA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yorunine",
+                "end": 23,
+                "expanded_url": "https://lit.link/yorunine",
+                "start": 0,
+                "url": "https://t.co/nJ2CbaK96l"
+              }
+            ]
+          }
+        },
+        "id": "844767528408666113",
+        "location": "ちっぱい",
+        "name": "夜ない@【C107 1日目 東フ-32a】",
+        "pinned_tweet_id": "1986752954268094724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1318488535863754752/M3yv6Osd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69437,
+          "following_count": 98,
+          "like_count": 34100,
+          "listed_count": 847,
+          "media_count": 1171,
+          "tweet_count": 41869
+        },
+        "url": "https://t.co/nJ2CbaK96l",
+        "username": "yoru_nine",
+        "verified": true
+      }
+    ]
+  }
+}

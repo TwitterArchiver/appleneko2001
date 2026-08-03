@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012339643900145664"
+      ],
+      "media_source_tweet_id": [
+        "2012351669389185183"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012554686859997261",
+    "created_at": "2026-01-17T15:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012554686859997261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1742842175757623296",
+          "start": 3,
+          "username": "KwgSubmadohomu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TsvJaV407m",
+          "end": 43,
+          "expanded_url": "https://x.com/KwgSubmadohomu/status/2012351669389185183/photo/1",
+          "media_key": "3_2012339643900145664",
+          "start": 20,
+          "url": "https://t.co/TsvJaV407m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012554686859997261",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 664
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012351669389185183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KwgSubmadohomu: https://t.co/TsvJaV407m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_2012339643900145664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1EPooasAAaAdW.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012339643900145664"
+          ],
+          "media_source_tweet_id": [
+            "2012351669389185183"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2012554686859997261",
+        "created_at": "2026-01-17T15:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012554686859997261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1742842175757623296",
+              "start": 3,
+              "username": "KwgSubmadohomu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsvJaV407m",
+              "end": 43,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/2012351669389185183/photo/1",
+              "media_key": "3_2012339643900145664",
+              "start": 20,
+              "url": "https://t.co/TsvJaV407m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012554686859997261",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 664
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012351669389185183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KwgSubmadohomu: https://t.co/TsvJaV407m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012339643900145664"
+          ]
+        },
+        "author_id": "1742842175757623296",
+        "conversation_id": "2012351669389185183",
+        "created_at": "2026-01-17T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012351669389185183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsvJaV407m",
+              "end": 23,
+              "expanded_url": "https://x.com/KwgSubmadohomu/status/2012351669389185183/photo/1",
+              "media_key": "3_2012339643900145664",
+              "start": 0,
+              "url": "https://t.co/TsvJaV407m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012351669389185183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 65467,
+          "like_count": 7692,
+          "quote_count": 15,
+          "reply_count": 8,
+          "retweet_count": 664
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TsvJaV407m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 302,
+          "like_count": 80067,
+          "listed_count": 2,
+          "media_count": 1408,
+          "tweet_count": 13636
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-04T09:35:56.000Z",
+        "description": "まどほむ好きのまどマギファン",
+        "id": "1742842175757623296",
+        "location": "11時30分に予約投稿",
+        "name": "kwg2(仮)",
+        "pinned_tweet_id": "2002929584929395198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903813656972017665/_0R1GdWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67568,
+          "following_count": 74,
+          "like_count": 13712,
+          "listed_count": 361,
+          "media_count": 846,
+          "tweet_count": 3736
+        },
+        "username": "KwgSubmadohomu",
+        "verified": false
+      }
+    ]
+  }
+}

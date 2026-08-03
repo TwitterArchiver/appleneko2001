@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "2075500162202644532",
+    "created_at": "2026-07-10T08:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075500162202644532"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 125,
+          "tag": "てくぴく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594005208601751552",
+          "start": 3,
+          "username": "bocchi_goods"
+        }
+      ],
+      "urls": [
+        {
+          "description": "詳しい情報はこちら↓colleize(コレイズ)アニメイトオンラインショップあみあみオンラインショッププレミアムバンダイ",
+          "display_url": "animetoyinfo.com/2024/09/02/boc…",
+          "end": 123,
+          "expanded_url": "https://animetoyinfo.com/2024/09/02/bocchi-defomefbt/",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2016340283852783618/UQ03RCQW?format=jpg&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2016340283852783618/UQ03RCQW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 100,
+          "status": 200,
+          "title": "ぼっち・ざ・ろっく！ デフォルメフィギュアブランド「てくぴく」",
+          "unwound_url": "https://animetoyinfo.com/2024/09/02/bocchi-defomefbt/",
+          "url": "https://t.co/3fvcpTuDYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075500162202644532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830551020059160932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bocchi_goods: ✨商品画像が解禁✨\n\nデフォルメフィギュアブランド「てくぴく」 ぼっち・ざ・ろっく！ 後藤ひとり\n\n大きなカバンで自立します♪\n\n9月3日16時より予約開始予定\n\nhttps://t.co/3fvcpTuDYh\n\n#てくぴく #ぼっち・ざ・ろ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1830550221472055296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWdruk5awAAOgqV.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1830550224172949504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWdruu9XIAAnXxL.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1830550227142729728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWdru6BaYAA3ENP.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "2075500162202644532",
+        "created_at": "2026-07-10T08:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075500162202644532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "てくぴく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594005208601751552",
+              "start": 3,
+              "username": "bocchi_goods"
+            }
+          ],
+          "urls": [
+            {
+              "description": "詳しい情報はこちら↓colleize(コレイズ)アニメイトオンラインショップあみあみオンラインショッププレミアムバンダイ",
+              "display_url": "animetoyinfo.com/2024/09/02/boc…",
+              "end": 123,
+              "expanded_url": "https://animetoyinfo.com/2024/09/02/bocchi-defomefbt/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2016340283852783618/UQ03RCQW?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016340283852783618/UQ03RCQW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "ぼっち・ざ・ろっく！ デフォルメフィギュアブランド「てくぴく」",
+              "unwound_url": "https://animetoyinfo.com/2024/09/02/bocchi-defomefbt/",
+              "url": "https://t.co/3fvcpTuDYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075500162202644532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830551020059160932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bocchi_goods: ✨商品画像が解禁✨\n\nデフォルメフィギュアブランド「てくぴく」 ぼっち・ざ・ろっく！ 後藤ひとり\n\n大きなカバンで自立します♪\n\n9月3日16時より予約開始予定\n\nhttps://t.co/3fvcpTuDYh\n\n#てくぴく #ぼっち・ざ・ろ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830550221472055296",
+            "3_1830550224172949504",
+            "3_1830550227142729728"
+          ]
+        },
+        "author_id": "1594005208601751552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1830551020059160932",
+        "created_at": "2024-09-02T10:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T11:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830551020059160932"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "てくぴく"
+            },
+            {
+              "end": 123,
+              "start": 113,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "description": "詳しい情報はこちら↓colleize(コレイズ)アニメイトオンラインショップあみあみオンラインショッププレミアムバンダイ",
+              "display_url": "animetoyinfo.com/2024/09/02/boc…",
+              "end": 105,
+              "expanded_url": "https://animetoyinfo.com/2024/09/02/bocchi-defomefbt/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2016340283852783618/UQ03RCQW?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016340283852783618/UQ03RCQW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "ぼっち・ざ・ろっく！ デフォルメフィギュアブランド「てくぴく」",
+              "unwound_url": "https://animetoyinfo.com/2024/09/02/bocchi-defomefbt/",
+              "url": "https://t.co/3fvcpTuDYh"
+            },
+            {
+              "display_url": "pic.x.com/0kkBS1CYX3",
+              "end": 147,
+              "expanded_url": "https://x.com/bocchi_goods/status/1830551020059160932/photo/1",
+              "media_key": "3_1830550221472055296",
+              "start": 124,
+              "url": "https://t.co/0kkBS1CYX3"
+            },
+            {
+              "display_url": "pic.x.com/0kkBS1CYX3",
+              "end": 147,
+              "expanded_url": "https://x.com/bocchi_goods/status/1830551020059160932/photo/1",
+              "media_key": "3_1830550224172949504",
+              "start": 124,
+              "url": "https://t.co/0kkBS1CYX3"
+            },
+            {
+              "display_url": "pic.x.com/0kkBS1CYX3",
+              "end": 147,
+              "expanded_url": "https://x.com/bocchi_goods/status/1830551020059160932/photo/1",
+              "media_key": "3_1830550227142729728",
+              "start": 124,
+              "url": "https://t.co/0kkBS1CYX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830551020059160932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 53070,
+          "like_count": 1024,
+          "quote_count": 72,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "✨商品画像が解禁✨\n\nデフォルメフィギュアブランド「てくぴく」 ぼっち・ざ・ろっく！ 後藤ひとり\n\n大きなカバンで自立します♪\n\n9月3日16時より予約開始予定\n\nhttps://t.co/3fvcpTuDYh\n\n#てくぴく #ぼっち・ざ・ろっく https://t.co/0kkBS1CYX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 286,
+          "like_count": 115130,
+          "listed_count": 2,
+          "media_count": 1715,
+          "tweet_count": 18068
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T16:30:59.000Z",
+        "description": "芳文社「まんがタイムきららMAX」連載中！2022年10月にTVアニメ放送『ぼっち・ざ・ろっく！』のグッズ情報、イベント・コラボ情報などを紹介！※非公式アカウント",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/zMH5V",
+                "end": 23,
+                "expanded_url": "https://x.gd/zMH5V",
+                "start": 0,
+                "url": "https://t.co/H3hogtcgOH"
+              }
+            ]
+          }
+        },
+        "id": "1594005208601751552",
+        "location": "グッズ情報まとめ↓",
+        "name": "ぼっち・ざ・ろっく！ グッズ情報",
+        "pinned_tweet_id": "2065313861792833924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968528391604420613/q2ljFD0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48709,
+          "following_count": 3,
+          "like_count": 5591,
+          "listed_count": 127,
+          "media_count": 6742,
+          "tweet_count": 12415
+        },
+        "url": "https://t.co/H3hogtcgOH",
+        "username": "bocchi_goods",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009874688034381824"
+      ],
+      "media_source_tweet_id": [
+        "2009875589185122512"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2010075031209173445",
+    "created_at": "2026-01-10T19:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T20:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010075031209173445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1661912617915383809",
+          "start": 3,
+          "username": "xiaoditai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WHLCLY3ywq",
+          "end": 118,
+          "expanded_url": "https://x.com/xiaoditai/status/2009875589185122512/video/1",
+          "media_key": "13_2009874688034381824",
+          "start": 95,
+          "url": "https://t.co/WHLCLY3ywq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010075031209173445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009875589185122512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoditai: 我这两天Twitter一打开满屏幕都是美国友人在讨论ICE枪击案的事情，可能我follow的朋友都对这个事件比较关注。\n看着看着我突然想起来南方公园这一段…… https://t.co/WHLCLY3ywq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65792,
+        "height": 1080,
+        "media_key": "13_2009874688034381824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009874688034381824/img/qyO-0vb2dQiAtbse.jpg",
+        "public_metrics": {
+          "view_count": 14903
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009874688034381824/vid/avc1/480x270/XLunlxb90iJie3jv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009874688034381824/vid/avc1/640x360/0AVlJ84P2rup-kYU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009874688034381824/vid/avc1/1280x720/0gQCcViFatrrqQ8L.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009874688034381824/pl/R6233BZGbULN7a50.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009874688034381824"
+          ],
+          "media_source_tweet_id": [
+            "2009875589185122512"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2010075031209173445",
+        "created_at": "2026-01-10T19:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T20:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010075031209173445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1661912617915383809",
+              "start": 3,
+              "username": "xiaoditai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHLCLY3ywq",
+              "end": 118,
+              "expanded_url": "https://x.com/xiaoditai/status/2009875589185122512/video/1",
+              "media_key": "13_2009874688034381824",
+              "start": 95,
+              "url": "https://t.co/WHLCLY3ywq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010075031209173445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009875589185122512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoditai: 我这两天Twitter一打开满屏幕都是美国友人在讨论ICE枪击案的事情，可能我follow的朋友都对这个事件比较关注。\n看着看着我突然想起来南方公园这一段…… https://t.co/WHLCLY3ywq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009874688034381824"
+          ]
+        },
+        "author_id": "1661912617915383809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2009875589185122512",
+        "created_at": "2026-01-10T06:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009875589185122512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHLCLY3ywq",
+              "end": 103,
+              "expanded_url": "https://x.com/xiaoditai/status/2009875589185122512/video/1",
+              "media_key": "13_2009874688034381824",
+              "start": 80,
+              "url": "https://t.co/WHLCLY3ywq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009875589185122512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 34258,
+          "like_count": 331,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "我这两天Twitter一打开满屏幕都是美国友人在讨论ICE枪击案的事情，可能我follow的朋友都对这个事件比较关注。\n看着看着我突然想起来南方公园这一段…… https://t.co/WHLCLY3ywq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 281,
+          "like_count": 74052,
+          "listed_count": 2,
+          "media_count": 1372,
+          "tweet_count": 13078
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T01:50:53.000Z",
+        "description": "🙆‍♀️Youtube频道🙆‍♀️https://t.co/PUgy17E6sh🙆‍♀️\n不喜欢我follow你的话，私信我“TD”会自动取消",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@xiaoditai",
+                "end": 40,
+                "expanded_url": "http://youtube.com/@xiaoditai",
+                "start": 17,
+                "url": "https://t.co/PUgy17E6sh"
+              }
+            ]
+          }
+        },
+        "id": "1661912617915383809",
+        "location": "日本儿",
+        "name": "小敌台",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661912760362336256/2PVa8etY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 731,
+          "like_count": 4260,
+          "listed_count": 26,
+          "media_count": 399,
+          "tweet_count": 3553
+        },
+        "username": "xiaoditai",
+        "verified": false
+      }
+    ]
+  }
+}

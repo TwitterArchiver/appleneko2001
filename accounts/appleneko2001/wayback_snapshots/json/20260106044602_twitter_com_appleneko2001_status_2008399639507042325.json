@@ -1,0 +1,721 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Microsoft - AI",
+          "id": "10050907865",
+          "name": "Microsoft - AI"
+        }
+      }
+    ],
+    "conversation_id": "2008399639507042325",
+    "created_at": "2026-01-06T04:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008399639507042325"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 8,
+          "normalized_text": "Microsoft",
+          "probability": 0.9874,
+          "start": 0,
+          "type": "Organization"
+        },
+        {
+          "end": 52,
+          "normalized_text": "AI",
+          "probability": 0.6232,
+          "start": 51,
+          "type": "Organization"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/IceSolst/statu…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/IceSolst/status/2008313596178997414",
+          "start": 61,
+          "url": "https://t.co/TD5wd8auX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008399639507042325",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008313596178997414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Microsoft: fuck off from us, we said we don't make AI slops! https://t.co/TD5wd8auX0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2008313592941105152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G972koDX0AAOrI6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          }
+        ],
+        "conversation_id": "2008399639507042325",
+        "created_at": "2026-01-06T04:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008399639507042325"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Microsoft",
+              "probability": 0.9874,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 52,
+              "normalized_text": "AI",
+              "probability": 0.6232,
+              "start": 51,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/IceSolst/statu…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/IceSolst/status/2008313596178997414",
+              "start": 61,
+              "url": "https://t.co/TD5wd8auX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008399639507042325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008313596178997414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Microsoft: fuck off from us, we said we don't make AI slops! https://t.co/TD5wd8auX0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008313592941105152"
+          ]
+        },
+        "author_id": "1853915629876543488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414838",
+              "name": "Bing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701977",
+              "name": "Microsoft Azure"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2008313596178997414",
+        "created_at": "2026-01-05T23:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T00:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008313596178997414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dFFPey9gq",
+              "end": 48,
+              "expanded_url": "https://x.com/IceSolst/status/2008313596178997414/photo/1",
+              "media_key": "3_2008313592941105152",
+              "start": 25,
+              "url": "https://t.co/2dFFPey9gq"
+            },
+            {
+              "display_url": "x.com/icesolst/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/icesolst/status/2008279151782830207",
+              "start": 49,
+              "url": "https://t.co/tw8ZgM0b0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008313596178997414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 663,
+          "impression_count": 400990,
+          "like_count": 15097,
+          "quote_count": 44,
+          "reply_count": 52,
+          "retweet_count": 1254
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008279151782830207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "LMAO they went coprivate https://t.co/2dFFPey9gq https://t.co/tw8ZgM0b0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 277,
+          "like_count": 72190,
+          "listed_count": 2,
+          "media_count": 1359,
+          "tweet_count": 12956
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T21:43:39.000Z",
+        "description": "Pentester turned seceng turned meeting canceller - meetup https://t.co/E4rlINC0U6 - conf tracker https://t.co/tReNhuhANF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sprawl.nyc",
+                "end": 81,
+                "expanded_url": "https://sprawl.nyc/",
+                "start": 58,
+                "url": "https://t.co/E4rlINC0U6"
+              },
+              {
+                "display_url": "cfp.hex.dance",
+                "end": 120,
+                "expanded_url": "https://cfp.hex.dance/",
+                "start": 97,
+                "url": "https://t.co/tReNhuhANF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "every-ssn.com",
+                "end": 23,
+                "expanded_url": "https://every-ssn.com/",
+                "start": 0,
+                "url": "https://t.co/uZYbeGGSAw"
+              }
+            ]
+          }
+        },
+        "id": "1853915629876543488",
+        "location": "villa straylight",
+        "name": "solst/ICE of Astarte",
+        "pinned_tweet_id": "2007665099754926482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853920234345840640/ZkMBeC0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25673,
+          "following_count": 1886,
+          "like_count": 115056,
+          "listed_count": 161,
+          "media_count": 1362,
+          "tweet_count": 15720
+        },
+        "url": "https://t.co/uZYbeGGSAw",
+        "username": "IceSolst",
+        "verified": true
+      }
+    ]
+  }
+}

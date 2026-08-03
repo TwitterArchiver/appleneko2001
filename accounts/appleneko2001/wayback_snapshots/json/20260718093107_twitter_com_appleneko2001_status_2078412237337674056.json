@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2078412237337674056",
+    "created_at": "2026-07-18T09:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078412237337674056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057835711458693120",
+          "start": 3,
+          "username": "TransPrism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078412237337674056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059105891585237332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TransPrism: 终于弄完了\n🌈 Trans Prism (稳态光盒) 正式开源。 \n这是一个专为跨性别群体打造的极简、双擎驱动实用工具箱。 在信息获取日益困难的当下，我希望它能成为一个“装在口袋里的庇护所”。\n你的核心隐私用药数据纯本地物理持久化，永远只属于你自…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2886,
+        "media_key": "3_2059105870173335552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNp4RqacAAN7aC.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2078412237337674056",
+        "created_at": "2026-07-18T09:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078412237337674056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057835711458693120",
+              "start": 3,
+              "username": "TransPrism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078412237337674056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059105891585237332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TransPrism: 终于弄完了\n🌈 Trans Prism (稳态光盒) 正式开源。 \n这是一个专为跨性别群体打造的极简、双擎驱动实用工具箱。 在信息获取日益困难的当下，我希望它能成为一个“装在口袋里的庇护所”。\n你的核心隐私用药数据纯本地物理持久化，永远只属于你自…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059105870173335552"
+          ]
+        },
+        "author_id": "2057835711458693120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2059105891585237332",
+        "created_at": "2026-05-26T02:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059105891585237332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "专为跨性别群体（Transgender）打造的极简、安全、双擎驱动的实用工具箱。. Contribute to daanser/Trans-Prism development by creating an account on GitHub.",
+              "display_url": "github.com/daanser/Trans-…",
+              "end": 160,
+              "expanded_url": "https://github.com/daanser/Trans-Prism",
+              "start": 137,
+              "status": 200,
+              "title": "GitHub - daanser/Trans-Prism: 专为跨性别群体（Transgender）打造的极简、安全、双擎驱动的实用工具箱。",
+              "unwound_url": "https://github.com/daanser/Trans-Prism",
+              "url": "https://t.co/L649xmmGur"
+            },
+            {
+              "display_url": "pic.x.com/Rh1gaqvTcY",
+              "end": 193,
+              "expanded_url": "https://x.com/TransPrism/status/2059105891585237332/photo/1",
+              "media_key": "3_2059105870173335552",
+              "start": 170,
+              "url": "https://t.co/Rh1gaqvTcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059105891585237332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 126,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "终于弄完了\n🌈 Trans Prism (稳态光盒) 正式开源。 \n这是一个专为跨性别群体打造的极简、双擎驱动实用工具箱。 在信息获取日益困难的当下，我希望它能成为一个“装在口袋里的庇护所”。\n你的核心隐私用药数据纯本地物理持久化，永远只属于你自己。\n 🔗 GitHub: https://t.co/L649xmmGur\n目前仅支持安卓端 https://t.co/Rh1gaqvTcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/9bx2JDcXSU"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 288,
+          "like_count": 116149,
+          "listed_count": 2,
+          "media_count": 1736,
+          "tweet_count": 18236
+        },
+        "url": "https://t.co/9bx2JDcXSU",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T14:48:25.000Z",
+        "description": "专为跨性别群体（Transgender）打造的极简、安全、双擎驱动的实用工具箱。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/daanser/Trans-…",
+                "end": 23,
+                "expanded_url": "https://github.com/daanser/Trans-Prism",
+                "start": 0,
+                "url": "https://t.co/XqPOPH35mX"
+              }
+            ]
+          }
+        },
+        "id": "2057835711458693120",
+        "name": "Trans Prism",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057928403886743553/weZYqjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 13,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/XqPOPH35mX",
+        "username": "TransPrism",
+        "verified": false
+      }
+    ]
+  }
+}

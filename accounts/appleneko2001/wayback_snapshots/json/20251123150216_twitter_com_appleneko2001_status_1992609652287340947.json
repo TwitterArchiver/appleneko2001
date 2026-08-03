@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1992609652287340947",
+    "created_at": "2025-11-23T15:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992609652287340947"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "persia",
+          "probability": 0.2754,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/RinoTheBouncer…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/RinoTheBouncer/status/1991884844020941020",
+          "start": 32,
+          "url": "https://t.co/E4XEo0C7Ao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992609652287340947",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991884844020941020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "prince of persia mentioned DAMN https://t.co/E4XEo0C7Ao"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50922,
+        "height": 1280,
+        "media_key": "7_1966211252889272322",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1966211252889272322/pu/img/bJ0_rjLNTMuuEuqS.jpg",
+        "public_metrics": {
+          "view_count": 1614283
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966211252889272322/pu/vid/avc1/320x568/1u34twWg1zplUSgF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966211252889272322/pu/vid/avc1/480x852/5MkbURw0Y0y3pm4F.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966211252889272322/pu/vid/avc1/720x1280/eSigdmUUW28BEq6V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1966211252889272322/pu/pl/K2o_1vUfZrUnocd5.m3u8?tag=12&v=132"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1992609652287340947",
+        "created_at": "2025-11-23T15:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992609652287340947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "persia",
+              "probability": 0.2754,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/RinoTheBouncer…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/RinoTheBouncer/status/1991884844020941020",
+              "start": 32,
+              "url": "https://t.co/E4XEo0C7Ao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992609652287340947",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991884844020941020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "prince of persia mentioned DAMN https://t.co/E4XEo0C7Ao"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1966211252889272322"
+          ],
+          "media_source_tweet_id": [
+            "1966211404727271833"
+          ]
+        },
+        "author_id": "73909355",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1991884844020941020",
+        "created_at": "2025-11-21T15:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991884844020941020"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "AAA",
+              "probability": 0.5554,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzULu1TE9Z",
+              "end": 223,
+              "expanded_url": "https://x.com/DetecPiyJeytive/status/1966211404727271833/video/1",
+              "media_key": "7_1966211252889272322",
+              "start": 200,
+              "url": "https://t.co/yzULu1TE9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991884844020941020",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3318,
+          "impression_count": 3172334,
+          "like_count": 29161,
+          "quote_count": 509,
+          "reply_count": 1289,
+          "retweet_count": 2267
+        },
+        "reply_settings": "everyone",
+        "text": "AAA gaming needs to go back to this gameplay style and abandon open worlds, souls-likes and shooters for like 15 years🚀\n\nI really miss such fun and intense gameplay. Imagine this in today’s graphics🥹 https://t.co/yzULu1TE9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 267,
+          "like_count": 65969,
+          "listed_count": 2,
+          "media_count": 1306,
+          "tweet_count": 12367
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-13T15:50:31.000Z",
+        "description": "RPh🧬 Visual Artist📸 Lover💕 Content Creator🎬 Gaming News/Activities🎮 (#PlayStation Studios, #PS5 & #HideoKojima) #AssassinsCreed & #TombRaider Ambassador🚀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 69,
+                "tag": "PlayStation"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "PS5"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "tag": "HideoKojima"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "tag": "AssassinsCreed"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "tag": "TombRaider"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rinothebouncer.com",
+                "end": 23,
+                "expanded_url": "http://rinothebouncer.com",
+                "start": 0,
+                "url": "https://t.co/rhOMemdh7y"
+              }
+            ]
+          }
+        },
+        "id": "73909355",
+        "name": "Rino",
+        "pinned_tweet_id": "1983144020239908958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806571493456842752/uajaPJhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74798,
+          "following_count": 1085,
+          "like_count": 79541,
+          "listed_count": 342,
+          "media_count": 22410,
+          "tweet_count": 148613
+        },
+        "url": "https://t.co/rhOMemdh7y",
+        "username": "RinoTheBouncer",
+        "verified": true
+      }
+    ]
+  }
+}

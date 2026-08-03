@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014798384649969664"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2014800124002861215",
+    "created_at": "2026-01-23T20:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T21:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014800124002861215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wf5N8NnRnm",
+          "end": 46,
+          "expanded_url": "https://x.com/appleneko2001/status/2014800124002861215/photo/1",
+          "media_key": "3_2014798384649969664",
+          "start": 23,
+          "url": "https://t.co/wf5N8NnRnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014800124002861215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尬死了我的天…\n不是…能不能好好說話啊…☠️ https://t.co/wf5N8NnRnm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014800124002861215].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014800124002861215",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014800124002861215"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Ugh this thread is cringe \nRef: https://x.com/XiaoHuiHuiH/status/2014240113232859198",
+        "height": 2160,
+        "media_key": "3_2014798384649969664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_YAdLsXoAAVo5S.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 319,
+          "like_count": 83285,
+          "listed_count": 2,
+          "media_count": 1435,
+          "tweet_count": 13992
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      }
+    ]
+  }
+}

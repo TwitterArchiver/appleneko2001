@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012512159020818433"
+      ],
+      "media_source_tweet_id": [
+        "2014956336975331764"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2014974385958842570",
+    "created_at": "2026-01-24T08:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T09:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014974385958842570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m641sbJM9X",
+          "end": 57,
+          "expanded_url": "https://x.com/BI3BXI/status/2014956336975331764/photo/1",
+          "media_key": "3_2012512159020818433",
+          "start": 34,
+          "url": "https://t.co/m641sbJM9X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014974385958842570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014956336975331764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: Google只是悄悄地告密 不会惊艳所有人 https://t.co/m641sbJM9X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2012512159020818433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3hJViXIAE5eCO.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012512159020818433"
+          ],
+          "media_source_tweet_id": [
+            "2014956336975331764"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2014974385958842570",
+        "created_at": "2026-01-24T08:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T09:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014974385958842570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m641sbJM9X",
+              "end": 57,
+              "expanded_url": "https://x.com/BI3BXI/status/2014956336975331764/photo/1",
+              "media_key": "3_2012512159020818433",
+              "start": 34,
+              "url": "https://t.co/m641sbJM9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014974385958842570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014956336975331764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: Google只是悄悄地告密 不会惊艳所有人 https://t.co/m641sbJM9X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012512159020818433"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2014956336975331764",
+        "created_at": "2026-01-24T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014956336975331764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m641sbJM9X",
+              "end": 45,
+              "expanded_url": "https://x.com/BI3BXI/status/2014956336975331764/photo/1",
+              "media_key": "3_2012512159020818433",
+              "start": 22,
+              "url": "https://t.co/m641sbJM9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014956336975331764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1477,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Google只是悄悄地告密 不会惊艳所有人 https://t.co/m641sbJM9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 319,
+          "like_count": 83443,
+          "listed_count": 2,
+          "media_count": 1436,
+          "tweet_count": 14003
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只MtX🏳️‍⚧️｜@snowfairy011026所属｜前世17kfollowers @ryq59｜本体@yqua_｜除了梗图外 时不时发一些有价值的内容｜点击“查看更多”可以了解我～｜姐姐@mimilinkeyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 55,
+                "start": 49,
+                "username": "ryq59"
+              },
+              {
+                "end": 64,
+                "start": 58,
+                "username": "yqua_"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "mimilinkeyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPBAmp"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "阿彬秘制羊排饭",
+        "name": "你是要气死铨酱么🍥（二代目）",
+        "pinned_tweet_id": "2010144496995258841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6495,
+          "following_count": 3324,
+          "like_count": 30677,
+          "listed_count": 17,
+          "media_count": 1238,
+          "tweet_count": 5597
+        },
+        "url": "https://t.co/9ZD7jPBAmp",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

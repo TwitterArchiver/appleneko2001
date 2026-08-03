@@ -1,0 +1,1214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201644971855499264",
+          "name": "Retro gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1430251943570542594",
+          "name": "Game Boy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713294",
+          "name": "Nintendo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201644971855499264",
+          "name": "Retro gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1430251943570542594",
+          "name": "Game Boy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491569175545802755",
+          "name": "Gaming activities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1506324544398655488",
+          "name": "Game emulation"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2022260901374783854",
+    "created_at": "2026-02-13T10:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022260901374783854"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 66,
+          "normalized_text": "Game Boy",
+          "probability": 0.6842,
+          "start": 59,
+          "type": "Other"
+        },
+        {
+          "end": 115,
+          "normalized_text": "Discord",
+          "probability": 0.5864,
+          "start": 109,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "emutywo",
+          "probability": 0.4707,
+          "start": 132,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "65878686",
+          "start": 3,
+          "username": "emutyworks"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Learning Game Boy programming step by step. Let's start game programming with Assembly language. - emutyworks/Learning-GB-Programming",
+          "display_url": "github.com/emutyworks/Lea…",
+          "end": 107,
+          "expanded_url": "https://github.com/emutyworks/Learning-GB-Programming/wiki/Car-Game",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2019974389803151364/tqCTZcC9?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2019974389803151364/tqCTZcC9?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 84,
+          "status": 200,
+          "title": "Car Game",
+          "unwound_url": "https://github.com/emutyworks/Learning-GB-Programming/wiki/Car-Game",
+          "url": "https://t.co/CH9EF6qt3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022260901374783854",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978219555328537082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emutyworks: I'm planning to develop a new car game for Game Boy in Assembly. :D\nhttps://t.co/CH9EF6qt3o\n\nDiscord Display Name:  emutywo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_1978219454216675328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3QMHNBaIAAaiTQ.png",
+        "width": 308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1430251943570542594",
+              "name": "Game Boy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1430251943570542594",
+              "name": "Game Boy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491569175545802755",
+              "name": "Gaming activities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1506324544398655488",
+              "name": "Game emulation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2022260901374783854",
+        "created_at": "2026-02-13T10:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022260901374783854"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "Game Boy",
+              "probability": 0.6842,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 115,
+              "normalized_text": "Discord",
+              "probability": 0.5864,
+              "start": 109,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "emutywo",
+              "probability": 0.4707,
+              "start": 132,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "65878686",
+              "start": 3,
+              "username": "emutyworks"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Learning Game Boy programming step by step. Let's start game programming with Assembly language. - emutyworks/Learning-GB-Programming",
+              "display_url": "github.com/emutyworks/Lea…",
+              "end": 107,
+              "expanded_url": "https://github.com/emutyworks/Learning-GB-Programming/wiki/Car-Game",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2019974389803151364/tqCTZcC9?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019974389803151364/tqCTZcC9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "Car Game",
+              "unwound_url": "https://github.com/emutyworks/Learning-GB-Programming/wiki/Car-Game",
+              "url": "https://t.co/CH9EF6qt3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022260901374783854",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978219555328537082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emutyworks: I'm planning to develop a new car game for Game Boy in Assembly. :D\nhttps://t.co/CH9EF6qt3o\n\nDiscord Display Name:  emutywo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978219454216675328"
+          ]
+        },
+        "author_id": "65878686",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1430251943570542594",
+              "name": "Game Boy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1430251943570542594",
+              "name": "Game Boy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491569175545802755",
+              "name": "Gaming activities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1506324544398655488",
+              "name": "Game emulation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1978219555328537082",
+        "created_at": "2025-10-14T22:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T23:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978219555328537082"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Game",
+              "probability": 0.767,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "Discord",
+              "probability": 0.8255,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 125,
+              "normalized_text": "emutyworks",
+              "probability": 0.6533,
+              "start": 116,
+              "type": "Other"
+            },
+            {
+              "end": 156,
+              "normalized_text": "gbdev",
+              "probability": 0.5038,
+              "start": 152,
+              "type": "Other"
+            },
+            {
+              "end": 166,
+              "normalized_text": "Game Boy",
+              "probability": 0.562,
+              "start": 159,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Learning Game Boy programming step by step. Let's start game programming with Assembly language. - emutyworks/Learning-GB-Programming",
+              "display_url": "github.com/emutyworks/Lea…",
+              "end": 91,
+              "expanded_url": "https://github.com/emutyworks/Learning-GB-Programming/wiki/Car-Game",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2019974389803151364/tqCTZcC9?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019974389803151364/tqCTZcC9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 68,
+              "status": 200,
+              "title": "Car Game",
+              "unwound_url": "https://github.com/emutyworks/Learning-GB-Programming/wiki/Car-Game",
+              "url": "https://t.co/CH9EF6qt3o"
+            },
+            {
+              "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+              "display_url": "discordapp.com/users/emutywor…",
+              "end": 150,
+              "expanded_url": "https://discordapp.com/users/emutyworks",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1978216427070148608/vCugXW6p?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978216427070148608/vCugXW6p?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 127,
+              "status": 200,
+              "title": "Discord - Group Chat That’s All Fun & Games",
+              "unwound_url": "https://discord.com/users/emutyworks",
+              "url": "https://t.co/DduU8QvAiw"
+            },
+            {
+              "description": "Home of the Game Boy and Game Boy Advance homebrew development scene. We are working on (open) development tools, documentation and digital preservation.",
+              "display_url": "gbdev.io",
+              "end": 214,
+              "expanded_url": "https://gbdev.io",
+              "images": [
+                {
+                  "height": 364,
+                  "url": "https://pbs.twimg.com/news_img/1978216404248862720/W31Ix45t?format=png&name=orig",
+                  "width": 364
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978216404248862720/W31Ix45t?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 191,
+              "status": 200,
+              "title": "gbdev.io homepage",
+              "unwound_url": "https://gbdev.io",
+              "url": "https://t.co/clvK3KxiZx"
+            },
+            {
+              "description": "gbdev community",
+              "display_url": "opencollective.com/gbdev",
+              "end": 238,
+              "expanded_url": "https://opencollective.com/gbdev",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/2016348133811486721/YG8rii22?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016348133811486721/YG8rii22?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 215,
+              "status": 200,
+              "title": "gbdev - Open Collective",
+              "unwound_url": "https://opencollective.com/gbdev",
+              "url": "https://t.co/MebJAeUz2p"
+            },
+            {
+              "display_url": "pic.x.com/5kgbbsuZzR",
+              "end": 262,
+              "expanded_url": "https://x.com/emutyworks/status/1978219555328537082/photo/1",
+              "media_key": "3_1978219454216675328",
+              "start": 239,
+              "url": "https://t.co/5kgbbsuZzR"
+            },
+            {
+              "display_url": "x.com/emutyworks/sta…",
+              "end": 286,
+              "expanded_url": "https://twitter.com/emutyworks/status/1856310696956535290",
+              "start": 263,
+              "url": "https://t.co/6KyLQvQUJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978219555328537082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3237,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856310696956535290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'm planning to develop a new car game for Game Boy in Assembly. :D\nhttps://t.co/CH9EF6qt3o\n\nDiscord Display Name:  emutyworks\nhttps://t.co/DduU8QvAiw\n\ngbdev: Game Boy Development community.\nhttps://t.co/clvK3KxiZx\nhttps://t.co/MebJAeUz2p https://t.co/5kgbbsuZzR https://t.co/6KyLQvQUJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 325,
+          "like_count": 89062,
+          "listed_count": 2,
+          "media_count": 1485,
+          "tweet_count": 14519
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-15T11:17:19.000Z",
+        "description": "I like light novel, video game, manga and anime. I understand English and Japanese. :D Discord: emutyworks",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "emutyworks.com",
+                "end": 23,
+                "expanded_url": "https://emutyworks.com",
+                "start": 0,
+                "url": "https://t.co/hcM07PunXd"
+              }
+            ]
+          }
+        },
+        "id": "65878686",
+        "location": "Tokyo, Japan",
+        "name": "emuty",
+        "pinned_tweet_id": "2019868673432068576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/837849289200029696/m-viTpTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4105,
+          "following_count": 5546,
+          "like_count": 0,
+          "listed_count": 92,
+          "media_count": 8731,
+          "tweet_count": 76760
+        },
+        "url": "https://t.co/hcM07PunXd",
+        "username": "emutyworks",
+        "verified": true
+      }
+    ]
+  }
+}

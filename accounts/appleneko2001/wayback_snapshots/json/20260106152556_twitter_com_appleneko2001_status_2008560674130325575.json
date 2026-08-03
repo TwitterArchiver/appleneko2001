@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008096274676105216"
+      ],
+      "media_source_tweet_id": [
+        "2008096279763825144"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2008560674130325575",
+    "created_at": "2026-01-06T15:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008560674130325575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1250675238922096641",
+          "start": 3,
+          "username": "UxU_1102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uKxAHHb4ct",
+          "end": 58,
+          "expanded_url": "https://x.com/UxU_1102/status/2008096279763825144/photo/1",
+          "media_key": "3_2008096274676105216",
+          "start": 35,
+          "url": "https://t.co/uKxAHHb4ct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008560674130325575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008096279763825144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UxU_1102: 喔哇那個爛工作室直接烙跑了(´･ω･`) https://t.co/uKxAHHb4ct"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008096274676105216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94w7CbawAA-Rzn.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008096274676105216"
+          ],
+          "media_source_tweet_id": [
+            "2008096279763825144"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2008560674130325575",
+        "created_at": "2026-01-06T15:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008560674130325575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1250675238922096641",
+              "start": 3,
+              "username": "UxU_1102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKxAHHb4ct",
+              "end": 58,
+              "expanded_url": "https://x.com/UxU_1102/status/2008096279763825144/photo/1",
+              "media_key": "3_2008096274676105216",
+              "start": 35,
+              "url": "https://t.co/uKxAHHb4ct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008560674130325575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008096279763825144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UxU_1102: 喔哇那個爛工作室直接烙跑了(´･ω･`) https://t.co/uKxAHHb4ct"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008096274676105216"
+          ]
+        },
+        "author_id": "1250675238922096641",
+        "conversation_id": "2008096279763825144",
+        "created_at": "2026-01-05T08:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T09:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008096279763825144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKxAHHb4ct",
+              "end": 44,
+              "expanded_url": "https://x.com/UxU_1102/status/2008096279763825144/photo/1",
+              "media_key": "3_2008096274676105216",
+              "start": 21,
+              "url": "https://t.co/uKxAHHb4ct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008096279763825144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 52383,
+          "like_count": 367,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "喔哇那個爛工作室直接烙跑了(´･ω･`) https://t.co/uKxAHHb4ct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 280,
+          "like_count": 72438,
+          "listed_count": 2,
+          "media_count": 1362,
+          "tweet_count": 12973
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T06:41:39.000Z",
+        "description": "✦FF14的狗｜AI學習禁止✦遊戲｜畫圖｜音樂工作台 in twitch ✦貓貓嘴愛好者(꜆ ◡⩊◡⁠)꜆ ✦我的小桃 @momozawa144",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "momozawa144"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/mehhamya",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/mehhamya",
+                "start": 0,
+                "url": "https://t.co/p8bfhwvQPU"
+              }
+            ]
+          }
+        },
+        "id": "1250675238922096641",
+        "location": "軟綿綿的被窩裡",
+        "name": "咩哈🐑𝓶𝔂𝓪",
+        "pinned_tweet_id": "1976222118988873754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985925224907538432/wy6tU_1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 1513,
+          "like_count": 16915,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 6750
+        },
+        "url": "https://t.co/p8bfhwvQPU",
+        "username": "UxU_1102",
+        "verified": false
+      }
+    ]
+  }
+}

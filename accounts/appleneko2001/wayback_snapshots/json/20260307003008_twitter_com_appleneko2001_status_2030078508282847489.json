@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1589447827926577152"
+      ],
+      "media_source_tweet_id": [
+        "1589447903051124740"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      }
+    ],
+    "conversation_id": "2030078508282847489",
+    "created_at": "2026-03-07T00:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T01:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030078508282847489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1159237294294880256",
+          "start": 3,
+          "username": "Gekikawa_Dbts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3EXw7V7Zpa",
+          "end": 54,
+          "expanded_url": "https://x.com/jIcyoBQbkwFz0Za/status/1589447903051124740/video/1",
+          "media_key": "7_1589447827926577152",
+          "start": 31,
+          "url": "https://t.co/3EXw7V7Zpa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030078508282847489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2502
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029891814787109078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gekikawa_Dbts: 猫に甘えたいウサギ\n\n https://t.co/3EXw7V7Zpa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22933,
+        "height": 1280,
+        "media_key": "7_1589447827926577152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1589447827926577152/pu/img/Nq-qctQJkpADVDVs.jpg",
+        "public_metrics": {
+          "view_count": 3535451
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1589447827926577152/pu/vid/320x568/fHs3gsL0RtY2ogih.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1589447827926577152/pu/vid/480x852/bd_e3xhV7-giLEPC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1589447827926577152/pu/vid/720x1280/vYCI1god7T7PRgrM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1589447827926577152/pu/pl/r0XPD8sWEL2xx3p4.m3u8?tag=12&v=b50"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 22933,
+        "height": 1280,
+        "media_key": "7_1589447827926577152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1589447827926577152/pu/img/Nq-qctQJkpADVDVs.jpg",
+        "public_metrics": {
+          "view_count": 3542642
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1589447827926577152/pu/vid/320x568/fHs3gsL0RtY2ogih.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1589447827926577152/pu/vid/480x852/bd_e3xhV7-giLEPC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1589447827926577152/pu/vid/720x1280/vYCI1god7T7PRgrM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1589447827926577152/pu/pl/r0XPD8sWEL2xx3p4.m3u8?tag=12&v=b50"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1589447827926577152"
+          ],
+          "media_source_tweet_id": [
+            "1589447903051124740"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          }
+        ],
+        "conversation_id": "2030078508282847489",
+        "created_at": "2026-03-07T00:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T01:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030078508282847489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1159237294294880256",
+              "start": 3,
+              "username": "Gekikawa_Dbts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EXw7V7Zpa",
+              "end": 54,
+              "expanded_url": "https://x.com/jIcyoBQbkwFz0Za/status/1589447903051124740/video/1",
+              "media_key": "7_1589447827926577152",
+              "start": 31,
+              "url": "https://t.co/3EXw7V7Zpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030078508282847489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2502
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029891814787109078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gekikawa_Dbts: 猫に甘えたいウサギ\n\n https://t.co/3EXw7V7Zpa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1589447827926577152"
+          ],
+          "media_source_tweet_id": [
+            "1589447903051124740"
+          ]
+        },
+        "author_id": "1159237294294880256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          }
+        ],
+        "conversation_id": "2029891814787109078",
+        "created_at": "2026-03-06T12:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029891814787109078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3EXw7V7Zpa",
+              "end": 35,
+              "expanded_url": "https://x.com/jIcyoBQbkwFz0Za/status/1589447903051124740/video/1",
+              "media_key": "7_1589447827926577152",
+              "start": 12,
+              "url": "https://t.co/3EXw7V7Zpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029891814787109078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3235,
+          "impression_count": 1405284,
+          "like_count": 16995,
+          "quote_count": 846,
+          "reply_count": 70,
+          "retweet_count": 2502
+        },
+        "reply_settings": "everyone",
+        "text": "猫に甘えたいウサギ\n\n https://t.co/3EXw7V7Zpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋🕊",
+        "pinned_tweet_id": "2029864247132574166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 351,
+          "like_count": 97467,
+          "listed_count": 3,
+          "media_count": 1564,
+          "tweet_count": 15794
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T22:58:03.000Z",
+        "description": "かわいい動物たちをツイートしていきます。 Cute Animals",
+        "id": "1159237294294880256",
+        "name": "激かわ動物",
+        "pinned_tweet_id": "1692137323595792449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159237407616581632/NT-xjzPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589994,
+          "following_count": 4202,
+          "like_count": 89508,
+          "listed_count": 1632,
+          "media_count": 16376,
+          "tweet_count": 16524
+        },
+        "username": "Gekikawa_Dbts",
+        "verified": true
+      }
+    ]
+  }
+}

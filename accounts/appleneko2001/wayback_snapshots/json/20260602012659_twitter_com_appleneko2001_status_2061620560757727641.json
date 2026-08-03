@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2061544102626537796",
+    "created_at": "2026-06-02T01:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061620560757727641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "CatherinaMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061620560757727641",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061544102626537796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatherinaMeow 抱抱妳…咱还是觉得自己做出来的作品要比AI生成的更有价值的说…毕竟个人风格和见解摆在那边 这是人能看出来的细节"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061544102626537796].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061544102626537796",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061544102626537796"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2061544102626537796",
+        "created_at": "2026-06-02T01:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061620560757727641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061620560757727641",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061544102626537796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 抱抱妳…咱还是觉得自己做出来的作品要比AI生成的更有价值的说…毕竟个人风格和见解摆在那边 这是人能看出来的细节"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "真的冷静下来了吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "codeberg.org/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://codeberg.org/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/h4IQUPQIlp"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "大笨蛋",
+        "pinned_tweet_id": "2060036323315204124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 247,
+          "like_count": 106927,
+          "listed_count": 2,
+          "media_count": 1641,
+          "tweet_count": 17156
+        },
+        "url": "https://t.co/h4IQUPQIlp",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/BsKDJo02pF"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7346,
+          "following_count": 1094,
+          "like_count": 89983,
+          "listed_count": 21,
+          "media_count": 2226,
+          "tweet_count": 26739
+        },
+        "url": "https://t.co/BsKDJo02pF",
+        "username": "CatherinaMeow",
+        "verified": true
+      }
+    ]
+  }
+}

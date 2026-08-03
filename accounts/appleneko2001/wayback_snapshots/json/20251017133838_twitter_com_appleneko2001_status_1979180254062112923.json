@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1977163574675226963",
+    "created_at": "2025-10-17T13:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979180254062112923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1393598307784527873",
+          "start": 0,
+          "username": "miaobiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979180254062112923",
+    "in_reply_to_user_id": "1393598307784527873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977210992615673871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaobiao 對不起好久沒有看推特（（謝謝（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1977163574675226963",
+        "created_at": "2025-10-17T13:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979180254062112923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1393598307784527873",
+              "start": 0,
+              "username": "miaobiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979180254062112923",
+        "in_reply_to_user_id": "1393598307784527873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977210992615673871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaobiao 對不起好久沒有看推特（（謝謝（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393598307784527873",
+        "conversation_id": "1977163574675226963",
+        "created_at": "2025-10-12T03:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T04:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977210992615673871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977210992615673871",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977163574675226963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 258,
+          "like_count": 65517,
+          "listed_count": 2,
+          "media_count": 1302,
+          "tweet_count": 12312
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T16:05:09.000Z",
+        "description": "@wws0629",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "wws0629"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/miaobiao",
+                "end": 23,
+                "expanded_url": "http://t.me/miaobiao",
+                "start": 0,
+                "url": "https://t.co/XV9JkFXxdV"
+              }
+            ]
+          }
+        },
+        "id": "1393598307784527873",
+        "location": "dustbin",
+        "name": "淼表",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936766859145052160/qIUvdfWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 104,
+          "like_count": 18668,
+          "listed_count": 5,
+          "media_count": 1189,
+          "tweet_count": 8601
+        },
+        "url": "https://t.co/XV9JkFXxdV",
+        "username": "miaobiao",
+        "verified": false
+      }
+    ]
+  }
+}

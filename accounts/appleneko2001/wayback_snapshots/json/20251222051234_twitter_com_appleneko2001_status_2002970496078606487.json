@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2002278013799706924",
+    "created_at": "2025-12-22T05:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T06:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002970496078606487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002970496078606487",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002278013799706924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 不要在這發電ಠ⁠_⁠ಠ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2002278003427192834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mFPE_bMAIyyCV.jpg",
+        "width": 629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2002278013799706924",
+        "created_at": "2025-12-22T05:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T06:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002970496078606487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002970496078606487",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002278013799706924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 不要在這發電ಠ⁠_⁠ಠ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002278003427192834"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2002278013799706924",
+        "created_at": "2025-12-20T07:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002278013799706924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3mwrFd15a",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2002278013799706924/photo/1",
+              "media_key": "3_2002278003427192834",
+              "start": 0,
+              "url": "https://t.co/M3mwrFd15a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002278013799706924",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 424927,
+          "like_count": 1786,
+          "quote_count": 10,
+          "reply_count": 92,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/M3mwrFd15a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 66713,
+          "listed_count": 2,
+          "media_count": 1317,
+          "tweet_count": 12455
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998324648891826176/If0Ie-HK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113400,
+          "following_count": 1010,
+          "like_count": 48528,
+          "listed_count": 254,
+          "media_count": 18081,
+          "tweet_count": 26975
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

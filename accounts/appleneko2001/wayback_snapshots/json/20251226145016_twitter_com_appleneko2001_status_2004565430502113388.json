@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2004490220625068143",
+    "created_at": "2025-12-26T14:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T15:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004565430502113388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "740784709878288384",
+          "start": 0,
+          "username": "tison1096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004565430502113388",
+    "in_reply_to_user_id": "740784709878288384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004490220625068143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tison1096 呃 我現在就是在用linux作為日常宿主系統使用 不過不是arch btw 而是nobara linux 即另一個fedora發行分支 最近我還用這個系統玩VR來著 比以前強多了 雖然還是有點問題"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2004490220625068143",
+        "created_at": "2025-12-26T14:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004565430502113388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "740784709878288384",
+              "start": 0,
+              "username": "tison1096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004565430502113388",
+        "in_reply_to_user_id": "740784709878288384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004490220625068143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tison1096 呃 我現在就是在用linux作為日常宿主系統使用 不過不是arch btw 而是nobara linux 即另一個fedora發行分支 最近我還用這個系統玩VR來著 比以前強多了 雖然還是有點問題"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "740784709878288384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2004490220625068143",
+        "created_at": "2025-12-26T09:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004490220625068143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imwsl90/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/imwsl90/status/2004358586366153115",
+              "start": 46,
+              "url": "https://t.co/i9BcNRL1vO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004490220625068143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2171,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004358586366153115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一步：别想。\n\n换个 Linux Server 当开发机 ssh 上去得了，放过自己（x https://t.co/i9BcNRL1vO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 271,
+          "like_count": 67468,
+          "listed_count": 2,
+          "media_count": 1319,
+          "tweet_count": 12527
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-09T05:56:52.000Z",
+        "description": "Co-Founder @scopedbio.\nBoard Director & Incubator Mentor @TheASF\nGitHub: https://t.co/7DIR5B81Da",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "scopedbio"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "TheASF"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/tisonkun/",
+                "end": 96,
+                "expanded_url": "https://github.com/tisonkun/",
+                "start": 73,
+                "url": "https://t.co/7DIR5B81Da"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "scopedb.io",
+                "end": 23,
+                "expanded_url": "https://www.scopedb.io",
+                "start": 0,
+                "url": "https://t.co/MomFR7ujhm"
+              }
+            ]
+          }
+        },
+        "id": "740784709878288384",
+        "name": "tison",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1071402420301778945/RqkZEVm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7698,
+          "following_count": 74,
+          "like_count": 635,
+          "listed_count": 69,
+          "media_count": 1464,
+          "tweet_count": 8645
+        },
+        "url": "https://t.co/MomFR7ujhm",
+        "username": "tison1096",
+        "verified": true
+      }
+    ]
+  }
+}

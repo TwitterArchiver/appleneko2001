@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002512196002004992"
+      ],
+      "media_source_tweet_id": [
+        "2002513135635476774"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2002811164636659766",
+    "created_at": "2025-12-21T18:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T19:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002811164636659766"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 105,
+          "normalized_text": "macOS",
+          "probability": 0.8604,
+          "start": 101,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1585363525102362624",
+          "start": 3,
+          "username": "sergeynazarovx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TZtrcicxCV",
+          "end": 130,
+          "expanded_url": "https://x.com/sergeynazarovx/status/2002513135635476774/video/1",
+          "media_key": "13_2002512196002004992",
+          "start": 107,
+          "url": "https://t.co/TZtrcicxCV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002811164636659766",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002513135635476774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sergeynazarovx: i just don't understand how this simple search for applications can be broken in macOS https://t.co/TZtrcicxCV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13666,
+        "height": 2160,
+        "media_key": "13_2002512196002004992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002512196002004992/img/Ti6KQqUGNseOLTe4.jpg",
+        "public_metrics": {
+          "view_count": 325309
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002512196002004992/vid/avc1/2916x2160/7lI2wllIEBfoUaW2.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002512196002004992/vid/avc1/1458x1080/sZcERcszRX-CZbT_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002512196002004992/vid/avc1/972x720/FPJtQHlX0sncBEqA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002512196002004992/vid/avc1/486x360/tPHGO62jP1Nwb9Uu.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002512196002004992/vid/avc1/364x270/XQQAjLxPj_QjcxeO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002512196002004992/pl/0iSeg5S4aU3yK48Z.m3u8"
+          }
+        ],
+        "width": 2916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002512196002004992"
+          ],
+          "media_source_tweet_id": [
+            "2002513135635476774"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2002811164636659766",
+        "created_at": "2025-12-21T18:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T19:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002811164636659766"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 105,
+              "normalized_text": "macOS",
+              "probability": 0.8604,
+              "start": 101,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1585363525102362624",
+              "start": 3,
+              "username": "sergeynazarovx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZtrcicxCV",
+              "end": 130,
+              "expanded_url": "https://x.com/sergeynazarovx/status/2002513135635476774/video/1",
+              "media_key": "13_2002512196002004992",
+              "start": 107,
+              "url": "https://t.co/TZtrcicxCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002811164636659766",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002513135635476774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sergeynazarovx: i just don't understand how this simple search for applications can be broken in macOS https://t.co/TZtrcicxCV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002512196002004992"
+          ]
+        },
+        "author_id": "1585363525102362624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2002513135635476774",
+        "created_at": "2025-12-20T22:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T23:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002513135635476774"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "macOS",
+              "probability": 0.8692,
+              "start": 81,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZtrcicxCV",
+              "end": 110,
+              "expanded_url": "https://x.com/sergeynazarovx/status/2002513135635476774/video/1",
+              "media_key": "13_2002512196002004992",
+              "start": 87,
+              "url": "https://t.co/TZtrcicxCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002513135635476774",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 761669,
+          "like_count": 5583,
+          "quote_count": 90,
+          "reply_count": 563,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "i just don't understand how this simple search for applications can be broken in macOS https://t.co/TZtrcicxCV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 66352,
+          "listed_count": 2,
+          "media_count": 1316,
+          "tweet_count": 12437
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T20:11:50.000Z",
+        "description": "building https://t.co/oDPCa5MzdS - screen recorder with auto zoom (€15,000 rev.) | On my way to escaping 9-5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "screencharm.com",
+                "end": 32,
+                "expanded_url": "http://screencharm.com",
+                "start": 9,
+                "url": "https://t.co/oDPCa5MzdS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "screencharm.com",
+                "end": 23,
+                "expanded_url": "http://screencharm.com",
+                "start": 0,
+                "url": "https://t.co/oDPCa5MzdS"
+              }
+            ]
+          }
+        },
+        "id": "1585363525102362624",
+        "location": "Make a product demo 👉",
+        "name": "Sergey Nazarov",
+        "pinned_tweet_id": "1995237227866276197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854462751755644934/y-6BBtZp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7689,
+          "following_count": 1375,
+          "like_count": 38671,
+          "listed_count": 69,
+          "media_count": 1205,
+          "tweet_count": 9400
+        },
+        "url": "https://t.co/oDPCa5MzdS",
+        "username": "sergeynazarovx",
+        "verified": true
+      }
+    ]
+  }
+}

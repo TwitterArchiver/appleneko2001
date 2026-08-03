@@ -1,0 +1,802 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2014688009019674940",
+    "created_at": "2026-01-23T13:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T14:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014688009019674940"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "Android",
+          "probability": 0.9788,
+          "start": 48,
+          "type": "Other"
+        },
+        {
+          "end": 91,
+          "normalized_text": "iOS",
+          "probability": 0.9881,
+          "start": 89,
+          "type": "Other"
+        },
+        {
+          "end": 107,
+          "normalized_text": "bugOS 26",
+          "probability": 0.7629,
+          "start": 100,
+          "type": "Other"
+        },
+        {
+          "end": 126,
+          "normalized_text": "ColorOS 16",
+          "probability": 0.8792,
+          "start": 117,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1184431097607622656",
+          "start": 3,
+          "username": "Cartidise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014688009019674940",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014224006740574228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cartidise: we’re living in a timeline where Android is smoother AND more stable than iOS\n\nleft: bugOS 26 \nright: ColorOS 16 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19295,
+        "height": 2622,
+        "media_key": "13_2014041831466737669",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014041831466737669/img/GLI0RpiBoiznG7JH.jpg",
+        "public_metrics": {
+          "view_count": 40336
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014041831466737669/pl/ilRTXxLRZChKmxbs.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014041831466737669/vid/avc1/720x1564/90W_eD-uDDTmUtCO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014041831466737669/vid/avc1/480x1042/zfMiL7PeMbowh7d4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014041831466737669/vid/avc1/1206x2622/i842FeTHjW-mVHJj.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014041831466737669/vid/avc1/320x694/CtIg7AXvJbmTNsqi.mp4"
+          }
+        ],
+        "width": 1206
+      },
+      {
+        "duration_ms": 14280,
+        "height": 3840,
+        "media_key": "13_2014041454809849856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014041454809849856/img/FV1RLFhghDCCuNVB.jpg",
+        "public_metrics": {
+          "view_count": 14436
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014041454809849856/vid/avc1/480x1048/fBKPLxlqBdGCD1oj.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014041454809849856/vid/avc1/1756x3840/pBIdE2evTQPgxCzE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014041454809849856/pl/nn0GM1fEGzX9cHdy.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014041454809849856/vid/avc1/320x698/poeUokdKub-3057-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014041454809849856/vid/avc1/1080x2360/Rme14-Xlg0zR-eMm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014041454809849856/vid/avc1/720x1574/K8Wp0EI3lJtXLZ7F.mp4"
+          }
+        ],
+        "width": 1756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2014688009019674940",
+        "created_at": "2026-01-23T13:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014688009019674940"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "Android",
+              "probability": 0.9788,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 91,
+              "normalized_text": "iOS",
+              "probability": 0.9881,
+              "start": 89,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "bugOS 26",
+              "probability": 0.7629,
+              "start": 100,
+              "type": "Other"
+            },
+            {
+              "end": 126,
+              "normalized_text": "ColorOS 16",
+              "probability": 0.8792,
+              "start": 117,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1184431097607622656",
+              "start": 3,
+              "username": "Cartidise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014688009019674940",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014224006740574228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cartidise: we’re living in a timeline where Android is smoother AND more stable than iOS\n\nleft: bugOS 26 \nright: ColorOS 16 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014041831466737669",
+            "13_2014041454809849856"
+          ]
+        },
+        "author_id": "1184431097607622656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2014224006740574228",
+        "created_at": "2026-01-22T06:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T07:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014224006740574228"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Android",
+              "probability": 0.9831,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "iOS",
+              "probability": 0.9872,
+              "start": 74,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "bugOS 26",
+              "probability": 0.7376,
+              "start": 85,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "ColorOS 16",
+              "probability": 0.8657,
+              "start": 102,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1YtUzl0Fi",
+              "end": 136,
+              "expanded_url": "https://x.com/Cartidise/status/2014224006740574228/video/1",
+              "media_key": "13_2014041831466737669",
+              "start": 113,
+              "url": "https://t.co/E1YtUzl0Fi"
+            },
+            {
+              "display_url": "pic.x.com/E1YtUzl0Fi",
+              "end": 136,
+              "expanded_url": "https://x.com/Cartidise/status/2014224006740574228/video/1",
+              "media_key": "13_2014041454809849856",
+              "start": 113,
+              "url": "https://t.co/E1YtUzl0Fi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014224006740574228",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 102267,
+          "like_count": 1214,
+          "quote_count": 12,
+          "reply_count": 132,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "we’re living in a timeline where Android is smoother AND more stable than iOS\n\nleft: bugOS 26 \nright: ColorOS 16 https://t.co/E1YtUzl0Fi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 319,
+          "like_count": 83004,
+          "listed_count": 2,
+          "media_count": 1432,
+          "tweet_count": 13967
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-16T11:29:51.000Z",
+        "description": "tech enthusiast and critic • i use both Android and iPhone • i love photography • cartidisenoah@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cartidise",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/cartidise",
+                "start": 0,
+                "url": "https://t.co/bKGr0aT8sw"
+              }
+            ]
+          }
+        },
+        "id": "1184431097607622656",
+        "location": "India",
+        "name": "Noah Cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508471348225445894/BXKkR232_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18184,
+          "following_count": 497,
+          "like_count": 269971,
+          "listed_count": 102,
+          "media_count": 10988,
+          "tweet_count": 99457
+        },
+        "url": "https://t.co/bKGr0aT8sw",
+        "username": "Cartidise",
+        "verified": true
+      }
+    ]
+  }
+}

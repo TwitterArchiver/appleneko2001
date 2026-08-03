@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2030391238067916994",
+    "created_at": "2026-03-09T03:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030849765374894200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        },
+        {
+          "end": 25,
+          "id": "1343151486432399360",
+          "start": 14,
+          "username": "StarryNoct"
+        },
+        {
+          "end": 40,
+          "id": "1792759159525654528",
+          "start": 26,
+          "username": "ruofeng222299"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030849765374894200",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030527897509962139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 @StarryNoct @ruofeng222299 可是死掉的话 大家就更绝望了……\n毕竟 有那么多人希望妳好好的……\n这个世界 有喜欢咱们的人 也会有那一部分人不喜欢咱……如果能解除误会是最好的 但如果解除不了就无视吧……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2030527897509962139].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2030527897509962139",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2030527897509962139"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2030391238067916994",
+        "created_at": "2026-03-09T03:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030849765374894200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            },
+            {
+              "end": 25,
+              "id": "1343151486432399360",
+              "start": 14,
+              "username": "StarryNoct"
+            },
+            {
+              "end": 40,
+              "id": "1792759159525654528",
+              "start": 26,
+              "username": "ruofeng222299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030849765374894200",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030527897509962139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 @StarryNoct @ruofeng222299 可是死掉的话 大家就更绝望了……\n毕竟 有那么多人希望妳好好的……\n这个世界 有喜欢咱们的人 也会有那一部分人不喜欢咱……如果能解除误会是最好的 但如果解除不了就无视吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2030675652933021830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 360,
+          "like_count": 98358,
+          "listed_count": 3,
+          "media_count": 1571,
+          "tweet_count": 15904
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜2.25炸柜 家长不管党｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说｜给这当QQ空间用了 QQ不能说的在这说 记录日常喵(负能量慎入)💤｜锁推 淡推",
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2028452480904995147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 1505,
+          "like_count": 6796,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 9792
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜死肥宅｜焦虑中｜回fo可私信｜上学淡推中｜备用:@WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "location": "家里蹲大学",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2028791660633809274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010128259632246787/gmu_tLwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 80,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1529
+        },
+        "username": "StarryNoct",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T03:27:57.000Z",
+        "description": "2009.4.16出生/2023.5.12hrt /喜欢帅哥喜欢弹吉他/视频调色/剪辑/blender建模/17岁/不想成年/infp小蝴蝶🦋/qq：1162838918欢迎加/目前在视奸某位陷入迷途的姐姐@YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1792759159525654528",
+        "location": "china",
+        "name": "沈月🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029533973698015232/XXenqAiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 151,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 184
+        },
+        "username": "ruofeng222299",
+        "verified": false
+      }
+    ]
+  }
+}

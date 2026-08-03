@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2002645476198269140",
+    "created_at": "2025-12-21T18:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T19:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002810875594588614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572209604804878338",
+          "start": 0,
+          "username": "about_config01"
+        },
+        {
+          "end": 23,
+          "id": "1468298589709697024",
+          "start": 16,
+          "username": "zhbl01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002810875594588614",
+    "in_reply_to_user_id": "1572209604804878338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002773844197519663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@about_config01 @zhbl01 那也比youtube 好多了吧 更何況這個專案的本意是為了存檔內容 又不是完美 我是覺得知足"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2002645476198269140",
+        "created_at": "2025-12-21T18:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T19:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002810875594588614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572209604804878338",
+              "start": 0,
+              "username": "about_config01"
+            },
+            {
+              "end": 23,
+              "id": "1468298589709697024",
+              "start": 16,
+              "username": "zhbl01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002810875594588614",
+        "in_reply_to_user_id": "1572209604804878338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002773844197519663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@about_config01 @zhbl01 那也比youtube 好多了吧 更何況這個專案的本意是為了存檔內容 又不是完美 我是覺得知足"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572209604804878338",
+        "conversation_id": "2002645476198269140",
+        "created_at": "2025-12-21T16:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002773844197519663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1468298589709697024",
+              "start": 0,
+              "username": "zhbl01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002773844197519663",
+        "in_reply_to_user_id": "1468298589709697024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 645,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002645476198269140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhbl01 160kbit？這能聽？我還不如去聽我家貓抓玻璃去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 66345,
+          "listed_count": 2,
+          "media_count": 1316,
+          "tweet_count": 12435
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T13:02:47.000Z",
+        "description": "",
+        "id": "1572209604804878338",
+        "name": "名稱不可為空白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933205166268035072/Zu21L4S4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 40,
+          "like_count": 1996,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 2231
+        },
+        "username": "about_config01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:17:32.000Z",
+        "description": "分享来自互联网的暴论",
+        "id": "1468298589709697024",
+        "name": "纵横暴论 (原知乎暴论) 💙💛 🏳️‍🌈",
+        "pinned_tweet_id": "1967394041093562427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967392969415344128/BwclLSAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146898,
+          "following_count": 185,
+          "like_count": 976,
+          "listed_count": 354,
+          "media_count": 1362,
+          "tweet_count": 2713
+        },
+        "username": "zhbl01",
+        "verified": true
+      }
+    ]
+  }
+}

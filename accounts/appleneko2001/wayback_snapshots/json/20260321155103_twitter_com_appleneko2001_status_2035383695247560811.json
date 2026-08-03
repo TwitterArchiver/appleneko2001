@@ -1,0 +1,598 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2035383695247560811",
+    "created_at": "2026-03-21T15:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035383695247560811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mwdxj29477/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/mwdxj29477/status/2035373157021073846",
+          "start": 22,
+          "url": "https://t.co/DBAgaZNd7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035383695247560811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035373157021073846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猜猜为什么我把多亲3Ultra的屏幕换掉了 https://t.co/DBAgaZNd7n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035373068596686848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8ZBaMaMAAZLeA.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035373145386074112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8ZF4QbQAAVdNj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035373150968672256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8ZGNDa8AARum-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035373130223583232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8ZE_xaAAAf9Vv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2035383695247560811",
+        "created_at": "2026-03-21T15:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035383695247560811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mwdxj29477/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/mwdxj29477/status/2035373157021073846",
+              "start": 22,
+              "url": "https://t.co/DBAgaZNd7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035383695247560811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035373157021073846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猜猜为什么我把多亲3Ultra的屏幕换掉了 https://t.co/DBAgaZNd7n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035373068596686848",
+            "3_2035373145386074112",
+            "3_2035373150968672256",
+            "3_2035373130223583232"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2035373157021073846",
+        "created_at": "2026-03-21T15:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035373157021073846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uep5PAof98",
+              "end": 180,
+              "expanded_url": "https://x.com/mwdxj29477/status/2035373157021073846/photo/1",
+              "media_key": "3_2035373068596686848",
+              "start": 157,
+              "url": "https://t.co/uep5PAof98"
+            },
+            {
+              "display_url": "pic.x.com/uep5PAof98",
+              "end": 180,
+              "expanded_url": "https://x.com/mwdxj29477/status/2035373157021073846/photo/1",
+              "media_key": "3_2035373145386074112",
+              "start": 157,
+              "url": "https://t.co/uep5PAof98"
+            },
+            {
+              "display_url": "pic.x.com/uep5PAof98",
+              "end": 180,
+              "expanded_url": "https://x.com/mwdxj29477/status/2035373157021073846/photo/1",
+              "media_key": "3_2035373150968672256",
+              "start": 157,
+              "url": "https://t.co/uep5PAof98"
+            },
+            {
+              "display_url": "pic.x.com/uep5PAof98",
+              "end": 180,
+              "expanded_url": "https://x.com/mwdxj29477/status/2035373157021073846/photo/1",
+              "media_key": "3_2035373130223583232",
+              "start": 157,
+              "url": "https://t.co/uep5PAof98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035373157021073846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 863,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直有部有激活锁不能用的iPhone SE 2\nSE2也有ip67防水，所以我就试试了泡水🥲\n刚浸泡两分钟就屏幕进水了😿（图1）两分半更严重了😨（图2）3分多就稍微有花屏了😰（图3），五分钟完全黑屏了（图4）\n过几分钟手机彻底死了\n(大家千万不要模仿😰)\n(我做此事纯属好奇😭)\n本来这部手机就没用，毁掉算了😺 https://t.co/uep5PAof98"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2031397929580376199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 362,
+          "like_count": 99529,
+          "listed_count": 3,
+          "media_count": 1574,
+          "tweet_count": 16073
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/Hrt🍥01.28.2026/无证含糖/泛性恋?/家长反对党😭/炸柜💥03.12/11.13.2011出厂/INFP-T/161cm51kg41码/M Sub/初二牲/成绩倒数的废物/只玩MC/视成分互fo/TG:https://t.co/fG6XzUT3Y3 😭乞讨😭",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 137,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 114,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省/孝感市/汉川市",
+        "name": "Unk.🍥",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031819030181650432/_OhFSDa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 990,
+          "like_count": 10292,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

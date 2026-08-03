@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Microsoft Edge",
+          "id": "10052778497",
+          "name": "Microsoft Edge"
+        }
+      }
+    ],
+    "conversation_id": "1988174274923032685",
+    "created_at": "2025-11-19T10:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T11:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991092372097437981"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 78,
+          "normalized_text": "adblockers",
+          "probability": 0.509,
+          "start": 69,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "709522933090279424",
+          "start": 0,
+          "username": "Moe_Monk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991092372097437981",
+    "in_reply_to_user_id": "709522933090279424",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991091526529659342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moe_Monk time to just use browser only, without bunch of stuff like adblockers and privacy\nthose words being meanless in nowadays for sure and my first thought seeing brave as like microsoft edge"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft Edge",
+              "id": "10052778497",
+              "name": "Microsoft Edge"
+            }
+          }
+        ],
+        "conversation_id": "1988174274923032685",
+        "created_at": "2025-11-19T10:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991092372097437981"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "adblockers",
+              "probability": 0.509,
+              "start": 69,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "709522933090279424",
+              "start": 0,
+              "username": "Moe_Monk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991092372097437981",
+        "in_reply_to_user_id": "709522933090279424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991091526529659342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moe_Monk time to just use browser only, without bunch of stuff like adblockers and privacy\nthose words being meanless in nowadays for sure and my first thought seeing brave as like microsoft edge"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "709522933090279424",
+        "conversation_id": "1988174274923032685",
+        "created_at": "2025-11-19T10:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991091526529659342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991091526529659342",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991091194416279928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 Yes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2Vc2w"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 267,
+          "like_count": 65879,
+          "listed_count": 2,
+          "media_count": 1305,
+          "tweet_count": 12357
+        },
+        "url": "https://t.co/dCd4v2Vc2w",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-14T23:33:44.000Z",
+        "description": "Angelic Moë Monk",
+        "id": "709522933090279424",
+        "location": "Cocoa's House ",
+        "name": "Suno",
+        "pinned_tweet_id": "1354558020181782530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741731765968855040/CgaSgvan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 118,
+          "like_count": 197596,
+          "listed_count": 2,
+          "media_count": 5545,
+          "tweet_count": 40164
+        },
+        "username": "Moe_Monk",
+        "verified": false
+      }
+    ]
+  }
+}

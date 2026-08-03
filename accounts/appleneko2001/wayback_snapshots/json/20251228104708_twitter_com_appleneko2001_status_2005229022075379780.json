@@ -1,0 +1,651 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856562205210198020",
+          "name": "Five Nights at Freddy's"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "856562205210198020",
+          "name": "Five Nights at Freddy's"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899742686642203",
+          "name": "Point & click games"
+        }
+      }
+    ],
+    "conversation_id": "2005229022075379780",
+    "created_at": "2025-12-28T10:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T11:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005229022075379780"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "NIGHTS",
+          "probability": 0.7821,
+          "start": 22,
+          "type": "Other"
+        },
+        {
+          "end": 52,
+          "normalized_text": "fnaf 4",
+          "probability": 0.8294,
+          "start": 47,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491680812592508928",
+          "start": 3,
+          "username": "ElfzGamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005229022075379780",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3877
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004706354033033439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElfzGamer: - FIVE NIGHTS INCARCERATED - \na fnaf 4 remake\nhere is a game dev look at what this game will look like with the new spooky c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21504,
+        "height": 1080,
+        "media_key": "13_2004704566915354624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004704566915354624/img/xEC9i2ZCjqo4HRDl.jpg",
+        "public_metrics": {
+          "view_count": 399999
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004704566915354624/vid/avc1/480x270/I_1o7ulHA0cTiL_a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004704566915354624/vid/avc1/640x360/tiLYw1R0wb4ZT4vD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004704566915354624/vid/avc1/1280x720/-kebCWySM3955MFC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004704566915354624/pl/fT0CC-njV-32FaU1.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856562205210198020",
+              "name": "Five Nights at Freddy's"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856562205210198020",
+              "name": "Five Nights at Freddy's"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899742686642203",
+              "name": "Point & click games"
+            }
+          }
+        ],
+        "conversation_id": "2005229022075379780",
+        "created_at": "2025-12-28T10:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005229022075379780"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "NIGHTS",
+              "probability": 0.7821,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "fnaf 4",
+              "probability": 0.8294,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491680812592508928",
+              "start": 3,
+              "username": "ElfzGamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005229022075379780",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3877
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004706354033033439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElfzGamer: - FIVE NIGHTS INCARCERATED - \na fnaf 4 remake\nhere is a game dev look at what this game will look like with the new spooky c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004704566915354624"
+          ]
+        },
+        "author_id": "1491680812592508928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856562205210198020",
+              "name": "Five Nights at Freddy's"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856562205210198020",
+              "name": "Five Nights at Freddy's"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899742686642203",
+              "name": "Point & click games"
+            }
+          }
+        ],
+        "conversation_id": "2004706354033033439",
+        "created_at": "2025-12-27T00:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T01:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004706354033033439"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "FIVE NIGHTS",
+              "probability": 0.6682,
+              "start": 2,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "fnaf 4",
+              "probability": 0.8101,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 163,
+              "normalized_text": "fnaf 4",
+              "probability": 0.8663,
+              "start": 158,
+              "type": "Other"
+            },
+            {
+              "end": 268,
+              "normalized_text": "FNAF",
+              "probability": 0.769,
+              "start": 265,
+              "type": "Other"
+            },
+            {
+              "end": 274,
+              "normalized_text": "FNIC",
+              "probability": 0.7861,
+              "start": 271,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 269,
+              "start": 264,
+              "tag": "FNAF"
+            },
+            {
+              "end": 275,
+              "start": 270,
+              "tag": "FNIC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pljREzt6Tf",
+              "end": 299,
+              "expanded_url": "https://x.com/ElfzGamer/status/2004706354033033439/video/1",
+              "media_key": "13_2004704566915354624",
+              "start": 276,
+              "url": "https://t.co/pljREzt6Tf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004706354033033439",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11887,
+          "impression_count": 902908,
+          "like_count": 35883,
+          "quote_count": 156,
+          "reply_count": 207,
+          "retweet_count": 3877
+        },
+        "reply_settings": "everyone",
+        "text": "- FIVE NIGHTS INCARCERATED - \na fnaf 4 remake\nhere is a game dev look at what this game will look like with the new spooky creatures.\n\nThis is a retelling of fnaf 4 but very diffrent with the story, i will not spoil to much though, but enjoy your little teaser =3\n#FNAF #FNIC https://t.co/pljREzt6Tf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 272,
+          "like_count": 68080,
+          "listed_count": 2,
+          "media_count": 1323,
+          "tweet_count": 12602
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T07:51:09.000Z",
+        "description": "A Goofy person who makes the dumbest things for people on the internet =3\n3D & 2D Artist / Modeler / Singer \nBlender/Sfm Animator\nCOMMISIONS 0/7 (OPEN)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Elfzgamer",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Elfzgamer",
+                "start": 0,
+                "url": "https://t.co/Ae1RVXU8mI"
+              }
+            ]
+          }
+        },
+        "id": "1491680812592508928",
+        "name": "𝗘𝗟𝗙𝗭𝗚𝗔𝗠𝗘𝗥",
+        "pinned_tweet_id": "1929263601556058606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003821598650888192/a1xyMewT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10467,
+          "following_count": 266,
+          "like_count": 22278,
+          "listed_count": 9,
+          "media_count": 463,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/Ae1RVXU8mI",
+        "username": "ElfzGamer",
+        "verified": false
+      }
+    ]
+  }
+}

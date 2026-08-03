@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2010750089690558785",
+    "created_at": "2026-01-12T16:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010750089690558785"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Windows",
+          "probability": 0.9641,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 129,
+          "normalized_text": "Wi-Fi",
+          "probability": 0.568,
+          "start": 125,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1955437503877406720",
+          "start": 3,
+          "username": "Om_Codes_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010750089690558785",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010626008882491437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Om_Codes_: This Windows bug is seriously unacceptable.\n\nLast year, I had an exam scheduled at 9 AM.\nAt 8 AM, my laptop’s Wi-Fi suddenly…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 422,
+        "media_key": "3_2010626005791342592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ctsxNbAAADnWk.jpg",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2010750089690558785",
+        "created_at": "2026-01-12T16:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010750089690558785"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Windows",
+              "probability": 0.9641,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "Wi-Fi",
+              "probability": 0.568,
+              "start": 125,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1955437503877406720",
+              "start": 3,
+              "username": "Om_Codes_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010750089690558785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010626008882491437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Om_Codes_: This Windows bug is seriously unacceptable.\n\nLast year, I had an exam scheduled at 9 AM.\nAt 8 AM, my laptop’s Wi-Fi suddenly…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010626005791342592"
+          ]
+        },
+        "author_id": "1955437503877406720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2010626008882491437",
+        "created_at": "2026-01-12T08:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010626008882491437"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Windows",
+              "probability": 0.947,
+              "start": 5,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "Wi-Fi",
+              "probability": 0.4915,
+              "start": 110,
+              "type": "Other"
+            },
+            {
+              "end": 228,
+              "normalized_text": "Ran",
+              "probability": 0.4927,
+              "start": 226,
+              "type": "Other"
+            },
+            {
+              "end": 244,
+              "normalized_text": "Windows network",
+              "probability": 0.6334,
+              "start": 230,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOj6PYjuJj",
+              "end": 295,
+              "expanded_url": "https://x.com/Om_Codes_/status/2010626008882491437/photo/1",
+              "media_key": "3_2010626005791342592",
+              "start": 272,
+              "url": "https://t.co/fOj6PYjuJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010626008882491437",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "This Windows bug is seriously unacceptable.\n\nLast year, I had an exam scheduled at 9 AM.\nAt 8 AM, my laptop’s Wi-Fi suddenly disappeared.\nNo networks. No error message. Just gone.\n\nI tried everything:\n- Restarted the system\n- Ran Windows network\n- troubleshooting\n- Tried different fixes from Windows resolver\n- Reinstalled the Wi-Fi driver\n- Reset network settings\n- At one point, I genuinely thought it was a hardware issue and even banged the laptop out of frustration.\n\nAfter 2 hours, the Wi-Fi came back ..probably after reinstalling drivers or some reset.\nOf course, this happened after the exam time.\nI ended up completing the exam on my phone. Luckily, it was only an internal exam.\n\nBut imagine if this had been a job interview or a coding assessment.\nMonths of preparation ruined because an operating system decided to fail at the worst possible moment.\n\nSystem reliability shouldn’t be a gamble when real opportunities are on the line."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 569,
+          "impression_count": 338963,
+          "like_count": 7881,
+          "quote_count": 86,
+          "reply_count": 489,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "This Windows bug is seriously unacceptable.\n\nLast year, I had an exam scheduled at 9 AM.\nAt 8 AM, my laptop’s Wi-Fi suddenly disappeared.\nNo networks. No error message. Just gone.\n\nI tried everything:\n- Restarted the system\n- Ran Windows network\n- troubleshooting\n- Tried https://t.co/fOj6PYjuJj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 282,
+          "like_count": 75393,
+          "listed_count": 2,
+          "media_count": 1376,
+          "tweet_count": 13168
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T01:13:59.000Z",
+        "description": "Software Engineer x Gym",
+        "id": "1955437503877406720",
+        "location": "localhost:3000",
+        "name": "Om",
+        "pinned_tweet_id": "2010259103801872561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967440530591367168/iYJZ8ygx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5109,
+          "following_count": 189,
+          "like_count": 2278,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1298
+        },
+        "username": "Om_Codes_",
+        "verified": true
+      }
+    ]
+  }
+}

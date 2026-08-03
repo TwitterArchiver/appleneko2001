@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030553797374943232"
+      ],
+      "media_source_tweet_id": [
+        "2030554001293685058"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "2030649609853473204",
+    "created_at": "2026-03-08T14:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030649609853473204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1252826404279836672",
+          "start": 3,
+          "username": "sansei_rain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zzXtUREF63",
+          "end": 61,
+          "expanded_url": "https://x.com/sansei_rain/status/2030554001293685058/photo/1",
+          "media_key": "3_2030553797374943232",
+          "start": 38,
+          "url": "https://t.co/zzXtUREF63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030649609853473204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030554001293685058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sansei_rain: メイドナツ。仕事はスイーツを食べること。 https://t.co/zzXtUREF63"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2030553797374943232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC35653aoAA-t6c.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030553797374943232"
+          ],
+          "media_source_tweet_id": [
+            "2030554001293685058"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2030649609853473204",
+        "created_at": "2026-03-08T14:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030649609853473204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1252826404279836672",
+              "start": 3,
+              "username": "sansei_rain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzXtUREF63",
+              "end": 61,
+              "expanded_url": "https://x.com/sansei_rain/status/2030554001293685058/photo/1",
+              "media_key": "3_2030553797374943232",
+              "start": 38,
+              "url": "https://t.co/zzXtUREF63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030649609853473204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030554001293685058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sansei_rain: メイドナツ。仕事はスイーツを食べること。 https://t.co/zzXtUREF63"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030553797374943232"
+          ]
+        },
+        "author_id": "1252826404279836672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2030554001293685058",
+        "created_at": "2026-03-08T07:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030554001293685058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzXtUREF63",
+              "end": 44,
+              "expanded_url": "https://x.com/sansei_rain/status/2030554001293685058/photo/1",
+              "media_key": "3_2030553797374943232",
+              "start": 21,
+              "url": "https://t.co/zzXtUREF63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030554001293685058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 14800,
+          "like_count": 1329,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "メイドナツ。仕事はスイーツを食べること。 https://t.co/zzXtUREF63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 359,
+          "like_count": 98277,
+          "listed_count": 3,
+          "media_count": 1571,
+          "tweet_count": 15886
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T05:07:57.000Z",
+        "description": "名前の読み方\"てんもんはらだ\"です。\n会社員やりながら同人誌を描いて過ごしてます。\nイラストのお仕事、ご相談など何かありましたらＤＭまでご連絡ください。\n◇pixiv：https://t.co/wjBMoebHEn\n◇skeb：https://t.co/BrTvgn7ljI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9936926",
+                "end": 107,
+                "expanded_url": "https://www.pixiv.net/users/9936926",
+                "start": 84,
+                "url": "https://t.co/wjBMoebHEn"
+              },
+              {
+                "display_url": "skeb.jp/@sansei_rain",
+                "end": 137,
+                "expanded_url": "https://skeb.jp/@sansei_rain",
+                "start": 114,
+                "url": "https://t.co/BrTvgn7ljI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "misskey.io/@sansei_rain",
+                "end": 23,
+                "expanded_url": "http://misskey.io/@sansei_rain",
+                "start": 0,
+                "url": "https://t.co/cnWaL9vyna"
+              }
+            ]
+          }
+        },
+        "id": "1252826404279836672",
+        "location": "メール：uokoyoko@yahoo.co.jp",
+        "name": "天文はらだ@せんアカ15【ん106】明日は雨です",
+        "pinned_tweet_id": "2028810970991345891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936543129689034752/VCEVLDRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32006,
+          "following_count": 404,
+          "like_count": 51767,
+          "listed_count": 314,
+          "media_count": 1136,
+          "tweet_count": 27701
+        },
+        "url": "https://t.co/cnWaL9vyna",
+        "username": "sansei_rain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2010396169474838754",
+    "created_at": "2026-01-12T06:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T07:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010597638194999526"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "VM",
+          "probability": 0.7424,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 119,
+          "normalized_text": "USB",
+          "probability": 0.4005,
+          "start": 117,
+          "type": "Other"
+        },
+        {
+          "end": 139,
+          "normalized_text": "Tried",
+          "probability": 0.6128,
+          "start": 135,
+          "type": "Other"
+        },
+        {
+          "end": 156,
+          "normalized_text": "SteamVR",
+          "probability": 0.8797,
+          "start": 150,
+          "type": "Other"
+        },
+        {
+          "end": 162,
+          "normalized_text": "VM",
+          "probability": 0.7811,
+          "start": 161,
+          "type": "Other"
+        },
+        {
+          "end": 187,
+          "normalized_text": "USB",
+          "probability": 0.379,
+          "start": 185,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "373078185",
+          "start": 0,
+          "username": "Spice_002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010597638194999526",
+    "in_reply_to_user_id": "373078185",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010596087187554348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spice_002 Yea\nAlso I tried VM solution but too much pass through tricks and somehow it makes even worse, especially USB pass through \nTried once use SteamVR in VM barely works but the USB devices always link down and unstable"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2010396169474838754",
+        "created_at": "2026-01-12T06:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010597638194999526"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "VM",
+              "probability": 0.7424,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 119,
+              "normalized_text": "USB",
+              "probability": 0.4005,
+              "start": 117,
+              "type": "Other"
+            },
+            {
+              "end": 139,
+              "normalized_text": "Tried",
+              "probability": 0.6128,
+              "start": 135,
+              "type": "Other"
+            },
+            {
+              "end": 156,
+              "normalized_text": "SteamVR",
+              "probability": 0.8797,
+              "start": 150,
+              "type": "Other"
+            },
+            {
+              "end": 162,
+              "normalized_text": "VM",
+              "probability": 0.7811,
+              "start": 161,
+              "type": "Other"
+            },
+            {
+              "end": 187,
+              "normalized_text": "USB",
+              "probability": 0.379,
+              "start": 185,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "373078185",
+              "start": 0,
+              "username": "Spice_002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010597638194999526",
+        "in_reply_to_user_id": "373078185",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010596087187554348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spice_002 Yea\nAlso I tried VM solution but too much pass through tricks and somehow it makes even worse, especially USB pass through \nTried once use SteamVR in VM barely works but the USB devices always link down and unstable"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "373078185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          }
+        ],
+        "conversation_id": "2010396169474838754",
+        "created_at": "2026-01-12T06:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010596087187554348"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Ubuntu",
+              "probability": 0.9716,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 80,
+              "normalized_text": "Debian",
+              "probability": 0.7404,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 140,
+              "normalized_text": "Mint",
+              "probability": 0.4737,
+              "start": 137,
+              "type": "Other"
+            },
+            {
+              "end": 178,
+              "normalized_text": "Windows",
+              "probability": 0.9424,
+              "start": 172,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010596087187554348",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010568451690262795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 Honestly, after I used Ubuntu for half a year I switched to Debian and haven't tried anything else (apart from setting up Mint for an older relative). I use Windows full time currently though, because there are some pretty critical programs I can't run at all with Wine/Proton."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 282,
+          "like_count": 75074,
+          "listed_count": 2,
+          "media_count": 1373,
+          "tweet_count": 13140
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-13T23:25:00.000Z",
+        "description": "I do stuff sometimes.",
+        "id": "373078185",
+        "name": "黒い楓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/648033871464787968/EMxFo-Qo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 7015,
+          "like_count": 15809,
+          "listed_count": 6,
+          "media_count": 313,
+          "tweet_count": 8841
+        },
+        "username": "Spice_002",
+        "verified": false
+      }
+    ]
+  }
+}

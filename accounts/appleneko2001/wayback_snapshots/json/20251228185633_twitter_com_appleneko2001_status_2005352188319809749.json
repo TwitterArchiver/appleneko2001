@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357430100367605760",
+          "name": "UX design"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2005215235997913510",
+    "created_at": "2025-12-28T18:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T19:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005352188319809749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "997619727680835584",
+          "start": 0,
+          "username": "onliviane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005352188319809749",
+    "in_reply_to_user_id": "997619727680835584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005350764051566834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onliviane 好像不用iframe也會觸發 我經歷過…現在也忘了 \n我現在也試著自己製作UI/UX 不過是用sveltekit 我應該早晚會重新遇到這個bug 但願我有解決方案吧 沒有就亂搞一通試試"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357430100367605760",
+              "name": "UX design"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2005215235997913510",
+        "created_at": "2025-12-28T18:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T19:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005352188319809749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "997619727680835584",
+              "start": 0,
+              "username": "onliviane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005352188319809749",
+        "in_reply_to_user_id": "997619727680835584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005350764051566834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onliviane 好像不用iframe也會觸發 我經歷過…現在也忘了 \n我現在也試著自己製作UI/UX 不過是用sveltekit 我應該早晚會重新遇到這個bug 但願我有解決方案吧 沒有就亂搞一通試試"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "997619727680835584",
+        "conversation_id": "2005215235997913510",
+        "created_at": "2025-12-28T18:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T19:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005350764051566834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005350764051566834",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005348766375973340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 以及拖拽状态下 pointerout, pointerleave, mouseup, pointerup 的触发全部有问题。\n\n理论上 dragend 不应该有问题，但当拖拽被取消（比方说对着选中文本移动很短的距离）的时候不会触发 dragend，于是就卡在那了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 272,
+          "like_count": 68281,
+          "listed_count": 2,
+          "media_count": 1325,
+          "tweet_count": 12625
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-18T23:27:32.000Z",
+        "description": "你赢了，我同意接受所有 Cookies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.clickfling.top",
+                "end": 23,
+                "expanded_url": "https://blog.clickfling.top",
+                "start": 0,
+                "url": "https://t.co/rvh4uVpOHz"
+              }
+            ]
+          }
+        },
+        "id": "997619727680835584",
+        "location": "240e:100::/28",
+        "name": "onliviane🍃",
+        "pinned_tweet_id": "1221091177971077121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816488086467223552/EY8Ama0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 1496,
+          "like_count": 10463,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/rvh4uVpOHz",
+        "username": "onliviane",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2023308448340070552",
+    "created_at": "2026-02-16T08:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023308448340070552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1203033790362406914",
+          "start": 3,
+          "username": "sorenblank"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023308448340070552",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023214633298039149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sorenblank: prediction cone/safe triangle — this is something we take so much for granted in modern day native UIs.\n\nbut it's not the s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18800,
+        "height": 2160,
+        "media_key": "13_2023210565259481088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023210565259481088/img/2ASw20x_JEcIxAqQ.jpg",
+        "public_metrics": {
+          "view_count": 75061
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023210565259481088/vid/avc1/336x270/an9kW9NG9RBDJw6T.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023210565259481088/vid/avc1/900x720/ER0HJ3LxvDUkISfz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023210565259481088/pl/rlPLQSw8U9q25mqc.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023210565259481088/vid/avc1/2700x2160/ClEJyc8fndYbWjA9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023210565259481088/vid/avc1/450x360/zhhDOSdEzsNKTAGT.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023210565259481088/vid/avc1/1350x1080/YWweWaYE08xrTWv_.mp4"
+          }
+        ],
+        "width": 2700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2023308448340070552",
+        "created_at": "2026-02-16T08:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023308448340070552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1203033790362406914",
+              "start": 3,
+              "username": "sorenblank"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023308448340070552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023214633298039149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sorenblank: prediction cone/safe triangle — this is something we take so much for granted in modern day native UIs.\n\nbut it's not the s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023210565259481088"
+          ]
+        },
+        "author_id": "1203033790362406914",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Amazon - AI",
+              "id": "10050907867",
+              "name": "Amazon - AI"
+            }
+          }
+        ],
+        "conversation_id": "2023214633298039149",
+        "created_at": "2026-02-16T01:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023214633298039149"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 211,
+              "normalized_text": "Amazon",
+              "probability": 0.9629,
+              "start": 206,
+              "type": "Organization"
+            },
+            {
+              "end": 218,
+              "normalized_text": "macOS",
+              "probability": 0.7464,
+              "start": 214,
+              "type": "Other"
+            },
+            {
+              "end": 227,
+              "normalized_text": "Windows",
+              "probability": 0.9583,
+              "start": 221,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jG9pqLWxCE",
+              "end": 288,
+              "expanded_url": "https://x.com/sorenblank/status/2023214633298039149/video/1",
+              "media_key": "13_2023210565259481088",
+              "start": 265,
+              "url": "https://t.co/jG9pqLWxCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023214633298039149",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2047,
+          "impression_count": 150171,
+          "like_count": 3829,
+          "quote_count": 24,
+          "reply_count": 62,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "prediction cone/safe triangle — this is something we take so much for granted in modern day native UIs.\n\nbut it's not the same for most web-based dropdown menus. it took me a while to implement this here.\n\nAmazon, macOS, Windows all implement some version of this. https://t.co/jG9pqLWxCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 328,
+          "like_count": 90063,
+          "listed_count": 2,
+          "media_count": 1489,
+          "tweet_count": 14655
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T19:29:49.000Z",
+        "description": "21 • design eng",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sorenblank.com",
+                "end": 23,
+                "expanded_url": "https://sorenblank.com",
+                "start": 0,
+                "url": "https://t.co/CYw0b4uwqU"
+              }
+            ]
+          }
+        },
+        "id": "1203033790362406914",
+        "name": "Soren",
+        "pinned_tweet_id": "1976394237899047313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966223633124306948/z6mSaCz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4327,
+          "following_count": 574,
+          "like_count": 46817,
+          "listed_count": 75,
+          "media_count": 1221,
+          "tweet_count": 10503
+        },
+        "url": "https://t.co/CYw0b4uwqU",
+        "username": "sorenblank",
+        "verified": true
+      }
+    ]
+  }
+}

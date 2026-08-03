@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022284539968548864"
+      ],
+      "media_source_tweet_id": [
+        "2022284541965054135"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2022362139915415899",
+    "created_at": "2026-02-13T17:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T18:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022362139915415899"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "NTSC",
+          "probability": 0.6846,
+          "start": 24,
+          "type": "Organization"
+        },
+        {
+          "end": 35,
+          "normalized_text": "VHS",
+          "probability": 0.6166,
+          "start": 33,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1326180756310331399",
+          "start": 3,
+          "username": "tom_doerr"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX). - ntsc-rs/ntsc-rs",
+          "display_url": "github.com/ntsc-rs/ntsc-rs",
+          "end": 77,
+          "expanded_url": "https://github.com/ntsc-rs/ntsc-rs",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2021577849308590080/6AiG9x7K?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2021577849308590080/6AiG9x7K?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "GitHub - ntsc-rs/ntsc-rs: Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).",
+          "unwound_url": "https://github.com/ntsc-rs/ntsc-rs",
+          "url": "https://t.co/xtLbWkSxlG"
+        },
+        {
+          "display_url": "pic.x.com/LoiMv7aDHI",
+          "end": 101,
+          "expanded_url": "https://x.com/tom_doerr/status/2022284541965054135/photo/1",
+          "media_key": "3_2022284539968548864",
+          "start": 78,
+          "url": "https://t.co/LoiMv7aDHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022362139915415899",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022284541965054135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tom_doerr: Emulates NTSC and VHS video artifacts\n\nhttps://t.co/xtLbWkSxlG https://t.co/LoiMv7aDHI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2022284539968548864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCZExeW8AAJkaB.png",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022284539968548864"
+          ],
+          "media_source_tweet_id": [
+            "2022284541965054135"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2022362139915415899",
+        "created_at": "2026-02-13T17:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022362139915415899"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "NTSC",
+              "probability": 0.6846,
+              "start": 24,
+              "type": "Organization"
+            },
+            {
+              "end": 35,
+              "normalized_text": "VHS",
+              "probability": 0.6166,
+              "start": 33,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1326180756310331399",
+              "start": 3,
+              "username": "tom_doerr"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX). - ntsc-rs/ntsc-rs",
+              "display_url": "github.com/ntsc-rs/ntsc-rs",
+              "end": 77,
+              "expanded_url": "https://github.com/ntsc-rs/ntsc-rs",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2021577849308590080/6AiG9x7K?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021577849308590080/6AiG9x7K?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "GitHub - ntsc-rs/ntsc-rs: Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).",
+              "unwound_url": "https://github.com/ntsc-rs/ntsc-rs",
+              "url": "https://t.co/xtLbWkSxlG"
+            },
+            {
+              "display_url": "pic.x.com/LoiMv7aDHI",
+              "end": 101,
+              "expanded_url": "https://x.com/tom_doerr/status/2022284541965054135/photo/1",
+              "media_key": "3_2022284539968548864",
+              "start": 78,
+              "url": "https://t.co/LoiMv7aDHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022362139915415899",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022284541965054135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tom_doerr: Emulates NTSC and VHS video artifacts\n\nhttps://t.co/xtLbWkSxlG https://t.co/LoiMv7aDHI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022284539968548864"
+          ]
+        },
+        "author_id": "1326180756310331399",
+        "conversation_id": "2022284541965054135",
+        "created_at": "2026-02-13T12:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022284541965054135"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "NTSC",
+              "probability": 0.6043,
+              "start": 9,
+              "type": "Organization"
+            },
+            {
+              "end": 20,
+              "normalized_text": "VHS",
+              "probability": 0.5807,
+              "start": 18,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX). - ntsc-rs/ntsc-rs",
+              "display_url": "github.com/ntsc-rs/ntsc-rs",
+              "end": 62,
+              "expanded_url": "https://github.com/ntsc-rs/ntsc-rs",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2021577849308590080/6AiG9x7K?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021577849308590080/6AiG9x7K?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "GitHub - ntsc-rs/ntsc-rs: Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).",
+              "unwound_url": "https://github.com/ntsc-rs/ntsc-rs",
+              "url": "https://t.co/xtLbWkSxlG"
+            },
+            {
+              "display_url": "pic.x.com/LoiMv7aDHI",
+              "end": 86,
+              "expanded_url": "https://x.com/tom_doerr/status/2022284541965054135/photo/1",
+              "media_key": "3_2022284539968548864",
+              "start": 63,
+              "url": "https://t.co/LoiMv7aDHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022284541965054135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 8254,
+          "like_count": 421,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Emulates NTSC and VHS video artifacts\n\nhttps://t.co/xtLbWkSxlG https://t.co/LoiMv7aDHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 326,
+          "like_count": 89170,
+          "listed_count": 2,
+          "media_count": 1485,
+          "tweet_count": 14535
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-10T15:13:32.000Z",
+        "description": "Follow for posts about GitHub repos, DSPy, and agents\nSubscribe for top posts\nDM to share your AI project (Due to volume of DMs I'll prioritize subscribers)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tom-doerr.github.io/repo_posts/",
+                "end": 23,
+                "expanded_url": "https://tom-doerr.github.io/repo_posts/",
+                "start": 0,
+                "url": "https://t.co/WreHYiW9xe"
+              }
+            ]
+          }
+        },
+        "id": "1326180756310331399",
+        "name": "Tom Dörr",
+        "pinned_tweet_id": "1886076175178428685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905090420142379008/Ydq5So7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166216,
+          "following_count": 2491,
+          "like_count": 67515,
+          "listed_count": 1733,
+          "media_count": 21497,
+          "tweet_count": 42988
+        },
+        "url": "https://t.co/WreHYiW9xe",
+        "username": "tom_doerr",
+        "verified": true
+      }
+    ]
+  }
+}

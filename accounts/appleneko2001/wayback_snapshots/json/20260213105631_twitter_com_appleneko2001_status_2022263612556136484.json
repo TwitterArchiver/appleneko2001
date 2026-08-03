@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022074511743672320"
+      ],
+      "media_source_tweet_id": [
+        "2022074514595844456"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      }
+    ],
+    "conversation_id": "2022263612556136484",
+    "created_at": "2026-02-13T10:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022263612556136484"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "プリコネ",
+          "probability": 0.3481,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1281264017286107143",
+          "start": 3,
+          "username": "12JK8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsHXfIkUj8",
+          "end": 45,
+          "expanded_url": "https://x.com/12JK8/status/2022074514595844456/photo/1",
+          "media_key": "3_2022074511743672320",
+          "start": 22,
+          "url": "https://t.co/tsHXfIkUj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022263612556136484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022074514595844456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @12JK8: 久々にプリコネ描いた https://t.co/tsHXfIkUj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022074511743672320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_aDhXaYAA-Zyu.jpg",
+        "width": 1342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022074511743672320"
+          ],
+          "media_source_tweet_id": [
+            "2022074514595844456"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2022263612556136484",
+        "created_at": "2026-02-13T10:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022263612556136484"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "プリコネ",
+              "probability": 0.3481,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1281264017286107143",
+              "start": 3,
+              "username": "12JK8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsHXfIkUj8",
+              "end": 45,
+              "expanded_url": "https://x.com/12JK8/status/2022074514595844456/photo/1",
+              "media_key": "3_2022074511743672320",
+              "start": 22,
+              "url": "https://t.co/tsHXfIkUj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022263612556136484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022074514595844456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @12JK8: 久々にプリコネ描いた https://t.co/tsHXfIkUj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022074511743672320"
+          ]
+        },
+        "author_id": "1281264017286107143",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2022074514595844456",
+        "created_at": "2026-02-12T22:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T23:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022074514595844456"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "プリコネ",
+              "probability": 0.3607,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsHXfIkUj8",
+              "end": 34,
+              "expanded_url": "https://x.com/12JK8/status/2022074514595844456/photo/1",
+              "media_key": "3_2022074511743672320",
+              "start": 11,
+              "url": "https://t.co/tsHXfIkUj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022074514595844456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 12341,
+          "like_count": 897,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "久々にプリコネ描いた https://t.co/tsHXfIkUj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 325,
+          "like_count": 89091,
+          "listed_count": 2,
+          "media_count": 1485,
+          "tweet_count": 14520
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-09T16:28:49.000Z",
+        "description": "出逢いの数は億千万☆\n月に1~10枚イラスト描いていきたい。\nアニメキャラ、原神、ゼンゼロ、プリコネ多め。\nスケブは版権無しのみ受け付けます。https://t.co/DCoP9GiC5t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@12JK8",
+                "end": 94,
+                "expanded_url": "https://skeb.jp/@12JK8",
+                "start": 71,
+                "url": "https://t.co/DCoP9GiC5t"
+              }
+            ]
+          }
+        },
+        "id": "1281264017286107143",
+        "name": "おたま",
+        "pinned_tweet_id": "1805064732178821389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004500550973534208/Kn5RZSA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4053,
+          "following_count": 315,
+          "like_count": 5641,
+          "listed_count": 43,
+          "media_count": 625,
+          "tweet_count": 2901
+        },
+        "username": "12JK8",
+        "verified": false
+      }
+    ]
+  }
+}

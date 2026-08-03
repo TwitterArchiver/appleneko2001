@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2020875915446878608",
+    "created_at": "2026-02-11T20:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T21:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021676225807421665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1751072932556840960",
+          "start": 0,
+          "username": "SeeleDution"
+        },
+        {
+          "end": 22,
+          "id": "919038202232500224",
+          "start": 13,
+          "username": "Nodgilmo"
+        },
+        {
+          "end": 38,
+          "id": "1583731645995065344",
+          "start": 23,
+          "username": "cookiekuki0702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021676225807421665",
+    "in_reply_to_user_id": "1751072932556840960",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020875915446878608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeeleDution @Nodgilmo @cookiekuki0702 This is sick 🔥"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36566,
+        "height": 1080,
+        "media_key": "13_2020875017182130176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020875017182130176/img/P2ZfPgbYsYF_QVr0.jpg",
+        "public_metrics": {
+          "view_count": 74
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020875017182130176/vid/avc1/360x270/V39XrUwdYKvz2hrJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020875017182130176/vid/avc1/480x360/w5P2lblxY_u5VZOW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020875017182130176/vid/avc1/960x720/CpnJRgjCo54ihcY5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020875017182130176/pl/QAVxz0wIPCheN9QQ.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2020875915446878608",
+        "created_at": "2026-02-11T20:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T21:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021676225807421665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1751072932556840960",
+              "start": 0,
+              "username": "SeeleDution"
+            },
+            {
+              "end": 22,
+              "id": "919038202232500224",
+              "start": 13,
+              "username": "Nodgilmo"
+            },
+            {
+              "end": 38,
+              "id": "1583731645995065344",
+              "start": 23,
+              "username": "cookiekuki0702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021676225807421665",
+        "in_reply_to_user_id": "1751072932556840960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020875915446878608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeeleDution @Nodgilmo @cookiekuki0702 This is sick 🔥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020875017182130176"
+          ]
+        },
+        "author_id": "1751072932556840960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2020875915446878608",
+        "created_at": "2026-02-09T15:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020875915446878608"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Seele",
+              "probability": 0.8472,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 131,
+              "normalized_text": "HonkaiImpact3rd",
+              "probability": 0.8093,
+              "start": 117,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "Seele"
+            },
+            {
+              "end": 132,
+              "start": 116,
+              "tag": "HonkaiImpact3rd"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 44,
+              "id": "919038202232500224",
+              "start": 35,
+              "username": "Nodgilmo"
+            },
+            {
+              "end": 64,
+              "id": "1583731645995065344",
+              "start": 49,
+              "username": "cookiekuki0702"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPykZWn9TN",
+              "end": 156,
+              "expanded_url": "https://x.com/SeeleDution/status/2020875915446878608/video/1",
+              "media_key": "13_2020875017182130176",
+              "start": 133,
+              "url": "https://t.co/LPykZWn9TN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020875915446878608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 398,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "I Can't Wait but #Seele \nThanks to @Nodgilmo and @cookiekuki0702 .They provided me with a lot of help on this work!\n#HonkaiImpact3rd https://t.co/LPykZWn9TN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 325,
+          "like_count": 88689,
+          "listed_count": 2,
+          "media_count": 1481,
+          "tweet_count": 14449
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T02:41:41.000Z",
+        "description": "EN/中文 OK. I am a coser and illustrator/B站、X、P站、小红书同名/Backup: @lime_juice_soda",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "lime_juice_soda"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seeledution.straw.page",
+                "end": 23,
+                "expanded_url": "https://seeledution.straw.page/",
+                "start": 0,
+                "url": "https://t.co/gJzcERHIHB"
+              }
+            ]
+          }
+        },
+        "id": "1751072932556840960",
+        "location": "PRC",
+        "name": "柠檬苏打LimeJuiceAndSoda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982264447432314880/iMHljZdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 759,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/gJzcERHIHB",
+        "username": "SeeleDution",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-14T03:12:37.000Z",
+        "description": "I draw stuff, normal and NSFW\nmainly Honkai\n中文/English OK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/member.php?id=14400608",
+                "start": 0,
+                "url": "https://t.co/SErOEpr63w"
+              }
+            ]
+          }
+        },
+        "id": "919038202232500224",
+        "name": "Nod",
+        "pinned_tweet_id": "1669975720335114242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774419836959133696/aFabJIhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 103,
+          "like_count": 6962,
+          "listed_count": 9,
+          "media_count": 382,
+          "tweet_count": 1407
+        },
+        "url": "https://t.co/SErOEpr63w",
+        "username": "Nodgilmo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T08:07:12.000Z",
+        "description": "你好呀，这里是曲奇kuki，感谢您的喜欢和关注！:D\n【Pixiv/米游社同名】\n【Bilibili/📕：-曲奇饼子-】\n只会说中文，英语基本上都是机翻:P\n🚫NO AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/79144035",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/79144035",
+                "start": 0,
+                "url": "https://t.co/dgVESirop8"
+              }
+            ]
+          }
+        },
+        "id": "1583731645995065344",
+        "location": "休伯利安",
+        "name": "曲奇kuki",
+        "pinned_tweet_id": "1924761590811001182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839545157068419073/lCOpj4vG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5636,
+          "following_count": 121,
+          "like_count": 1098,
+          "listed_count": 21,
+          "media_count": 147,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/dgVESirop8",
+        "username": "cookiekuki0702",
+        "verified": false
+      }
+    ]
+  }
+}

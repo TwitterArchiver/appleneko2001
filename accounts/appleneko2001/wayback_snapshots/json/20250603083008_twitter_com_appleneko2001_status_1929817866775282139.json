@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Pixel",
+          "id": "1045759094756323328",
+          "name": "Google Pixel"
+        }
+      }
+    ],
+    "conversation_id": "1929638515169689685",
+    "created_at": "2025-06-03T08:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T09:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929817866775282139"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 104,
+          "normalized_text": "jelly max",
+          "probability": 0.6458,
+          "start": 96,
+          "type": "Other"
+        },
+        {
+          "end": 166,
+          "normalized_text": "pixel 4",
+          "probability": 0.5929,
+          "start": 160,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807064118366490624",
+          "start": 0,
+          "username": "SLKVinyl"
+        },
+        {
+          "end": 21,
+          "id": "1562584920949530626",
+          "start": 10,
+          "username": "asherdipps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929817866775282139",
+    "in_reply_to_user_id": "1807064118366490624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929694111218778342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLKVinyl @asherdipps I'm lost interest already……\nI would get some smaller nuggers instead like jelly max or smth that not bigger than 5.5 inch\nalthough I have pixel 4 which doesnt support fingerprint unlock and a broken enrollment face unlock, still acceptable"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1929694107091587074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsemkQJb0AIs4eH.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          }
+        ],
+        "conversation_id": "1929638515169689685",
+        "created_at": "2025-06-03T08:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T09:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929817866775282139"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 104,
+              "normalized_text": "jelly max",
+              "probability": 0.6458,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 166,
+              "normalized_text": "pixel 4",
+              "probability": 0.5929,
+              "start": 160,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807064118366490624",
+              "start": 0,
+              "username": "SLKVinyl"
+            },
+            {
+              "end": 21,
+              "id": "1562584920949530626",
+              "start": 10,
+              "username": "asherdipps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929817866775282139",
+        "in_reply_to_user_id": "1807064118366490624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929694111218778342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLKVinyl @asherdipps I'm lost interest already……\nI would get some smaller nuggers instead like jelly max or smth that not bigger than 5.5 inch\nalthough I have pixel 4 which doesnt support fingerprint unlock and a broken enrollment face unlock, still acceptable"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929694107091587074"
+          ]
+        },
+        "author_id": "1807064118366490624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1929638515169689685",
+        "created_at": "2025-06-03T00:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T01:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929694111218778342"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "Google",
+              "probability": 0.9773,
+              "start": 44,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1562584920949530626",
+              "start": 0,
+              "username": "asherdipps"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LVx3NX7F96",
+              "end": 159,
+              "expanded_url": "https://x.com/SLKVinyl/status/1929694111218778342/photo/1",
+              "media_key": "3_1929694107091587074",
+              "start": 136,
+              "url": "https://t.co/LVx3NX7F96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929694111218778342",
+        "in_reply_to_user_id": "1562584920949530626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929638515169689685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asherdipps This camera shape is NOT ideal. Google should change it. They should make it a rounded rectangle rather than an oval shape. https://t.co/LVx3NX7F96"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 257,
+          "like_count": 64406,
+          "listed_count": 2,
+          "media_count": 1289,
+          "tweet_count": 12163
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:50:49.000Z",
+        "description": "photographer + concept creator/designer 🔰+ digital artist 🔰+ random thingss | I argue about tech and posts concepts as a side lmao",
+        "id": "1807064118366490624",
+        "name": "SLK15",
+        "pinned_tweet_id": "1888804086184833485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874851443267739648/yOHkuEyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 273,
+          "like_count": 12029,
+          "listed_count": 2,
+          "media_count": 967,
+          "tweet_count": 5486
+        },
+        "username": "SLKVinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T23:37:46.000Z",
+        "description": "3D Artist @ fpt. Creator of @radiance_app. https://t.co/MnljrA3063 https://t.co/wLtmn78bHr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "radiance_app"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/asherdipprey",
+                "end": 66,
+                "expanded_url": "https://youtube.com/asherdipprey",
+                "start": 43,
+                "url": "https://t.co/MnljrA3063"
+              },
+              {
+                "display_url": "discord.gg/BXC7xxtWab",
+                "end": 90,
+                "expanded_url": "https://discord.gg/BXC7xxtWab",
+                "start": 67,
+                "url": "https://t.co/wLtmn78bHr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asherdipprey.com",
+                "end": 23,
+                "expanded_url": "https://asherdipprey.com/",
+                "start": 0,
+                "url": "https://t.co/YZp2ZXZ1F0"
+              }
+            ]
+          }
+        },
+        "id": "1562584920949530626",
+        "location": "Texas, USA",
+        "name": "Asher",
+        "pinned_tweet_id": "1928165008992596233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919434409876271105/4bf-mDK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 295,
+          "like_count": 848,
+          "listed_count": 11,
+          "media_count": 834,
+          "tweet_count": 3017
+        },
+        "url": "https://t.co/YZp2ZXZ1F0",
+        "username": "asherdipps",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2010054880640253969",
+    "created_at": "2026-01-10T18:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T19:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010054880640253969"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "YouTube",
+          "probability": 0.9505,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "109640315",
+          "start": 3,
+          "username": "infolibnews"
+        },
+        {
+          "end": 38,
+          "id": "3031071234",
+          "start": 26,
+          "username": "TeamYouTube"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010054880640253969",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2274
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009705738122539264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @infolibnews: YouTube (@TeamYouTube) has removed the ability to search by upload date.\n\nRemoving this basic function will make it imposs…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2009699781480742912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PjTaxXAAAABSG.png",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2010054880640253969",
+        "created_at": "2026-01-10T18:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010054880640253969"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "YouTube",
+              "probability": 0.9505,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "109640315",
+              "start": 3,
+              "username": "infolibnews"
+            },
+            {
+              "end": 38,
+              "id": "3031071234",
+              "start": 26,
+              "username": "TeamYouTube"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010054880640253969",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2274
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009705738122539264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @infolibnews: YouTube (@TeamYouTube) has removed the ability to search by upload date.\n\nRemoving this basic function will make it imposs…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009699781480742912"
+          ]
+        },
+        "author_id": "109640315",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2009705738122539264",
+        "created_at": "2026-01-09T19:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T20:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009705738122539264"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "YouTube",
+              "probability": 0.9743,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "3031071234",
+              "start": 9,
+              "username": "TeamYouTube"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5LJgjDuZK",
+              "end": 297,
+              "expanded_url": "https://x.com/infolibnews/status/2009705738122539264/photo/1",
+              "media_key": "3_2009699781480742912",
+              "start": 274,
+              "url": "https://t.co/W5LJgjDuZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009705738122539264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1220,
+          "impression_count": 477613,
+          "like_count": 21573,
+          "quote_count": 177,
+          "reply_count": 338,
+          "retweet_count": 2274
+        },
+        "reply_settings": "everyone",
+        "text": "YouTube (@TeamYouTube) has removed the ability to search by upload date.\n\nRemoving this basic function will make it impossible to find breaking news from small channels with few viewers.\n\nEvidently, force-feeding people \"curated\" slop is more important than site usability. https://t.co/W5LJgjDuZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 281,
+          "like_count": 73755,
+          "listed_count": 2,
+          "media_count": 1370,
+          "tweet_count": 13055
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-29T19:14:55.000Z",
+        "description": "Publisher of the independent news site https://t.co/2txFfCaOI4. As seen on @DRUDGE, @Infowars, @ZeroHedge & more. #AmericaFirst 🇺🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 114,
+                "tag": "AmericaFirst"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "DRUDGE"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "username": "Infowars"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "ZeroHedge"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "InformationLiberation.com",
+                "end": 62,
+                "expanded_url": "http://InformationLiberation.com",
+                "start": 39,
+                "url": "https://t.co/2txFfCaOI4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "informationliberation.com",
+                "end": 23,
+                "expanded_url": "http://informationliberation.com",
+                "start": 0,
+                "url": "https://t.co/MZhOOZLcBi"
+              }
+            ]
+          }
+        },
+        "id": "109640315",
+        "location": "Maryland",
+        "name": "Chris Menahan 🇺🇸",
+        "pinned_tweet_id": "2001761097620263270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/718961152621985793/U73BXXlG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49021,
+          "following_count": 478,
+          "like_count": 66257,
+          "listed_count": 337,
+          "media_count": 3930,
+          "tweet_count": 39813
+        },
+        "url": "https://t.co/MZhOOZLcBi",
+        "username": "infolibnews",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-19T18:37:53.000Z",
+        "description": "updates & answers from the team that brings you YouTube, helping in: english, español, português, deutsch, français, 日本語, indonesian, العربية, हिंदी, 한국어",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "support.google.com/youtube",
+                "end": 23,
+                "expanded_url": "https://support.google.com/youtube",
+                "start": 0,
+                "url": "https://t.co/CYCq6X7L4N"
+              }
+            ]
+          }
+        },
+        "id": "3031071234",
+        "location": "San Bruno, CA",
+        "name": "TeamYouTube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900242085678112768/PsrVfgsD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024278,
+          "following_count": 1529,
+          "like_count": 21111,
+          "listed_count": 2877,
+          "media_count": 3273,
+          "tweet_count": 4100218
+        },
+        "url": "https://t.co/CYCq6X7L4N",
+        "username": "TeamYouTube",
+        "verified": true
+      }
+    ]
+  }
+}

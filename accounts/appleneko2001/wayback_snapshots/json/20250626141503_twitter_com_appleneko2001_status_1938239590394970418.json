@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935819069183180800"
+      ],
+      "media_source_tweet_id": [
+        "1936001078459347173"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "1938239590394970418",
+    "created_at": "2025-06-26T14:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T15:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938239590394970418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "50791157",
+          "start": 3,
+          "username": "googlejapan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/40xIsmJnUu",
+          "end": 58,
+          "expanded_url": "https://x.com/googlejapan/status/1936001078459347173/photo/1",
+          "media_key": "3_1935819069183180800",
+          "start": 35,
+          "url": "https://t.co/40xIsmJnUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938239590394970418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 550
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936001078459347173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @googlejapan: いつメンでプリ撮れてあげぽよ〜↑↑ https://t.co/40xIsmJnUu"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Android Bot と Chrome Dino、くろーむでプリクラを撮った画像。\n真ん中にいるくろーむを囲むように Android Bot（緑と白）と Chrome Dino（黒と白）がぎゅっと近くに集まって立っている。Android Bot はまるでギャルピースをしているかのように片手を挙げている。 黒の Chrome Dino は白い帽子を被り、黒いシャツを身につけている。白い Chrome Dino は Noogler Hat（プロペラのついた赤・青・黄・緑の帽子）を被っている。\nそして周りには「うちらズッ友だよ♪」という文字や各キャラクターの名前が手書きで書かれている。また星やハートなど可愛くデコレーションされており、平成時代の懐かしさを感じるプリクラである。",
+        "height": 1600,
+        "media_key": "3_1935819069183180800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt1pL-AXQAA0MvW.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935819069183180800"
+          ],
+          "media_source_tweet_id": [
+            "1936001078459347173"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "1938239590394970418",
+        "created_at": "2025-06-26T14:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938239590394970418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "50791157",
+              "start": 3,
+              "username": "googlejapan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/40xIsmJnUu",
+              "end": 58,
+              "expanded_url": "https://x.com/googlejapan/status/1936001078459347173/photo/1",
+              "media_key": "3_1935819069183180800",
+              "start": 35,
+              "url": "https://t.co/40xIsmJnUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938239590394970418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 550
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936001078459347173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @googlejapan: いつメンでプリ撮れてあげぽよ〜↑↑ https://t.co/40xIsmJnUu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935819069183180800"
+          ]
+        },
+        "author_id": "50791157",
+        "conversation_id": "1936001078459347173",
+        "created_at": "2025-06-20T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936001078459347173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40xIsmJnUu",
+              "end": 41,
+              "expanded_url": "https://x.com/googlejapan/status/1936001078459347173/photo/1",
+              "media_key": "3_1935819069183180800",
+              "start": 18,
+              "url": "https://t.co/40xIsmJnUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936001078459347173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 121966,
+          "like_count": 2937,
+          "quote_count": 73,
+          "reply_count": 16,
+          "retweet_count": 550
+        },
+        "reply_settings": "everyone",
+        "text": "いつメンでプリ撮れてあげぽよ〜↑↑ https://t.co/40xIsmJnUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 259,
+          "like_count": 65264,
+          "listed_count": 2,
+          "media_count": 1295,
+          "tweet_count": 12286
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-25T22:23:54.000Z",
+        "description": "Google Japan の公式アカウントです。Google の使命は、世界中の情報を整理し、世界中の人がアクセスできて使えるようにすること。\n\nより多くの人々の、より良い毎日のために。\nみなさんのお役に立てるような情報を発信します。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.google.co.jp/",
+                "start": 0,
+                "url": "https://t.co/ngK1wik1Lq"
+              }
+            ]
+          }
+        },
+        "id": "50791157",
+        "location": "Japan",
+        "name": "Google Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895425119146655744/4ac-Q2pO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385806,
+          "following_count": 15,
+          "like_count": 761,
+          "listed_count": 4853,
+          "media_count": 4405,
+          "tweet_count": 39664
+        },
+        "url": "https://t.co/ngK1wik1Lq",
+        "username": "googlejapan",
+        "verified": true
+      }
+    ]
+  }
+}

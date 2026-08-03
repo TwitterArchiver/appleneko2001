@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "2025910305604477131",
+    "created_at": "2026-02-23T12:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025910305604477131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1250939934900248576",
+          "start": 3,
+          "username": "Regu_Miabyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025910305604477131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025907975035228168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Regu_Miabyss: 參與了『※ThisGameIsNotReal』的譯製，目前可用繁體中文遊玩Demo！\n真的是一款超級吸睛的獨立遊戲，Demo將於2/24（明天）公開，還請一定要玩玩看！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2025910305604477131",
+        "created_at": "2026-02-23T12:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025910305604477131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1250939934900248576",
+              "start": 3,
+              "username": "Regu_Miabyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025910305604477131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025907975035228168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Regu_Miabyss: 參與了『※ThisGameIsNotReal』的譯製，目前可用繁體中文遊玩Demo！\n真的是一款超級吸睛的獨立遊戲，Demo將於2/24（明天）公開，還請一定要玩玩看！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250939934900248576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2025907975035228168",
+        "created_at": "2026-02-23T12:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025907975035228168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruuya1124/stat…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/ruuya1124/status/2025608159302504624",
+              "start": 87,
+              "url": "https://t.co/egZkf3jK6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025907975035228168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025608159302504624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "參與了『※ThisGameIsNotReal』的譯製，目前可用繁體中文遊玩Demo！\n真的是一款超級吸睛的獨立遊戲，Demo將於2/24（明天）公開，還請一定要玩玩看！！！ https://t.co/egZkf3jK6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 327,
+          "like_count": 91928,
+          "listed_count": 2,
+          "media_count": 1502,
+          "tweet_count": 14938
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T00:11:47.000Z",
+        "description": "學生｜EN/JA/CH｜\nボランティア｜翻訳リクエスト/bilibili招待コード: https://t.co/wj5GnlZYhw ｜ankomon{at}proton{dot}me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zunda.us.kg/request",
+                "end": 66,
+                "expanded_url": "https://zunda.us.kg/request",
+                "start": 43,
+                "url": "https://t.co/wj5GnlZYhw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zunda.us.kg",
+                "end": 23,
+                "expanded_url": "https://zunda.us.kg",
+                "start": 0,
+                "url": "https://t.co/AMTCSgmMts"
+              }
+            ]
+          }
+        },
+        "id": "1250939934900248576",
+        "location": "sudo source build/envsetup.sh",
+        "name": "レグ",
+        "pinned_tweet_id": "1862103540501524688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997712757664489472/zQcfz8Ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 178,
+          "like_count": 25068,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 2780
+        },
+        "url": "https://t.co/AMTCSgmMts",
+        "username": "Regu_Miabyss",
+        "verified": false
+      }
+    ]
+  }
+}

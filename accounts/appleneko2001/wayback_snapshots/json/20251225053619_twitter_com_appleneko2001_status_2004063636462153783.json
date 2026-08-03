@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "JavaScript",
+          "id": "898659750950207489",
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "conversation_id": "2004063636462153783",
+    "created_at": "2025-12-25T05:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T06:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004063636462153783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vikingmute/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/vikingmute/status/2003744541573366249",
+          "start": 31,
+          "url": "https://t.co/veyjDaPFmX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004063636462153783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003744541573366249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那也挺好了\n不知道效能怎麼樣 拿來當遊戲腳本語言不知道怎麼樣 https://t.co/veyjDaPFmX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2004063636462153783",
+        "created_at": "2025-12-25T05:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T06:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004063636462153783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vikingmute/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/vikingmute/status/2003744541573366249",
+              "start": 31,
+              "url": "https://t.co/veyjDaPFmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004063636462153783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003744541573366249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那也挺好了\n不知道效能怎麼樣 拿來當遊戲腳本語言不知道怎麼樣 https://t.co/veyjDaPFmX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "296593919",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "2003744541573366249",
+        "created_at": "2025-12-24T08:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003744541573366249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Public repository of the Micro QuickJS Javascript Engine - bellard/mquickjs",
+              "display_url": "github.com/bellard/mquick…",
+              "end": 53,
+              "expanded_url": "https://github.com/bellard/mquickjs",
+              "start": 30,
+              "status": 200,
+              "title": "GitHub - bellard/mquickjs: Public repository of the Micro QuickJS Javascript Engine",
+              "unwound_url": "https://github.com/bellard/mquickjs",
+              "url": "https://t.co/3tweNGUXKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003744541573366249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/bellard/mquick…",
+                "end": 53,
+                "expanded_url": "https://github.com/bellard/mquickjs",
+                "start": 30,
+                "url": "https://t.co/anbzAFpWgr"
+              }
+            ]
+          },
+          "text": "HackerNews 今天最火的项目： MQuickJS \nhttps://t.co/anbzAFpWgr\n\nMQuickJS是一个专为嵌入式系统设计的JavaScript引擎，它能在极低的资源环境下编译和运行 JavaScript 代码。\n\n内存占用极低，只需约 10 kB RAM 即可运行，这个真厉害了。不过不支持所有特性，只支持 ES5 的子集，并且始终处于严格模式。\n\n两天获得 1.8K 个 stars可还行。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 20833,
+          "like_count": 150,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "HackerNews 今天最火的项目： MQuickJS \nhttps://t.co/3tweNGUXKn\n\nMQuickJS是一个专为嵌入式系统设计的JavaScript引擎，它能在极低的资源环境下编译和运行 JavaScript 代码。\n\n内存占用极低，只需约 10 kB RAM 即可运行，这个真厉害了。不过不支持所有特性，只支持 ES5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 67257,
+          "listed_count": 2,
+          "media_count": 1319,
+          "tweet_count": 12490
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "easycv.cn",
+                "end": 44,
+                "expanded_url": "http://easycv.cn",
+                "start": 21,
+                "url": "https://t.co/xMu5JFIGnr"
+              },
+              {
+                "display_url": "imooc.com/t/6012904",
+                "end": 96,
+                "expanded_url": "http://www.imooc.com/t/6012904",
+                "start": 73,
+                "url": "https://t.co/NTyFFrvHwL"
+              },
+              {
+                "display_url": "vikingz.me/1000-days",
+                "end": 136,
+                "expanded_url": "http://vikingz.me/1000-days",
+                "start": 113,
+                "url": "https://t.co/bonuLQCCsY"
+              },
+              {
+                "display_url": "youtube.com/@vikingzhang",
+                "end": 166,
+                "expanded_url": "http://www.youtube.com/@vikingzhang",
+                "start": 143,
+                "url": "https://t.co/aQYLgujIyC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "location": "Shanghai",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61228,
+          "following_count": 280,
+          "like_count": 878,
+          "listed_count": 626,
+          "media_count": 1368,
+          "tweet_count": 2788
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true
+      }
+    ]
+  }
+}

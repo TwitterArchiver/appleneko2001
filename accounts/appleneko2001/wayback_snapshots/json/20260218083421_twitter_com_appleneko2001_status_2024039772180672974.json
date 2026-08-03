@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961370420931956743"
+      ],
+      "media_source_tweet_id": [
+        "1961370599693193567"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024039772180672974",
+    "created_at": "2026-02-18T08:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T09:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024039772180672974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2955107916",
+          "start": 3,
+          "username": "la__pioggia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8udJdn9Aa8",
+          "end": 52,
+          "expanded_url": "https://x.com/la__pioggia/status/1961370599693193567/photo/1",
+          "media_key": "3_1961370420931956743",
+          "start": 29,
+          "url": "https://t.co/8udJdn9Aa8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024039772180672974",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3599
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961370599693193567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @la__pioggia: Anchorage🌃🍓 https://t.co/8udJdn9Aa8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024039772180672974].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024039772180672974",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024039772180672974"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_1961370420931956743",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgwAYybkAcWfOT.jpg",
+        "width": 1329
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961370420931956743"
+          ]
+        },
+        "author_id": "2955107916",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961370599693193567",
+        "created_at": "2025-08-29T10:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T11:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961370599693193567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8udJdn9Aa8",
+              "end": 35,
+              "expanded_url": "https://x.com/la__pioggia/status/1961370599693193567/photo/1",
+              "media_key": "3_1961370420931956743",
+              "start": 12,
+              "url": "https://t.co/8udJdn9Aa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961370599693193567",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4410,
+          "impression_count": 700427,
+          "like_count": 24782,
+          "quote_count": 20,
+          "reply_count": 31,
+          "retweet_count": 3599
+        },
+        "reply_settings": "everyone",
+        "text": "Anchorage🌃🍓 https://t.co/8udJdn9Aa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 327,
+          "like_count": 90610,
+          "listed_count": 2,
+          "media_count": 1495,
+          "tweet_count": 14725
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-01T17:52:36.000Z",
+        "description": "https://t.co/NzIYla4rXs \ncontact : utencancelofficial@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/4595297",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/4595297",
+                "start": 0,
+                "url": "https://t.co/NzIYla4rXs"
+              }
+            ]
+          }
+        },
+        "id": "2955107916",
+        "location": "Tokyo-to, Japan",
+        "name": "雨💧C107水曜日東カ06ab",
+        "pinned_tweet_id": "2003665811719004430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343240345950175234/fNw_1b6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563031,
+          "following_count": 4992,
+          "like_count": 5248,
+          "listed_count": 5583,
+          "media_count": 262,
+          "tweet_count": 7953
+        },
+        "username": "la__pioggia",
+        "verified": true
+      }
+    ]
+  }
+}

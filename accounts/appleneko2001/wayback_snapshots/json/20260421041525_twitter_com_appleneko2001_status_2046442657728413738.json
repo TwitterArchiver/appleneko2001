@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044387428233035776"
+      ],
+      "media_source_tweet_id": [
+        "2046287788799070595"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2046442657728413738",
+    "created_at": "2026-04-21T04:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046442657728413738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966130736689459214",
+          "start": 3,
+          "username": "Animex_Tweet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eDCT6FoIKN",
+          "end": 41,
+          "expanded_url": "https://x.com/Animex_Tweet/status/2046287788799070595/photo/1",
+          "media_key": "3_2044387428233035776",
+          "start": 18,
+          "url": "https://t.co/eDCT6FoIKN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046442657728413738",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 781
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046287788799070595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Animex_Tweet: https://t.co/eDCT6FoIKN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2044387428233035776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8fiMsawAAzACe.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044387428233035776"
+          ],
+          "media_source_tweet_id": [
+            "2046287788799070595"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2046442657728413738",
+        "created_at": "2026-04-21T04:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046442657728413738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966130736689459214",
+              "start": 3,
+              "username": "Animex_Tweet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDCT6FoIKN",
+              "end": 41,
+              "expanded_url": "https://x.com/Animex_Tweet/status/2046287788799070595/photo/1",
+              "media_key": "3_2044387428233035776",
+              "start": 18,
+              "url": "https://t.co/eDCT6FoIKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046442657728413738",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 781
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046287788799070595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Animex_Tweet: https://t.co/eDCT6FoIKN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044387428233035776"
+          ]
+        },
+        "author_id": "1966130736689459214",
+        "conversation_id": "2046287788799070595",
+        "created_at": "2026-04-20T18:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046287788799070595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDCT6FoIKN",
+              "end": 23,
+              "expanded_url": "https://x.com/Animex_Tweet/status/2046287788799070595/photo/1",
+              "media_key": "3_2044387428233035776",
+              "start": 0,
+              "url": "https://t.co/eDCT6FoIKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046287788799070595",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 700,
+          "impression_count": 103819,
+          "like_count": 14928,
+          "quote_count": 15,
+          "reply_count": 13,
+          "retweet_count": 781
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eDCT6FoIKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "迷失的笨蛋（？",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 356,
+          "like_count": 102021,
+          "listed_count": 3,
+          "media_count": 1610,
+          "tweet_count": 16484
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T13:24:44.000Z",
+        "description": "I just shitpost and retweet My Dress-up Darling stuff 🤗",
+        "id": "1966130736689459214",
+        "name": "Marin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033480878748487680/sah5h0bm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4978,
+          "following_count": 2,
+          "like_count": 988,
+          "listed_count": 6,
+          "media_count": 96,
+          "tweet_count": 96
+        },
+        "username": "Animex_Tweet",
+        "verified": true
+      }
+    ]
+  }
+}

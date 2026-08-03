@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001970615734112256"
+      ],
+      "media_source_tweet_id": [
+        "2001970760068571572"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "conversation_id": "2002436468447592951",
+    "created_at": "2025-12-20T17:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002436468447592951"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "Steam Delivery Girl",
+          "probability": 0.9374,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 86,
+          "normalized_text": "steam",
+          "probability": 0.6698,
+          "start": 82,
+          "type": "Other"
+        },
+        {
+          "end": 103,
+          "normalized_text": "SteamWinterSale",
+          "probability": 0.9646,
+          "start": 89,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 81,
+          "tag": "steam"
+        },
+        {
+          "end": 104,
+          "start": 88,
+          "tag": "SteamWinterSale"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1332670549231734787",
+          "start": 3,
+          "username": "PicoGames_off"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UwUGaRVEvD",
+          "end": 128,
+          "expanded_url": "https://x.com/PicoGames_off/status/2001970760068571572/photo/1",
+          "media_key": "3_2001970615734112256",
+          "start": 105,
+          "url": "https://t.co/UwUGaRVEvD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002436468447592951",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5701
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001970760068571572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PicoGames_off: This winter too, Steam Delivery Girl is delivering somewhere.\n#steam #SteamWinterSale https://t.co/UwUGaRVEvD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2001970615734112256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8htqwmaEAAxWiz.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001970615734112256"
+          ],
+          "media_source_tweet_id": [
+            "2001970760068571572"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "conversation_id": "2002436468447592951",
+        "created_at": "2025-12-20T17:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002436468447592951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "Steam Delivery Girl",
+              "probability": 0.9374,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "steam",
+              "probability": 0.6698,
+              "start": 82,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "SteamWinterSale",
+              "probability": 0.9646,
+              "start": 89,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "steam"
+            },
+            {
+              "end": 104,
+              "start": 88,
+              "tag": "SteamWinterSale"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1332670549231734787",
+              "start": 3,
+              "username": "PicoGames_off"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwUGaRVEvD",
+              "end": 128,
+              "expanded_url": "https://x.com/PicoGames_off/status/2001970760068571572/photo/1",
+              "media_key": "3_2001970615734112256",
+              "start": 105,
+              "url": "https://t.co/UwUGaRVEvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002436468447592951",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5701
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001970760068571572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PicoGames_off: This winter too, Steam Delivery Girl is delivering somewhere.\n#steam #SteamWinterSale https://t.co/UwUGaRVEvD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001970615734112256"
+          ]
+        },
+        "author_id": "1332670549231734787",
+        "conversation_id": "2001970760068571572",
+        "created_at": "2025-12-19T10:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001970760068571572"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Steam Delivery Girl",
+              "probability": 0.9379,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "steam",
+              "probability": 0.6502,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "SteamWinterSale",
+              "probability": 0.9623,
+              "start": 70,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "steam"
+            },
+            {
+              "end": 85,
+              "start": 69,
+              "tag": "SteamWinterSale"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwUGaRVEvD",
+              "end": 109,
+              "expanded_url": "https://x.com/PicoGames_off/status/2001970760068571572/photo/1",
+              "media_key": "3_2001970615734112256",
+              "start": 86,
+              "url": "https://t.co/UwUGaRVEvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001970760068571572",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5507,
+          "impression_count": 470904,
+          "like_count": 49282,
+          "quote_count": 43,
+          "reply_count": 78,
+          "retweet_count": 5701
+        },
+        "reply_settings": "everyone",
+        "text": "This winter too, Steam Delivery Girl is delivering somewhere.\n#steam #SteamWinterSale https://t.co/UwUGaRVEvD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 268,
+          "like_count": 66163,
+          "listed_count": 2,
+          "media_count": 1314,
+          "tweet_count": 12425
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T13:00:13.000Z",
+        "description": "個人ゲーム開発者\nIndividual Game Developer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/curator/393541…",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/curator/39354191",
+                "start": 0,
+                "url": "https://t.co/M118k0qNLL"
+              }
+            ]
+          }
+        },
+        "id": "1332670549231734787",
+        "location": "日本　大阪",
+        "name": "Pico Games",
+        "pinned_tweet_id": "1913200845468110964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1332671955325972481/lX9PpTvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14509,
+          "following_count": 435,
+          "like_count": 35051,
+          "listed_count": 134,
+          "media_count": 466,
+          "tweet_count": 3279
+        },
+        "url": "https://t.co/M118k0qNLL",
+        "username": "PicoGames_off",
+        "verified": true
+      }
+    ]
+  }
+}

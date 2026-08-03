@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010667202173865984"
+      ],
+      "media_source_tweet_id": [
+        "2010667204573003841"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169373709280272384",
+          "name": "Princess Connect"
+        }
+      }
+    ],
+    "conversation_id": "2014789278174457998",
+    "created_at": "2026-01-23T19:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T20:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014789278174457998"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "レイ様",
+          "probability": 0.685,
+          "start": 38,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "プリコネR"
+        },
+        {
+          "end": 65,
+          "start": 59,
+          "tag": "レイ誕生日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1485541303706619906",
+          "start": 3,
+          "username": "azorun163020181"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dWo9CJFWTL",
+          "end": 89,
+          "expanded_url": "https://x.com/azorun163020181/status/2010667204573003841/photo/1",
+          "media_key": "3_2010667202173865984",
+          "start": 66,
+          "url": "https://t.co/dWo9CJFWTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014789278174457998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010667204573003841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azorun163020181: バタバタでしたが何とか描けた💦\nレイ様は良いですよ〜🥰\n #プリコネR   #レイ誕生日 https://t.co/dWo9CJFWTL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010667202173865984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dTKtsaEAA3GGB.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010667202173865984"
+          ],
+          "media_source_tweet_id": [
+            "2010667204573003841"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2014789278174457998",
+        "created_at": "2026-01-23T19:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T20:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014789278174457998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "レイ様",
+              "probability": 0.685,
+              "start": 38,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "プリコネR"
+            },
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "レイ誕生日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1485541303706619906",
+              "start": 3,
+              "username": "azorun163020181"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWo9CJFWTL",
+              "end": 89,
+              "expanded_url": "https://x.com/azorun163020181/status/2010667204573003841/photo/1",
+              "media_key": "3_2010667202173865984",
+              "start": 66,
+              "url": "https://t.co/dWo9CJFWTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014789278174457998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010667204573003841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azorun163020181: バタバタでしたが何とか描けた💦\nレイ様は良いですよ〜🥰\n #プリコネR   #レイ誕生日 https://t.co/dWo9CJFWTL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010667202173865984"
+          ]
+        },
+        "author_id": "1485541303706619906",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169373709280272384",
+              "name": "Princess Connect"
+            }
+          }
+        ],
+        "conversation_id": "2010667204573003841",
+        "created_at": "2026-01-12T10:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010667204573003841"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "レイ様",
+              "probability": 0.6888,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "プリコネR"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "レイ誕生日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWo9CJFWTL",
+              "end": 68,
+              "expanded_url": "https://x.com/azorun163020181/status/2010667204573003841/photo/1",
+              "media_key": "3_2010667202173865984",
+              "start": 45,
+              "url": "https://t.co/dWo9CJFWTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010667204573003841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 16567,
+          "like_count": 694,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "バタバタでしたが何とか描けた💦\nレイ様は良いですよ〜🥰\n #プリコネR   #レイ誕生日 https://t.co/dWo9CJFWTL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 319,
+          "like_count": 83186,
+          "listed_count": 2,
+          "media_count": 1434,
+          "tweet_count": 13986
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T09:13:59.000Z",
+        "description": "iPadでお絵描き練習中(Ibis paint)\n   ゲームは現在プリコネのみ   \nRP多めかも？",
+        "id": "1485541303706619906",
+        "name": "あぞるん♪お絵描き練習中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545405093138538496/RUWdHPWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 1973,
+          "like_count": 231261,
+          "listed_count": 21,
+          "media_count": 159,
+          "tweet_count": 14080
+        },
+        "username": "azorun163020181",
+        "verified": false
+      }
+    ]
+  }
+}

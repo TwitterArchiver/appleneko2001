@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2012200329551421658",
+    "created_at": "2026-01-16T17:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T18:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012212973209522589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012212973209522589",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012200329551421658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 現在好像無法請求數據了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_2012200304343764992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-zFhAVX0AAZriJ.jpg",
+        "width": 2770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2012200329551421658",
+        "created_at": "2026-01-16T17:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012212973209522589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012212973209522589",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012200329551421658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 現在好像無法請求數據了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012200304343764992"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2012200329551421658",
+        "created_at": "2026-01-16T16:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012200329551421658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wiGuF7MfIR",
+              "end": 152,
+              "expanded_url": "https://x.com/mario_2333/status/2012200329551421658/photo/1",
+              "media_key": "3_2012200304343764992",
+              "start": 129,
+              "url": "https://t.co/wiGuF7MfIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012200329551421658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在推特数据存档功能bug了好久之后，终于下载了一份存档！\n\n然后发现这里原来没有ios设备也可以看到屏蔽和静音的人数哦，不过咱很温柔和善的不会乱拉黑的对吧qwq\n\n顺带一提这存档里是一个X都没有，logo和文字全是小蓝鸟和推特，看来替换的还不够彻底呢hhh https://t.co/wiGuF7MfIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "好希望夜晚再漫長一些…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky.app",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 298,
+          "like_count": 79413,
+          "listed_count": 2,
+          "media_count": 1402,
+          "tweet_count": 13557
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | CC BY-NC 4.0 | 对目前可能的高延迟回复非常抱歉还请耐心等等😖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+1",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996,
+          "following_count": 255,
+          "like_count": 34841,
+          "listed_count": 17,
+          "media_count": 754,
+          "tweet_count": 10742
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": false
+      }
+    ]
+  }
+}

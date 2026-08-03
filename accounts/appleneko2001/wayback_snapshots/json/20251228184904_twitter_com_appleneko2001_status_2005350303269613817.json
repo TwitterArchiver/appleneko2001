@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2005215235997913510",
+    "created_at": "2025-12-28T18:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T19:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005350303269613817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "997619727680835584",
+          "start": 0,
+          "username": "onliviane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005350303269613817",
+    "in_reply_to_user_id": "997619727680835584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005349840679805201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onliviane 網路上沒有已知的解決方案嗎 如果是我的話可能會借助popup window  但也是看情況"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2005215235997913510",
+        "created_at": "2025-12-28T18:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T19:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005350303269613817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "997619727680835584",
+              "start": 0,
+              "username": "onliviane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005350303269613817",
+        "in_reply_to_user_id": "997619727680835584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005349840679805201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onliviane 網路上沒有已知的解決方案嗎 如果是我的話可能會借助popup window  但也是看情況"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "997619727680835584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Chrome",
+              "id": "10052778493",
+              "name": "Google Chrome"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          }
+        ],
+        "conversation_id": "2005215235997913510",
+        "created_at": "2025-12-28T18:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T19:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005349840679805201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005349840679805201",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005348766375973340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 我又测出来新的问题了，文本没办法拖拽到 iframe 的输入元素里，Firefox 没有这个问题。说实话很多细节 ff 做的比 chrome 要好，怒其不争..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 272,
+          "like_count": 68275,
+          "listed_count": 2,
+          "media_count": 1325,
+          "tweet_count": 12624
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-18T23:27:32.000Z",
+        "description": "你赢了，我同意接受所有 Cookies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.clickfling.top",
+                "end": 23,
+                "expanded_url": "https://blog.clickfling.top",
+                "start": 0,
+                "url": "https://t.co/rvh4uVpOHz"
+              }
+            ]
+          }
+        },
+        "id": "997619727680835584",
+        "location": "240e:100::/28",
+        "name": "onliviane🍃",
+        "pinned_tweet_id": "1221091177971077121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816488086467223552/EY8Ama0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 1495,
+          "like_count": 10463,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/rvh4uVpOHz",
+        "username": "onliviane",
+        "verified": false
+      }
+    ]
+  }
+}

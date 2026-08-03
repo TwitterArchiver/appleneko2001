@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2021956361723293760",
+    "created_at": "2026-02-12T17:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T18:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022003193123914160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV"
+        },
+        {
+          "end": 19,
+          "id": "1515290827454439426",
+          "start": 11,
+          "username": "FuncSir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022003193123914160",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021971540448096617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV @FuncSir 可是 我想在虚拟机里玩vr 以及反作弊游戏……有门路吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2021956361723293760",
+        "created_at": "2026-02-12T17:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022003193123914160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV"
+            },
+            {
+              "end": 19,
+              "id": "1515290827454439426",
+              "start": 11,
+              "username": "FuncSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022003193123914160",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021971540448096617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV @FuncSir 可是 我想在虚拟机里玩vr 以及反作弊游戏……有门路吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2021956361723293760",
+        "created_at": "2026-02-12T15:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021971540448096617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515290827454439426",
+              "start": 0,
+              "username": "FuncSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021971540448096617",
+        "in_reply_to_user_id": "1515290827454439426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021970834508886061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuncSir 这边的解决方法是虚拟化，host禁用n卡，一个ubuntu guest硬件直通n卡，然后cuda，cudnn环境一类的只在gust里进行。\n恼人的是nvidia的驱动有时会抱怨检测到虚拟化环境而拒绝工作，vgpu又是另一个噩梦组"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 325,
+          "like_count": 88892,
+          "listed_count": 2,
+          "media_count": 1484,
+          "tweet_count": 14492
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "抱抱鱼 | 计算机用户| 虚弱的无定形类人智能体 | HFAutism,部分精神和心理疾病可能会影响其发言内容；遭遇异常状态请小心处理。",
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "Cynun VIIV",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 1148,
+          "like_count": 29767,
+          "listed_count": 7,
+          "media_count": 142,
+          "tweet_count": 4901
+        },
+        "username": "CynunVIIV",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T11:28:13.000Z",
+        "description": "println!(\"Hello!\");",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vioxt.eu.org",
+                "end": 23,
+                "expanded_url": "http://vioxt.eu.org",
+                "start": 0,
+                "url": "https://t.co/DGPCc9sVCE"
+              }
+            ]
+          }
+        },
+        "id": "1515290827454439426",
+        "location": "Earth",
+        "name": "FunctionSir",
+        "pinned_tweet_id": "1756343396824658173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515291015145398273/Ip8NFdrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2148,
+          "like_count": 3619,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/DGPCc9sVCE",
+        "username": "FuncSir",
+        "verified": false
+      }
+    ]
+  }
+}

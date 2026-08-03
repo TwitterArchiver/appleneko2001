@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005948237245734912"
+      ],
+      "media_source_tweet_id": [
+        "2005948628540469593"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006051820305600659",
+    "created_at": "2025-12-30T17:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T18:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006051820305600659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "635941366",
+          "start": 3,
+          "username": "unixzii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yPef13rme5",
+          "end": 67,
+          "expanded_url": "https://x.com/unixzii/status/2005948628540469593/video/1",
+          "media_key": "13_2005948237245734912",
+          "start": 44,
+          "url": "https://t.co/yPef13rme5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006051820305600659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005948628540469593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @unixzii: 既然现在五花八门的 TUI 这么流行，不如在里面加点动画 🤔 https://t.co/yPef13rme5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9883,
+        "height": 1148,
+        "media_key": "13_2005948237245734912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005948237245734912/img/Vk5NIWMXU8920juK.jpg",
+        "public_metrics": {
+          "view_count": 3589
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005948237245734912/vid/avc1/340x270/93OEsICqAKWxacek.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005948237245734912/vid/avc1/454x360/QC9lqH7EXcS8KuL8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005948237245734912/vid/avc1/908x720/S4Rx0ZKx0QpRO_Cs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005948237245734912/pl/EBoJx_5U6k0Gx9uE.m3u8?tag=14"
+          }
+        ],
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005948237245734912"
+          ],
+          "media_source_tweet_id": [
+            "2005948628540469593"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006051820305600659",
+        "created_at": "2025-12-30T17:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006051820305600659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "635941366",
+              "start": 3,
+              "username": "unixzii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPef13rme5",
+              "end": 67,
+              "expanded_url": "https://x.com/unixzii/status/2005948628540469593/video/1",
+              "media_key": "13_2005948237245734912",
+              "start": 44,
+              "url": "https://t.co/yPef13rme5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006051820305600659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005948628540469593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @unixzii: 既然现在五花八门的 TUI 这么流行，不如在里面加点动画 🤔 https://t.co/yPef13rme5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005948237245734912"
+          ]
+        },
+        "author_id": "635941366",
+        "conversation_id": "2005948628540469593",
+        "created_at": "2025-12-30T10:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005948628540469593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPef13rme5",
+              "end": 54,
+              "expanded_url": "https://x.com/unixzii/status/2005948628540469593/video/1",
+              "media_key": "13_2005948237245734912",
+              "start": 31,
+              "url": "https://t.co/yPef13rme5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005948628540469593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 7779,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "既然现在五花八门的 TUI 这么流行，不如在里面加点动画 🤔 https://t.co/yPef13rme5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 275,
+          "like_count": 69527,
+          "listed_count": 2,
+          "media_count": 1337,
+          "tweet_count": 12750
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-15T05:48:20.000Z",
+        "description": "Gen Z. Internetrovert. No-stack engineer. UX enthusiast. Console gamer. Curiosity-driven learner. The rebel. He/him 🏳️‍🌈. Stand w/ 🇺🇦. Opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyandev.app",
+                "end": 23,
+                "expanded_url": "https://cyandev.app",
+                "start": 0,
+                "url": "https://t.co/tnjbWvL8Lh"
+              }
+            ]
+          }
+        },
+        "id": "635941366",
+        "location": "Universe",
+        "name": "Cyandev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662772448696365056/m4N0QjDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15408,
+          "following_count": 196,
+          "like_count": 5782,
+          "listed_count": 117,
+          "media_count": 1187,
+          "tweet_count": 9153
+        },
+        "url": "https://t.co/tnjbWvL8Lh",
+        "username": "unixzii",
+        "verified": false
+      }
+    ]
+  }
+}

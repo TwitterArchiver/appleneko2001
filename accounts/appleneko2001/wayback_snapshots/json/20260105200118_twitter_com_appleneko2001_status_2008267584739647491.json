@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2008229485993488549",
+    "created_at": "2026-01-05T20:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T21:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008267584739647491"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 101,
+          "normalized_text": "Linux",
+          "probability": 0.9653,
+          "start": 97,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675745524815892480",
+          "start": 0,
+          "username": "CanaRepublic"
+        },
+        {
+          "end": 27,
+          "id": "1838306527079485440",
+          "start": 14,
+          "username": "AdamiAurexXx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008267584739647491",
+    "in_reply_to_user_id": "1675745524815892480",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008266405809189221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CanaRepublic @AdamiAurexXx Uh sorry for my ignorance \nI didn't have such long time of tour with Linux yet, but I realised their potential of their flexibility and philosophy of the system design."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2008229485993488549",
+        "created_at": "2026-01-05T20:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T21:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008267584739647491"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 101,
+              "normalized_text": "Linux",
+              "probability": 0.9653,
+              "start": 97,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675745524815892480",
+              "start": 0,
+              "username": "CanaRepublic"
+            },
+            {
+              "end": 27,
+              "id": "1838306527079485440",
+              "start": 14,
+              "username": "AdamiAurexXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008267584739647491",
+        "in_reply_to_user_id": "1675745524815892480",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008266405809189221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CanaRepublic @AdamiAurexXx Uh sorry for my ignorance \nI didn't have such long time of tour with Linux yet, but I realised their potential of their flexibility and philosophy of the system design."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675745524815892480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2008229485993488549",
+        "created_at": "2026-01-05T19:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T20:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008266405809189221"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "linux",
+              "probability": 0.8058,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "windows 7",
+              "probability": 0.7553,
+              "start": 82,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "windows 10",
+              "probability": 0.6938,
+              "start": 98,
+              "type": "Other"
+            },
+            {
+              "end": 137,
+              "normalized_text": "linux",
+              "probability": 0.6086,
+              "start": 133,
+              "type": "Other"
+            },
+            {
+              "end": 187,
+              "normalized_text": "windows 8",
+              "probability": 0.4882,
+              "start": 179,
+              "type": "Other"
+            },
+            {
+              "end": 256,
+              "normalized_text": "linux",
+              "probability": 0.6165,
+              "start": 252,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 28,
+              "id": "1838306527079485440",
+              "start": 15,
+              "username": "AdamiAurexXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008266405809189221",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I started using linux in 1995, and for gaming i used windows 7 until windows 10 came out, and then went linux only for gaming after that, i never ran windows 8, 10/11 on my personal machine. all the games i owned worked on linux at that time though so i didn't really have a reason to use windows."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008265749228294523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @AdamiAurexXx I started using linux in 1995, and for gaming i used windows 7 until windows 10 came out, and then went linux only for gaming after that, i never ran windows 8, 10/11 on my personal machine. all the games i owned worked on linux at that time though so i didn't really have a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the endless dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 276,
+          "like_count": 72004,
+          "listed_count": 2,
+          "media_count": 1359,
+          "tweet_count": 12947
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T05:58:07.000Z",
+        "description": "BC Man.  Supporter of traditional family values and common sense. \n\nMarx Carnage 🇨🇦🤥  Pure Blood 🚫💉  PC Master Race 🖥️👨‍🔧",
+        "id": "1675745524815892480",
+        "location": "BC, Canada",
+        "name": "Canadian Republic 🇨🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007014257507086336/B8JI-tUM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4030,
+          "following_count": 4343,
+          "like_count": 85292,
+          "listed_count": 4,
+          "media_count": 1696,
+          "tweet_count": 29376
+        },
+        "username": "CanaRepublic",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-23T19:56:58.000Z",
+        "description": "",
+        "id": "1838306527079485440",
+        "location": "Alcyone",
+        "name": "PHAREOH",
+        "pinned_tweet_id": "1993706311368990920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990889787155501056/WdLIJUt8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 2300,
+          "like_count": 6684,
+          "listed_count": 1,
+          "media_count": 1755,
+          "tweet_count": 3173
+        },
+        "username": "AdamiAurexXx",
+        "verified": false
+      }
+    ]
+  }
+}

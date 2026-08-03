@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2079146971936575599",
+    "created_at": "2026-07-21T02:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079392165365711278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1619675758519271424",
+          "start": 0,
+          "username": "_816R_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079392165365711278",
+    "in_reply_to_user_id": "1619675758519271424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079375610183664064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_816R_ 😇\n其实我当时看出来它是想说通过Proxy处理的 然后TTL是自动…但 这表格布局直接覆盖了就有点…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2079146971936575599",
+        "created_at": "2026-07-21T02:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079392165365711278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1619675758519271424",
+              "start": 0,
+              "username": "_816R_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079392165365711278",
+        "in_reply_to_user_id": "1619675758519271424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079375610183664064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_816R_ 😇\n其实我当时看出来它是想说通过Proxy处理的 然后TTL是自动…但 这表格布局直接覆盖了就有点…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619675758519271424",
+        "conversation_id": "2079146971936575599",
+        "created_at": "2026-07-21T01:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079375610183664064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079375610183664064",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079146971936575599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 通過 Proxy 卤蝦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有男友👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/dKxqwJUidE"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋小星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 288,
+          "like_count": 116356,
+          "listed_count": 2,
+          "media_count": 1740,
+          "tweet_count": 18263
+        },
+        "url": "https://t.co/dKxqwJUidE",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T12:37:32.000Z",
+        "description": "编辑个人资料???\n17y.r. | ISFP-T | 啥也不会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "816r.org",
+                "end": 23,
+                "expanded_url": "https://www.816r.org/",
+                "start": 0,
+                "url": "https://t.co/1uFsaoFBMF"
+              }
+            ]
+          }
+        },
+        "id": "1619675758519271424",
+        "location": "127.0.0.1",
+        "name": "816R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620661216866881536/50ZhXpJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 136,
+          "like_count": 6647,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/1uFsaoFBMF",
+        "username": "_816R_",
+        "verified": false
+      }
+    ]
+  }
+}

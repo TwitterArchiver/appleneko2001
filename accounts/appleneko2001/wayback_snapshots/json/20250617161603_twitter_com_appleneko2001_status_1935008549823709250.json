@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1934711026571989152",
+    "created_at": "2025-06-17T16:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T17:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935008549823709250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807064118366490624",
+          "start": 0,
+          "username": "SLKVinyl"
+        },
+        {
+          "end": 21,
+          "id": "1875535094120660992",
+          "start": 10,
+          "username": "AppleKoded"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935008549823709250",
+    "in_reply_to_user_id": "1807064118366490624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935000506394697971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLKVinyl @AppleKoded It's so broken"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1935000502250651648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqAtGjaQAAREfE.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1934711026571989152",
+        "created_at": "2025-06-17T16:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935008549823709250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807064118366490624",
+              "start": 0,
+              "username": "SLKVinyl"
+            },
+            {
+              "end": 21,
+              "id": "1875535094120660992",
+              "start": 10,
+              "username": "AppleKoded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935008549823709250",
+        "in_reply_to_user_id": "1807064118366490624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935000506394697971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLKVinyl @AppleKoded It's so broken"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935000502250651648"
+          ]
+        },
+        "author_id": "1807064118366490624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1934711026571989152",
+        "created_at": "2025-06-17T15:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935000506394697971"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 98,
+              "normalized_text": "iOS 18",
+              "probability": 0.9361,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 109,
+              "normalized_text": "visionOS 2",
+              "probability": 0.8587,
+              "start": 100,
+              "type": "Other"
+            },
+            {
+              "end": 142,
+              "normalized_text": "iOS 26",
+              "probability": 0.9591,
+              "start": 137,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875535094120660992",
+              "start": 0,
+              "username": "AppleKoded"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eipynvt8DG",
+              "end": 250,
+              "expanded_url": "https://x.com/SLKVinyl/status/1935000506394697971/photo/1",
+              "media_key": "3_1935000502250651648",
+              "start": 227,
+              "url": "https://t.co/Eipynvt8DG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935000506394697971",
+        "in_reply_to_user_id": "1875535094120660992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934711026571989152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AppleKoded “Readable” doesn’t mean it’s good. The previous frosted glass themed design from iOS 18/visionOS 2 was very easily readable. iOS 26 destroys the accessibility accommodations that they’ve been building for a decade. https://t.co/Eipynvt8DG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 259,
+          "like_count": 65028,
+          "listed_count": 2,
+          "media_count": 1293,
+          "tweet_count": 12260
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:50:49.000Z",
+        "description": "photographer + concept creator/designer 🔰+ digital artist 🔰+ random thingss | I argue about tech and posts concepts as a side lmao",
+        "id": "1807064118366490624",
+        "location": "Lumon",
+        "name": "SLK15",
+        "pinned_tweet_id": "1930878860394139733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874851443267739648/yOHkuEyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 298,
+          "like_count": 13501,
+          "listed_count": 3,
+          "media_count": 1111,
+          "tweet_count": 6211
+        },
+        "username": "SLKVinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T13:30:13.000Z",
+        "description": "Clear, focused insights on iOS and iPadOS. Tips, features, and updates—explained simply, without noise. Mostly complaining….",
+        "id": "1875535094120660992",
+        "name": "AppleKoded",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934901284353495040/sVWMdQ8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 99,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 386
+        },
+        "username": "AppleKoded",
+        "verified": false
+      }
+    ]
+  }
+}

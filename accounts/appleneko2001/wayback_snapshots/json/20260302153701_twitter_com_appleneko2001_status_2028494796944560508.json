@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888625495224512513"
+      ],
+      "media_source_tweet_id": [
+        "1888625672064741393"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2028494796944560508",
+    "created_at": "2026-03-02T15:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028494796944560508"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966742288",
+          "start": 3,
+          "username": "kamepan44231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P7Brmpa9FK",
+          "end": 52,
+          "expanded_url": "https://x.com/kamepan44231/status/1888625672064741393/photo/1",
+          "media_key": "3_1888625495224512513",
+          "start": 29,
+          "url": "https://t.co/P7Brmpa9FK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028494796944560508",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1150
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888625672064741393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamepan44231: #東方Project https://t.co/P7Brmpa9FK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2574,
+        "media_key": "3_1888625495224512513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjW-4ayacAE-xjN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888625495224512513"
+          ],
+          "media_source_tweet_id": [
+            "1888625672064741393"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2028494796944560508",
+        "created_at": "2026-03-02T15:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028494796944560508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966742288",
+              "start": 3,
+              "username": "kamepan44231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7Brmpa9FK",
+              "end": 52,
+              "expanded_url": "https://x.com/kamepan44231/status/1888625672064741393/photo/1",
+              "media_key": "3_1888625495224512513",
+              "start": 29,
+              "url": "https://t.co/P7Brmpa9FK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028494796944560508",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1150
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888625672064741393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamepan44231: #東方Project https://t.co/P7Brmpa9FK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888625495224512513"
+          ]
+        },
+        "author_id": "1966742288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1888625672064741393",
+        "created_at": "2025-02-09T16:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T17:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888625672064741393"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7Brmpa9FK",
+              "end": 34,
+              "expanded_url": "https://x.com/kamepan44231/status/1888625672064741393/photo/1",
+              "media_key": "3_1888625495224512513",
+              "start": 11,
+              "url": "https://t.co/P7Brmpa9FK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888625672064741393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 756,
+          "impression_count": 96805,
+          "like_count": 10426,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 1150
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project https://t.co/P7Brmpa9FK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 346,
+          "like_count": 95274,
+          "listed_count": 3,
+          "media_count": 1547,
+          "tweet_count": 15511
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-17T12:29:21.000Z",
+        "description": "絵を描いたりしています。-同人誌https://t.co/GR8LsfZW13 -Pixiv https://t.co/DDOvhMVTEh -Skeb https://t.co/M7cipVCIBs skeb停止中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 39,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125674",
+                "start": 16,
+                "url": "https://t.co/GR8LsfZW13"
+              },
+              {
+                "display_url": "pixiv.net/users/49675420",
+                "end": 70,
+                "expanded_url": "http://pixiv.net/users/49675420",
+                "start": 47,
+                "url": "https://t.co/DDOvhMVTEh"
+              },
+              {
+                "display_url": "skeb.jp/@kamepan44231",
+                "end": 100,
+                "expanded_url": "http://skeb.jp/@kamepan44231",
+                "start": 77,
+                "url": "https://t.co/M7cipVCIBs"
+              }
+            ]
+          }
+        },
+        "id": "1966742288",
+        "name": "かめぱすた🍝",
+        "pinned_tweet_id": "1951481974583075142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847285478632099840/13N-mR29_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91747,
+          "following_count": 239,
+          "like_count": 9532,
+          "listed_count": 527,
+          "media_count": 1777,
+          "tweet_count": 3208
+        },
+        "username": "kamepan44231",
+        "verified": false
+      }
+    ]
+  }
+}

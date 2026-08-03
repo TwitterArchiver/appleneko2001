@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2080277837853114719",
+    "created_at": "2026-07-23T14:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080298828545364042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080298828545364042",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080297696183947748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barutan8964 辛苦妳了…今天好好休息一下吧…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080297696183947748].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080297696183947748",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080297696183947748"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2080277837853114719",
+        "created_at": "2026-07-23T14:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080298828545364042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080298828545364042",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080297696183947748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 辛苦妳了…今天好好休息一下吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虚空中试着创造星空✨ | 已有恋人👫 | 平均计算机用户🖥️ | 讨厌炒作人士🚫 | 可能精神不稳⚠️ | OSS自由开发者/贡献者👩‍💻 | 前Material.Avalonia贡献者 | 母语中文📖 | I speak ENG/RUS📖 | 猫猫吃鱼板🍥 @androidInu2001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "androidInu2001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/dKxqwJUidE"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "name": "笨蛋夜星吃芒果",
+        "pinned_tweet_id": "2075884759373451598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 293,
+          "like_count": 116773,
+          "listed_count": 2,
+          "media_count": 1744,
+          "tweet_count": 18334
+        },
+        "url": "https://t.co/dKxqwJUidE",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "讨厌炒作狗和meme bot 王烟洛连坐斯密马赛🙂‍↕️",
+        "id": "1565691463685795840",
+        "name": "巴尔坦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 325,
+          "like_count": 20648,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3669
+        },
+        "url": "",
+        "username": "barutan8964",
+        "verified": true
+      }
+    ]
+  }
+}

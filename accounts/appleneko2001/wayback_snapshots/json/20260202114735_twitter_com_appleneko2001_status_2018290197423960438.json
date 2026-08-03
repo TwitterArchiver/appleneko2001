@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018244332101488640"
+      ],
+      "media_source_tweet_id": [
+        "2018244340871741496"
+      ]
+    },
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2018290197423960438",
+    "created_at": "2026-02-02T11:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018290197423960438"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "ツインテールの日"
+        },
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "777454575573884928",
+          "start": 3,
+          "username": "paruno_marron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VW4lBHnN2e",
+          "end": 58,
+          "expanded_url": "https://x.com/paruno_marron/status/2018244340871741496/photo/1",
+          "media_key": "3_2018244332101488640",
+          "start": 35,
+          "url": "https://t.co/VW4lBHnN2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018290197423960438",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018244340871741496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paruno_marron: #ツインテールの日\n#初音ミク https://t.co/VW4lBHnN2e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018244332101488640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAI-huTa0AACCmA.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018244332101488640"
+          ],
+          "media_source_tweet_id": [
+            "2018244340871741496"
+          ]
+        },
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2018290197423960438",
+        "created_at": "2026-02-02T11:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018290197423960438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "ツインテールの日"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "777454575573884928",
+              "start": 3,
+              "username": "paruno_marron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VW4lBHnN2e",
+              "end": 58,
+              "expanded_url": "https://x.com/paruno_marron/status/2018244340871741496/photo/1",
+              "media_key": "3_2018244332101488640",
+              "start": 35,
+              "url": "https://t.co/VW4lBHnN2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018290197423960438",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018244340871741496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paruno_marron: #ツインテールの日\n#初音ミク https://t.co/VW4lBHnN2e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018244332101488640"
+          ]
+        },
+        "author_id": "777454575573884928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2018244340871741496",
+        "created_at": "2026-02-02T08:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018244340871741496"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "ツインテールの日"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VW4lBHnN2e",
+              "end": 39,
+              "expanded_url": "https://x.com/paruno_marron/status/2018244340871741496/photo/1",
+              "media_key": "3_2018244332101488640",
+              "start": 16,
+              "url": "https://t.co/VW4lBHnN2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018244340871741496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 9588,
+          "like_count": 686,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "#ツインテールの日\n#初音ミク https://t.co/VW4lBHnN2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 324,
+          "like_count": 86730,
+          "listed_count": 2,
+          "media_count": 1466,
+          "tweet_count": 14259
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-18T10:29:50.000Z",
+        "description": "絵を描くことが好きです。AIへのアップロード、無断転載、加工、自作発言、トレス禁止です。 https://t.co/wQCKxnj0MK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10236280",
+                "end": 68,
+                "expanded_url": "https://www.pixiv.net/users/10236280",
+                "start": 45,
+                "url": "https://t.co/wQCKxnj0MK"
+              }
+            ]
+          }
+        },
+        "id": "777454575573884928",
+        "location": "関西",
+        "name": "ぱる野",
+        "pinned_tweet_id": "2013915289080238417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969666701764804610/jD0Op3dc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60360,
+          "following_count": 437,
+          "like_count": 18598,
+          "listed_count": 645,
+          "media_count": 496,
+          "tweet_count": 17445
+        },
+        "username": "paruno_marron",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2002197264895475886",
+    "created_at": "2025-12-21T18:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T19:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002815479619166629"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "fail2ban",
+          "probability": 0.6878,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592695259502370817",
+          "start": 0,
+          "username": "T3chFalcon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002815479619166629",
+    "in_reply_to_user_id": "1592695259502370817",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002197264895475886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T3chFalcon Will fail2ban still works without those logs?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 418,
+        "media_key": "3_2002161174964580352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ka-xDXsAABX0u.png",
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2002197264895475886",
+        "created_at": "2025-12-21T18:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T19:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002815479619166629"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "fail2ban",
+              "probability": 0.6878,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592695259502370817",
+              "start": 0,
+              "username": "T3chFalcon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002815479619166629",
+        "in_reply_to_user_id": "1592695259502370817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002197264895475886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T3chFalcon Will fail2ban still works without those logs?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002161174964580352"
+          ]
+        },
+        "author_id": "1592695259502370817",
+        "conversation_id": "2002197264895475886",
+        "created_at": "2025-12-20T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002197264895475886"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "SSH",
+              "probability": 0.755,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PROqnbFwCm",
+              "end": 299,
+              "expanded_url": "https://x.com/T3chFalcon/status/2002197264895475886/photo/1",
+              "media_key": "3_2002161174964580352",
+              "start": 276,
+              "url": "https://t.co/PROqnbFwCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002197264895475886",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Did You Know?\n\nSSH sessions don’t disappear when you disconnect.\n\nPath:\n /var/log/wtmp (History)\n /var/log/btmp (Failed Attempts)\n /var/log/lastlog  (Most Recent)\n\nForensic Investigators can see:\nSuccessful logins\nFailed brute-force attempts\nSource IPs\nSession duration\nWhich account was used.\n\nYou disconnected. Linux kept the visitor log.\n\n💀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1721,
+          "impression_count": 95248,
+          "like_count": 2526,
+          "quote_count": 6,
+          "reply_count": 39,
+          "retweet_count": 284
+        },
+        "reply_settings": "everyone",
+        "text": "Did You Know?\n\nSSH sessions don’t disappear when you disconnect.\n\nPath:\n /var/log/wtmp (History)\n /var/log/btmp (Failed Attempts)\n /var/log/lastlog  (Most Recent)\n\nForensic Investigators can see:\nSuccessful logins\nFailed brute-force attempts\nSource IPs\nSession duration\nWhich https://t.co/PROqnbFwCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "walking in the dark, watching the deep of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通🕊bsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 271,
+          "like_count": 66450,
+          "listed_count": 2,
+          "media_count": 1316,
+          "tweet_count": 12444
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T01:45:34.000Z",
+        "description": "Offensive Security Engineer",
+        "id": "1592695259502370817",
+        "location": "Navigating Digital Labyrinth",
+        "name": "IT Guy",
+        "pinned_tweet_id": "2001215806940831814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909168815113400322/WPHw_vc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21415,
+          "following_count": 557,
+          "like_count": 14399,
+          "listed_count": 76,
+          "media_count": 308,
+          "tweet_count": 4089
+        },
+        "username": "T3chFalcon",
+        "verified": true
+      }
+    ]
+  }
+}

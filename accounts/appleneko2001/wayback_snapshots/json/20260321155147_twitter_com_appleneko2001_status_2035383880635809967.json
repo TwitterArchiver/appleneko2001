@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2034981936226292165",
+    "created_at": "2026-03-21T15:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035383880635809967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Yujiudu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035383880635809967",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034981936226292165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yujiudu nvidia拉了（\n感觉 哪个都不行…（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2034981927695130628",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD21SAyboAQjVuX.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2034981936226292165",
+        "created_at": "2026-03-21T15:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035383880635809967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035383880635809967",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034981936226292165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujiudu nvidia拉了（\n感觉 哪个都不行…（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034981927695130628"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2034981936226292165",
+        "created_at": "2026-03-20T13:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034981936226292165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgEREdgQO6",
+              "end": 23,
+              "expanded_url": "https://x.com/Yujiudu/status/2034981936226292165/photo/1",
+              "media_key": "3_2034981927695130628",
+              "start": 0,
+              "url": "https://t.co/pgEREdgQO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034981936226292165",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 274,
+          "impression_count": 440300,
+          "like_count": 1449,
+          "quote_count": 10,
+          "reply_count": 144,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pgEREdgQO6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×虚伪×错字怪×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想×孔主席公认废物=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/dCd4v2VJS4"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter × 互联网",
+        "name": "迷失的笨蛋",
+        "pinned_tweet_id": "2031397929580376199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 362,
+          "like_count": 99532,
+          "listed_count": 3,
+          "media_count": 1574,
+          "tweet_count": 16074
+        },
+        "url": "https://t.co/dCd4v2VJS4",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasEtB8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 71,
+                "url": "https://t.co/vWxMasEtB8"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4142,
+          "following_count": 1943,
+          "like_count": 42252,
+          "listed_count": 6,
+          "media_count": 1143,
+          "tweet_count": 7950
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2021956361723293760",
+    "created_at": "2026-02-13T02:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022140391638937808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV"
+        },
+        {
+          "end": 19,
+          "id": "1515290827454439426",
+          "start": 11,
+          "username": "FuncSir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022140391638937808",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022139703995380033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV @FuncSir 嗯……咱再另外研究一下吧……感谢建议的说……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2021956361723293760",
+        "created_at": "2026-02-13T02:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022140391638937808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV"
+            },
+            {
+              "end": 19,
+              "id": "1515290827454439426",
+              "start": 11,
+              "username": "FuncSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022140391638937808",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022139703995380033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV @FuncSir 嗯……咱再另外研究一下吧……感谢建议的说……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "conversation_id": "2021956361723293760",
+        "created_at": "2026-02-13T02:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022139703995380033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224020250733268995",
+              "start": 0,
+              "username": "appleneko2001"
+            },
+            {
+              "end": 23,
+              "id": "1515290827454439426",
+              "start": 15,
+              "username": "FuncSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022139703995380033",
+        "in_reply_to_user_id": "1224020250733268995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022137664452088020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleneko2001 @FuncSir 在声明式部署流行之前，appleneko所说的那种需求更像是自定义/模板installation iso （和安装媒介一同出现的一个配置文件来自动化安装），ubuntu和很多其它发行版都有类似的功能\n另一个思路就是直接手搓安装媒介，不介意debian系的话可以试试从debootstrap开始研究？\n自定义的lfs iso也在其列，应该"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "是一個不會說話的笨蛋…如果我說錯了什麼或是讓你/妳誤解了請大膽說出來喔…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 325,
+          "like_count": 88968,
+          "listed_count": 2,
+          "media_count": 1485,
+          "tweet_count": 14510
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "抱抱鱼 | 计算机用户| 虚弱的无定形类人智能体 | HFAutism,部分精神和心理疾病可能会影响其发言内容；遭遇异常状态请小心处理。",
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "Cynun VIIV",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1151,
+          "like_count": 29804,
+          "listed_count": 7,
+          "media_count": 143,
+          "tweet_count": 4915
+        },
+        "username": "CynunVIIV",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T11:28:13.000Z",
+        "description": "println!(\"Hello!\");",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vioxt.eu.org",
+                "end": 23,
+                "expanded_url": "http://vioxt.eu.org",
+                "start": 0,
+                "url": "https://t.co/DGPCc9sVCE"
+              }
+            ]
+          }
+        },
+        "id": "1515290827454439426",
+        "location": "Earth",
+        "name": "FunctionSir",
+        "pinned_tweet_id": "1756343396824658173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515291015145398273/Ip8NFdrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 2148,
+          "like_count": 3619,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/DGPCc9sVCE",
+        "username": "FuncSir",
+        "verified": false
+      }
+    ]
+  }
+}

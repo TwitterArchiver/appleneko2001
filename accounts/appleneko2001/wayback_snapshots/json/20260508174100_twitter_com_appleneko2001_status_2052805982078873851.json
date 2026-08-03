@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2052803296612819083",
+    "created_at": "2026-05-08T17:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052805982078873851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1423565441071390723",
+          "start": 0,
+          "username": "ReimuNotMoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052805982078873851",
+    "in_reply_to_user_id": "1423565441071390723",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052803296612819083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReimuNotMoe I would want to use zed editor instead but its still pretty raw and not ready for my development scenario (zig debugging with llvm dbg)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 149,
+        "media_key": "3_2052803134846873600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0Fky5bMAA3JEd.png",
+        "width": 522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2052803296612819083",
+        "created_at": "2026-05-08T17:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052805982078873851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1423565441071390723",
+              "start": 0,
+              "username": "ReimuNotMoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052805982078873851",
+        "in_reply_to_user_id": "1423565441071390723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052803296612819083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReimuNotMoe I would want to use zed editor instead but its still pretty raw and not ready for my development scenario (zig debugging with llvm dbg)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052803134846873600"
+          ]
+        },
+        "author_id": "1423565441071390723",
+        "conversation_id": "2052803296612819083",
+        "created_at": "2026-05-08T17:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052803296612819083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khvRj6vEdD",
+              "end": 67,
+              "expanded_url": "https://x.com/ReimuNotMoe/status/2052803296612819083/photo/1",
+              "media_key": "3_2052803134846873600",
+              "start": 44,
+              "url": "https://t.co/khvRj6vEdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052803296612819083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "CLion really is getting more and more buggy https://t.co/khvRj6vEdD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "美丽而破碎的人偶，但有他在身边陪我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "巨大的牢笼森林",
+        "name": "期待着的笨蛋",
+        "pinned_tweet_id": "2046419411419222297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 358,
+          "like_count": 103869,
+          "listed_count": 3,
+          "media_count": 1629,
+          "tweet_count": 16727
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T08:43:51.000Z",
+        "description": "CTO of @SudoMaker\nLinux/BSD user since '08/'22\nFree software & privacy enthusiast\n\nCreator of the #Notkia, #RetroWave, and #ResonanceJS.\n\nI use C++ & MIPS btw.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 98,
+                "tag": "Notkia"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RetroWave"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "tag": "ResonanceJS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "SudoMaker"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "su.mk/store",
+                "end": 23,
+                "expanded_url": "https://su.mk/store",
+                "start": 0,
+                "url": "https://t.co/E7VENGmCJT"
+              }
+            ]
+          }
+        },
+        "id": "1423565441071390723",
+        "location": "-1 375e b 70b45 1a1a4b",
+        "name": "Reimu NotMoe @ 🦋 | 🖥️🛠️⚙️☕️🏙️🖖🖤🩶🤍💜",
+        "pinned_tweet_id": "1787146317594321241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916125301643567104/k8t3zmvA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 458,
+          "like_count": 13846,
+          "listed_count": 32,
+          "media_count": 2314,
+          "tweet_count": 9041
+        },
+        "url": "https://t.co/E7VENGmCJT",
+        "username": "ReimuNotMoe",
+        "verified": false
+      }
+    ]
+  }
+}

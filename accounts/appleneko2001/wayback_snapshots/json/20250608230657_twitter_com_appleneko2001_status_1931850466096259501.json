@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "1931555791443808554",
+    "created_at": "2025-06-08T23:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T00:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931850466096259501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "69778259",
+          "start": 0,
+          "username": "_____cv_e__"
+        },
+        {
+          "end": 23,
+          "id": "94082134",
+          "start": 13,
+          "username": "davyzhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931850466096259501",
+    "in_reply_to_user_id": "69778259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931559629471060033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_____cv_e__ @davyzhang 所以說這種事情 全部讓給AI還是太難了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "1931555791443808554",
+        "created_at": "2025-06-08T23:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T00:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931850466096259501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "69778259",
+              "start": 0,
+              "username": "_____cv_e__"
+            },
+            {
+              "end": 23,
+              "id": "94082134",
+              "start": 13,
+              "username": "davyzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931850466096259501",
+        "in_reply_to_user_id": "69778259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931559629471060033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_____cv_e__ @davyzhang 所以說這種事情 全部讓給AI還是太難了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69778259",
+        "conversation_id": "1931555791443808554",
+        "created_at": "2025-06-08T03:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T04:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931559629471060033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94082134",
+              "start": 0,
+              "username": "davyzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931559629471060033",
+        "in_reply_to_user_id": "94082134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931555791443808554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@davyzhang 看一遍vibe就没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "please do not follow this account, its reserved for trending only! (or follow, whatever:P\n\nGo follow me at bsky instead\n\n🥰@amecandy_x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "amecandy_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidP9FO"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "大笨蛋不會溝通 🕊bsky",
+        "pinned_tweet_id": "1928854532613644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 257,
+          "like_count": 64539,
+          "listed_count": 2,
+          "media_count": 1291,
+          "tweet_count": 12176
+        },
+        "url": "https://t.co/vZzDidP9FO",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-29T03:35:29.000Z",
+        "description": "Arcane Implant",
+        "id": "69778259",
+        "name": "A|I",
+        "pinned_tweet_id": "1447370764567465984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1123567311258939392/2CcWuUDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 906,
+          "like_count": 38141,
+          "listed_count": 15,
+          "media_count": 2149,
+          "tweet_count": 23366
+        },
+        "username": "_____cv_e__",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-02T12:46:57.000Z",
+        "description": "Game🎮 Developer/Player\nMaster of none, that is my strength.\nExpert of failure, that is my life.\n为安全锁推|会通过|会回fo|蛋头会被b掉",
+        "id": "94082134",
+        "name": "大胃·张 💪 努力减肥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551056437509365760/V5-EVRfa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 3210,
+          "like_count": 57677,
+          "listed_count": 4,
+          "media_count": 968,
+          "tweet_count": 17238
+        },
+        "username": "davyzhang",
+        "verified": false
+      }
+    ]
+  }
+}

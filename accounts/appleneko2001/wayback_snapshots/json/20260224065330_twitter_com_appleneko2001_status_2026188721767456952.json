@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2026183842000970200",
+    "created_at": "2026-02-24T06:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026188721767456952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1297181001521590273",
+          "start": 0,
+          "username": "julystratus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026188721767456952",
+    "in_reply_to_user_id": "1297181001521590273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026183842000970200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@julystratus 不准这么说自己🥹\n什么鬼呀 第一眼我还看错了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2026183842000970200].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2026183842000970200",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2026183842000970200"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2026183842000970200",
+        "created_at": "2026-02-24T06:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026188721767456952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1297181001521590273",
+              "start": 0,
+              "username": "julystratus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026188721767456952",
+        "in_reply_to_user_id": "1297181001521590273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026183842000970200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@julystratus 不准这么说自己🥹\n什么鬼呀 第一眼我还看错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 328,
+          "like_count": 92383,
+          "listed_count": 2,
+          "media_count": 1506,
+          "tweet_count": 15000
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-22T14:37:23.000Z",
+        "description": "😼",
+        "id": "1297181001521590273",
+        "name": "🍋贅沢は無能の結果だ。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806680265840050176/U5eQVTdm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 322,
+          "like_count": 85358,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3151
+        },
+        "username": "julystratus",
+        "verified": false
+      }
+    ]
+  }
+}

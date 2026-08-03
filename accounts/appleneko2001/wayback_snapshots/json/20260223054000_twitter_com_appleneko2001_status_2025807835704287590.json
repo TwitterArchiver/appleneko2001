@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "conversation_id": "2025806217248124986",
+    "created_at": "2026-02-23T05:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025807835704287590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973792014455152640",
+          "start": 0,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025807835704287590",
+    "in_reply_to_user_id": "1973792014455152640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025806217248124986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTypezhi 抱抱……\n那个 妳开一个新的帐号吧 这个 给它停掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "conversation_id": "2025806217248124986",
+        "created_at": "2026-02-23T05:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025807835704287590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973792014455152640",
+              "start": 0,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025807835704287590",
+        "in_reply_to_user_id": "1973792014455152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025806217248124986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTypezhi 抱抱……\n那个 妳开一个新的帐号吧 这个 给它停掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973792014455152640",
+        "conversation_id": "2025806217248124986",
+        "created_at": "2026-02-23T05:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025806217248124986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TTypezhi/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/TTypezhi/status/2025801041497980934",
+              "start": 21,
+              "url": "https://t.co/sbnO5ijLxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025806217248124986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025801041497980934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的术钱啊...\n我才攒这么点就没了.. https://t.co/sbnO5ijLxS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "情感无底洞×笨蛋×降智×又菜又爱玩×普通电脑用户×乱写代码×胡思乱想=？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/appleneko2001",
+                "end": 23,
+                "expanded_url": "https://github.com/appleneko2001",
+                "start": 0,
+                "url": "https://t.co/vZzDidPHvm"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "location": "Twitter",
+        "name": "迷失的笨蛋🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882446451411742720/QlYHdhwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 327,
+          "like_count": 91811,
+          "listed_count": 2,
+          "media_count": 1502,
+          "tweet_count": 14916
+        },
+        "url": "https://t.co/vZzDidPHvm",
+        "username": "appleneko2001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在16喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxnAZQ"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 920,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/SDCzGxnAZQ",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}
