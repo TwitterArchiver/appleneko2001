@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1224020250733268995",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      }
+    ],
+    "conversation_id": "2086587559199768821",
+    "created_at": "2026-08-09T22:56:55.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T23:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086587559199768821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChaseYork8964/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/ChaseYork8964/status/2086524515602022686",
+          "start": 40,
+          "url": "https://t.co/00KAUkGPRi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086587559199768821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086524515602022686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想到現在的ForzaHorizon6痛車文化被檢舉風波 嗯…異曲同工之妙……？ https://t.co/00KAUkGPRi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224020250733268995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          }
+        ],
+        "conversation_id": "2086587559199768821",
+        "created_at": "2026-08-09T22:56:55.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086587559199768821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChaseYork8964/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/ChaseYork8964/status/2086524515602022686",
+              "start": 40,
+              "url": "https://t.co/00KAUkGPRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086587559199768821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086524515602022686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到現在的ForzaHorizon6痛車文化被檢舉風波 嗯…異曲同工之妙……？ https://t.co/00KAUkGPRi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063012091901145088",
+        "conversation_id": "2086489606011445509",
+        "created_at": "2026-08-09T18:46:24.000Z",
+        "display_text_range": [
+          17,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086524515602022686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "Realhoshinofuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086524515602022686",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086493248223363563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realhoshinofuji 我支持反虐待动物，但我反对动保立法，首先动保只保护宠物而宠物定义太宽泛，而且中国的宠物体系极其不完善，没有救助站之类的，流浪宠物野狗野猫也很多，如果不让人私自干预只会对正常人造成困扰，为了保护动物而损害人的利益是本末倒置"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-02-02T17:22:36.000Z",
+        "description": "在虛空中試著創造星空✨ | 已有戀人👩‍❤️‍👨 | 平均計算機用戶🖥️ | 重度網路依賴🌐 | 討厭炒作人士🚫 | 可能精神不穩⚠️ | OSS自由開發者/貢獻者👩‍💻 | 前Material.Avalonia貢獻者⚙️ | 母語中文📖 | I speak ENG/RUS📖 | 貓貓吃魚板🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleneko.moe",
+                "end": 23,
+                "expanded_url": "https://appleneko.moe/",
+                "start": 0,
+                "url": "https://t.co/5CNGBqFNCw"
+              }
+            ]
+          }
+        },
+        "id": "1224020250733268995",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086587559199768821",
+        "name": "笨蛋夜星吃芒果",
+        "pinned_tweet_id": "2081264628445979049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224020250733268995/1780414624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082828677990191104/YOW-0eqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 294,
+          "like_count": 118939,
+          "listed_count": 3,
+          "media_count": 1784,
+          "tweet_count": 18634
+        },
+        "url": "https://t.co/5CNGBqFNCw",
+        "username": "appleneko2001",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-05T21:43:24.000Z",
+        "description": "一个真正爱国的人。A person who truly loves their country.",
+        "id": "2063012091901145088",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2086553827877282272",
+        "name": "Chase York",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063012091901145088/1781061711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063083371316822016/g0IVBmwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 86,
+          "like_count": 3001,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 805
+        },
+        "url": "",
+        "username": "ChaseYork8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
